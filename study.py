@@ -1,9 +1,5 @@
 """
-pilot_study.py — Ambiguous Hate Speech Positionality Annotation Study
-Researcher: Sheza Munir
-
-to test: 
-https://value-driven-data-annotation-v2.streamlit.app/?PROLIFIC_PID=test123&STUDY_ID=study456&SESSION_ID=session789
+study.py — Ambiguous Hate Speech Positionality Annotation Study
 
 ═══════════════════════════════════════════════════════════════════════════════
 THEORETICAL GROUNDING (not shown to participants)
@@ -30,7 +26,7 @@ ELICITATION DESIGN
   • Hermeneutic circle: Smythe (2008) — later prompts reference earlier answers.
 
 ANNOTATION DESIGN
-  • 10 posts per scenario from the ambiguous hate speech dataset (Munir 2024).
+  • 10 posts per scenario from the constructed ambiguous hate speech dataset.
     Sampled across 4 domains: Immigration/Nativism, Religion, Gender/Sexuality, Intersectional.
   • All items satisfy C1–C4 of the ambiguity codebook (surface plausible deniability,
     experiential divergence, discourse embeddedness, no explicit derogation).
@@ -58,12 +54,6 @@ import re
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 
-# try:
-#     HF_TOKEN = st.secrets["HF_TOKEN"]
-# except KeyError:
-#     HF_TOKEN = os.environ.get("HF_TOKEN", "INSERT_HF_TOKEN_HERE")
-
-# client = InferenceClient(api_key=HF_TOKEN)
 
 try:
     GROQ_TOKEN = st.secrets["GROQ_TOKEN"]
@@ -72,7 +62,6 @@ except KeyError:
 
 client = Groq(api_key=GROQ_TOKEN)
 
-# SHEET_URL = "https://docs.google.com/spreadsheets/d/1xAvNGAvny-1uCS2s2Iw4ij5OG1gF1LjKAdbLlcDnAkM/edit"
 GCS_BUCKET = st.secrets["gcs_config"]["bucket_name"]
 
 @st.cache_resource
@@ -86,7 +75,7 @@ def get_gcs_client():
 MIN_RATIONALE_WORDS = 50
 
 # ─── Dataset ──────────────────────────────────────────────────────────────────
-# Source: Munir (2024) Ambiguous Hate Speech Dataset.
+# Source: Ambiguous Hate Speech Dataset.
 # Domain: IMM = Immigration/Nativism, REL = Religion, GEN = Gender/Sexuality, INT = Intersectional.
 # All items satisfy C1–C4 of the ambiguity codebook (surface plausible deniability,
 # experiential divergence, discourse embeddedness, no explicit derogation).
@@ -239,16 +228,12 @@ def init_participant(prolific_pid=None, study_id=None, session_id=None) -> dict:
         "prolific_study_id": study_id,
         "prolific_session_id": session_id,
         "created_at": datetime.utcnow().isoformat(),
-        # "resumed_at": None,
-        # "paused_at": None,
-        # "scenario_id": random.choice(SCENARIOS)["id"], # uncomment this for main study
         "scenario_id": "C",
         "workflow_stage": "disclosure",
         "disclosure": {},
         "elicitation": [],
         "micronarrative": "",
         "annotations": [],
-        # "pause_code": None,
         "consented_at": datetime.utcnow().isoformat(),
         "reflexivity_response":     "",
         "reflexivity_cards_shown":  [],
@@ -261,38 +246,8 @@ def get_datapoints(sid: str) -> list:
     ids = set(get_scenario(sid)["datapoint_ids"])
     return [d for d in DATAPOINTS if d["id"] in ids]
 
-# ─── LLM ──────────────────────────────────────────────────────────────────────
+# ─── LLM ────────────────────────────────────────────────────────────────────── 
 
-# def call_qwen(system_prompt: str, messages: list, max_tokens: int = 200) -> str:
-#     if HF_TOKEN == "INSERT_HF_TOKEN_HERE":
-#         return "[Set HF_TOKEN to enable the AI interviewer — see README.]"
-#     formatted_messages = [{"role": "system", "content": system_prompt}] + messages
-#     try:
-#         response = client.chat_completion(
-#             model="Qwen/Qwen2.5-7B-Instruct",
-#             messages=formatted_messages,
-#             max_tokens=max_tokens,
-#             temperature=0.3
-#         )
-#         return response.choices[0].message.content.strip()
-#     except Exception as e:
-#         return f"[Model temporarily unavailable: {e}. Please try again.]"
-
-# def call_qwen(system_prompt: str, messages: list, max_tokens: int = 200) -> str:
-#     if GROQ_TOKEN == "INSERT_GROQ_TOKEN_HERE":
-#         return "[Set GROQ_TOKEN to enable the AI interviewer — see README.]"
-#     formatted_messages = [{"role": "system", "content": system_prompt}] + messages
-#     try:
-#         response = client.chat.completions.create(
-#             model="qwen/qwen3-32b",
-#             messages=formatted_messages,
-#             max_tokens=max_tokens,
-#             temperature=0.3,
-#             reasoning_format="none"    
-#         )
-#         return response.choices[0].message.content.strip()
-#     except Exception as e:
-#         return f"[Model temporarily unavailable: {e}. Please try again.]"
 def call_qwen(system_prompt: str, messages: list, max_tokens: int = 200) -> str:
     if GROQ_TOKEN == "INSERT_GROQ_TOKEN_HERE":
         return "[Set GROQ_TOKEN to enable the AI interviewer — see README.]"
@@ -451,19 +406,6 @@ def elicitation_sys(scenario: dict, user_turns: int, last_user: str = "", elicit
     return p
 
 
-# SYNTHESIS_SYS = """\
-# Write a first-person narrative (minimum 120 words) that faithfully captures what this participant shared.
-
-# Rules:
-# - Use 'I' throughout.
-# - Preserve the participant's own specific words and phrases wherever possible — do not sanitise their voice.
-# - Do NOT add feelings, interpretations, or experiences they did not express.
-# - Cover at least three distinct dimensions of lived experience (e.g. cultural background, personal memory, \
-# emotional response, sense of identity or belonging, relationship to the community depicted).
-# - The narrative should read as a coherent, flowing piece of personal reflection — not a bullet list or summary.
-# - Friendly, natural, warm tone — not clinical or academic.
-# - Do not include a title or preamble. Output ONLY the narrative text.\
-# """
 
 SYNTHESIS_SYS = """\
 You are writing a first-person positionality narrative for an academic annotation study.
@@ -767,24 +709,7 @@ def main():
 
         # name = st.text_input("Enter your first name or a pseudonym:")
         st.markdown("---")
-        # st.markdown("**Returning? Paste your pause code to resume.**")
-        # resume_code = st.text_area("Pause code (optional):", height=80, key="resume_code_input")
-        # if st.button("Resume →"):
-        #     if not resume_code.strip():
-        #         st.warning("Please paste your pause code.")
-        #     else:
-        #         try:
-        #             import base64, json as _json
-        #             payload = _json.loads(base64.b64decode(resume_code.strip()).decode())
-        #             payload["resumed_at"] = datetime.utcnow().isoformat()
-        #             payload["paused_at"] = None
-        #             payload["pause_code"] = None
-        #             st.session_state.pdata = payload
-        #             st.rerun()
-        #         except Exception as e:
-        #             st.error(f"Could not read pause code: {e}. Please check and try again.")
 
-        # st.markdown("---")
 
         if st.button("Begin →", type="primary"):
             if not consent or not no_ai:
@@ -821,34 +746,6 @@ def main():
         st.caption(labels.get(stage, stage))
         # st.markdown("---")
 
-        # ── PAUSE FEATURE ────────────────────────────────────────────────────
-        # if stage not in ("complete",):
-        #     with st.expander("⏸ Save & pause"):
-        #         st.caption(
-        #             "Generate a code to save your progress. "
-        #             "Paste it when you return to pick up where you left off."
-        #         )
-        #         if st.button("Generate pause code"):
-        #             import base64, json as _json
-        #             payload = _json.dumps({
-        #                 # "name": data["name"],
-        #                 "participant_id": data["participant_id"],
-        #                 "scenario_id": data["scenario_id"],
-        #                 "workflow_stage": data["workflow_stage"],
-        #                 "disclosure": data["disclosure"],
-        #                 "elicitation": data["elicitation"],
-        #                 "micronarrative": data["micronarrative"],
-        #                 "annotations": data["annotations"],
-        #                 "created_at": data["created_at"],
-        #             })
-        #             code = base64.b64encode(payload.encode()).decode()
-        #             data["pause_code"] = code
-        #             data["paused_at"] = datetime.utcnow().isoformat()
-        #             st.session_state.pdata = data
-        #             st.code(code, language=None)
-        #             st.caption("Copy this code. It contains your full progress.")
-
-        # st.markdown("---")
         st.caption("Data is held in memory and saved securely at the end.")
 
     # ── STAGE 1: DISCLOSURE ───────────────────────────────────────────────────
@@ -953,21 +850,6 @@ def main():
         # Q&A replay shown above the narrative
         render_chat_replay(data["elicitation"])
 
-        # if not data.get("micronarrative"):
-        #     with st.spinner("Drafting your narrative…"):
-        #         fragments = "\n".join(
-        #             m["content"] for m in data["elicitation"] if m["role"] == "user"
-        #         )
-        #         result = call_qwen(
-        #             SYNTHESIS_SYS,
-        #             [{"role": "user", "content": fragments}],
-        #             max_tokens=400
-        #         )
-        #         # Fix #11: don't save error strings as the narrative
-        #         if result.startswith("["):
-        #             st.error("Couldn't reach the AI model. Please try regenerating in a moment.")
-        #             st.stop()
-        #         data["micronarrative"] = result
 
         if not data.get("micronarrative"):
             with st.spinner("Drafting your narrative…"):
@@ -1185,29 +1067,6 @@ def main():
             data["workflow_stage"] = "reflexivity"
             st.session_state.pdata = data
             st.rerun()
-            # with st.spinner("Saving your responses securely…"):
-            #     try:
-            #         save_complete_to_gcs(data)
-            #         data["workflow_stage"] = "complete"
-            #         st.session_state.pdata = data
-            #         st.rerun()
-            #     except Exception as e:
-            #         st.error(
-            #             "Failed to save your responses. Please leave this window open "
-            #             "and contact the researcher."
-            #             f"Error: {e}"
-            #         )
-            
-    # ── COMPLETE ──────────────────────────────────────────────────────────────
-    # elif stage == "complete":
-    #     st.balloons()
-    #     st.title("Thank you.")
-    #     st.markdown(
-    #         "Your annotations and narrative are saved. "
-    #         "The perspectives you bring — including your background and lived experience — "
-    #         "are what makes this kind of research meaningful."
-    #     )
-    #     st.caption("Data stored securely · You may close this window.")
 
     elif stage == "reflexivity":
         render_reflexivity_stage(
@@ -1252,5 +1111,3 @@ if __name__ == "__main__":
         control_main()
 
 
-# if __name__ == "__main__":
-#     main()
