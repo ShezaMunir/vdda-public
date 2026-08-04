@@ -1,10 +1,7 @@
 """
 reflexivity_stage.py
 ════════════════════
-Stage 5 — Positionality Reflection
 
-Place this file in the same directory as pilot_study.py.
-See the bottom of this file for the exact 5 changes needed in pilot_study.py.
 """
 
 import json
@@ -249,61 +246,3 @@ def render_reflexivity_stage(data: dict, GCS_BUCKET: str, get_gcs_client,
                     )
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-# CHANGES REQUIRED IN pilot_study.py  (5 edits)
-# ══════════════════════════════════════════════════════════════════════════════
-#
-# 1. ADD IMPORT — after the existing imports:
-#
-#        from reflexivity_stage import render_reflexivity_stage
-#
-#
-# 2. ADD FIELDS in init_participant() — in the returned dict:
-#
-#        "reflexivity_response":    "",
-#        "reflexivity_cards_shown": [],
-#
-#
-# 3. ADD FIELDS in save_complete_to_gcs() — in the `final` dict:
-#
-#        "reflexivity_response":    data.get("reflexivity_response", ""),
-#        "reflexivity_cards_shown": data.get("reflexivity_cards_shown", []),
-#
-#
-# 4. ADD LABEL in the sidebar — in the `labels` dict:
-#
-#        "reflexivity": "5 — Reflect",
-#
-#
-# 5. REPLACE the annotation completion `else:` block (around line 1071)
-#
-#    OLD:
-#        else:
-#            with st.spinner("Saving your responses securely…"):
-#                try:
-#                    save_complete_to_gcs(data)
-#                    data["workflow_stage"] = "complete"
-#                    st.session_state.pdata = data
-#                    st.rerun()
-#                except Exception as e:
-#                    st.error(
-#                        "Failed to save your responses. Please leave this window open "
-#                        "and contact the researcher."
-#                        f"Error: {e}"
-#                    )
-#
-#    NEW:
-#        else:
-#            data["workflow_stage"] = "reflexivity"
-#            st.session_state.pdata = data
-#            st.rerun()
-#
-#    AND add this block immediately BEFORE `elif stage == "complete":`:
-#
-#        elif stage == "reflexivity":
-#            render_reflexivity_stage(
-#                data, GCS_BUCKET, get_gcs_client,
-#                save_complete_to_gcs, render_word_counter, prog,
-#            )
-#
-# ══════════════════════════════════════════════════════════════════════════════
