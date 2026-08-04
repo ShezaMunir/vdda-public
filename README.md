@@ -1,6 +1,6 @@
 # AXLE — Axis-guided Lived Experience elicitation
 
-Code, data and analysis for *Activating the Annotator: Operationalising Lived Experience in Data Annotation*.
+Code and data for *Activating the Annotator: Operationalising Lived Experience in Data Annotation*.
 
 AXLE is a pre-annotation stage in which a scenario vignette anchors a short, axis-guided
 conversation that is synthesised into a first-person micro-narrative and returned to the
