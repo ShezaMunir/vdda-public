@@ -1,6 +1,5 @@
 """
 control_study.py -- Ambiguous Hate Speech Annotation Study (No-Elicitation Control Arm)
-Researcher: Sheza Munir
 
 CONTROL ARM DESIGN NOTES (not shown to participants):
   This is the baseline descriptive annotation condition.
@@ -36,7 +35,6 @@ except KeyError:
 
 client = InferenceClient(api_key=HF_TOKEN)
 
-# SHEET_URL = "https://docs.google.com/spreadsheets/d/1xAvNGAvny-1uCS2s2Iw4ij5OG1gF1LjKAdbLlcDnAkM/edit"
 GCS_BUCKET = st.secrets["gcs_config"]["bucket_name"]
 
 @st.cache_resource
@@ -50,7 +48,7 @@ def get_gcs_client():
 MIN_RATIONALE_WORDS = 50
 
 # ─── Dataset ──────────────────────────────────────────────────────────────────
-# Source: Munir (2024) Ambiguous Hate Speech Dataset.
+# Source: Ambiguous Hate Speech Dataset.
 # Domain: IMM = Immigration/Nativism, REL = Religion, GEN = Gender/Sexuality, INT = Intersectional.
 # All items satisfy C1-C4 of the ambiguity codebook (surface plausible deniability,
 # experiential divergence, discourse embeddedness, no explicit derogation).
@@ -660,22 +658,6 @@ def main():
 
         # name = st.text_input("Enter your first name or a pseudonym:")
         st.markdown("---")
-        # st.markdown("**Returning? Paste your pause code to resume.**")
-        # resume_code = st.text_area("Pause code (optional):", height=80, key="resume_code_input")
-        # if st.button("Resume →"):
-        #     if not resume_code.strip():
-        #         st.warning("Please paste your pause code.")
-        #     else:
-        #         try:
-        #             import base64, json as _json
-        #             payload = _json.loads(base64.b64decode(resume_code.strip()).decode())
-        #             payload["resumed_at"] = datetime.utcnow().isoformat()
-        #             payload["paused_at"] = None
-        #             payload["pause_code"] = None
-        #             st.session_state.pdata = payload
-        #             st.rerun()
-        #         except Exception as e:
-        #             st.error(f"Could not read pause code: {e}. Please check and try again.")
 
         # st.markdown("---")
 
@@ -712,32 +694,6 @@ def main():
         st.caption(labels.get(stage, stage))
         # st.markdown("---")
 
-        # ── PAUSE FEATURE ────────────────────────────────────────────────────
-        # if stage not in ("complete",):
-        #     with st.expander("⏸ Save & pause"):
-        #         st.caption(
-        #             "Generate a code to save your progress. "
-        #             "Paste it when you return to pick up where you left off."
-        #         )
-        #         if st.button("Generate pause code"):
-        #             import base64, json as _json
-        #             payload = _json.dumps({
-        #                 # "name": data["name"],
-        #                 "participant_id": data["participant_id"],
-        #                 "scenario_id": data["scenario_id"],
-        #                 "workflow_stage": data["workflow_stage"],
-        #                 "disclosure": data["disclosure"],
-        #                 "elicitation": data["elicitation"],
-        #                 "micronarrative": data["micronarrative"],
-        #                 "annotations": data["annotations"],
-        #                 "created_at": data["created_at"],
-        #             })
-        #             code = base64.b64encode(payload.encode()).decode()
-        #             data["pause_code"] = code
-        #             data["paused_at"] = datetime.utcnow().isoformat()
-        #             st.session_state.pdata = data
-        #             st.code(code, language=None)
-        #             st.caption("Copy this code. It contains your full progress.")
 
         # st.markdown("---")
         st.caption("Data is held in memory and saved securely at the end.")
