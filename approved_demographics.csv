@@ -1,0 +1,105 @@
+Participant id,Time taken,Fluent languages,Immigration,Age,Sex,Ethnicity simplified,Country of birth,Country of residence,Nationality,Language,Student status,Employment status,Submission approval rate,Religious affiliation,Cisgender and transgender,Sexual orientation,Gender identity non-binary only,group_label,scenario_id
+P065,2879.0,English,"No, I moved to the country I am now living in",28,Female,Black,Nigeria,Canada,Canada,English,No,Full-Time,100,,,,,LE-elicit,A
+P020,3305.0,English,"Yes, I was born in the country I am now living in",26,Male,White,United States,United States,United States,English,No,Other,100,,,,,nonLE-elicit,A
+P040,3578.0,English,"Yes, I was born in the country I am now living in",48,Female,White,Canada,Canada,Canada,English,No,Full-Time,100,,,,,nonLE-elicit,A
+P077,1893.0,English,"No, I moved to the country I am now living in",39,Male,Mixed,Trinidad and Tobago,United States,United States,English,No,Full-Time,100,,,,,nonLE-elicit,A
+P066,2574.0,"English, Urdu, Hindi, Gujarati","No, I moved to the country I am now living in",35,Female,Asian,India,Canada,India,Hindi,No,Part-Time,100,,,,,LE-elicit,A
+P082,2607.0,English,"Yes, I was born in the country I am now living in",29,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",100,,,,,nonLE-elicit,A
+P058,4418.0,"English, French, Arabic","No, I moved to the country I am now living in",27,Female,Other,Morocco,Canada,Canada,Arabic,No,Full-Time,100,Islam,,,,LE-elicit,B
+P063,1986.0,"English, Urdu, Hindi","No, I moved to the country I am now living in",27,Male,Other,Pakistan,Canada,Pakistan,Urdu,No,Unemployed (and job seeking),100,Islam,,,,LE-elicit,B
+P095,64244.0,English,"No, I moved to the country I am now living in",38,Female,Other,Iran,Canada,Canada,Farsi,No,Part-Time,100,,No,,,LE-elicit,C
+P042,2674.0,English,"No, I moved to the country I am now living in",31,Male,Black,Nigeria,Canada,Canada,English,No,Full-Time,98,,Yes,,,LE-elicit,C
+P016,4233.0,"English, Chinese","No, I moved to the country I am now living in",37,Female,Asian,China,Canada,DATA_EXPIRED,Chinese,No,Full-Time,100,,No,,,LE-elicit,C
+P062,2612.0,English,"Yes, I was born in the country I am now living in",63,Male,White,Canada,Canada,Canada,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",99,"Non Religious (e.g. Agnostic, Atheist, No Religion)",,,,nonLE-elicit,B
+P044,3593.0,English,"Yes, I was born in the country I am now living in",63,Male,White,Canada,Canada,Canada,English,No,Unemployed (and job seeking),100,"Christianity (e.g. Baptist, Church of England, Roman Catholic, Methodist, Jehovah Witness,  etc.)",,,,nonLE-elicit,B
+P094,3944.0,"Spanish, English","No, I moved to the country I am now living in",28,Female,Other,El Salvador,Canada,El Salvador,Spanish,Yes,Unemployed (and job seeking),100,,,,,LE-nonelicit,A
+P017,3006.0,"Chinese, English","Yes, I was born in the country I am now living in",24,Male,Asian,Canada,Canada,Canada,Chinese,No,Full-Time,99,,,,,LE-nonelicit,A
+P007,2322.0,"Croatian, English, Serbian","No, I moved to the country I am now living in",47,Male,White,Serbia,Canada,Canada,Serbian,No,Full-Time,100,,,,,LE-nonelicit,A
+P098,1639.0,English,"Yes, I was born in the country I am now living in",23,Female,White,Canada,Canada,Canada,English,Yes,Part-Time,100,,,,,nonLE-nonelicit,A
+P086,1904.0,English,"Yes, I was born in the country I am now living in",34,Female,White,Canada,Canada,Canada,English,No,Full-Time,100,"Non Religious (e.g. Agnostic, Atheist, No Religion)",,,,nonLE-nonelicit,B
+P075,2393.0,"English, French","Yes, I was born in the country I am now living in",36,Male,White,Canada,Canada,Canada,French,No,Full-Time,100,"Christianity (e.g. Baptist, Church of England, Roman Catholic, Methodist, Jehovah Witness,  etc.)",,,,nonLE-nonelicit,B
+P076,1623.0,"English, Bengali","No, I moved to the country I am now living in",31,Male,Asian,Bangladesh,Canada,Canada,Bengali,Yes,Full-Time,100,,,heterosexual,,LE-nonelicit,C
+P005,2603.0,English,"Yes, I was born in the country I am now living in",61,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED,99,,,heterosexual,,nonLE-nonelicit,C
+P033,1705.0,English,"Yes, I was born in the country I am now living in",25,Female,White,United States,United States,United States,English,No,Full-Time,99,,,,,nonLE-nonelicit,A
+P013,3101.0,English,"Yes, I was born in the country I am now living in",44,Male,White,United States,United States,United States,English,No,Full-Time,99,,,,,nonLE-nonelicit,A
+P071,3625.0,English,"Yes, I was born in the country I am now living in",24,Male,Black,Canada,Canada,Canada,English,No,Full-Time,100,,,,,nonLE-nonelicit,A
+P084,2859.0,"English, Telugu","No, I moved to the country I am now living in",49,Female,DATA_EXPIRED,India,United States,United States,English,No,Unemployed (and job seeking),100,,,,,nonLE-nonelicit,A
+P006,1295.0,"Spanish, English","Yes, I was born in the country I am now living in",30,Female,Mixed,United States,United States,United States,Spanish,No,Unemployed (and job seeking),100,,,,,LE-nonelicit,A
+P097,2422.0,English,"Yes, I was born in the country I am now living in",27,Male,Black,United States,United States,United States,English,No,Full-Time,100,,,,,nonLE-nonelicit,A
+P022,1851.0,"English, Bengali","No, I moved to the country I am now living in",56,Male,Asian,Bangladesh,Canada,Canada,English,DATA_EXPIRED,DATA_EXPIRED,99,,,,,LE-nonelicit,A
+P038,2313.0,"Chinese, English","No, I moved to the country I am now living in",43,Female,Asian,China,Canada,China,Chinese,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",100,,,,,LE-nonelicit,A
+P069,2100.0,"English, Chinese","No, I moved to the country I am now living in",37,Male,Asian,China,Canada,Canada,Chinese,No,Full-Time,100,,,,,LE-nonelicit,A
+P003,2712.0,"Bengali, English, Hindi, Urdu","Yes, I was born in the country I am now living in",28,Female,Other,Canada,Canada,Canada,Bengali,No,Full-Time,100,,,,,LE-nonelicit,A
+P093,2986.0,English,"No, I moved to the country I am now living in",33,Female,Prefer not to say,Nigeria,Canada,Canada,English,No,Full-Time,100,,,,,LE-elicit,A
+P061,3092.0,English,"Yes, I was born in the country I am now living in",36,Male,Black,Canada,Canada,South Africa,English,No,Full-Time,100,,,,,LE-elicit,A
+P085,2267.0,"English, French","Yes, I was born in the country I am now living in",22,Male,White,Canada,Canada,Canada,English,Yes,Part-Time,100,,,,,nonLE-elicit,A
+P052,5324.0,"English, Hindi, Gujarati","No, I moved to the country I am now living in",37,Female,Asian,India,Canada,Canada,Gujarati,No,Unemployed (and job seeking),100,,,,,nonLE-elicit,A
+P088,4708.0,English,"No, I moved to the country I am now living in",30,Male,Black,Nigeria,Canada,Nigeria,English,No,Part-Time,100,,,,,LE-elicit,A
+P046,4291.0,"English, Swahili, Other","No, I moved to the country I am now living in",35,Male,Black,Kenya,Canada,DATA_EXPIRED,Other,No,Full-Time,100,,,,,LE-elicit,A
+P036,2300.0,English,"Yes, I was born in the country I am now living in",28,Male,White,United States,United States,United States,English,No,Part-Time,100,,,,,nonLE-elicit,A
+P015,2325.0,English,"Yes, I was born in the country I am now living in",28,Female,Asian,Canada,Canada,Canada,English,No,Full-Time,100,,,,,LE-elicit,A
+P041,1970.0,"English, Chinese","No, I moved to the country I am now living in",41,Male,Asian,China,United States,United States,Chinese,No,Unemployed (and job seeking),100,,,,,LE-elicit,A
+P002,2063.0,"Chinese, English","Yes, I was born in the country I am now living in",32,Female,Mixed,Canada,Canada,Canada,English,Yes,Full-Time,100,,,,,LE-elicit,A
+P011,2754.0,English,"Yes, I was born in the country I am now living in",24,Female,White,Canada,Canada,Canada,English,No,Unemployed (and job seeking),100,,,,,nonLE-elicit,A
+P043,2523.0,English,"No, I moved to the country I am now living in",40,Female,White,Moldova,Canada,Ukraine,Russian,No,Full-Time,100,,,,,LE-elicit,A
+P008,6649.0,English,"Yes, I was born in the country I am now living in",59,Male,White,United States,United States,United States,English,No,Full-Time,100,,,,,nonLE-elicit,A
+P027,3499.0,English,"No, I moved to the country I am now living in",31,Female,Black,Nigeria,Canada,Canada,English,No,Full-Time,100,,,,,LE-elicit,A
+P047,3613.0,"Urdu, English","No, I moved to the country I am now living in",21,Male,Asian,Pakistan,Canada,Canada,English,Yes,Full-Time,100,,,,,LE-elicit,A
+P014,3146.0,English,"Yes, I was born in the country I am now living in",52,Male,Other,United States,United States,United States,English,No,Full-Time,100,,,,,LE-elicit,A
+P034,1502.0,English,"Yes, I was born in the country I am now living in",55,Male,White,United States,United States,United States,English,No,Other,100,,,,,nonLE-elicit,A
+P079,4632.0,English,"No, I moved to the country I am now living in",42,Female,White,Iraq,United States,United States,Arabic,No,Other,100,,,,,LE-elicit,A
+P057,4447.0,"English, Farsi, French, Dari","No, I moved to the country I am now living in",34,Male,White,Iran,Canada,Iran,Farsi,No,Part-Time,100,,,,,LE-elicit,A
+P053,2656.0,English,"Yes, I was born in the country I am now living in",54,Female,White,Canada,Canada,Canada,English,No,Unemployed (and job seeking),100,,,,,nonLE-elicit,A
+P081,4786.0,English,"No, I moved to the country I am now living in",30,Male,Black,Nigeria,Canada,Nigeria,English,No,Full-Time,100,,,,,LE-elicit,A
+P056,1491.0,English,"Yes, I was born in the country I am now living in",47,Female,Prefer not to say,United States,United States,United States,English,No,Part-Time,98,,,,,LE-elicit,A
+P096,2082.0,English,"Yes, I was born in the country I am now living in",26,Male,White,Canada,Canada,Canada,English,No,Part-Time,100,,,,,nonLE-nonelicit,A
+P032,1856.0,English,"Yes, I was born in the country I am now living in",30,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED,100,,,,,nonLE-nonelicit,A
+P059,2573.0,English,"Yes, I was born in the country I am now living in",38,Female,White,Canada,Canada,Canada,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",99,,,,,nonLE-nonelicit,A
+P021,2668.0,English,"Yes, I was born in the country I am now living in",62,Male,White,United States,United States,United States,English,Yes,Unemployed (and job seeking),100,,,,,nonLE-nonelicit,A
+P070,2648.0,English,"No, I moved to the country I am now living in",42,Male,Black,Nigeria,Canada,Nigeria,English,No,Part-Time,100,,,,,LE-nonelicit,A
+P054,3023.0,"English, Swahili","No, I moved to the country I am now living in",25,Female,Black,Kenya,United States,United States,English,Yes,Part-Time,99,,,,,LE-nonelicit,A
+P029,1990.0,"English, French","Yes, I was born in the country I am now living in",33,Male,White,Canada,Canada,Canada,French,No,Full-Time,100,"Non Religious (e.g. Agnostic, Atheist, No Religion)",,,,nonLE-nonelicit,B
+P019,1553.0,English,"Yes, I was born in the country I am now living in",40,Male,White,United States,United States,United States,English,No,Part-Time,99,"Christianity (e.g. Baptist, Church of England, Roman Catholic, Methodist, Jehovah Witness,  etc.)",,,,nonLE-nonelicit,B
+P080,1913.0,English,"Yes, I was born in the country I am now living in",41,Female,Black,Canada,Canada,Canada,English,No,Unemployed (and job seeking),100,"Christianity (e.g. Baptist, Church of England, Roman Catholic, Methodist, Jehovah Witness,  etc.)",,,,nonLE-nonelicit,B
+P023,2584.0,English,"Yes, I was born in the country I am now living in",34,Female,Black,United States,United States,United States,English,No,Full-Time,100,"Non Religious (e.g. Agnostic, Atheist, No Religion)",,,,nonLE-nonelicit,B
+P004,3469.0,English,"Yes, I was born in the country I am now living in",27,Male,Black,United States,United States,United States,English,Yes,Full-Time,100,,,,,nonLE-elicit,A
+P026,1892.0,English,"Yes, I was born in the country I am now living in",40,Male,White,Canada,Canada,Canada,English,No,Full-Time,99,,,,,nonLE-elicit,A
+P024,2184.0,English,"Yes, I was born in the country I am now living in",38,Female,White,Canada,Canada,Canada,English,No,Full-Time,100,,,,,nonLE-elicit,A
+P091,4270.0,English,"Yes, I was born in the country I am now living in",40,Male,White,Canada,Canada,Canada,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",99,,,,,nonLE-elicit,A
+P039,2152.0,English,"Yes, I was born in the country I am now living in",47,Female,White,United States,United States,United States,English,No,Other,100,,,,,nonLE-elicit,A
+P055,2148.0,English,"Yes, I was born in the country I am now living in",25,Male,White,Canada,Canada,Canada,English,No,Unemployed (and job seeking),100,,,,,nonLE-elicit,A
+P028,2682.0,English,"Yes, I was born in the country I am now living in",40,Female,White,United States,United States,United States,English,No,Full-Time,100,,,,,nonLE-elicit,A
+P068,3080.0,English,"Yes, I was born in the country I am now living in",21,Female,White,United States,United States,United States,English,Yes,Part-Time,100,,,,,LE-elicit,A
+P064,1763.0,"English, Hindi, Punjabi","No, I moved to the country I am now living in",39,Male,Asian,India,Canada,Canada,Punjabi,No,Full-Time,100,Hinduism,,,,LE-elicit,B
+P073,3329.0,English,"No, I moved to the country I am now living in",51,Male,Asian,Vietnam,United States,United States,Vietnamese,No,Full-Time,99,Buddhism,,,,LE-elicit,B
+P067,131745.0,"Tamil, English","No, I moved to the country I am now living in",43,Female,Asian,India,United States,India,Tamil,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",99,Hinduism,,,,LE-elicit,B
+P103,1787.0,"English, Bengali","No, I moved to the country I am now living in",18,Female,Asian,Bangladesh,Canada,Canada,English,Yes,Unemployed (and job seeking),100,Islam,,,,LE-elicit,B
+P104,4196.0,"English, Hindi, Other","No, I moved to the country I am now living in",41,Female,Asian,India,United States,India,English,No,Unemployed (and job seeking),97,Hinduism,,,,LE-nonelicit,B
+P101,2710.0,English,"No, I moved to the country I am now living in",39,Female,White,Russian Federation,United States,Russian Federation,Russian,No,Full-Time,100,Islam,,,,LE-nonelicit,B
+P048,3612.0,"English, Urdu","No, I moved to the country I am now living in",36,Female,Asian,Canada,Canada,Canada,English,No,Full-Time,100,Islam,,,,LE-nonelicit,B
+P009,2985.0,English,"No, I moved to the country I am now living in",50,Male,Asian,China,United States,United States,Chinese,No,Full-Time,100,Buddhism,,,,LE-nonelicit,B
+P090,3121.0,English,"No, I moved to the country I am now living in",29,Male,Black,Nigeria,United States,Nigeria,English,Yes,Part-Time,98,Islam,,,,LE-nonelicit,B
+P030,1621.0,"Korean, English","No, I moved to the country I am now living in",34,Male,Asian,Korea,United States,Korea,Korean,No,Full-Time,100,Buddhism,,,,LE-nonelicit,B
+P072,2572.0,English,"Yes, I was born in the country I am now living in",50,Male,White,United States,United States,United States,English,No,Full-Time,100,"Christianity (e.g. Baptist, Church of England, Roman Catholic, Methodist, Jehovah Witness,  etc.)",,,,nonLE-elicit,B
+P049,4318.0,English,"Yes, I was born in the country I am now living in",65,Female,White,United States,United States,United States,English,No,Full-Time,99,"Christianity (e.g. Baptist, Church of England, Roman Catholic, Methodist, Jehovah Witness,  etc.)",,,,nonLE-elicit,B
+P012,4298.0,English,"Yes, I was born in the country I am now living in",28,Male,Other,United States,United States,United States,English,No,Full-Time,100,"Non Religious (e.g. Agnostic, Atheist, No Religion)",,,,nonLE-elicit,B
+P099,4380.0,English,"Yes, I was born in the country I am now living in",36,Female,Other,Canada,Canada,Canada,English,No,Full-Time,100,"Non Religious (e.g. Agnostic, Atheist, No Religion)",,,,nonLE-elicit,B
+P035,3012.0,English,"Yes, I was born in the country I am now living in",48,Male,White,Canada,Canada,Canada,English,No,Unemployed (and job seeking),100,,No,heterosexual,,nonLE-elicit,C
+P083,3060.0,English,"Yes, I was born in the country I am now living in",22,Male,White,United States,United States,United States,English,No,Full-Time,100,,No,heterosexual,,nonLE-elicit,C
+P089,3825.0,English,"No, I moved to the country I am now living in",29,Male,Black,Kenya,Canada,Kenya,English,No,Full-Time,100,,No,heterosexual,,nonLE-elicit,C
+P025,4314.0,"English, Spanish","No, I moved to the country I am now living in",27,Male,White,Mexico,United States,Mexico,Spanish,No,Unemployed (and job seeking),100,,No,heterosexual,,nonLE-elicit,C
+P031,1472.0,English,"Yes, I was born in the country I am now living in",32,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking),99,,No,heterosexual,,nonLE-elicit,C
+P092,3600.0,"English, Arabic","No, I moved to the country I am now living in",24,Male,Asian,Saudi Arabia,Canada,Canada,Arabic,Yes,Unemployed (and job seeking),100,,No,heterosexual,,nonLE-elicit,C
+P050,4982.0,English,"Yes, I was born in the country I am now living in",34,Male,Prefer not to say,United States,United States,United States,English,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)",100,,Yes,homosexual,"Non-binary, Bigender",LE-nonelicit,C
+P001,2236.0,English,"Yes, I was born in the country I am now living in",29,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",100,,Yes,bisexual,Non-binary,LE-nonelicit,C
+P100,2933.0,"English, Chinese, French","No, I moved to the country I am now living in",29,Male,Asian,China,Canada,Canada,Chinese,Yes,Other,100,,No,heterosexual,,LE-nonelicit,C
+P051,3662.0,English,"Yes, I was born in the country I am now living in",50,Male,White,Canada,Canada,Canada,English,No,Other,100,,No,heterosexual,,nonLE-nonelicit,C
+P060,2795.0,"English, French","No, I moved to the country I am now living in",41,Male,Asian,Iran,Canada,Iran,Farsi,No,Unemployed (and job seeking),97,,No,heterosexual,,nonLE-nonelicit,C
+P037,2210.0,English,"Yes, I was born in the country I am now living in",22,Male,White,United States,United States,United States,English,Yes,Part-Time,99,,No,heterosexual,,nonLE-nonelicit,C
+P074,3982.0,English,"Yes, I was born in the country I am now living in",21,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking),100,,Yes,homosexual,"Non-binary, Gender queer",LE-elicit,C
+P010,4060.0,"Tagalog-Filipino, English","No, I moved to the country I am now living in",28,Female,Asian,Philippines,Canada,Canada,Tagalog-Filipino,No,Full-Time,99,,Yes,,Woman (including Trans Female/Trans Woman),LE-elicit,C
+P018,3721.0,"English, Spanish","No, I moved to the country I am now living in",37,Female,Black,Canada,United States,Trinidad and Tobago,English,No,Unemployed (and job seeking),100,,Yes,,"Non-binary, Demiwoman, Woman (including Trans Female/Trans Woman), Gender fluid, Gender queer, Option not included here",LE-elicit,C
+P078,3572.0,"English, French","No, I moved to the country I am now living in",23,Female,Black,Nigeria,Canada,Canada,English,No,Part-Time,100,,,bisexual,,LE-nonelicit,C
+P102,3436.0,English,"No, I moved to the country I am now living in",28,Female,Black,United States,United States,United States,English,Yes,Unemployed (and job seeking),100,,,bisexual,,nonLE-nonelicit,C
+P087,3459.0,English,"No, I moved to the country I am now living in",29,Female,Black,Ghana,United States,DATA_EXPIRED,Other,Yes,Other,100,,,asexual,,LE-nonelicit,C
+P045,3742.0,"English, Mandarin","No, I moved to the country I am now living in",33,Female,Asian,Hong Kong,Canada,Hong Kong,Cantonese,No,Other,100,,,homosexual,,nonLE-nonelicit,C
