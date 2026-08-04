@@ -1,0 +1,203 @@
+{
+  "participant_id": "P033",
+  "created_at": "2026-05-23T15:04:15.320605",
+  "condition": "no_elicitation",
+  "scenario_id": "A",
+  "connection_type": "I work or study in this area professionally or academically",
+  "duration": "Effectively, my whole life, since these themes are deeply embedded in history, culture, and social discourse, and I continuously explore them.",
+  "disclosure_text": "Immigration, religion, and identity are central to understanding how societies evolve and how individuals find belonging. I interact with these topics by analyzing language, narratives, and policies that shape public perception. For me, they are not personal experiences but rather areas of knowledge where I can help others unpack complexity, highlight patterns, and explore how identity and belonging influence social dynamics.",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post uses emotionally charged language: “Our hospitals can’t keep up” and “who this country is actually for.” This framing suggests that certain groups (likely immigrants or marginalized communities) are straining public resources and questions their belonging. While it doesn’t explicitly name a group, the implication is exclusionary, which can be harmful. At the same time, someone could interpret it as a general policy frustration about healthcare capacity. The ambiguity lies in whether the statement is a critique of systemic issues or a veiled attack on immigrants. The lack of specificity makes it deniable, but the phrasing strongly hints at targeting outsiders.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T15:04:15.402573",
+      "timestamp_end": "2026-05-23T15:07:48.226474",
+      "seconds_on_item": 212
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post frames immigration in terms of fairness, contrasting the writer’s grandparents’ legal process with others who may not follow the same path. The phrase “skip that line” implies that some immigrants are bypassing rules, which can be seen as delegitimizing or stigmatizing undocumented immigrants. However, the post doesn’t use dehumanizing language or overt hostility; instead, it appeals to fairness and rule-following. This makes it ambiguous: some readers may see it as a legitimate policy concern, while others may interpret it as harmful because it implicitly casts certain immigrant groups as undeserving. The harm depends on whether one identifies with the targeted group or views the statement as a critique of immigration policy.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:07:48.906890",
+      "timestamp_end": "2026-05-23T15:08:54.411222",
+      "seconds_on_item": 65
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post frames immigration in purely economic terms, using the phrase “flood a labor market” to describe the arrival of workers. That wording is loaded — “flood” suggests an overwhelming, negative force, which can be harmful when applied to people. The claim that “economics doesn’t care about feelings” dismisses human concerns and reduces immigrants to economic disruptors. However, the post does not explicitly dehumanize or incite violence; it could also be interpreted as a blunt economic argument about supply and demand in labor markets. The ambiguity lies in whether the intent is to stigmatize immigrants or to highlight a policy concern about wage dynamics.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:08:54.620384",
+      "timestamp_end": "2026-05-23T15:11:29.139615",
+      "seconds_on_item": 154
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post uses the phrase “wanting your hometown to stay recognizable”, which can be interpreted in multiple ways. On the surface, it could simply express nostalgia or a desire to preserve familiar traditions and community identity. However, in certain contexts, this language has been used as coded rhetoric to resist demographic or cultural change, often implicitly targeting immigrants or minority groups. The ambiguity lies in whether the statement is a benign expression of cultural attachment or a veiled critique of diversity. Because it avoids explicit hostility, some readers may see it as harmless cultural commentary, while others may perceive exclusionary undertones.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T15:11:29.377552",
+      "timestamp_end": "2026-05-23T15:13:05.079136",
+      "seconds_on_item": 95
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post uses the phrase “Demographic change at this pace isn’t natural” and “Someone is choosing this.” This framing suggests that population shifts are artificial or manipulated, which echoes conspiracy theories like the “great replacement.” Such rhetoric implies intentional control by hidden actors and portrays demographic diversity as threatening. While the post doesn’t explicitly name immigrants or minorities, the implication is that their presence is unnatural and imposed. This can be harmful because it delegitimizes communities and fuels suspicion or hostility. The deniability comes from the lack of explicit naming, but the coded language strongly points toward exclusionary intent.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T15:13:05.304972",
+      "timestamp_end": "2026-05-23T15:16:49.434869",
+      "seconds_on_item": 224
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post uses the phrase “Chain migration turns one visa into fifty” which exaggerates and frames family-based immigration as excessive or unfair. The claim “That’s not the deal Americans signed up for” positions immigrants as violating an implicit contract, which stigmatizes them as burdens or cheats. While the post doesn’t use overtly dehumanizing language, it portrays immigrants as exploiting the system and undermining fairness. This framing can be harmful because it delegitimizes lawful immigration processes and fuels resentment toward immigrant families. The harm is somewhat deniable, since the post could be interpreted as a critique of policy rather than of people, but the language strongly implies blame toward immigrant communities.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T15:16:49.657570",
+      "timestamp_end": "2026-05-23T15:17:53.130501",
+      "seconds_on_item": 63
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Unclear",
+      "rationale": "The post asserts “Every nation has the right to exist as a distinct people. Even European ones.” This phrasing invokes ethno-nationalist rhetoric, suggesting that nations are defined by a single “distinct people” rather than diverse populations. The emphasis on “Even European ones” implies that European identity is under threat, echoing exclusionary narratives about demographic change. While the statement could be interpreted as a general defense of national sovereignty, the framing carries harmful undertones because it positions diversity as illegitimate and portrays European populations as uniquely deserving of protection. This can marginalize immigrants and minorities by implying they undermine a nation’s rightful identity.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T15:17:53.354770",
+      "timestamp_end": "2026-05-23T15:18:56.395976",
+      "seconds_on_item": 63
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post states “We keep importing poverty and then wonder why poverty doesn’t go away.” This language directly equates immigrants with poverty, reducing them to a negative economic condition rather than acknowledging them as individuals. The metaphor of “importing poverty” dehumanizes immigrants by treating them as commodities or burdens rather than people. It also implies causality — that immigrants are responsible for poverty — which is a harmful stereotype unsupported by evidence. While framed as an economic critique, the phrasing stigmatizes entire groups and fosters resentment toward immigrant communities. This makes the post clearly harmful, as it perpetuates discriminatory narratives and incites hostility.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T15:18:56.656156",
+      "timestamp_end": "2026-05-23T15:20:10.692886",
+      "seconds_on_item": 74
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post states “Western countries are the only ones expected to dissolve their own majorities.” This language suggests that demographic change in Western nations is abnormal or unfair, and implicitly blames immigrants or minority groups for eroding majority populations. The framing positions diversity as a threat to national identity, echoing ethno-nationalist and “replacement” narratives. While the post does not explicitly incite violence or use dehumanizing terms, it carries exclusionary undertones that stigmatize minority communities. The harm is somewhat deniable because it could be read as cultural commentary, but the phrasing strongly implies resentment toward demographic diversity, making it likely harmful.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T15:20:10.919013",
+      "timestamp_end": "2026-05-23T15:20:55.135322",
+      "seconds_on_item": 44
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A specific individual",
+      "rationale": "The post states “The people most affected by immigration policy are the working class, not politicians.” This frames immigration policy as disproportionately impacting ordinary workers rather than elites. The language does not dehumanize immigrants directly, nor does it incite hostility. Instead, it highlights a perceived imbalance in who bears the consequences of policy decisions. While some readers could interpret this as implicitly blaming immigrants for economic challenges, the post itself focuses more on criticizing politicians for being insulated from the effects of their decisions. Because the harm is indirect and requires interpretive stretching, I judged it as likely not harmful rather than ambiguous or harmful.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T15:20:55.361725",
+      "timestamp_end": "2026-05-23T15:22:00.123550",
+      "seconds_on_item": 64
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T15:30:29.769736",
+  "prolific_pid": "P033",
+  "consented_at": "2026-05-23T15:04:15.320619",
+  "reflexivity_response": "Reflecting on the differences in how I read those posts compared to others, I think my background and values shaped my tendency to interpret them as ambiguous rather than immediately harmful or harmless. I often focus on the framing and language rather than assuming intent, which makes me sensitive to coded or exclusionary undertones but also open to the possibility that someone is expressing a policy concern. My values around fairness and nuance lead me to weigh both sides: whether a statement could be seen as targeting immigrants or whether it might be a critique of systems like healthcare or labor markets. Because I approach these topics analytically, I’m cautious about labeling something “clearly harmful” unless the dehumanization is explicit. At the same time, my awareness of how rhetoric can stigmatize marginalized groups makes me reluctant to dismiss posts as “not harmful.” This balance between empathy for targeted groups and attention to deniability in language explains why my readings often landed in the middle ground.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post uses emotionally charged language: “Our hospitals can’t keep up” and “who this country is actually for.” This framing suggests that certain groups (likely immigrants or marginalized communities) are straining public resources and questions their belonging. While it doesn’t explicitly name a group, the implication is exclusionary, which can be harmful. At the same time, someone could interpret it as a general policy frustration about healthcare capacity. The ambiguity lies in whether the statement is a critique of systemic issues or a veiled attack on immigrants. The lack of specificity makes it deniable, but the phrasing strongly hints at targeting outsiders.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "my identity and beliefs, values played  a role . growing up in a diverse community may have made me more understanding towards people from different background. also being aware of issues of housing ,shortages .my values around fairness , respect and empathy evolved during my transition period living here and navigating life all alone with my family."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post says the hospitals cannot keep up. This part of the post alone implies somewhat broken service delivery at the hospital or the number of people needing the services outweighs what the hospital can offer. The second part of the post slightly implies that some other group maybe benefiting from the services, making service delivery for other group difficult. Though, it is not specific on the targeted group. \n"
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post frames immigration in terms of fairness, contrasting the writer’s grandparents’ legal process with others who may not follow the same path. The phrase “skip that line” implies that some immigrants are bypassing rules, which can be seen as delegitimizing or stigmatizing undocumented immigrants. However, the post doesn’t use dehumanizing language or overt hostility; instead, it appeals to fairness and rule-following. This makes it ambiguous: some readers may see it as a legitimate policy concern, while others may interpret it as harmful because it implicitly casts certain immigrant groups as undeserving. The harm depends on whether one identifies with the targeted group or views the statement as a critique of immigration policy.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Valid argument from a 1st generation American who is just arguing a good point from their perspective.  I totally agree with them as well might I add. Skipping the line because you think you deserve it more than other people is just invalid and arrogant. Tons of people have it worse. People like this can never be satisfied and do not assimilate to our culture. I love that we are diverse, but do it right and legally. "
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The core of this language is very much I got mine, so you don't get any, or something akin to pulling the ladder up behind you. It very much ignores the advances in technology that have happened in the past 80 years since their grandparents were immigrants, and it ignores the significantly more globalized society of today."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "While the post shows a genuine concern, the framing and referencing that their grandparents came legally and waited for years is unnecessary and feels targeting to a specific group of people. It is likely harmful and can cause discomfort to the targeted group. The second part of the post is a genuine concern that due processes need to be followed. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post frames immigration in purely economic terms, using the phrase “flood a labor market” to describe the arrival of workers. That wording is loaded — “flood” suggests an overwhelming, negative force, which can be harmful when applied to people. The claim that “economics doesn’t care about feelings” dismisses human concerns and reduces immigrants to economic disruptors. However, the post does not explicitly dehumanize or incite violence; it could also be interpreted as a blunt economic argument about supply and demand in labor markets. The ambiguity lies in whether the intent is to stigmatize immigrants or to highlight a policy concern about wage dynamics.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The target is immigrants and refugees who comes to country to work. The post perceives this as negative and detrimental to the economy. It outlines the outcomes because of them. As a flood to the market is external and immigrants and refugees fits this criteria. It post states that economics should not have this group in the country.\n\n"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "People have been saying things like this for a long time about lots of different groups that have immigrated over the years. In an economy like ours though, immigrants and people bringing more/different skills to the table is what makes us so great. I think there is enough for everyone at the table. Growing up in a farm town, there were jobs that a lot of people wouldn't or couldn't do and things would fall apart overnight without that labor."
+        }
+      ]
+    }
+  ]
+}

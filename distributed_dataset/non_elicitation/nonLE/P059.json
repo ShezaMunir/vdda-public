@@ -1,0 +1,199 @@
+{
+  "participant_id": "P059",
+  "created_at": "2026-07-30T16:47:19.201056",
+  "condition": "no_elicitation",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer -- no direct personal connection",
+  "duration": "Immigration has been part of demographic changes in my town since around 1994. I was born in 1987. ",
+  "disclosure_text": "I would prefer specific questions to answer in response to, instead of an open format here because it is a bit overwhelming! Mostly I will focus on what I see on social media about immigration from third world countries and how it is causing problems in many western towns and cities. Sometimes me and my family want to move to another town that is more rural where you can have a bigger back yard. It is very hard to find anywhere affordable that is an improvement on a home built in the 80s. So many neighbourhoods are crammed full. This is largely due to developers being greedy, but we also have so many people and an aging population and then the government added millions of new people. Government policy makers make so much money that they can afford to live wherever they want and have summer homes too. They retire with huge pensions. ",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "I see this as more about a criticism of the way government is run, so in the multiple choice there was no option to select targeting the government. The government brought in way too many people all at once, somehow unable (?) to predict the problems this would have on the hospitals and housing supply.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T16:47:19.291989",
+      "timestamp_end": "2026-07-30T16:51:18.154945",
+      "seconds_on_item": 238
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "I hear that many people seek fake asylum claims in kind countries like Canada. It is very unfair to let cheaters and liars in, while other people wait patiently. If they are willing to lie to get into Canada, what else will they do in life that is dishonest? I have also heard that people who come here claiming asylum even go back to their home country for vacation. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T16:51:18.360461",
+      "timestamp_end": "2026-07-30T16:53:26.436808",
+      "seconds_on_item": 128
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "Economics, like math, doesn't discriminate or care about people's feelings or opinions. In China for example, there are so many people available and competing for jobs that even slave labor is still difficult to overcome. So what if 1000 people protest, there are thousands more ready to take their place. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T16:53:26.637552",
+      "timestamp_end": "2026-07-30T16:55:38.819613",
+      "seconds_on_item": 132
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "People like their home town to stay the way it always has been, more or less. If its a farming town, they don't want it suddenly being filled with tons of winding suburbs and condo towers and malls. I experience this where I live, my parents constantly complain about condos going up everywhere when traffic has already been bad and conjested for at least 20 years. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T16:55:39.045155",
+      "timestamp_end": "2026-07-30T16:57:07.893444",
+      "seconds_on_item": 88
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I assume this refers to governments letting too many people into our country from groups considered \"minorities\". I have heard and seen much criticism about the government bringing in so many folks from India, too many to handle all at once when we already have a housing crisis. I do not know much about economics but I do find our whole housing crisis situation really suspicious - how can we accomodate more humans when we don't even have enough homes? It is inflating the price BADLY. I have heard that some folks came here expecting a better life and were disappointed and went back to their home country. That is depressing. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T16:57:08.106797",
+      "timestamp_end": "2026-07-30T17:01:41.950125",
+      "seconds_on_item": 273
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Unclear",
+      "rationale": "I do not know what chain migration is. I can only assume it means letting in people from one specific country? Maybe the person is upset that their neighbourhood is growing at a pace where everyone seems to be from one country and it isn't even multicultural anymore. I am basing this off of what I see on social media myself. ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T17:01:42.167988",
+      "timestamp_end": "2026-07-30T17:03:21.773525",
+      "seconds_on_item": 99
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I agree with this one. Japan has their own distinct and beautifully unique identity and they intend to keep things this way. If you want to live in Japan, you must follow their customs. I think every country should let people still express factors of their own religions but it is inappropriate to try and change a country. If you want the country to change, you should not be living there. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-30T17:03:21.976914",
+      "timestamp_end": "2026-07-30T17:04:59.729815",
+      "seconds_on_item": 97
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I have heard people on social media say/type \"import the third world, become the third world\". I hear consistently about folks coming from places where defecating in public is acceptable, and when the folks come here they are doing this. I do not travel much outside of my own community so I have not witnessed this myself in person. I take everything on social media with a grain of salt, but I don't totally distrust it either. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T17:04:59.930396",
+      "timestamp_end": "2026-07-30T17:06:48.573805",
+      "seconds_on_item": 108
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I completely agree with this. A family member told me that a Muslim woman told her that seeing a Christmas tree in her son's school was \"offensive\". How is that offensive? I am sure the school has Christian black kids who celebrate Christmas, it isn't just a big bad white person holiday. In fact I am certain whites are a minority at that school, from what I have seen. It is very kind of Western countries to believe that everyone is free to celebrate their own religious holidays, but why are westerners made to feel guilty or racist? We are still supposed to refer to non-whites as \"minorities\" but globally that is laughable. In many towns in Ontario that is laughable and it is \"weird\" to see a white person in many areas. In 2008 I spent time in another town in Ontario for that year. It had a lot of white people and I never fully got used to it because my town is very Asian Canadian. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-30T17:06:48.795617",
+      "timestamp_end": "2026-07-30T17:10:43.453119",
+      "seconds_on_item": 234
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Policy makers who are high up never have to worry about the housing crisis affecting them. They (on all political parties) have friends in high places. When the job market is flooded by new people, everyone in that job market suffers as the competition gets terribly out of control. Workers rights don't even matter, because anyone can be replaced instantly. Nurses and doctors are increasingly facing burnout because of the hospitals not being able to handle all the people. Politicians can all afford gold toilets and private health care and mansions and vacation homes in other countries. They do not care what the average person goes through. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-30T17:10:43.693263",
+      "timestamp_end": "2026-07-30T17:13:44.689133",
+      "seconds_on_item": 180
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-30T17:29:33.422156",
+  "prolific_pid": "P059",
+  "consented_at": "2026-07-30T16:47:19.201065",
+  "reflexivity_response": "I have seen the policies that put a crippling strain on Canada, under Justin Trudeau. I voted for him the first time, I was much more liberal thinking back then. Having seen the changes to the country, it is very hard for me to agree with woke politics anymore. I plain and simply disagree with what the person wrote when she said \"As a member of the community, where an immigrant or not, deserves the right to be treated equaly.\". this is about skipping lines. How is anyone skipping a line considered fair?",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "I see this as more about a criticism of the way government is run, so in the multiple choice there was no option to select targeting the government. The government brought in way too many people all at once, somehow unable (?) to predict the problems this would have on the hospitals and housing supply.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The statement, \"at some point , we have to describe who this country is actually for\" sounds pointed and judgemental towards a minority group. From personal experience, when someone points to the existing infrastructure in the locality being inadequate for the population, it is usually in the context of immigration. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The line \"who this country is actually for\" could be interpreted as bigoted. It doesn't necessarily call out a specific group, but it does imply that this country is \"for\" one group, and perhaps not another. But it is ultimately ambiguous, with no specific group or population being called out. \n"
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post uses emotionally charged language: “Our hospitals can’t keep up” and “who this country is actually for.” This framing suggests that certain groups (likely immigrants or marginalized communities) are straining public resources and questions their belonging. While it doesn’t explicitly name a group, the implication is exclusionary, which can be harmful. At the same time, someone could interpret it as a general policy frustration about healthcare capacity. The ambiguity lies in whether the statement is a critique of systemic issues or a veiled attack on immigrants. The lack of specificity makes it deniable, but the phrasing strongly hints at targeting outsiders."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "I hear that many people seek fake asylum claims in kind countries like Canada. It is very unfair to let cheaters and liars in, while other people wait patiently. If they are willing to lie to get into Canada, what else will they do in life that is dishonest? I have also heard that people who come here claiming asylum even go back to their home country for vacation. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I think this post is somewhat more critical about policies than something that would be read as harmful. The second sentence, \"why should anyone get to skip that line\" is that part that may be considered harmful, but I think it would require a stretch. I think my lived experience affected how I read this post because in university we would talk a lot about policies, so I feel like this is just someone unhappy about immigration policies, not necessarily at immigration itself or a specific race.  "
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It is unclear by readin gthis one line post what the topic of concern is. However, by reading the commen, it appears that the person posted the commenet is venting their frustration about not being treated fairly. As a member of the community, where an immigrant or not, deserves the right to be treated equaly. Whether it is in the hospital line ot anywhere else. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This person was speaking about their grandparents entering the country legally. They are asking why an immigrant should come in either legally or illegally after their parents went the respectable route and came in the country of the united states of america legally. I can understand both sides of the situation"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "Economics, like math, doesn't discriminate or care about people's feelings or opinions. In China for example, there are so many people available and competing for jobs that even slave labor is still difficult to overcome. So what if 1000 people protest, there are thousands more ready to take their place. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "It is what it is. And it is how it happens. It's government's responsibility to stabilize the economy. The society will perceive what they see and experience. Some truths can not be changed. It can just be controlled. The government must make and implement different policies that protects everyone's rights."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "People have been saying things like this for a long time about lots of different groups that have immigrated over the years. In an economy like ours though, immigrants and people bringing more/different skills to the table is what makes us so great. I think there is enough for everyone at the table. Growing up in a farm town, there were jobs that a lot of people wouldn't or couldn't do and things would fall apart overnight without that labor."
+        }
+      ]
+    }
+  ]
+}

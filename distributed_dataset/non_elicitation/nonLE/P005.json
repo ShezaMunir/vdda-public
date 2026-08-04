@@ -1,0 +1,203 @@
+{
+  "participant_id": "P005",
+  "created_at": "2026-05-21T15:19:12.390188",
+  "condition": "no_elicitation",
+  "scenario_id": "C",
+  "connection_type": "I'm an interested observer -- no direct personal connection",
+  "duration": "40",
+  "disclosure_text": "I think all people should be treated fairly and the most productive rewarded. The more unproductive should be given the training needed and opportunity.",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "Though it mentions women you cannot tell exactly what is is focusing on and especially who. The group mentality seems to be in effect but it is still unclear. I like that it is generic but yet it begs you to wonder what else there is as far as intention.\n",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-21T15:19:12.504054",
+      "timestamp_end": "2026-05-21T15:21:41.460621",
+      "seconds_on_item": 148
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I think it is referring to people that discriminate against women. I think it could be someone was offended in the past or perhaps that someone feels less than others and needs validation. It could be clearly a past offense that is being address or at least a comment spoken.\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-21T15:21:41.660891",
+      "timestamp_end": "2026-05-21T15:23:49.953607",
+      "seconds_on_item": 128
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I think the mindset here is the new standards adopted by some individuals and groups and that they feel is not only harmful but ut of line. I feel they are stated their position which they see as common sense. Though not discriminatory, they feel the need to state the fact.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-21T15:23:50.159651",
+      "timestamp_end": "2026-05-21T15:25:52.152856",
+      "seconds_on_item": 121
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I think they are building on an outcome of a given view and bias that if it is accep[ted, can lead to outcomes and actually start setting up things that are not aware of when this view is first stated. The coincern is since this then that is going to follow and logic says we are to assume different conflicts then.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-21T15:25:52.359624",
+      "timestamp_end": "2026-05-21T15:27:55.456413",
+      "seconds_on_item": 123
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "I think this is just a point of view establish in this person's mind and they are expressing it. It is non discriminatory and targets no one, yet it clearly states their view but mostly their opinion. I think it is harmless and targeting no one in particular but more importantly not offending anyone.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-21T15:27:55.673118",
+      "timestamp_end": "2026-05-21T15:34:04.270031",
+      "seconds_on_item": 368
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "I think this is just confusion. When something like this is stated someone is trying to make themselves sound smart or to feel good about something. I believe they are expressing something to make them fell important or intelligent. It is a comment that mekes me feel confused and that they need validation.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-21T15:34:04.870995",
+      "timestamp_end": "2026-05-21T15:44:43.031261",
+      "seconds_on_item": 638
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I think this is a harmful to a person, family, and community because a man is just trying to work and provide for himself and maybe someday hois family so a noble cause is critisized and discriminated against. It is a comment based on a person doing what they should be doing.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-21T15:44:43.617074",
+      "timestamp_end": "2026-05-21T15:47:29.081214",
+      "seconds_on_item": 165
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Unclear",
+      "rationale": "I think this is just a 'intlligent' comment or viewpoint that the common person does not know what it means or takes so much thinking that it is not worth viewing or devoting any time to it. I think it is a figment of someone's mond that needs some validation.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-21T15:47:29.271145",
+      "timestamp_end": "2026-05-21T15:49:28.285067",
+      "seconds_on_item": 119
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "I think there is no target nut just a statement. They are saying that in the background of feminism at its root cause there is an acceptance of beautiful feminism in its raw core. I think the statement causes us to see that the feminism is made up to accommodate peoples new speculations that became facts.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-21T15:49:28.483435",
+      "timestamp_end": "2026-05-21T15:52:10.854865",
+      "seconds_on_item": 162
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I think that they are stating that the unspoken is said loudly in some cases. I think it is speaking out on political correctness and people are not allowed to express their views. It s peaks deeper in such a way as to say that the problem is not beoing able to communicate honestly.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-21T15:52:11.048016",
+      "timestamp_end": "2026-05-21T15:54:10.762644",
+      "seconds_on_item": 119
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-21T15:57:58.662606",
+  "prolific_pid": "P005",
+  "consented_at": "2026-05-21T15:19:12.390207",
+  "reflexivity_response": "I think my views are first and foremost from my upbrininging and mother and father. They believe in treating people fairly and feel sorry for people. They believe in helping but also calling the thinga as truth if it is. Some people have views that may be incorrect for instance, but a person should not be punished. So, you look deeper and say why do they believe that and ten you may find out that is the way the were raised for instance.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "C01",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "Though it mentions women you cannot tell exactly what is is focusing on and especially who. The group mentality seems to be in effect but it is still unclear. I like that it is generic but yet it begs you to wonder what else there is as far as intention.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This post is very ambiguous. It's hard to judge without context but the logic does still make sense. It doesn't sound like it's attacking anyone. I think the tone is calm and neutral. It's saying that there should be fair treatment regardless of gender. That how I would perceive it."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "the fact that the writer was direct and said he believes women. this is something i agree with and something i too would say. he framed it without judgement or picking sides. no aspects of my identity, beliefs, values, or lived experience affect how i understood the post. i also believe in due process as i am a straightforward person."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "My initial thought was that this post is related to the Me Too movement and more specifically to those taking advantage of this movement for their personal gain by targeting people who were actually innocent. I do like that it is highlighting due process making sure justice is served regardless off the issue."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C02",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "my_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "I think it is referring to people that discriminate against women. I think it could be someone was offended in the past or perhaps that someone feels less than others and needs validation. It could be clearly a past offense that is being address or at least a comment spoken.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I think the statement that was provided here is not wrong and it seems like they are trying to provide a statement on what they believe. It is not trying to demean anyone or harm anyone, it is trying to provide a statement for women to think about how to approach problems. Instead of labelling everything as microaggression, they should do something differently. "
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The message seem directed at women that are overly sensitive to words or acts that may be intepreted as \"microagressions\". I don't think it targets the entire female gender. I don't find it offensive or harmful. I think it's a protest against extreme behaviours or attitudes. I welcome constructive criticism or discussions."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I believe this post is nothing but an observation. Not every little comment is necessarily a micro aggression. I think, being a woman myself, focusing too much on what people say to us or how treat us and connecting it to our gender makes us mentally weaker and more fragile. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C03",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "I think the mindset here is the new standards adopted by some individuals and groups and that they feel is not only harmful but ut of line. I feel they are stated their position which they see as common sense. Though not discriminatory, they feel the need to state the fact.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This comment may piss a couple of people off. we live in a more open world now and comments like these cannot be made out loud even if those are your thoughts. there are more constructive ways to pass across your point without hurting other people. the LGBTQ+ community will definitely not appreciate this comment."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I think this message would be clearly offensive to certain groups' beliefs. The gender identities have been a very controversial topic in recent years. There very heated debates between biological gender identity and other gender identities that were formed later in life. To some people life myself, believes that we should not be able alter gender easily. To others, they believe mental state matters more to define a gender. I think message is ambiguous and not aiming to harm anyone."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "A very controversial comment which can provoke some groups. It offers a binary view on gender and highlights that truth should be judged because it causes discomfort. I think this comment also reflects a disagreement about gender is defined and who gets to define it and leaves out those who claim not to fit in either group."
+        }
+      ]
+    }
+  ]
+}

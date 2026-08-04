@@ -1,0 +1,248 @@
+{
+  "participant_id": "P104",
+  "created_at": "2026-07-31T16:04:22.946955",
+  "condition": "no_elicitation",
+  "scenario_id": "B",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "3 years",
+  "disclosure_text": "I am an immigrant from India and living here from 3 years.",
+  "micronarrative": "I read the scenario and felt deep sadness for the bakery owner, an honest, hardworking person who should not be discriminated against for what they choose to celebrate. While this specific event did not resonate personally, it mirrored my own work experiences where I faced ugly stares and felt secretly unwelcome. My one-on-one meetings with my manager were rude and stressful, especially compared to other Americans. This was particularly painful because my manager was from my own country, yet he was polite to local employees while treating me as if I was taken for granted. I did not get into trouble by talking too much, but the experience hurt me deeply. I had to behave like a professional despite the pain. From the moment I woke up, I was in total unrest, counting down the hours until the meeting ended, finding relief only when it was over.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something that resonates personally, or something that feels uncomfortable or foreign?"
+    },
+    {
+      "role": "user",
+      "content": "It does not resonate personally, but I can definitely see it happening. It makes me very sad, if the owner of the bakery is a honest hard working person who makes delicious treats for everyone to enjoy, he or she should not be discriminated based on what they choose to celebrate."
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned the sadness of an honest, hardworking person being discriminated against. Have you ever witnessed or experienced a situation where your own labor or identity was unfairly targeted by a community?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, in my work experience, I have come across ugly stares in my work place which secretly yelled that I was not welcome there. My 1-1 meetings with my manager was very rude and stressful in comparison to other Americans who worked there."
+    },
+    {
+      "role": "assistant",
+      "content": "When you say your meetings were more stressful than those of your American colleagues, what specific cultural or geographic norms from where you grew up did you find yourself navigating or suppressing in those interactions?"
+    },
+    {
+      "role": "user",
+      "content": "That is the thing, my manager is from my own country, but my manager was very polite towards other employees from this country and very rude to me, as if I was taken for granted."
+    },
+    {
+      "role": "assistant",
+      "content": "Did the way you spoke or the specific words you used in those meetings differ from how you interacted with the other employees?"
+    },
+    {
+      "role": "user",
+      "content": "No, I usually do not get into trouble by talking too much. It hurt me deeply, but I had to behave like a professional and I did."
+    },
+    {
+      "role": "assistant",
+      "content": "What specific physical or sensory sensations did you experience in your body during those stressful meetings?"
+    },
+    {
+      "role": "user",
+      "content": "From the morning I woke up, I used to be at total unrest. Today is my 1-1, it will be over in 3 hrs, 2 hrs, 1 hr and it used to be a relief when it got over."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you have any specific physical coping mechanisms or rituals to manage that intense anxiety while waiting for the meeting to end?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Personally, we are immigrants, this country has welcomed us, sharing with us all its resources. It is our duty to respect its value, culture, environment, and its people. I do not like it when some immigrants celebrate their festivals on the streets making loud noises and disturbing the peace of others. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T16:12:28.234788",
+      "timestamp_end": "2026-07-31T16:19:03.501781",
+      "seconds_on_item": 395
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "Personally, as an immigrant, I live her legally. I was allowed inside after all my documents were verified. I have a kids, she needs to go to school. Private schools are expensive. She must go to the nearby public school. We are vegetarians, but I do not barge into the school and exclusively ask them to give veg food. I pack it for her from home.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T16:19:04.026743",
+      "timestamp_end": "2026-07-31T16:24:15.171061",
+      "seconds_on_item": 311
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "An employee is being paid to work, not to pray. But I am not against it, you can come to office 10 mins early, make use of the lunch break, or go 10 mins late from office, but the agreed upon number of hours discussed in the contract must be met.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T16:24:15.689286",
+      "timestamp_end": "2026-07-31T16:30:21.770937",
+      "seconds_on_item": 366
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I feel enlightenment happened in some places and not others because of history, not because of racism, or not because one group was better than the other. Different societies had different levels of wealth, school, and freedom at the right time, which allowed new and innovative ideas to grow there first.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T16:30:22.276179",
+      "timestamp_end": "2026-07-31T16:37:12.372157",
+      "seconds_on_item": 410
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This post is about fairness and media double standards. It compares two cases to say one gets more attention than the other. Because it talks about sensitive topics like religion and groups. It can make people angry and cause big arguments online. That is why it is likely to cause harm to the groups involved.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T16:37:12.865662",
+      "timestamp_end": "2026-07-31T16:41:10.210965",
+      "seconds_on_item": 237
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This post talks about the big idea of secularism. It argues that everyone, even people with progressive views, should follow the same rules without getting special treatment. It says it is totally unfair when some beliefs are protected from criticism while others are not, so it is just an argument for total equality. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T16:41:10.408792",
+      "timestamp_end": "2026-07-31T16:46:49.095609",
+      "seconds_on_item": 338
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "In my country, there has always been a discrimination. Girls can study as much as they want as they are going to end up getting married, have kids and resign. But, boys must reach the stars. After coming here, I saw that the person who sold out car to us explained the features to me and my husband. In my country, cars and features are explained only to men. I would love to have gender equality globally.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T16:46:49.587458",
+      "timestamp_end": "2026-07-31T16:52:02.061814",
+      "seconds_on_item": 312
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I am an immigrant, in my country, gay and lesbian is unheard of. It was slightly shocking when I became aware of it, I am uncomfortable with it as I am not familiar with it, but I have an open mind to accept it. Every living being on this earth can live their lives as they want as long as they are not doing anything illegal and not harming others.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T16:52:02.278188",
+      "timestamp_end": "2026-07-31T16:56:25.805899",
+      "seconds_on_item": 263
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I am a woman myself and it breaks my heart to even read it. It is injury to a human body. It is illegal and must be banned wherever it happens. Where it happens, is it Islamophobia, all these are irrelevant. Wherever it happens, it must be called out and people in powerful positions to change the law to stop it.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T16:56:26.322868",
+      "timestamp_end": "2026-07-31T17:00:56.987502",
+      "seconds_on_item": 270
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Unclear",
+      "rationale": "I have not personally experienced this. When I was younger, I thought this was only in the movies. As I grew up, listened to my family discussions, read the news paper, watched news on TV, I realized it happens in the real world too. In my country it is very easy to pay someone and ask them to be quite, is what I feel.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T17:00:57.497379",
+      "timestamp_end": "2026-07-31T17:06:32.646934",
+      "seconds_on_item": 335
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T17:13:35.931135",
+  "prolific_pid": "P104",
+  "consented_at": "2026-07-31T16:04:22.947012",
+  "reflexivity_response": "Growing up and living in such a diverse space really makes you think about how we all fit together. Even though I love and support religious freedom, I honestly feel some beliefs just clash with the basic rules of a fair and equal society. Also, as an immigrant myself, I really appreciate this country but it bothers me when I see some people disrespecting the our shared spaces by making lot of noise on the streets, My unique background helps me see these things differently.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "Personally, we are immigrants, this country has welcomed us, sharing with us all its resources. It is our duty to respect its value, culture, environment, and its people. I do not like it when some immigrants celebrate their festivals on the streets making loud noises and disturbing the peace of others. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The freedom behind expressing religious views shaped my judgement. Everybody should have a right to express your views, even if majority of people disagree with it. I believe authenticity is more important than conformity. Fitting in to please people is not freedom or democracy. Freedom of expression is something everybody deserves."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The statement that some beliefs are just aren't compatible.it feels harmful and very negative.I have not personally been targeted like that but it is really upsetting.\nreligious freedom is a right of everyone and nobody should  ever have to live in fear of being targeted because of their beliefs.there should be freedom of living and practicing your life and beliefs without the fear of being harmed ."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "Honestly, dressing up plain old prejudice as a \"civic observation\" is such an obvious trick to keep plausible deniability while punching down.. Having to navigate different cultural spaces and code-switch my whole life makes those subtle dog-whistles stick out like a sore thumb.. Sweeping an entire group under the rug by claiming they're \"incompatible w/ democracy\" isn't a smart take, it's just a slick way to make exclusion sound sophisticated.."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "Personally, as an immigrant, I live her legally. I was allowed inside after all my documents were verified. I have a kids, she needs to go to school. Private schools are expensive. She must go to the nearby public school. We are vegetarians, but I do not barge into the school and exclusively ask them to give veg food. I pack it for her from home.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Again, the poster specifically references faith.  My own value system makes me think this is a harmful and uninformed post.  If someone wants to keep kosher,  halal, vegan, or even avoid food allergies I do not see how this harms others or threatens the ability of a school to provide a good education."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The language in the post seems to be coming from a place of anger for a particular group of people even if it isn't explicitly claimed in the post. I think people would be able to infer what the person is referring to even without further explanation. In the area where I live there has been an influx of people from other nations over the last few years and I have certainly heard this type of speech from others in the community. I would say that this post is likely harmful since it would most likely incite others to engage and start feeling anger towards a certain group of people. It is ambiguous enough to not get the clearly harmful label."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "This post is implying that immigrants are taking over their schools and implementing their dietary rules in a negative way. In my culture and religion we don't eat pork so it was important to me in school to always have other protein options available. I think this is a very negative statement that doesn't support a diverse community."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "An employee is being paid to work, not to pray. But I am not against it, you can come to office 10 mins early, make use of the lunch break, or go 10 mins late from office, but the agreed upon number of hours discussed in the contract must be met.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This post is harmful because it is directed at a likely religious community (potentially Muslims) that are a lot of the times under attack and discriminated against because of their faith. It is likely harmful because the solution seems to be for them not to be allowed to pray at work. "
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "we know the post is refencing islam I believe practiced by muslims, yes they do pray 5 times daily and me personally I am fine with it, but it has only gotten to a point where it has bother me slightly and then is when I was doing some delivery work and would have to drive past a local mosque and was the only way to get to location and on fridays it was parking and traffic mayhem, it botherd a lot of people, for me not so much as I was getting paid per hour so I was fine but you see the rage and hatrred quicjkly in these types of situations  more so these days then in the past."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The author frames their concern around workplace productivity and scheduling fairness instead of attacking personal faith. Mentioning praying five times a day clearly points to Muslim practices, but the tone stays focused on operational impact. My own background leads me to view this as a discussion about workplace policy rather than targeted hostility."
+        }
+      ]
+    }
+  ]
+}

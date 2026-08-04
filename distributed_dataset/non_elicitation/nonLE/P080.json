@@ -1,0 +1,203 @@
+{
+  "participant_id": "P080",
+  "created_at": "2026-07-31T00:08:43.902481",
+  "condition": "no_elicitation",
+  "scenario_id": "B",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "4 years",
+  "disclosure_text": "i had issue with immigration in the past",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "everybody should be free to practice whatever relihion they want ,It should not be based on political parties,Liberal supports individual rights which is free religion participation,IN  a situation where people are not  allowered to practice their chosen or inherited religion then there is no freedom of religion practices ,In this case people dont have their rights in order,This is against the rule of law ,People should be allowered to change and practice religion without the government being involved ,This is about freedon to beleive or practise their chosen religion ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:08:43.981442",
+      "timestamp_end": "2026-07-31T00:17:26.805229",
+      "seconds_on_item": 522
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "religion should not be a political issue ,Everybody has freedom of believe and practise of whatever religion they choose,In a world where people aree not allowered to practice what they believe in is another way of stepping on their individual human right,MOST religion are inherited from parents so if a political party is against it being practiced then there is no freedom of human right",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:17:27.013885",
+      "timestamp_end": "2026-07-31T00:21:21.297950",
+      "seconds_on_item": 234
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "freedon of religion is freedon of human right,every individual should have the freedom to poractice whatever religion they want to practice,in a situation where a political party is against freedom of religion then there is no freedom of human right, Most religion is practiced based on family ties and they keep on like that",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T00:21:21.514407",
+      "timestamp_end": "2026-07-31T00:24:41.959626",
+      "seconds_on_item": 200
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "freedom of religion is part of human right,in a situation where a political party wont allow people practice what they believe in then there is no freedom of human right,every family has a riligion they believe in so it continues like that,some inherit their religion from parents  so nothing should stop them from practicing ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:24:42.150592",
+      "timestamp_end": "2026-07-31T00:28:19.280654",
+      "seconds_on_item": 217
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "freedom of religion is part of human right,in a situation where a political party wont allow people practice what they believe in then there is no freedom of human right,every family has a riligion they believe in so it continues like that,some inherit their religion from parents  so nothing should stop them from practicing ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:28:19.478953",
+      "timestamp_end": "2026-07-31T00:29:02.848863",
+      "seconds_on_item": 43
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "freedom of religion is part of human right,in a situation where a political party wont allow people practice what they believe in then there is no freedom of human right,every family has a riligion they believe in so it continues like that,some inherit their religion from parents  so nothing should stop them from practicing ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:29:03.039173",
+      "timestamp_end": "2026-07-31T00:29:37.573124",
+      "seconds_on_item": 34
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "freedom of religion is part of human right,in a situation where a political party wont allow people practice what they believe in then there is no freedom of human right,every family has a riligion they believe in so it continues like that,some inherit their religion from parents  so nothing should stop them from practicing ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:29:37.661155",
+      "timestamp_end": "2026-07-31T00:30:13.308091",
+      "seconds_on_item": 35
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "freedom of religion is part of human right,in a situation where a political party wont allow people practice what they believe in then there is no freedom of human right,every family has a riligion they believe in so it continues like that,some inherit their religion from parents  so nothing should stop them from practicing ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:30:13.497737",
+      "timestamp_end": "2026-07-31T00:30:39.968100",
+      "seconds_on_item": 26
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "freedom of religion is part of human right,in a situation where a political party wont allow people practice what they believe in then there is no freedom of human right,every family has a riligion they believe in so it continues like that,some inherit their religion from parents  so nothing should stop them from practicing ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:30:40.161211",
+      "timestamp_end": "2026-07-31T00:31:32.023439",
+      "seconds_on_item": 51
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "freedom of religion is part of human right,in a situation where a political party wont allow people practice what they believe in then there is no freedom of human right,every family has a riligion they believe in so it continues like that,some inherit their religion from parents  so nothing should stop them from practicing ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T00:31:32.261802",
+      "timestamp_end": "2026-07-31T00:33:10.901010",
+      "seconds_on_item": 98
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T00:39:41.656762",
+  "prolific_pid": "P080",
+  "consented_at": "2026-07-31T00:08:43.902488",
+  "reflexivity_response": "freedom of religion is part of human right,in a situation where a political party wont allow people practice what they believe in then there is no freedom of human right,every family has a riligion they believe in so it continues like that,some inherit their religion from parents  so nothing should stop them from practicing ,\nThe immigration issue was very bad, i had so many applications rejected and it stressed me out , I wont pray anyone go through what i went through before my permannet residence was approved",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "everybody should be free to practice whatever relihion they want ,It should not be based on political parties,Liberal supports individual rights which is free religion participation,IN  a situation where people are not  allowered to practice their chosen or inherited religion then there is no freedom of religion practices ,In this case people dont have their rights in order,This is against the rule of law ,People should be allowered to change and practice religion without the government being involved ,This is about freedon to beleive or practise their chosen religion ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I am confident in my beliefs and morals within myself, throughout my life have always been truthfull and passionate in deading with difficult situations, it is a feeling of knwoing that you are able to communicate and work with others not the same as yourslef and I take great pride in that, had that very diverse background growing up wihich I believe really helped me in dealing with every days life involing many variations of diffwerent people."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post frames its argument around political theory and the structural compatibility of ideas within a \"liberal democracy,\" rather than attacking individuals or using explicit slurs. While the topic is provocative, I read it as cultural commentary and a critique of religious frameworks rather than an attempt to dehumanize people. My value of open communication makes me view this as an abstract philosophical debate about governance and freedom of speech, rather than a direct threat to a specific community's safety or belonging"
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "While the original message is vague, it also throws shade at a certain group. It calls out how certain religious systems aren't compatible with liberal democracy, so anyone that is not liberal is being marginalized and grouped into one thing while maintaining a facade of vagueness. I wouldn't say the post is completely harmful, though as it isn't berating a specific group."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "religion should not be a political issue ,Everybody has freedom of believe and practise of whatever religion they choose,In a world where people aree not allowered to practice what they believe in is another way of stepping on their individual human right,MOST religion are inherited from parents so if a political party is against it being practiced then there is no freedom of human right",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I read this post primarily as a frustration with institutional policy and cultural assimilation rather than a direct, malicious attack on individuals. While the phrasing \"whose schools these are\" is provocative and territorial, it touches on a common civic debate regarding the role of secular public institutions versus religious accommodations. My perspective leans toward viewing this as a standard political grievance about public resources, rather than a statement intended to dehumanize or incite harm against a group."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This specific comment doesn't necessarily say anything harmful, but it is vague in the notion that it alludes to who it is talking about. As in, it is saying that anyone else's fate but the original poster is wrong or out of place in the school. I would say this is likely harmful to those people."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "this is an issue I have seen pop up frequnetly on my social media timelines and have seen the wicked negative comments that are not needed, for many it seems goverenmnets both local and reginional are apt to please the minorty over the majority and it seems the minory are mostly new immigrants asking for dietary changes be it for them personally or religious reasons."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "freedon of religion is freedon of human right,every individual should have the freedom to poractice whatever religion they want to practice,in a situation where a political party is against freedom of religion then there is no freedom of human right, Most religion is practiced based on family ties and they keep on like that",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "we know the post is refencing islam I believe practiced by muslims, yes they do pray 5 times daily and me personally I am fine with it, but it has only gotten to a point where it has bother me slightly and then is when I was doing some delivery work and would have to drive past a local mosque and was the only way to get to location and on fridays it was parking and traffic mayhem, it botherd a lot of people, for me not so much as I was getting paid per hour so I was fine but you see the rage and hatrred quicjkly in these types of situations  more so these days then in the past."
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "the post expresses a personal opinion about balancing religious practices and workplace schedules... it also acknowledges that people have the right to pray but raises a concern about how accommodations may affect others... the wording does not attack a specific religion or goup... but it focuses more on workplace rules and fairness rather than targeting individuals..."
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is obviously targetting members of the muslim community. The tone is very critical towards the number of daily prayers, and while it is likely not harmful and more critical -- there is no call to harming -- there is still some level of animosity due to the \"I do have a problem\" part of the post. "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "participant_id": "P096",
+  "created_at": "2026-07-30T16:49:47.986251",
+  "condition": "no_elicitation",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer -- no direct personal connection",
+  "duration": "My whole life",
+  "disclosure_text": "I live in a culturally diverse society where I see people of many different ethnicities as part of it.",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "The message does not seem directed at any particular person. That being said, the \"who this country is for\" part could be interpreted as singling out groups of people, but it seems far more general of a statement. It is a factual statement that our hospitals cannot keep up with the influx of patients that are flooding them, and this is not tied to any specific groups.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T16:49:48.069578",
+      "timestamp_end": "2026-07-30T16:52:55.209101",
+      "seconds_on_item": 187
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post appears to be focusing on the dilemna of their grandparents having to wait years to be let in, compared to others (implied to be other immigrants) potentially getting in faster. The harm here is ambiguous since it is not necessarily targeting any specific group of immigrants, but the tone is somewhat inconsiderate.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T16:52:55.411874",
+      "timestamp_end": "2026-07-30T16:55:43.181259",
+      "seconds_on_item": 167
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post appears to be talking about immigrants flooding the labor market and causing wages to go down as a result. The argument appears to be the idea that this influx of workers devalues labor in general due to market oversaturation. This is a real thing that can happen, but it should not be attributed as the fault of immigrants. It is likely not harmful in this context since it does not single out any groups.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T16:55:43.383739",
+      "timestamp_end": "2026-07-30T16:58:24.525572",
+      "seconds_on_item": 161
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It is unclear what the post is definitively trying to say as it is quite vauge, but it appears to be advocating for a traditional mindset in regards to the identity of towns. More context is needed to determine the intent behind the post, and whether or not this is trying to single out certain groups \"at fault\".",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T16:58:24.728499",
+      "timestamp_end": "2026-07-30T17:00:41.399747",
+      "seconds_on_item": 136
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post is insinuating that rapid demographic changes in some way are harmful. They are trying to blame someone for this and generalize the situation as bad because of these people of differing demographics. While not naming any specific groups, the intent is likely harmful and recognizable to most minority readers.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T17:00:41.605431",
+      "timestamp_end": "2026-07-30T17:03:02.220535",
+      "seconds_on_item": 140
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post appears to be focused on the policy of chain migration causing much larger amounts of visas getting accepted. It is not singling out any specific group, and is rather focusing on this specific policy the government as potentially allowed. It is not harmful in the context that there is no other harmful intent in related messages.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T17:03:02.429807",
+      "timestamp_end": "2026-07-30T17:05:57.466399",
+      "seconds_on_item": 175
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post appears to be advocating for European nations to be able to exist as \"distinct people\". This is very ambiguous and could be read in many different ways, both harmful and non-harmful. There may be some sub-text here which is trying to defend white people, but that may be a stretch outside of any other context.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T17:05:57.666955",
+      "timestamp_end": "2026-07-30T17:08:59.743806",
+      "seconds_on_item": 182
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post is specifically targeting immigrants as being the cause of poverty in their home country. This is a harmful statement as there is absolutely no evidence that immigrants cause poverty to \"transition\" to the country they are moving to. It also assumes that every immigrant is financially poor and spreading this to the country they are moving to, a harmful assumption.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T17:08:59.973146",
+      "timestamp_end": "2026-07-30T17:11:51.826727",
+      "seconds_on_item": 171
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post appears to be trying to say that Western countries are the only countries that risk the residing majority to fall from their \"status\" as majority due to immigrants. The post is framed in a way that this is a bad thing, there are hateful undertones to those not part of the current majority. It is likely harmful due to the focus on these groups.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T17:11:52.045859",
+      "timestamp_end": "2026-07-30T17:14:38.924996",
+      "seconds_on_item": 166
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "The post appears to be making a general policy statement that immigration policy has far more effect on the working class compared to politicians. This is not a controversial take as it is not singling out any minority or racialised group, and instead political policy makers. This seems far more like a criticism of the policy makers VS any claim that a minority causing issues by themselves.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T17:14:39.137992",
+      "timestamp_end": "2026-07-30T17:17:22.594984",
+      "seconds_on_item": 163
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-30T17:23:21.521549",
+  "prolific_pid": "P096",
+  "consented_at": "2026-07-30T16:49:47.986260",
+  "reflexivity_response": "I personally do not have experience with the immigration process, and while I do work with people that have gone through it, they have never explained much of the details with me. Furthermore, I am not part of any racial minority in my country - as a result, I have a very limited view of what it is like to experience discrimination based on this as a result. I try my best to be open-minded given the sensitivity of the subject. Even though I may not go through the same struggles, I deeply sympathize with groups that struggle to fit in to society due to hateful individuals making their lives difficult.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The message does not seem directed at any particular person. That being said, the \"who this country is for\" part could be interpreted as singling out groups of people, but it seems far more general of a statement. It is a factual statement that our hospitals cannot keep up with the influx of patients that are flooding them, and this is not tied to any specific groups.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I'm not really a religious person but am highly spiritual - I feel that we are all connected in some way. I often feel for others and am always wanting to help others where I can, as much as I can.  What shaped my judgment was seeing how everyone needs help and it shouldn't be choosing a side over another but rather, finding opportunities to help others out whenever possible.\n\nIf everyone can drop aside all religions and think of the good for all, we would be living in a much more peaceful society. I highly value speaking good words, thinking good thoughts and doing good deeds and it's what I continue to embody in my daily life."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Asking who this country is for can imply that they're not sure who the general population is. I don't think it targets a specific race or ethnicity, it could very much imply age of people as well. I can see why some people might think it could be targeted but to me it seems like a general statement. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I think the poster believes that hospitals serve specific groups of people in this country, such as citizens or other eligible individuals. And some others do not have the right to receive medical services. And they post online to gain recognition and support in order to take the next step."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post appears to be focusing on the dilemna of their grandparents having to wait years to be let in, compared to others (implied to be other immigrants) potentially getting in faster. The harm here is ambiguous since it is not necessarily targeting any specific group of immigrants, but the tone is somewhat inconsiderate.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I think this post is somewhat more critical about policies than something that would be read as harmful. The second sentence, \"why should anyone get to skip that line\" is that part that may be considered harmful, but I think it would require a stretch. I think my lived experience affected how I read this post because in university we would talk a lot about policies, so I feel like this is just someone unhappy about immigration policies, not necessarily at immigration itself or a specific race.  "
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "The overall fairness of having individuals that came into this country illegally and having them be given immunity or the freedom to stay if they have resided here for so many years.  I can feeel the frustration of someone who has themselves or have had family members that  came here the legal way and had to wait and go through all of the hoops before being allowed to become a citizen"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I saw this post as likely not harmful  since it focuses on fairness in the immigration process rather than insulting a specific group of people. It feels more about frustration about policy and equal treatment, but still I can understand how some people may still feel indirectly targeted by the sentence \" skip the line\"."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The post appears to be talking about immigrants flooding the labor market and causing wages to go down as a result. The argument appears to be the idea that this influx of workers devalues labor in general due to market oversaturation. This is a real thing that can happen, but it should not be attributed as the fault of immigrants. It is likely not harmful in this context since it does not single out any groups.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "i think flooding the labor market comment is directed towards immigrants. I have heard that comment over and over again. i think having more people qualified to do different jobs should not be a problem to any economy provided everyone has equal opportunity. So this post is a little harmful for me"
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "When they say that its a basically a nicer way of what people used to say to me which you are here to steal my jobs. Except most industries in the US have a severe lack of labor force and are actively outsourcing to other countries in order to fill the cheap labor. Again just misdirected anger from political propaganda. "
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I think they are describing the general situation that's in the country right now. While it might seem that the post is targeted, it isn't necessarily. They are explaining basic economics and it could refer to anyone, whether people who are native or people who have come to the country in the recent times. "
+        }
+      ]
+    }
+  ]
+}

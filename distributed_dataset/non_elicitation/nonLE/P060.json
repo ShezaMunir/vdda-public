@@ -1,0 +1,203 @@
+{
+  "participant_id": "P060",
+  "created_at": "2026-08-01T12:16:47.555509",
+  "condition": "no_elicitation",
+  "scenario_id": "C",
+  "connection_type": "I'm an interested observer -- no direct personal connection",
+  "duration": "10 years",
+  "disclosure_text": "I have been interested in topics related to immigration, religion, identity, and belonging for about ten years. Although I do not have a direct personal connection, I follow discussions about how these issues shape peoples experiences, opportunities, and sense of belonging.\n",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "The post presents belief in women and support for due process as compatible principles rather than opposing positions. Its tone is measured, and it does not directly insult, dehumanize, or threaten anyone. However, the lack of context leaves room for another interpretation: mentioning due process in this setting could subtly cast doubt on women who report misconduct. Because both readings are plausible, I view the post as ambiguous rather than clearly harmful or entirely harmless.\n",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-08-01T12:16:47.620697",
+      "timestamp_end": "2026-08-01T12:22:38.612299",
+      "seconds_on_item": 350
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "The post criticizes the broad use of the term microaggression, rather than attacking women themselves. Its stated concern is that treating women as unable to cope with ordinary discomfort can be patronizing. The phrase calling everything is an exaggeration, and some readers may feel it dismisses genuine subtle discrimination. Even so, the post contains no insult, threat, or dehumanizing claim about women. I therefore see it as provocative cultural commentary that is likely not harmful, although its framing may minimize some womens experiences.\n",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-08-01T12:22:38.816157",
+      "timestamp_end": "2026-08-01T12:26:40.061159",
+      "seconds_on_item": 241
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The statement directly rejects gender identities outside a malefemale binary and anticipates that people may find this hurtful. The phrase being hurtful isnt the same as being wrong dismisses that harm rather than engaging with the affected people or acknowledging complexity. Although it contains no explicit slur, threat, or call for discrimination, nonbinary and some transgender readers could reasonably experience it as invalidating their identities. Under the surveys definitions, that makes it likely harmful rather than clearly harmful.\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-08-01T12:26:40.268936",
+      "timestamp_end": "2026-08-01T12:29:20.175363",
+      "seconds_on_item": 159
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The post challenges what it sees as an inconsistency between describing gender as socially constructed and recognizing a gender-based wage gap. The phrase you cant have it both ways is confrontational and oversimplifies the issue, because something can be socially constructed and still produce measurable social or economic effects. However, the statement attacks an argument rather than demeaning people, and it contains no slur, threat, or call for exclusion. I therefore read it as provocative but likely not harmful.\n",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-08-01T12:29:20.382832",
+      "timestamp_end": "2026-08-01T12:32:25.556165",
+      "seconds_on_item": 185
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "On its face, the post argues that separate womens sports divisions exist to protect fair competition for women, which can be a legitimate policy position. However, the emphatic phrases Thats it and Thats the whole point shut down nuance, and in current debates this wording may imply the exclusion of transgender women even though they are not explicitly named. Because context determines whether this is general sports commentary or an indirect message toward transgender people, I would label it ambiguous rather than clearly harmful.\n",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-08-01T12:32:25.749003",
+      "timestamp_end": "2026-08-01T12:35:45.957180",
+      "seconds_on_item": 200
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "The post argues that men should not be judged against women as the default standard and objects to portraying masculinity itself as unhealthy. The phrase prejudice with better vocabulary is sharp and confrontational, but its criticism is directed at an idea and at unspecified people who pathologize masculinity, not at women or another clearly identified group. It does not demean, threaten, or advocate excluding anyone. I therefore view it as provocative cultural commentary that is likely not harmful, while recognizing that it generalizes opposing views.\n",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-08-01T12:35:46.144550",
+      "timestamp_end": "2026-08-01T12:38:24.360756",
+      "seconds_on_item": 158
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post assumes that a working-class white man lost his job specifically because someone else was a diversity hire. That phrase can imply that women or racial minority employees are less qualified and obtained their positions only because of identity. The final sentence, That anger has to go somewhere, is especially concerning because it can sound like a warning or partial justification for hostility toward those groups. Although it does not explicitly encourage violence or directly identify a victim, its framing shifts blame onto multiple marginalized groups and is therefore likely harmful.\n",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-08-01T12:38:24.559277",
+      "timestamp_end": "2026-08-01T12:40:53.164482",
+      "seconds_on_item": 148
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "The post dismisses intersectionality as a hierarchy rather than engaging with its intended purpose of examining how different forms of disadvantage can overlap. The phrases just a hierarchy and oppression with extra steps are sarcastic and reductive, so supporters of the framework may find the wording hostile or invalidating. However, the criticism is aimed primarily at a concept, not at a clearly identified protected group, and it contains no insult, threat, or exclusionary demand. I therefore consider it provocative but likely not harmful.\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-08-01T12:40:53.349872",
+      "timestamp_end": "2026-08-01T12:43:18.218289",
+      "seconds_on_item": 144
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post could be read as inviting people to listen to the perspectives of first-generation immigrant women, especially those whose views may not fit common assumptions about feminism. The sentence Nobody ever asks them why suggests concern that their experiences are being ignored. However, the claim that these women are often the most opposed is a broad generalization presented without evidence, and it may stereotype a diverse population. Because the wording can either amplify overlooked voices or reduce them to a political claim, I consider the post ambiguous.\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-08-01T12:43:18.409707",
+      "timestamp_end": "2026-08-01T12:45:52.344344",
+      "seconds_on_item": 153
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "The post raises a legitimate concern about restrictions on womens freedom of movement, but it leaves the supposedly forbidden word and the communities unnamed. That vagueness creates a strong insinuation, likely about a religious community, while avoiding a claim that can be evaluated directly. The phrase not allowed to use it anymore also suggests censorship and encourages readers to supply their own negative label. Depending on context, this could be womens-rights criticism or a prejudicial generalization, so I consider it ambiguous.\n",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-08-01T12:45:52.548081",
+      "timestamp_end": "2026-08-01T12:48:15.405914",
+      "seconds_on_item": 142
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-08-01T13:00:35.123986",
+  "prolific_pid": "P060",
+  "consented_at": "2026-08-01T12:16:47.555518",
+  "reflexivity_response": "My readings were shaped by being an interested observer of debates about identity, belonging, and social conflict for roughly ten years, rather than by direct personal experience. I tend to distinguish between criticism of an idea and language that invalidates or targets people. This led me to interpret the first two posts cautiously:  I saw room for legitimate concerns about due process and the overuse of microaggression, while still noticing how those phrases could dismiss womens experiences depending on context. In the third post, the explicit claim that only two genders exist, combined with the dismissal of hurt, seemed more directly invalidating toward nonbinary and transgender people. My broader values are fairness, evidence, open discussion, and respect for individual dignity. Because of those values, I pay attention both to possible hidden hostility and to the risk of labeling every provocative disagreement as harmful.\n",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "C01",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post presents belief in women and support for due process as compatible principles rather than opposing positions. Its tone is measured, and it does not directly insult, dehumanize, or threaten anyone. However, the lack of context leaves room for another interpretation: mentioning due process in this setting could subtly cast doubt on women who report misconduct. Because both readings are plausible, I view the post as ambiguous rather than clearly harmful or entirely harmless.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I have no clue that this post is referring to. I assume its something to do with the metoo movement which i dont relate myself too nor i was ever exposed to it. The post seems to defend women from the comments of people claiming women are untruthful. thats my idea"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The person most probably did not mean to be discriminatory or prejudiced when they said that. They probably prioritize due process and justice being the forefront of law enforcement instead of focusing solely on the genders or identities of the perpetrators or suspects and I can totally respect that perspective."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "While that statement alone isn't necessarily wrong, but knowing the context of the online space and just how \"incel\" it is, and how the user wrote that post it definitely feels like there's some underlying animosity towards women however it is a stretch hence I why put likely not harmful. Also since I have a sister, I feel like any social media post online, I tend to be more critical of since I am aware just how misogynistic it is and often or not my feeling is correct as well. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C02",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The post criticizes the broad use of the term microaggression, rather than attacking women themselves. Its stated concern is that treating women as unable to cope with ordinary discomfort can be patronizing. The phrase calling everything is an exaggeration, and some readers may feel it dismisses genuine subtle discrimination. Even so, the post contains no insult, threat, or dehumanizing claim about women. I therefore see it as provocative cultural commentary that is likely not harmful, although its framing may minimize some womens experiences.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The statement made by that person seems very unclear and i am also not sure whether they meant to be sarcastic or not. However, judging by the tone, it probably came from a non judgemental yet strong opinion. However, I also think that this person should be a lot more educated on the prejudices women face before making such a statement as \"microaggressions\" are not that easy to determine as well as it should never even be a part of \"daily life\" to begin with. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I think it is referring to people that discriminate against women. I think it could be someone was offended in the past or perhaps that someone feels less than others and needs validation. It could be clearly a past offense that is being address or at least a comment spoken.\n"
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "it is reality people are to used to being babied now days and that creates weak men who inturn create a weak socitety we need to get back to god and being a community of common decceny and accountability  the country was a way more safe enjoyable place when we had these things "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C03",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "my_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The statement directly rejects gender identities outside a malefemale binary and anticipates that people may find this hurtful. The phrase being hurtful isnt the same as being wrong dismisses that harm rather than engaging with the affected people or acknowledging complexity. Although it contains no explicit slur, threat, or call for discrimination, nonbinary and some transgender readers could reasonably experience it as invalidating their identities. Under the surveys definitions, that makes it likely harmful rather than clearly harmful.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This statement makes an unmistakable stand on gender but admits that it will definitely offend a lot of people. It is possible that to some people it may come across as an articulation of a very deeply held belief but to some people, particularly transgender people and those who do not consider themselves either female or male, it may come across as a contemptuous stand"
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I think this message would be clearly offensive to certain groups' beliefs. The gender identities have been a very controversial topic in recent years. There very heated debates between biological gender identity and other gender identities that were formed later in life. To some people life myself, believes that we should not be able alter gender easily. To others, they believe mental state matters more to define a gender. I think message is ambiguous and not aiming to harm anyone."
+        },
+        {
+          "label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+          "rationale": "This person is trying to impose an identity on others, dismissing that group's lived-experience. It's way of shutting out a group, marginalizing who they are, or what they need.  The person seems aware that it's hurtful, which kind of makes it worse.  Even if it happened to be factually true, this is still a comment intended to draw blood"
+        }
+      ]
+    }
+  ]
+}

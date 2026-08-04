@@ -1,0 +1,203 @@
+{
+  "participant_id": "P021",
+  "created_at": "2026-07-30T16:46:42.500213",
+  "condition": "no_elicitation",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer -- no direct personal connection",
+  "duration": "10 years",
+  "disclosure_text": "My eyes have really opened up the past 10 years. I'm 62. I've always hated government. I called myself an anarchist when I was a teen and continued to into my 30s and maybe even 40s. I hated all government. What I've since realized is that it's not all government that I hate, but bad government. I considered myself a libertarian. I felt that if you did what you needed to do, whatever that is, you can get by. Because I was born privileged as a while male (although I didn't realize how privileged I was until recently), so I didn't recognize how rigged this capitalistic system is. I've always been angry -- now I feel I have a much more clear picture on who I should be angry with (wealthy capitalists that pit us against each other). Because of my privilege, I didn't realize how fucked others are. I do realize it now. I've learned a lot in the past 10 years and I realize my previous views were misguided, although I've always felt a strong connection to immigrants and marginalized groups. I grew up as a punk rocker in the early 1980s in Los Angeles, so I connected with \"lower class\" groups often. Anyway, that's a bit of me.",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "It's basically a venting post. It's asking a rhetorical question when it writes, \"...we have to ask who this country is actually for.\" The fact that a hospital is suffering and can't keep up with demand is a damning indictment on the policies of our \"leaders.\" It's sad and disgusting.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T16:46:42.579127",
+      "timestamp_end": "2026-07-30T16:49:11.881394",
+      "seconds_on_item": 149
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "It's the old, \"I had to suffer so you should have to suffer too. Why should life be any better for you than it was for me?\" And this is in part why we are in the situation that we're in -- because we want others to suffer what we had to suffer, rather than working to improve life for the generations that follow. I feel for the person who wrote this post and for their grandparents. It's sort of an ambiguous post -- what did they wait years for? I'm guessing legality as a citizen, but it's not clear. I'm just guessing. Why should anyone skip that line, they ask. What line, I ask. It's kind of a venting post, plus rhetorical post.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T16:49:12.084913",
+      "timestamp_end": "2026-07-30T16:51:34.637531",
+      "seconds_on_item": 142
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "I'm not even sure what they mean by \"when you flood a labor market, wages go down.\" What do they mena by that? The second half of that post: \"Economics doesn't care about feelings,\" clearly is true as capitalism ALWAYS puts profits before people. That's great if you're a wealthy capitalist who doesn't give a damn about his or her fellow citizens (let's me clear, almost all wealthy capitalists are men), but for the rest of us, it's a slow grind to the deathly bottom. This is a venting post not aimed at anyone in particular.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T16:51:34.832096",
+      "timestamp_end": "2026-07-30T16:54:15.068083",
+      "seconds_on_item": 160
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "This is a mild venting post, but much more ambiguous than anything. Who said there is something wrong with wanting your hometown to be recognizable? I'm guessing someone must have made such a comment or this poster wouldn't have made the post I just read. But it doesn't say much and it seems uncontroversial by nature.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T16:54:15.264764",
+      "timestamp_end": "2026-07-30T16:55:40.698913",
+      "seconds_on_item": 85
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "OK. I'm not sure what the poster is saying: \"demographic change at this pace isn't natural.\" What change are they referring to? I don't know. They didnt' tell me. I really hate this kind of post because it doesn't say anything while clearly being critical of something. Then they go, \"someone is choosing this.\" Choosing what? I don't know. They didnt' tell me. Just a very weak post. I'd encourage this poster to either say what they mean in detail, or go read a book (ha, fat chance) or watch \"reality\" tv.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T16:55:40.899061",
+      "timestamp_end": "2026-07-30T16:57:59.935607",
+      "seconds_on_item": 139
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I hate the type of person who would write this post. \"They done took our jobs,\" is the kind of person who would write this. Their rationale is that if you let one immigrant in, you'll be letting a whole family or chain of people in and we can't have that because that's what us Americans didn't sign up for. What a load of crap. I was born white in this country. I didn't sign up for capitalism. I didn't sign up for racism or sexism or being forced to live in a patriarchal society that doesn't give a fuck about future generations. This is a mild shoutout against all immigrants and as a non-immigrant, I'm fucking pissed and offended.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-30T16:58:00.145550",
+      "timestamp_end": "2026-07-30T17:01:40.511216",
+      "seconds_on_item": 220
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It's directed at European ones, but I don't see that you gave that as an option in No. 2, so I picked multiple overlapping groups. The post is so stupid, though. What the hell does that even mean, \"Every nation has the right to exist as a distinct people\"? I mean, yea, no group should be trampled on or imposed on by another group, but as a citizen of the USA, it's clear that American society is all for trampling on the rights of others, as long as it's America doing the trampling. I wonder who would have written this? Was it an American? It's clearly someone who looks down on Europeans. Someone who is reactive and probably watches fox \"news.\"",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T17:01:40.720324",
+      "timestamp_end": "2026-07-30T17:09:07.897295",
+      "seconds_on_item": 447
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This idiot poster thinks they have a chance to become the next billionaire. They are verbally attacking people who have little or nothing. The poster doesn't realize that the group they should be attacking are the ones who are making all the decisions in this country -- wealthy capitalists who don't give a damn about the poster, other than they love that the poster is misdirecting their anger toward the poor. This is why education has been so poorly funded for multiple decades -- if we had citizens capable of critical thinking, posts like this wouldn't exist (or they'd be very few). It's so obvious to me why poverty \"doesn't go away\" and it's NOT because of the poor.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-30T17:09:08.122239",
+      "timestamp_end": "2026-07-30T17:12:23.438146",
+      "seconds_on_item": 195
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "I don't even understand what this message is saying: \"Western countries are the only ones expected to dissolve their own majorities.\" It sounds like something a white supremacist with a little bit of extra education might say. It sounds like they're saying that those \"others\" are forcing white america not to be so white anymore and what a horrible thing that is. I don't see this as harmful because it's calling out \"western countries\" and that's too wide of a net to be harmful to anyone, in this case. It's just a stupid thing to say, to think, to believe. But we are a country of stupids, so it figures.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T17:12:23.711709",
+      "timestamp_end": "2026-07-30T17:14:49.445824",
+      "seconds_on_item": 145
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This is probably the most intelligent post I've read of the 10. It's true. The people who are affected most by immigration (whether it's allowing people in, or preventing them from coming in, or forcefully tossing them out of the country as we're seeing ICE do), are the working class, not the politicians. The working class is affected by everything the politicians do, but the politicians mostly are not. The system has become so screwed up that politicians are basically part of the upper class that spits on the working class. I feel this message is aimed at politicians, calling out politicians. That's how I read it.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T17:14:49.658669",
+      "timestamp_end": "2026-07-30T17:17:32.373610",
+      "seconds_on_item": 162
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-30T17:30:44.271029",
+  "prolific_pid": "P021",
+  "consented_at": "2026-07-30T16:46:42.500222",
+  "reflexivity_response": "I just read all of the other replies above and I feel each one of them has validity. I wouldn't argue vehemently against anything that I just read. My background is born white, male, in 1964, in Los Angeles. It was a time where white men in particular had tons of opportunities. I watched my father be so proud of himself when he bought a brand new cadillac in 1971. Of course, I was proud of him too. Over the years, I watched and learned as his conservative viewpoints threw mild vitriol against other groups who clearly didn't work as hard as he did. If I just work hard, I'll be able to get all these nice things too, he would tell me as he continued voting republican and in effect pulled up the ladder that helped him away from me and my generation. I've grown to absolutely despise conservatives. I can't wait for my father to die. He's 85 and I so look forward to walking this earth without his nasty soul on it. You'd like my father. He's friendly to everyone, acts as if he's caring and loving toward all groups. It's so god damn performative, even though he believes it. I could continue this rant but I wont. This is where I get my experiences, my beliefs, and my extreme anger from. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "It's basically a venting post. It's asking a rhetorical question when it writes, \"...we have to ask who this country is actually for.\" The fact that a hospital is suffering and can't keep up with demand is a damning indictment on the policies of our \"leaders.\" It's sad and disgusting.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post uses emotionally charged language: “Our hospitals can’t keep up” and “who this country is actually for.” This framing suggests that certain groups (likely immigrants or marginalized communities) are straining public resources and questions their belonging. While it doesn’t explicitly name a group, the implication is exclusionary, which can be harmful. At the same time, someone could interpret it as a general policy frustration about healthcare capacity. The ambiguity lies in whether the statement is a critique of systemic issues or a veiled attack on immigrants. The lack of specificity makes it deniable, but the phrasing strongly hints at targeting outsiders."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The problem is a perceived lack of resources, and the proposed answer is to eliminate outside competition, which makes me think this is aimed at immigrants. I think everyone deserves equal opportunities and I think the default logical response would be more along the lines of increasing service levels to meet demand."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "It is a basic question based on one specific issue created by mass immigration. It states the facts that the health care system is overwhelmed in many areas and says that we as a nation need to discuss and address the issues. I have seen this problem  in several areas I have lived in so it is personal to me."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "It's the old, \"I had to suffer so you should have to suffer too. Why should life be any better for you than it was for me?\" And this is in part why we are in the situation that we're in -- because we want others to suffer what we had to suffer, rather than working to improve life for the generations that follow. I feel for the person who wrote this post and for their grandparents. It's sort of an ambiguous post -- what did they wait years for? I'm guessing legality as a citizen, but it's not clear. I'm just guessing. Why should anyone skip that line, they ask. What line, I ask. It's kind of a venting post, plus rhetorical post.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Valid argument from a 1st generation American who is just arguing a good point from their perspective.  I totally agree with them as well might I add. Skipping the line because you think you deserve it more than other people is just invalid and arrogant. Tons of people have it worse. People like this can never be satisfied and do not assimilate to our culture. I love that we are diverse, but do it right and legally. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This persons judgement is ideally targeting immigrants and the frustration it has caused them to bear. Doing something legally and then being like stomped, when someone else entering illegally and breaking the rules and even being rewarded for it can certainly make someone like this person furious, its totally understandable. "
+        },
+        {
+          "label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+          "rationale": "While I don't deny that the subject's grandparents have gone through the legal process, it seems like they are ignoring the fact of what their grandparent had to go through to gain entry into this country. I believe their grandparent would like to shave down the restrictions for future immigrants and peoples who would like to enter this country."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "I'm not even sure what they mean by \"when you flood a labor market, wages go down.\" What do they mena by that? The second half of that post: \"Economics doesn't care about feelings,\" clearly is true as capitalism ALWAYS puts profits before people. That's great if you're a wealthy capitalist who doesn't give a damn about his or her fellow citizens (let's me clear, almost all wealthy capitalists are men), but for the rest of us, it's a slow grind to the deathly bottom. This is a venting post not aimed at anyone in particular.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "My degree is in Economics.  This is basic economics theory and is completely factual.  The way the comment is written, there is nothing in my lived experience or beliefs that would react negatively to this comment because it just seems analytical and not emotional or angry or hateful.  The comment seems more intellectual and more like someone discussing a specific economic question or policy as opposed to an attack on immigrants or any other marginalized group. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        }
+      ]
+    }
+  ]
+}

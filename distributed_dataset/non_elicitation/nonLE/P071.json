@@ -1,0 +1,203 @@
+{
+  "participant_id": "P071",
+  "created_at": "2026-05-23T15:04:45.806595",
+  "condition": "no_elicitation",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer -- no direct personal connection",
+  "duration": "4 YEARS",
+  "disclosure_text": "RELIGIOUS BELIEFS AND RACISM ARE THE ORDER OF THE DAY AND , IT IS NOT SUPPOESE TO BE . MANY HATE SPEECH BECAUSE OF YOUR ETHICAL BELIEF IS TOTALLY UNACCEPTABLE",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A specific individual",
+      "rationale": "The comment did not address the recipient in an harmful way, It is mainly someoe who is agitated about the state  of health care in the community and is raising voices to the federal government or community leaders to stand up and fix the issues that is affecting the health sector. It is basically harmless",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:04:45.884889",
+      "timestamp_end": "2026-05-23T15:10:51.384359",
+      "seconds_on_item": 365
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The person here is expressing frustration about immigration policy somehow, and how there should be fairness in legal processes. There is no FOUL language or was there any target about racial or ethniccity. I believe it is a fair statement personally. There is no violence attached nor harmful statement directed to anybody in this context. So I believe it is well structured and ethically moral to say something as clear as that.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:10:51.595031",
+      "timestamp_end": "2026-05-23T15:18:02.401585",
+      "seconds_on_item": 430
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "it does not name or attack any specific group. It talks about ecomomy, the increased labor supply. Unlike the other post that made mention about grand parent, this is just basically about the economy status in the country that needs to be attended to with unique intervention and direct influence of the government",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:18:02.615947",
+      "timestamp_end": "2026-05-23T15:25:26.633331",
+      "seconds_on_item": 444
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "This person just desire love for cultural continuity  in hometown. No hate or harmful language. jUST some one stating a preference rather than harmful content . It looks defensive ,like protecting a cultural beliefs and promoting it. Letting every one know how important it feels to indulge in cultural phenomenon",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:25:27.176964",
+      "timestamp_end": "2026-05-23T15:31:38.392693",
+      "seconds_on_item": 371
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "This personnel focuses on change process  plus decision making. Not calling anyone a bad name, no attack on race or group of people. It is just about policy and change , which many normal people discusses openly. The basic complain is just abot speed  of chang and pointing to specific group of people",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:31:38.597159",
+      "timestamp_end": "2026-05-23T15:37:55.122554",
+      "seconds_on_item": 376
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "The post is critcizing a policy and decision makers actually. It is not directly attaclking any one or making any one feel offended . It is focused on a aparticular system and what the system  those in America signed up for. THIS IS VERY COMMON POLITICAL TALKS OR DEBATE IN SOCIAL MEDIA",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:37:55.357930",
+      "timestamp_end": "2026-05-23T15:46:01.512423",
+      "seconds_on_item": 486
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "sIMPLY SAYING THAT EVERY COUNTRY AND ITS PEOPLE SHOULD BE ALLOWED TO KEEP THEIR OWN CULTURE , BELIEFS AND IDENTITY. tHAT LTHIS INCLUDES EUROPEAN COUNTRIES TOO. IT IS NOT ATTACKING OR INSULTING ANYONE, IT IS NOT CALLING FOR HARM AGAINST ANY GROUP IT IS JUST STATING THE GENERAL OBVIOUS.  ABOUT THINGS HAPPENING.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T15:46:01.716623",
+      "timestamp_end": "2026-05-23T15:50:01.815122",
+      "seconds_on_item": 240
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "THIS IS A FRUSTRATING STATEMENT ABOUT POVERTY,  I THINK IT IS JUST TALKING ABOUT THE RATE OF POVERTY IN TH COUNTRY AND HOW THE GOVERNMENT HAS DONE LITTLE OR NO HELP AT ALL TO ERADICATE IT. IT IS SIMPLY BREATHTAKING AND UNFAIR LIVING IN ABJECT POVERTY AND I COULD UNDERSTAND WHAT THE USER IS TRYING TO CMMUNICATE",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:50:02.031829",
+      "timestamp_end": "2026-05-23T15:52:10.400416",
+      "seconds_on_item": 128
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "This should be about the population in the western region . there is no hate talk, no violence talk neither is there any form of hate speech associated to any individual or grop of persons. it is a democratic way of saying what one feel about a certain region and what one believe in in order to help invove critics for better understanding.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:52:10.614725",
+      "timestamp_end": "2026-05-23T15:54:52.479706",
+      "seconds_on_item": 161
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "THIS IS LIKE TALKS ABOUT POVERTY NOT INDULGING ANY ONE, BUT SIMPLY TALIKG ABOUT POLITICS AND HOW THOSE IN POWER ARE GETTING RICHER WHILE OSTE WORKING ARE GETTING CRUMBS AND NOT LIVING LIFE AS EXPECTED. THERE IS NO HATE SPEECH OR PERSONNAL BEEF WITH ANY ONE. THE USER IS STATING THE OBVIOUS.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:54:52.713858",
+      "timestamp_end": "2026-05-23T15:57:45.941738",
+      "seconds_on_item": 173
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T16:03:57.726490",
+  "prolific_pid": "P071",
+  "consented_at": "2026-05-23T15:04:45.806606",
+  "reflexivity_response": "i JUST THINK EVERY ONE HAS A DIFFERENT BELIEF AND THAT SOME TIMES PEOPLE TALK BECAUSE OF  WHAT THEY FEEL IS RIGHT OR WRONG ABPOUT HOW OTHERS ENGATE IN ACTIVITIES. PERSONALLY THIS GIVE ME INSIGHT TO NEW EXPERIENCE AND HOW PEOPLE THINK OR MAKE DECISIONS.THIS IS HOW I FEEL AND IT SHOULD BE RATHER RESPECTED TOO, BECAUSE  IF FEELINGS ARE RESPECTED AND VALUED, IT WOULD MAKE THE WORLD A BETTER PLACE RATHER THAN A ONE FULL OF CHAOS AND INFIRMITY",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The comment did not address the recipient in an harmful way, It is mainly someoe who is agitated about the state  of health care in the community and is raising voices to the federal government or community leaders to stand up and fix the issues that is affecting the health sector. It is basically harmless",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Beliefs can change with time and experience but what can not be changed is ethical values. Good morals will always help you find goodness in everything. And will help you find a happy way to get into harmony. Acceptance doesn't come from invasion, it has to be earned with time and goodness.  I have always followed this path for my journey."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post says the hospitals cannot keep up. This part of the post alone implies somewhat broken service delivery at the hospital or the number of people needing the services outweighs what the hospital can offer. The second part of the post slightly implies that some other group maybe benefiting from the services, making service delivery for other group difficult. Though, it is not specific on the targeted group. \n"
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The post is targeting immigrants and refugees who are targeted . The post makes people believe that they should not get the service based on how scarce it is. The language makes us believe that they do not deserve it, as they are not “who the country is for”. This shapes how people look at them and view them.\n"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The person here is expressing frustration about immigration policy somehow, and how there should be fairness in legal processes. There is no FOUL language or was there any target about racial or ethniccity. I believe it is a fair statement personally. There is no violence attached nor harmful statement directed to anybody in this context. So I believe it is well structured and ethically moral to say something as clear as that.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The phrase skip the line shaped my judgement because it frames immigration as unfair rule \nbreaking rather than a complex situation. The emphasis on came here legally highlights fairness, patience, and respect for process. My views on equality, empathy, and awareness of different migration experiences influenced how I interpreted the post and its emotional tone."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Skipping the line is used here as a metaphor for describing immigrants enjoying the same benefits as those who were born here, paid their dues and their taxes. Indigenes or locals often carry the idea that immigrants must pay a certain due or reach a particular threshold before they should be allowed certain rights or benefits, like access to healthcare or voting. "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is clearly about the person's opinion on immigration, likely mass immigration as some immigrants are using loopholes to stay in the country, whereas this person's grandparents did the paperwork(allegedly) to become a legal citizen. I come from an immigrant family who did come here legally, to see that framework threatened to taken advantage of seems like a net negative but I do not know enough about these \"loopholes\" you hear about in the media to form an opinion."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "it does not name or attack any specific group. It talks about ecomomy, the increased labor supply. Unlike the other post that made mention about grand parent, this is just basically about the economy status in the country that needs to be attended to with unique intervention and direct influence of the government",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I don't know much about how it affects it besides illegal will work for less than an American would and you can pay them under the table so I think it is bad all around, but I am not sure about the minimum wage part if we are being dead honest. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The target is immigrants and refugees who comes to country to work. The post perceives this as negative and detrimental to the economy. It outlines the outcomes because of them. As a flood to the market is external and immigrants and refugees fits this criteria. It post states that economics should not have this group in the country.\n\n"
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post frames immigration in purely economic terms, using the phrase “flood a labor market” to describe the arrival of workers. That wording is loaded — “flood” suggests an overwhelming, negative force, which can be harmful when applied to people. The claim that “economics doesn’t care about feelings” dismisses human concerns and reduces immigrants to economic disruptors. However, the post does not explicitly dehumanize or incite violence; it could also be interpreted as a blunt economic argument about supply and demand in labor markets. The ambiguity lies in whether the intent is to stigmatize immigrants or to highlight a policy concern about wage dynamics."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "participant_id": "P017",
+  "created_at": "2026-05-20T13:22:38.502606",
+  "condition": "no_elicitation",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "My whole life",
+  "disclosure_text": "I have witnessed my family members who are immigrants ",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post is targeting immigrants and refugees who are targeted . The post makes people believe that they should not get the service based on how scarce it is. The language makes us believe that they do not deserve it, as they are not “who the country is for”. This shapes how people look at them and view them.\n",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-20T13:25:42.402609",
+      "timestamp_end": "2026-05-20T13:34:27.884345",
+      "seconds_on_item": 525
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post is targeted towards illegal immigrants and refugees who they claim “skipped the line”.  The post frames them as undeserving and impatience. The comparison between their grandparents makes them sound worse than they are.  They are framed as the ones taking advantage of the system in place that is used.\n\n\n\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-20T13:34:28.438329",
+      "timestamp_end": "2026-05-20T13:45:33.435328",
+      "seconds_on_item": 664
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The target is immigrants and refugees who comes to country to work. The post perceives this as negative and detrimental to the economy. It outlines the outcomes because of them. As a flood to the market is external and immigrants and refugees fits this criteria. It post states that economics should not have this group in the country.\n\n",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-20T13:45:33.623857",
+      "timestamp_end": "2026-05-20T13:50:40.966858",
+      "seconds_on_item": 307
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is targeted towards immigrants and refugees who have a different way of living. The framing used makes it sound like the country where they are from and their culture is that in par with the country. They make it sound like they should adapt to the country’s norms of living.\n",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-20T13:50:41.490898",
+      "timestamp_end": "2026-05-20T13:54:54.351932",
+      "seconds_on_item": 252
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The language used is targeting immigrants and refugees who has a different demographic than the people living in the country. The context behind it is the wording of “someone is choosing this” which are politicians who let these immigrants into the country.\nThis is seen to be artificial and not natural",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-20T13:54:54.571753",
+      "timestamp_end": "2026-05-20T13:58:11.956419",
+      "seconds_on_item": 197
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The language here used is migration which conveys to immigrants. It is saying that once an immigrant gets in, they let in their family and they will let in their family, which gets bigger and bigger. The framing is towards immigrants and in which the community did isn’t want it to happen.\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-20T13:58:12.160355",
+      "timestamp_end": "2026-05-20T14:00:15.693276",
+      "seconds_on_item": 123
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The language used is for people of European background whose rights are not heard. They value keeping the culture the same as reducing immigration.  \nThe framing used makes it sound that the voices of the Europeans and unheard on the topics on immigration and how it is impacting the country.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-20T14:00:15.917867",
+      "timestamp_end": "2026-05-20T14:05:50.100578",
+      "seconds_on_item": 334
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post is target towards immigrants and refugees who comes from a third world country where their wealth is poor compared to the country they are coming into. The framing used makes it sound like the group is worsening the conditions of the country and are the reason why the country is in poverty.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-20T14:05:50.324080",
+      "timestamp_end": "2026-05-20T14:07:49.390691",
+      "seconds_on_item": 119
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post is targeted towards immigrants and refugees. The language used here is Western countries, and in which they let in the most immigrants around the world. The framing makes it sound like this is causing the majority to dissolve and lose their identity. This frames the group as unfavourable.\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-20T14:07:49.577859",
+      "timestamp_end": "2026-05-20T14:09:53.776697",
+      "seconds_on_item": 124
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The language used here in the post is immigration policy which is targeted towards immigrants. They frame is as though immigrants are bad and cause a negative affect on the working class of the country compared to what they cost politicians to import them. They frame them as the problem in the country.\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-20T14:09:53.984015",
+      "timestamp_end": "2026-05-20T14:11:36.055009",
+      "seconds_on_item": 102
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-20T14:16:40.535918",
+  "prolific_pid": "P017",
+  "consented_at": "2026-05-20T13:22:38.502617",
+  "reflexivity_response": "I believe the background and where you grew up in can shape how someone views these posts. One might have a different opinions depending on whether they have any experiences with these topics or have friends and family who have experienced it. The values also shapes how one can perceive these posts, people have different values and that might go against of go with the posts. My experience and background is limited compared to some of these rationales who provides a more in depth reasonings.\n\n",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The post is targeting immigrants and refugees who are targeted . The post makes people believe that they should not get the service based on how scarce it is. The language makes us believe that they do not deserve it, as they are not “who the country is for”. This shapes how people look at them and view them.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area"
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I feel like this post makes it seem like some people are more worthy of health care than others, it just doesn't specify exactly who, which leaves the door open for denying actually targeting a specific group. It's still divisive language though. Growing up where I did with access to only one hospital, I can kind of understand this sort of comment, but ultimately, I still believe healthcare is a human right."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The country is for its citizens and a hospital asking that says a lot about someone not being a citizen which are new immigrants, visit, student, super and permanent visa holders. On te other hand if the context is given it can be a debate between who is this country serving liberals or conservatives"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "This post is targeted towards illegal immigrants and refugees who they claim “skipped the line”.  The post frames them as undeserving and impatience. The comparison between their grandparents makes them sound worse than they are.  They are framed as the ones taking advantage of the system in place that is used.\n\n\n\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It is very clear that the context of grandparents coming legally is given hence the post is targeted on someone who did not come legally and is getting a visa legally now. Hence the targetted groups feels like the illegal immigrants. If anyone has proper paper work i dont think they would take this post offensively"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This asks a legitimate question and ultimately brings up the issue of outdated and vague immigration policies. I feel like a comment like this makes it less about race, which is important in this context. Most of the time I hear arguments like this though, it's about Mexicans here in California, who have more of a right to this specific land than I do, so it kind of depends. "
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I would say this person is trying their best to stay as ambiguous as possible, but is secretly or not so secretly trying to push a hateful agenda against immigrants.  My experience with people who use language like this usually get more extreme the more they open up on their thoughts."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The target is immigrants and refugees who comes to country to work. The post perceives this as negative and detrimental to the economy. It outlines the outcomes because of them. As a flood to the market is external and immigrants and refugees fits this criteria. It post states that economics should not have this group in the country.\n\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "People have been saying things like this for a long time about lots of different groups that have immigrated over the years. In an economy like ours though, immigrants and people bringing more/different skills to the table is what makes us so great. I think there is enough for everyone at the table. Growing up in a farm town, there were jobs that a lot of people wouldn't or couldn't do and things would fall apart overnight without that labor."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This one actually feels a little personal - 'back in the day' I was the only woman hired on a crew of men and there was a lot of resentment that I/women were taking their jobs. I feel like this is more likely targeting immigrants or other groups they feel are flooding the labour market and find it a bit offensive - wages are dependent on a lot more things than the amount of labour available"
+        }
+      ]
+    }
+  ]
+}

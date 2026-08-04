@@ -1,0 +1,203 @@
+{
+  "participant_id": "P013",
+  "created_at": "2026-05-23T15:03:05.444022",
+  "condition": "no_elicitation",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer -- no direct personal connection",
+  "duration": "10 years",
+  "disclosure_text": "We have seen much suffering at the hands of politicians and illegal immigrants. It's hard to watch. It effects every American.",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "There are millions of illegal immigrants who were allowed to enter our country. Many have now infiltrated our school systems, are receiving welfare,  housing and free  medical assistance. This post points out that many hospitals are clogged up with these illegal immigrants and our own citizens take a back seat.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:03:05.527729",
+      "timestamp_end": "2026-05-23T15:09:53.225448",
+      "seconds_on_item": 407
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "For many years, millions of immigrants have applied for legal admission to our country. The last administration allowed millions to come in illegally. They have bypassed the normal protocol and unfairly have been let in ahead of those properly waiting on line to become legal citizens. Very unfair to those who want to follow the law.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:09:53.440155",
+      "timestamp_end": "2026-05-23T15:14:50.344796",
+      "seconds_on_item": 296
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The last administration allowed millions of illegal immigrants to enter our country. Those that are willing to work, have flooded our labor markets with cheap labor. They end up accepting lower wages than those expected by American citizens. The result is a lot of unemployed Americans that are not paying taxes and instead are living off the government. Our economy has been hurt as a result.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:14:50.557441",
+      "timestamp_end": "2026-05-23T15:19:10.587738",
+      "seconds_on_item": 260
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Because of the influx of illegal immigrants allowed into our country by the prior administration, many have infiltrated local communities. They often fail to assimilate into our culture and instead introduce their own  into our society. There is a lot of resentment due to the upheaval of the local community culture.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:19:10.810966",
+      "timestamp_end": "2026-05-23T15:22:26.436581",
+      "seconds_on_item": 195
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "There is only one group that has caused this demographic change, the Democrat party.  They have inappropriately allowed millions of illegal immigrants cross our border in hopes our increasing their base. They calculate that by offering these illegal immigrants all sorts of freebees, they assure votes  for their party. The pace is certainly not natural, it's forced.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:22:26.650553",
+      "timestamp_end": "2026-05-23T15:27:03.912560",
+      "seconds_on_item": 277
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Chain migration is the social process by which immigrants follow previously established friends, relatives, or community members to a new destination. It easily allows multitudes of immigrants, legal and illegal, into our country. Many Americans feel those policies should be drastically changed.\nThey feel it is not the American way.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:27:04.176481",
+      "timestamp_end": "2026-05-23T15:30:31.920441",
+      "seconds_on_item": 207
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Here in America  as well as many European countries, we have our ways and traditions.  Those who migrate here must assimilate to our culture and way of life. Far too often, these immigrants enter various countries throughout the world, thinking they will bring with them their own way of life.  Many people feel they are unfairly interrupting their culture and society",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:30:32.127197",
+      "timestamp_end": "2026-05-23T15:35:22.261816",
+      "seconds_on_item": 290
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "By allowing vast numbers of immigrants into our country, both legal and illegal, we are force feeding their poverty into our society. Those that come here and legitimately want to work hard, assimilate and make a future for themselves, are welcome.  Those that come and want to live off the government should not be allowed to stay.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:35:22.474111",
+      "timestamp_end": "2026-05-23T15:38:25.994493",
+      "seconds_on_item": 183
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Yes, it does seem that all of these impoverished countries send their people to western countries. Why not go to a country in need and help develop their economy and standing in the world. In other words, build it for yourself rather than moving in and living off the effort of others. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:38:26.211707",
+      "timestamp_end": "2026-05-23T15:41:27.501751",
+      "seconds_on_item": 181
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The working class always seems to suffer the most while the politicians rake in money and try to stay in power. The vast number of illegal immigrants that have come here have cost the middle class tax payers millions of dollars and debt that will stay with us for many years to come.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T15:41:27.725331",
+      "timestamp_end": "2026-05-23T15:44:19.065500",
+      "seconds_on_item": 171
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T15:53:29.375736",
+  "prolific_pid": "P013",
+  "consented_at": "2026-05-23T15:03:05.444032",
+  "reflexivity_response": "There are too many bleeding hearted liberals that mistake compassion for lack of common sense. Number one, we must follow our countries laws. Illegal is illegal. No one is above the law. When we start caring more about illegal immigrants than our own citizens, we are in trouble. We can't allow the criminality that has developed as a result of the vast numbers of illegal immigrants that have been allowed into our country. Our citizens suffer and our whole society suffers.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "There are millions of illegal immigrants who were allowed to enter our country. Many have now infiltrated our school systems, are receiving welfare,  housing and free  medical assistance. This post points out that many hospitals are clogged up with these illegal immigrants and our own citizens take a back seat.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Beliefs can change with time and experience but what can not be changed is ethical values. Good morals will always help you find goodness in everything. And will help you find a happy way to get into harmony. Acceptance doesn't come from invasion, it has to be earned with time and goodness.  I have always followed this path for my journey."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The statement, \"at some point , we have to describe who this country is actually for\" sounds pointed and judgemental towards a minority group. From personal experience, when someone points to the existing infrastructure in the locality being inadequate for the population, it is usually in the context of immigration. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "For many years, millions of immigrants have applied for legal admission to our country. The last administration allowed millions to come in illegally. They have bypassed the normal protocol and unfairly have been let in ahead of those properly waiting on line to become legal citizens. Very unfair to those who want to follow the law.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The core of this language is very much I got mine, so you don't get any, or something akin to pulling the ladder up behind you. It very much ignores the advances in technology that have happened in the past 80 years since their grandparents were immigrants, and it ignores the significantly more globalized society of today."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This asks a legitimate question and ultimately brings up the issue of outdated and vague immigration policies. I feel like a comment like this makes it less about race, which is important in this context. Most of the time I hear arguments like this though, it's about Mexicans here in California, who have more of a right to this specific land than I do, so it kind of depends. "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is clearly about the person's opinion on immigration, likely mass immigration as some immigrants are using loopholes to stay in the country, whereas this person's grandparents did the paperwork(allegedly) to become a legal citizen. I come from an immigrant family who did come here legally, to see that framework threatened to taken advantage of seems like a net negative but I do not know enough about these \"loopholes\" you hear about in the media to form an opinion."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The last administration allowed millions of illegal immigrants to enter our country. Those that are willing to work, have flooded our labor markets with cheap labor. They end up accepting lower wages than those expected by American citizens. The result is a lot of unemployed Americans that are not paying taxes and instead are living off the government. Our economy has been hurt as a result.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This shaped my judgemnt because it present immigration as overwhelming and economically harmful shaped my judgement because it presents immigration as overwhelming and economically harmful. The phrase economics doesn’t care about feelings frames the issue as purely factual and dismisses emotional or humanitarian perspectives. My beliefs about fairness, economic opportunity, and empathy influenced how I interpreted the tone and underlying message of the post."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I labelled this post as not harmful because it presents an argument based on basic economic concepts regarding labour supply an wage rates. While the phrasing is blunt and provocative, it addresses a standard policy debate about the economic impacts of immigration on the workforce. The language does not contain no hateful word or slurs."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "These are always targeted at immigrants, if the person really cared he would be fully focusing his energy at the people hiring them and not the immigrants. If there was no strong pull of work I doubt their would be any big immigration pulls, but there is  a relationship between cheap labor and wanting to hire it. I feel like comments like this add nothing to the conversation and is just used as an attack."
+        }
+      ]
+    }
+  ]
+}

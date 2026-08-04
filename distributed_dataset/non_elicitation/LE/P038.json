@@ -1,0 +1,203 @@
+{
+  "participant_id": "P038",
+  "created_at": "2026-05-23T16:12:13.910639",
+  "condition": "no_elicitation",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "1",
+  "disclosure_text": "My immigration process is not as a refugee, but it is legal. We need to enter Canada in advance so that we can understand clearly here what projects we can operate and how to operate them. No one would invest without any understanding. Therefore, during this period of early entry, we should also enjoy certain rights, such as our children receiving education and going to the hospital when sick.",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think the poster believes that hospitals serve specific groups of people in this country, such as citizens or other eligible individuals. And some others do not have the right to receive medical services. And they post online to gain recognition and support in order to take the next step.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:12:13.997001",
+      "timestamp_end": "2026-05-23T16:15:48.113299",
+      "seconds_on_item": 214
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The poster  believes that all immigrants need to spend a long time and go through a long process to legalize their status, like his grandfather. Not like now, taking shortcuts and doing it very quickly. But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:15:48.318710",
+      "timestamp_end": "2026-05-23T16:18:26.960372",
+      "seconds_on_item": 158
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T16:18:27.188997",
+      "timestamp_end": "2026-05-23T16:19:30.201757",
+      "seconds_on_item": 63
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post believes that all immigration processes should take a long time and be very lengthy in order to become legal. But in reality, not all immigration processes are that lengthy; there are relatively faster ones as well. And a faster process does not mean it is illegal or a shortcut; it is a comprehensive consideration by the government, which may seem unfair from an individual's perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:19:30.473409",
+      "timestamp_end": "2026-05-23T16:22:29.703614",
+      "seconds_on_item": 179
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post believes that all immigration processes should take a long time and be very lengthy in order to become legal. But in reality, not all immigration processes are that lengthy; there are relatively faster ones as well. And a faster process does not mean it is illegal or a shortcut; it is a comprehensive consideration by the government, which may seem unfair from an individual's perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:22:29.913363",
+      "timestamp_end": "2026-05-23T16:22:53.150266",
+      "seconds_on_item": 23
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post believes that all immigration processes should take a long time and be very lengthy in order to become legal. But in reality, not all immigration processes are that lengthy; there are relatively faster ones as well. And a faster process does not mean it is illegal or a shortcut; it is a comprehensive consideration by the government, which may seem unfair from an individual's perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:22:53.365927",
+      "timestamp_end": "2026-05-23T16:23:10.784258",
+      "seconds_on_item": 17
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post believes that all immigration processes should take a long time and be very lengthy in order to become legal. But in reality, not all immigration processes are that lengthy; there are relatively faster ones as well. And a faster process does not mean it is illegal or a shortcut; it is a comprehensive consideration by the government, which may seem unfair from an individual's perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:23:10.989546",
+      "timestamp_end": "2026-05-23T16:23:28.362515",
+      "seconds_on_item": 17
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post believes that all immigration processes should take a long time and be very lengthy in order to become legal. But in reality, not all immigration processes are that lengthy; there are relatively faster ones as well. And a faster process does not mean it is illegal or a shortcut; it is a comprehensive consideration by the government, which may seem unfair from an individual's perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:23:28.574956",
+      "timestamp_end": "2026-05-23T16:23:38.117583",
+      "seconds_on_item": 9
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post believes that all immigration processes should take a long time and be very lengthy in order to become legal. But in reality, not all immigration processes are that lengthy; there are relatively faster ones as well. And a faster process does not mean it is illegal or a shortcut; it is a comprehensive consideration by the government, which may seem unfair from an individual's perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:23:38.351440",
+      "timestamp_end": "2026-05-23T16:23:49.158223",
+      "seconds_on_item": 10
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post believes that all immigration processes should take a long time and be very lengthy in order to become legal. But in reality, not all immigration processes are that lengthy; there are relatively faster ones as well. And a faster process does not mean it is illegal or a shortcut; it is a comprehensive consideration by the government, which may seem unfair from an individual's perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T16:23:49.377891",
+      "timestamp_end": "2026-05-23T16:23:59.410295",
+      "seconds_on_item": 10
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T16:33:05.983010",
+  "prolific_pid": "P038",
+  "consented_at": "2026-05-23T16:12:13.910666",
+  "reflexivity_response": "I believe that a good immigrant already understands the mechanisms of the healthcare, education, and labor markets before immigrating. As long as they do not disrupt the labor market, healthcare and education should be personal rights to be obtained. Of course, in specific cases, there is certainly an issue of supply and demand imbalance, which is why there are now policies encouraging people to go to remote areas and take on positions in high-demand fields. However, from the decision-making level, whether a true green light has been given to these remote areas and high-demand industries and positions is also worth repeated reflection.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "I think the poster believes that hospitals serve specific groups of people in this country, such as citizens or other eligible individuals. And some others do not have the right to receive medical services. And they post online to gain recognition and support in order to take the next step.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The statement, \"at some point , we have to describe who this country is actually for\" sounds pointed and judgemental towards a minority group. From personal experience, when someone points to the existing infrastructure in the locality being inadequate for the population, it is usually in the context of immigration. "
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "There are millions of illegal immigrants who were allowed to enter our country. Many have now infiltrated our school systems, are receiving welfare,  housing and free  medical assistance. This post points out that many hospitals are clogged up with these illegal immigrants and our own citizens take a back seat."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The line \"who this country is actually for\" could be interpreted as bigoted. It doesn't necessarily call out a specific group, but it does imply that this country is \"for\" one group, and perhaps not another. But it is ultimately ambiguous, with no specific group or population being called out. \n"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The poster  believes that all immigrants need to spend a long time and go through a long process to legalize their status, like his grandfather. Not like now, taking shortcuts and doing it very quickly. But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+          "rationale": "While I don't deny that the subject's grandparents have gone through the legal process, it seems like they are ignoring the fact of what their grandparent had to go through to gain entry into this country. I believe their grandparent would like to shave down the restrictions for future immigrants and peoples who would like to enter this country."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I labelled this as not harmful because there is nothing in the statement that comes off as harmful, it is a harmless statement. The speaker is just expressing their frustration, which any human being in that position would do.  The statement does not contain any slur, or direct attacks against the group as a whole."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "The person here is expressing frustration about immigration policy somehow, and how there should be fairness in legal processes. There is no FOUL language or was there any target about racial or ethniccity. I believe it is a fair statement personally. There is no violence attached nor harmful statement directed to anybody in this context. So I believe it is well structured and ethically moral to say something as clear as that."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The post does not tell which specific group is targeted. It feels that there is an economic problem and the blame is likely on those that migrate for economic opportunities. So, it is likely harmful those individuals. It would be a call have those migrants treated in an unfair way even when they are in the country legally or not. "
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "When they say that its a basically a nicer way of what people used to say to me which you are here to steal my jobs. Except most industries in the US have a severe lack of labor force and are actively outsourcing to other countries in order to fill the cheap labor. Again just misdirected anger from political propaganda. "
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I don't think this statement is that harmful, it's one of those ambiguous statements that welcomes people to form their own opinions on what they actually mean, usually in order to incite an argument. This might be about immigration, where a bunch of, lets say, engineers are being imported and flooding the market with engineers, driving down wages. But the market for certain jobs ebbs and flows with market demands, so this could just be a generalized statement to agree with that as well. Prolific allows 100k more people to join, the amount of surveys go down. If it's targeted in that manner, who is harmed?"
+        }
+      ]
+    }
+  ]
+}

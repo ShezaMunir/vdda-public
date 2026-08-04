@@ -1,0 +1,203 @@
+{
+  "participant_id": "P101",
+  "created_at": "2026-07-31T02:42:08.206261",
+  "condition": "no_elicitation",
+  "scenario_id": "B",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "I am legal Muslim immigrant. Living 3 years in USA.",
+  "disclosure_text": "I am legal Muslim immigrant. Living 3 years in USA. We must respect country where we live and follow rules.",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "It expresses a viewpoint about the relationship between certain belief systems and a political system,. I don't think it is attacking or demeaning people because of their religion.\n\nWhether the claim is accurate is open to debate, and different people may disagree about which beliefs are or are not compatible with liberal democracy. Every person has the right expressing a general opinion about ideas, ideologies, or religions is different from promoting hatred or discrimination against individuals or groups. The statement explicitly affirms support for religious freedom and does not encourage violence, exclusion, or unequal treatment of anyone.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T02:42:08.291314",
+      "timestamp_end": "2026-07-31T02:52:36.659110",
+      "seconds_on_item": 628
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "I think this might be seen as harmful because it's talking about schools and kids. Schools should be places where every child feels included, and statements like this can make it sound like some students don't really belong because of their religion. I think that if you have special dietary requirements for religious reasons, it's mostly your or your parents' responsibility to make sure those needs are met. But at the same time, schools should also be practical. If, for example, 20% or more of the students are Muslim and can't eat pork, it seems reasonable to offer another meal option. That doesn't force anything on anyone—it just gives those kids something they can eat while everyone else can still choose what they want. Religion is your choice and you must take responsibility  for your kids and what they eat without obligation school or goverment.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T02:52:37.116919",
+      "timestamp_end": "2026-07-31T02:59:10.247260",
+      "seconds_on_item": 393
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "It could be harmful for Muslim people who pray five times a day. Once again, if you made the decision to be Muslim and pray five times a day, it is your choice, but you must also be respectful of your environment. Be considerate and do it in a private place. If you need to pray during working hours, make sure it does not interrupt anybody, and the time you spend praying should not be paid for by the employer. Even if it may seem harmful to religious people, I think it is a reasonable statement.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T02:59:10.458424",
+      "timestamp_end": "2026-07-31T03:04:03.456792",
+      "seconds_on_item": 292
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "For me this statement is not harmful. I think it is important to acknowledge history, even when it discusses differences between regions or societies. Historical events happen for many different reasons, including cultural, political, economic, and social factors, and understanding those connections helps us learn from the past. Saying that there are historical reasons why the Enlightenment began in one part of the world is not, by itself, an attack on any race or religion. As long as the discussion is based on historical evidence and not used to stereotype or discriminate against people today, I believe it is a reasonable statement rather than a harmful one.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T03:04:03.673582",
+      "timestamp_end": "2026-07-31T03:08:01.379150",
+      "seconds_on_item": 237
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "This statement is not harmful because it is asking a question about consistency and equal treatment rather than attacking a particular religion. I can understand why some Muslim people might feel that it is directed against them or that it portrays Muslims in a negative way. Anyway I think the statement is expressing an opinion and raising a question for discussion, not encouraging hatred or discrimination. People may disagree with the comparison, but asking the question itself is not inherently harmful.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T03:08:01.573286",
+      "timestamp_end": "2026-07-31T03:12:06.503588",
+      "seconds_on_item": 244
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "From my point of view this is just a statement expressing an opinion about secularism. I do not see anything inherently harmful in it. It does not directly attack or insult any religious group or encourage discrimination. It is making a point that, in a secular society, no religion should receive special treatment or be exempt from criticism.  I think it is a legitimate opinion rather than harmful content.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T03:12:06.687347",
+      "timestamp_end": "2026-07-31T03:14:29.731909",
+      "seconds_on_item": 143
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "This statement is an opinion but it oversimplifies the issue. Conservative views on gender are not limited to immigrant communities, many local people hold similar beliefs too.  I can understand why some gay or lesbian people might find the statement harmful because it refers to conservative views on gender, which are sometimes associated with negative attitudes toward LGBTQ+ people. The statement itself does not directly promote hatred or discrimination. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T03:14:29.941137",
+      "timestamp_end": "2026-07-31T03:17:57.270868",
+      "seconds_on_item": 207
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I think this statement could be harmful to gay people because it suggests that more religious diversity could put their rights at risk. Some LGBTQ people might read it as implying that certain groups are a threat to them  which can make them feel uncomfortable or excluded. In the end it is just statement.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T03:17:57.467500",
+      "timestamp_end": "2026-07-31T03:20:22.665230",
+      "seconds_on_item": 145
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "I agree with this statement. Female genital mutilation is illegal, and I think it's important to talk openly about where it is still practiced. In my opinion, pointing out a harmful and illegal practice is not the same as being Islamophobic. The focus should be on protecting girls and women, not on avoiding the topic because it might offend someone. Criticizing a practice is different from criticizing an entire religion or all of its followers.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T03:20:22.855303",
+      "timestamp_end": "2026-07-31T03:22:07.725720",
+      "seconds_on_item": 104
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one -- I don't read this as targeting anyone",
+      "rationale": "As for me this is just a statement of opinion. I don't see it as harmful because it isn't attacking or insulting any particular group. It's criticizing what the speaker believes is inconsistent behavior by some activists. People can agree or disagree with that opinion, but I see it as part of a political discussion, not as something that promotes hate or discrimination.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T03:22:07.925563",
+      "timestamp_end": "2026-07-31T03:23:28.394925",
+      "seconds_on_item": 80
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T03:26:33.699632",
+  "prolific_pid": "P101",
+  "consented_at": "2026-07-31T02:42:08.206271",
+  "reflexivity_response": "As a Muslim woman living in the United States, I respect that people have different opinions, even when I don't agree with them. Personally, I did not find these statements racist or inherently harmful. I think there is a difference between expressing an opinion and promoting hate. People should be able to discuss topics such as religion, history, immigration, and culture without immediately being labeled racist or Islamophobic. Respectful conversations, even about difficult issues, are important because they help people understand different perspectives instead of avoiding them.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "It expresses a viewpoint about the relationship between certain belief systems and a political system,. I don't think it is attacking or demeaning people because of their religion.\n\nWhether the claim is accurate is open to debate, and different people may disagree about which beliefs are or are not compatible with liberal democracy. Every person has the right expressing a general opinion about ideas, ideologies, or religions is different from promoting hatred or discrimination against individuals or groups. The statement explicitly affirms support for religious freedom and does not encourage violence, exclusion, or unequal treatment of anyone.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I am confident in my beliefs and morals within myself, throughout my life have always been truthfull and passionate in deading with difficult situations, it is a feeling of knwoing that you are able to communicate and work with others not the same as yourslef and I take great pride in that, had that very diverse background growing up wihich I believe really helped me in dealing with every days life involing many variations of diffwerent people."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "everybody should be free to practice whatever relihion they want ,It should not be based on political parties,Liberal supports individual rights which is free religion participation,IN  a situation where people are not  allowered to practice their chosen or inherited religion then there is no freedom of religion practices ,In this case people dont have their rights in order,This is against the rule of law ,People should be allowered to change and practice religion without the government being involved ,This is about freedon to beleive or practise their chosen religion "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post is clearly targetting religious communities with beliefs that may occasionnaly clash with traditional liberal democratic values. While there is no direct threat or call to harm the concerned community, there is still a clear allusion that the members of this religion are not welcome in the country. It could be perceived as more harmful depending on who is reading that post."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "I think this might be seen as harmful because it's talking about schools and kids. Schools should be places where every child feels included, and statements like this can make it sound like some students don't really belong because of their religion. I think that if you have special dietary requirements for religious reasons, it's mostly your or your parents' responsibility to make sure those needs are met. But at the same time, schools should also be practical. If, for example, 20% or more of the students are Muslim and can't eat pork, it seems reasonable to offer another meal option. That doesn't force anything on anyone—it just gives those kids something they can eat while everyone else can still choose what they want. Religion is your choice and you must take responsibility  for your kids and what they eat without obligation school or goverment.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "It sounds like they are an accommodating school system to include items that would align with students religious beliefs. This is important especially with children who do have enough money or food to be able to bring food from home. Keeping mind of status is something they probably did not think of but it is a good side effect of their decision."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I read this post primarily as a frustration with institutional policy and cultural assimilation rather than a direct, malicious attack on individuals. While the phrasing \"whose schools these are\" is provocative and territorial, it touches on a common civic debate regarding the role of secular public institutions versus religious accommodations. My perspective leans toward viewing this as a standard political grievance about public resources, rather than a statement intended to dehumanize or incite harm against a group."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post talks about religious accomodations in schools and could make some religious groups feel excluded , at the same time some people may see it as a discussion about culture or school policies, my expirience living around different cultures makes me more aware of how these topics can affect people differently"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "It could be harmful for Muslim people who pray five times a day. Once again, if you made the decision to be Muslim and pray five times a day, it is your choice, but you must also be respectful of your environment. Be considerate and do it in a private place. If you need to pray during working hours, make sure it does not interrupt anybody, and the time you spend praying should not be paid for by the employer. Even if it may seem harmful to religious people, I think it is a reasonable statement.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "the post expresses a personal opinion about balancing religious practices and workplace schedules... it also acknowledges that people have the right to pray but raises a concern about how accommodations may affect others... the wording does not attack a specific religion or goup... but it focuses more on workplace rules and fairness rather than targeting individuals..."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Yeah I would say this post is likely harmful. Again this is quite vague, but it is still marginalizing a group of people and categorizing the \"other religions\" into something they don't want to see or hear about.  I don't like it as it just seems to be placing the blame on the religious people."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "we know the post is refencing islam I believe practiced by muslims, yes they do pray 5 times daily and me personally I am fine with it, but it has only gotten to a point where it has bother me slightly and then is when I was doing some delivery work and would have to drive past a local mosque and was the only way to get to location and on fridays it was parking and traffic mayhem, it botherd a lot of people, for me not so much as I was getting paid per hour so I was fine but you see the rage and hatrred quicjkly in these types of situations  more so these days then in the past."
+        }
+      ]
+    }
+  ]
+}

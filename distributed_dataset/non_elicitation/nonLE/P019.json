@@ -1,0 +1,203 @@
+{
+  "participant_id": "P019",
+  "created_at": "2026-07-31T00:06:05.075229",
+  "condition": "no_elicitation",
+  "scenario_id": "B",
+  "connection_type": "I'm an interested observer -- no direct personal connection",
+  "duration": "a few years...",
+  "disclosure_text": "i have an interest in current events and social issues... but, i do not have a direct personal connection to these topics.. i mainly follow and learn about them thru news... discussions and general awareness..",
+  "micronarrative": "",
+  "chat_log": [],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "the post is written as an opinion about religion and politics... it does not mention a specific religion or call for harm against anyone... the wording suggest the author is making general claim and tries to justify it by saying it is an observation rather than bigotry... that is why i viewed it as likely not harmful....",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:06:05.156825",
+      "timestamp_end": "2026-07-31T00:10:00.921990",
+      "seconds_on_item": 235
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "the post discusses accommodating different religious dietary rules in schools but uses wording that questions whose schools these are... this framing can suggest resentment toward religious diversity and may make certain faith groups feel unwelcome... it does not directly threaten anyone, but it uses language that could promote exclusion or suspicion toward minority religious communities...",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:10:01.133834",
+      "timestamp_end": "2026-07-31T00:11:56.756803",
+      "seconds_on_item": 115
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "the post expresses a personal opinion about balancing religious practices and workplace schedules... it also acknowledges that people have the right to pray but raises a concern about how accommodations may affect others... the wording does not attack a specific religion or goup... but it focuses more on workplace rules and fairness rather than targeting individuals...",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:11:56.962223",
+      "timestamp_end": "2026-07-31T00:13:37.677986",
+      "seconds_on_item": 100
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "the post makes a claim about history and the enlightenment while also comparing different parts of the world... the statement does not directly mention a race, religion or specific group... but it could be interpreted in different ways depending on the context of course and also the authors intent.... the phrase thats not racism... its history suggest awareness of possible criticism... and i would say that makes the meaning somewhat unclear...",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:13:37.882912",
+      "timestamp_end": "2026-07-31T00:15:13.836523",
+      "seconds_on_item": 95
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "the post compares two situations involving religious beliefs and customer service... it raises a question about whether different groups are treated equally in public discussions... also the wording could be seen as a discussion about fairness, but it may also be interpreted as criticizing or questioning religious groups... since it does not directly attack or threaten anyone, the intent is unclear...",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:15:14.033537",
+      "timestamp_end": "2026-07-31T00:16:46.541117",
+      "seconds_on_item": 92
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "i would say that the post expresses a political opinion about secularism and how religion should be treated in society... it criticizes a groups approach to discussing religion but does not directly threaten or call for harm against anyone... the wording may be viewed as dismissive or even provocative... but it is mainly a statement of political disagreement rather than an attack...",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:16:46.736276",
+      "timestamp_end": "2026-07-31T00:18:35.267411",
+      "seconds_on_item": 108
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "the post though makes a broad claim about immigrant communities and political views on gender... it does not directly call for harm.. but it generalizes about a large and diverse group of people... the phrase the left just doesnt want to say that out loud ADDS a politcal framing and suggest criticism of another groups views... the intent could be discussion or criticism, making it somewhat ambiguous...",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:18:35.471609",
+      "timestamp_end": "2026-07-31T00:20:29.871683",
+      "seconds_on_item": 114
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "i would say that the post connects immigration, religion, and lgbtq+ rights in a way that portrays certain groups as a threat to social progess... the phrase importing more of it can be seen as suggesting that immigrants or religious groups bring harmful beliefs... it does not directly call for violence, but the framing may encourage negative attitudes toward specific communities....",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:20:30.067471",
+      "timestamp_end": "2026-07-31T00:22:02.951627",
+      "seconds_on_item": 92
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "the post discusses a specific harmful practice and also argues that talking about it should not automatically be considered prejudice... it also does not criticize all members of a religion or group but focuses on a particular practice that is illegal in many places... the wording is framed around a debate about criticism... awareness, and freedom to discuss social issues...",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:22:03.139228",
+      "timestamp_end": "2026-07-31T00:23:34.081118",
+      "seconds_on_item": 90
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "i would say that the post criticizes a group of activists and suggests they apply their beliefs inconsistently when certain people are involved... it uses a broad statement about the same activists and protected groups... which could be interpreted as political criticism... or ... as promoting distrust certain communities.. it does not directly threaten anyone... but i would say the framing is confrontational and open to inerpretation honestly...",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T00:23:34.302606",
+      "timestamp_end": "2026-07-31T00:25:20.348619",
+      "seconds_on_item": 106
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T00:31:40.303796",
+  "prolific_pid": "P019",
+  "consented_at": "2026-07-31T00:06:05.075238",
+  "reflexivity_response": "hmmm... my perspective was shaped by the way i tend to focus on the wording and intent of a post rather than assuming the worst interpretation... i looked for whether the post directly targeted a group, encouraged harm... or was mainly expressing an opinion about a policy or social issues... i also recognize that people from different backgrounds may experience the same language differently... especially when topics involve religion, identity or belonging... i do not have direct personal connection to these topics, so i approached them more as an outside observer...",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "the post is written as an opinion about religion and politics... it does not mention a specific religion or call for harm against anyone... the wording suggest the author is making general claim and tries to justify it by saying it is an observation rather than bigotry... that is why i viewed it as likely not harmful....",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post is clearly targetting religious communities with beliefs that may occasionnaly clash with traditional liberal democratic values. While there is no direct threat or call to harm the concerned community, there is still a clear allusion that the members of this religion are not welcome in the country. It could be perceived as more harmful depending on who is reading that post."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "It does seem like there is a possibility that it could be harming depending on what ideology they consider to be a threat to democracy. They stated it was just an observation but again they are not giving any specific examples to be able to form an opinion on what they are speaking about. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This post could be harmful to those reading who are part of a religious group, but those reading who are not or agree with the post would not think so. The post seems it could be directed at those who agree with the poster (potentially atheists or just those who want to keep religion out of politics) or directed at those who are part of the religious groups they are referencing. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "the post discusses accommodating different religious dietary rules in schools but uses wording that questions whose schools these are... this framing can suggest resentment toward religious diversity and may make certain faith groups feel unwelcome... it does not directly threaten anyone, but it uses language that could promote exclusion or suspicion toward minority religious communities...",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I read this post primarily as a frustration with institutional policy and cultural assimilation rather than a direct, malicious attack on individuals. While the phrasing \"whose schools these are\" is provocative and territorial, it touches on a common civic debate regarding the role of secular public institutions versus religious accommodations. My perspective leans toward viewing this as a standard political grievance about public resources, rather than a statement intended to dehumanize or incite harm against a group."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post talks about religious accomodations in schools and could make some religious groups feel excluded , at the same time some people may see it as a discussion about culture or school policies, my expirience living around different cultures makes me more aware of how these topics can affect people differently"
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Again, the poster specifically references faith.  My own value system makes me think this is a harmful and uninformed post.  If someone wants to keep kosher,  halal, vegan, or even avoid food allergies I do not see how this harms others or threatens the ability of a school to provide a good education."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "the post expresses a personal opinion about balancing religious practices and workplace schedules... it also acknowledges that people have the right to pray but raises a concern about how accommodations may affect others... the wording does not attack a specific religion or goup... but it focuses more on workplace rules and fairness rather than targeting individuals...",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "we know the post is refencing islam I believe practiced by muslims, yes they do pray 5 times daily and me personally I am fine with it, but it has only gotten to a point where it has bother me slightly and then is when I was doing some delivery work and would have to drive past a local mosque and was the only way to get to location and on fridays it was parking and traffic mayhem, it botherd a lot of people, for me not so much as I was getting paid per hour so I was fine but you see the rage and hatrred quicjkly in these types of situations  more so these days then in the past."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "It was definitely targeting a specific religious group although they initially seemed to be accepting of their prayer times.  It is directly targeting Muslim people who have scheduled prayer times. There may only be two prayer times that would affect a work schedule but typically jobs provide two breaks and a lunch break.\n"
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Again, there is a specific reference to prayer.  I will infer that the poster has a problem with Muslims, who, if devout, are required to pray 5 times daily.  This need not conflict with workplace schedules; prayers do not take very long at all and can be done during breaks and lunch -- mandated by legislation -- if the individual(s) so choose.  I first witnessed this when working at a telecom which had a dedicated prayer room for Muslims.  One was a co-worker and his prayer schedule had no impact on work."
+        }
+      ]
+    }
+  ]
+}
