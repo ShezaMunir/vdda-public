@@ -1,0 +1,247 @@
+{
+  "participant_id": "P081",
+  "created_at": "2026-05-24T00:05:41.524379",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "3 years",
+  "disclosure_text": "I’ve come across these topics a lot through social media, school, work, and conversations with different people, so they connect to my real-life experiences and the way I understand different perspectives.",
+  "micronarrative": "The tension in the town hall scene feels familiar from the polarized online debates I’ve witnessed about immigration, where economic and humanitarian arguments clash. What stands out is how language divides people—formal, data-driven posts often feel detached, while emotional, casual comments risk being dismissed as irrational. This mirrors my experience in the Caribbean, where cultural diversity exposed me to conflicting values, yet also taught me how identity shapes which perspectives feel valid. I notice how my own background informs my discomfort with rigid categorizations in such conflicts; I’ve seen how people’s lived experiences, like mine, become invisible when debates prioritize abstract arguments over individual stories. The grocery store旁的 crowd’s silent choices to engage or disengage remind me of how public spaces can become battlegrounds for belonging, where my Caribbean roots make me wary of assumptions about who “fits” in a community.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "What stood out to me first is the tension between the two groups and how emotionally charged the situation feels. It feels somewhat personal because I’ve seen similar debates about immigration in real life and online, even if I haven’t experienced a town hall like this directly."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you recall a time when you saw this kind of debate in your community or online — what was the setting, and how did it make you feel to witness it?"
+    },
+    {
+      "role": "user",
+      "content": "A recent example I recall is seeing discussions on social media during a community policy debate, where people were arguing about immigration from both economic and humanitarian perspectives. It felt tense because comments quickly became divided, and it made me feel aware of how strongly people can disagree even when talking about the same issue"
+    },
+    {
+      "role": "assistant",
+      "content": "In those online debates, did you notice differences in how people expressed their views—like formal vs. casual language, or code-switching between different groups? How did that shape the tone of the conflict?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there were clear differences in how people communicated, with some using formal, data-driven, language and others using more casual, emotional expressions. That contrast made the discussion feel more divided, because the formal tone came across as detached while the casual tone felt more personal and reactive."
+    },
+    {
+      "role": "assistant",
+      "content": "How does your own racial or ethnic identity influence how you engage with or perceive these kinds of debates — for example, in terms of whose perspectives feel validated, whose language feels exclusionary, or how your background shapes your sense of belonging in such spaces?"
+    },
+    {
+      "role": "user",
+      "content": "I once lived in the Caribbean, and that experience exposed me to a mix of perspectives shaped by different cultures and social backgrounds. It made me more aware of how identity and upbringing can influence which viewpoints people relate to or feel excluded from in debates like this."
+    },
+    {
+      "role": "assistant",
+      "content": "How does your own racial or ethnic background shape how you interpret the division between the two groups in the scenario—do you see parallels to experiences where your identity has influenced how you’re perceived or how you navigate such conflicts?"
+    },
+    {
+      "role": "user",
+      "content": "My experience living in the Caribbean has made me more aware of how identity and background can influence how people are perceived in group conflicts. It helps me see the division in the scenario as partly shaped by different lived experiences and values. It also makes me more mindful of how easily people can feel categorized or judged in heated public debates."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you ever had personal ties to the communities directly affected by policies like the temporary housing facility in the scenario — for example, through family, friendship, or lived experience — that might shape how you interpret the stakes for those involved?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The wording about our hospitals can’t keep up and who this country is actually for frames the post as a general concern about public resources rather than targeting a specific group. I interpreted it through values around fairness and access to services, which shaped my view of it as non-harmful opinion-based expression.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:14:54.420721",
+      "timestamp_end": "2026-05-24T00:16:53.561722",
+      "seconds_on_item": 119
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The phrases came here legally, waited years, and skip that line frame the post as a personal opinion about fairness in immigration processes rather than targeting a specific group. I also interpreted it through general values around rules and fairness, which influenced my view of it as non-harmful expression of perspective.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-24T00:16:53.770286",
+      "timestamp_end": "2026-05-24T00:18:37.024079",
+      "seconds_on_item": 103
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The phrases flood a labor market and economics doesn’t care about feelings frame the post as a general economic argument rather than directing harm toward a specific person or group. I interpreted it through values around debate and differing viewpoints, which shaped my view of it as a non-targeted opinion.\n",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:18:37.234785",
+      "timestamp_end": "2026-05-24T00:19:42.777444",
+      "seconds_on_item": 65
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The wording about wanting your hometown to stay recognizable comes across as a general personal feeling about change rather than directed at a specific person or group, which is why I didn’t see it as targeting anyone. I also read it through common values around familiarity and community identity, which shaped how I understood it as a non-harmful opinion.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:19:42.995776",
+      "timestamp_end": "2026-05-24T00:21:25.330983",
+      "seconds_on_item": 102
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The wording focuses on a general claim about demographic change and doesn’t single out any individual or identifiable group in a direct way, which led me to view it as non-targeted. My interpretation was also influenced by a general understanding that people often express strong opinions about social change in different ways, without it necessarily being meant as harm toward others.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-24T00:21:25.551434",
+      "timestamp_end": "2026-05-24T00:23:15.197184",
+      "seconds_on_item": 109
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The post uses broad, policy-style language about chain migration and national agreements, which made it seem like a general opinion rather than something aimed at a specific individual or group. I understood it in the context of common public debates on immigration, which shaped my view of it as non-harmful and not personally directed.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-24T00:23:15.465066",
+      "timestamp_end": "2026-05-24T00:24:39.905878",
+      "seconds_on_item": 84
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The phrase every nation has the right to exist as a distinct people frames the message in broad, ideological terms about nations rather than addressing specific individuals. I interpreted it through a general understanding of political language around national identity, which shaped my view that it references groups broadly rather than targeting harm.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-24T00:24:40.111062",
+      "timestamp_end": "2026-05-24T00:27:01.685377",
+      "seconds_on_item": 141
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The wording is framed as a general cause-and-effect statement about society and economics rather than addressing a specific person or group directly. I understood it in the context of common public discourse on immigration and poverty, which led me to see it as broad commentary rather than targeted harm instead.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-24T00:27:01.898024",
+      "timestamp_end": "2026-05-24T00:28:42.821277",
+      "seconds_on_item": 100
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The phrase Western countries are the only ones expected  frames the statement as a broad geopolitical comparison rather than directing it at a specific person or group. I interpreted it as general commentary about political expectations in different regions, which shaped my view of it as non-targeted and not harmful.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-24T00:28:43.043715",
+      "timestamp_end": "2026-05-24T00:30:22.715878",
+      "seconds_on_item": 99
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The wording focuses on general groups like working class and politicians, which made it feel like a broad political statement rather than something directed at a specific individual or group. I understood it in the context of common public discussions about policy impacts, which led me to see it as non-harmful and not targeted.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-24T00:30:22.926224",
+      "timestamp_end": "2026-05-24T00:31:41.387421",
+      "seconds_on_item": 78
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-24T00:35:22.464662",
+  "prolific_pid": "P081",
+  "consented_at": "2026-05-24T00:05:41.524410",
+  "reflexivity_response": "I approached these posts with a tendency to separate strong or emotionally charged language from direct harm or targeting. In my reading, I focused more on whether a post explicitly identified or attacked a specific group, rather than how implied language might be received by different audiences. My general value of interpreting statements as opinion-based contributions in public debates also influenced me to view them as non-targeted policy or social commentary.\n\nCompared to others, I was more cautious about labeling content as harmful, especially when the wording could be interpreted as economic or fairness-related argumentation. I also likely underestimated how phrases like flood a labor market or who this country is actually for can feel exclusionary or dehumanizing depending on lived experience. In conclusion, my perspective leaned toward neutrality and intent-focused interpretation rather than impact focused interpretation.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The wording about our hospitals can’t keep up and who this country is actually for frames the post as a general concern about public resources rather than targeting a specific group. I interpreted it through values around fairness and access to services, which shaped my view of it as non-harmful opinion-based expression.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The way it states who this country is actually for makes you wonder the degree of frustration this person is going through and what anger has brought him/her to say this. He/She is fed up accounting for others, when it should be more prioritized to helping fellow natives more in particular. "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "If hospitals can't keep up, that means there are too many people. The post was asking who it is really for, indicating that some people should not receive treatment. This is probably aimed towards immigrants, refugees, or other people who do not pay taxes or contribute to society, and thus should not use our resources, per the post."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Seeing the phrase 'who this country is actually for' feel like more than just a complaint about hospitals. To me, it seems like the post is targeting immigrants who do not belong to the country. It seems they are not accepting immigrants to their country and treating equally compared to citizens here."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The phrases came here legally, waited years, and skip that line frame the post as a personal opinion about fairness in immigration processes rather than targeting a specific group. I also interpreted it through general values around rules and fairness, which influenced my view of it as non-harmful expression of perspective.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This persons judgement is ideally targeting immigrants and the frustration it has caused them to bear. Doing something legally and then being like stomped, when someone else entering illegally and breaking the rules and even being rewarded for it can certainly make someone like this person furious, its totally understandable. "
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "When someone says my situation is this and that why can't someone else do the same? They are assuming everyone's situations is the same but a long time has passed that alone has changed the way immigrants gain legal status in the US. These people also assume the illegal immigrants aren't trying their best to gain legal status. "
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Using historic context - their grandparents had to wait years, implying it's unfair others wouldn't have to, so I'm drawing a conclusion this is about immigration or citizenship applications. It could be about something like medical treatment but I don't think that's as likely to be held up as a comparison for a problem for today.  "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The phrases flood a labor market and economics doesn’t care about feelings frame the post as a general economic argument rather than directing harm toward a specific person or group. I interpreted it through values around debate and differing viewpoints, which shaped my view of it as a non-targeted opinion.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The target is immigrants and refugees who comes to country to work. The post perceives this as negative and detrimental to the economy. It outlines the outcomes because of them. As a flood to the market is external and immigrants and refugees fits this criteria. It post states that economics should not have this group in the country.\n\n"
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post frames immigration in purely economic terms, using the phrase “flood a labor market” to describe the arrival of workers. That wording is loaded — “flood” suggests an overwhelming, negative force, which can be harmful when applied to people. The claim that “economics doesn’t care about feelings” dismisses human concerns and reduces immigrants to economic disruptors. However, the post does not explicitly dehumanize or incite violence; it could also be interpreted as a blunt economic argument about supply and demand in labor markets. The ambiguity lies in whether the intent is to stigmatize immigrants or to highlight a policy concern about wage dynamics."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "participant_id": "P028",
+  "created_at": "2026-07-30T21:41:22.986755",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "I have always cared about the welfare of others, especially those who are needing help the most. ",
+  "disclosure_text": "I am always looking to help others. I feel like it is doing how what Jesus would do in welcoming the stranger.",
+  "micronarrative": "What stands out to me is the disconnect between the sides. I wish there was an opportunity to dialogue as that would help clear up misunderstandings. I have not really bridged a divide, but I have been able to give people some things to think about. I also think that people generally want to be kind and look out for each other. In the communities where I’ve lived, most have chosen to keep their head down and not raise a stink. It is important to note that I think people want to do the right thing. People are conservative for the most part and feel that resources are too scarce to share. I think they need to recognize that there is enough out there for all. This scarcity mindset has made me want to help even more. I feel frustrated because I am limited by the money I have to help others.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "What stands out is the disconnect between the sides. I wish there was an opportunity to dialogue as that would help clear up misunderstandings  "
+    },
+    {
+      "role": "assistant",
+      "content": "When you say you wish for dialogue, does that come from a place where you’ve successfully bridged a divide like this before, or is it more of an ideal you hold?"
+    },
+    {
+      "role": "user",
+      "content": "I have not really bridged a divide, but I have been able to give people some things to think about. I also think that people generally want to be kind and look out for each other."
+    },
+    {
+      "role": "assistant",
+      "content": "In the communities where you’ve lived, what specific cultural norms or local values usually dictate whether people engage in that kind of kindness or choose to keep their heads down?"
+    },
+    {
+      "role": "user",
+      "content": "Most have chosen to keep their head down and not raise a stink. It is also important to not that I think that people want to do the right thing."
+    },
+    {
+      "role": "assistant",
+      "content": "In the specific places you've lived, what local customs or social pressures usually make \"keeping your head down\" the safer or more expected choice?"
+    },
+    {
+      "role": "user",
+      "content": "People are conservative for the most part and feel that resources are too scarce to share. I think they need to recognize that their is enough out ther for all."
+    },
+    {
+      "role": "assistant",
+      "content": "How has growing up in a community where resources are viewed as scarce shaped your own relationship to economic security or labor?"
+    },
+    {
+      "role": "user",
+      "content": "It  has made me want to help even more. I feel frustrated because I am limited by the money I have to help others."
+    },
+    {
+      "role": "assistant",
+      "content": "How does that financial limitation specifically shape the way you navigate conversations about resource distribution or aid?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The words \"who is this country for\" clearly is aimed at saying that it is not for immigrants. The poster is scared that community resources are stretched too thin, but it is possible to find a way if we looked a bit deeper and were kinder. It is important to uplift the stranger and improve our community throgh adding diverse voices.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T21:48:47.884377",
+      "timestamp_end": "2026-07-30T21:52:21.205789",
+      "seconds_on_item": 213
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is pointed language about doing it the right way. There are multiple right ways to immigrate to a country. Some choose to come, yes, but others are forced due to persecution and need a place to normalize their lives and become contributors. It is also not about what has happened before what is going to happen.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T21:52:21.420694",
+      "timestamp_end": "2026-07-30T21:55:15.043224",
+      "seconds_on_item": 173
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "It talks about flooding a labor market which is not the case here. There is room in this economy to find a job for all. wages stay the same, so there's some flawed reasoning and an evil assumption that these refugees are just their to take work. This flawed economic view needs to be reassessed and talked through so the poster can see the flaw.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T21:55:15.245649",
+      "timestamp_end": "2026-07-30T21:57:38.034714",
+      "seconds_on_item": 142
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The word recognizable is doing a lot of hateful work here. What this means, in my opinion, is that the poster wants it to stay white. There is space in all place to be inclusive of the voices that can make the place even better. It is also framing this as a wrong and a right which is black and white thinking.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T21:57:38.238145",
+      "timestamp_end": "2026-07-30T21:59:42.250910",
+      "seconds_on_item": 124
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "THe idea of \"Someone is choosing this\" is implying that there is a coordinated effort to replace the existing culture. This poster is obviously posting from a place of wanting to cause fear. It also important to note that demographics do change, and to blame it on something else is disregarding human lives.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T21:59:42.456938",
+      "timestamp_end": "2026-07-30T22:02:21.106183",
+      "seconds_on_item": 158
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The specific language in this case is the whole second sentence. The United States was built on immigration, even illegal immigration it could be considered. To say that immigration is not American is clearly tring to other those in most need of our help.  If they would consider the history, the poster would see this hypocrisy ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T22:02:21.319037",
+      "timestamp_end": "2026-07-30T22:05:53.673660",
+      "seconds_on_item": 212
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Distinct people and nation is doing a lot of language work in this post and contradicts a lot of my held beliefs. The US is clearly made from the labor of all groups contributing. To say that this nation is one distinct people seems silly to say out loud, and I wonder at the thinking of the poster..",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T22:05:53.864648",
+      "timestamp_end": "2026-07-30T22:11:18.233412",
+      "seconds_on_item": 324
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is dehumanizing language being used by the poster to imply that migrant populations have nothing of value to add to our nation. This nation was also founded on the ideals that all people are created equal, and we are required to help lift others in need if they are not capable of raising themselves. This includes all vulnerable populations.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T22:11:18.438840",
+      "timestamp_end": "2026-07-30T22:14:18.606601",
+      "seconds_on_item": 180
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is based on the false premise that the majotries need to maintain their station. It seems to me that the poster in this case is worried that people who look like the poster may face mistreatment if a majority is not held, which makes it seems like minoritized populations face negative treatment. ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T22:14:18.795894",
+      "timestamp_end": "2026-07-30T22:16:53.814403",
+      "seconds_on_item": 155
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This post portrays politicians creating a crisis through their immigration policy. This seems to be making them the problem rather than the refugees and the migrants. This is better language to me because it puts the blame on the policy rather than the people. Policy can be adapted to uplift all and that is very important.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T22:16:53.999798",
+      "timestamp_end": "2026-07-30T22:21:03.036999",
+      "seconds_on_item": 249
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-30T22:25:38.647689",
+  "prolific_pid": "P028",
+  "consented_at": "2026-07-30T21:41:22.986804",
+  "reflexivity_response": "My trend was to find most of the post either directly or indirectly harmful to the immigrant population. THis seems to me I was looking to protect this vulnerable population, so I was proactive in reading into the posts. I also could see how the others annotations could be read as not being harmful or directed at policy. It still ignores what I see to be the issue, which is that people need to step up and help the people who are needing support that are coming into the United states.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The words \"who is this country for\" clearly is aimed at saying that it is not for immigrants. The poster is scared that community resources are stretched too thin, but it is possible to find a way if we looked a bit deeper and were kinder. It is important to uplift the stranger and improve our community throgh adding diverse voices.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "It's basically a venting post. It's asking a rhetorical question when it writes, \"...we have to ask who this country is actually for.\" The fact that a hospital is suffering and can't keep up with demand is a damning indictment on the policies of our \"leaders.\" It's sad and disgusting."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The post is targeting immigrants and refugees who are targeted . The post makes people believe that they should not get the service based on how scarce it is. The language makes us believe that they do not deserve it, as they are not “who the country is for”. This shapes how people look at them and view them.\n"
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This post reflects the genuine frustration surrounding overcrowded hospitals. It raises a critical question about the social contract: who should the government prioritize when resources are tight. This is an issue the government really needs to face. Because hospitals are funded by taxpayers, officials must seriously think about accountability when resources are limited.\n"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "This is pointed language about doing it the right way. There are multiple right ways to immigrate to a country. Some choose to come, yes, but others are forced due to persecution and need a place to normalize their lives and become contributors. It is also not about what has happened before what is going to happen.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I labelled this as not harmful because there is nothing in the statement that comes off as harmful, it is a harmless statement. The speaker is just expressing their frustration, which any human being in that position would do.  The statement does not contain any slur, or direct attacks against the group as a whole."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post frames immigration in terms of fairness, contrasting the writer’s grandparents’ legal process with others who may not follow the same path. The phrase “skip that line” implies that some immigrants are bypassing rules, which can be seen as delegitimizing or stigmatizing undocumented immigrants. However, the post doesn’t use dehumanizing language or overt hostility; instead, it appeals to fairness and rule-following. This makes it ambiguous: some readers may see it as a legitimate policy concern, while others may interpret it as harmful because it implicitly casts certain immigrant groups as undeserving. The harm depends on whether one identifies with the targeted group or views the statement as a critique of immigration policy."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I think this post is somewhat more critical about policies than something that would be read as harmful. The second sentence, \"why should anyone get to skip that line\" is that part that may be considered harmful, but I think it would require a stretch. I think my lived experience affected how I read this post because in university we would talk a lot about policies, so I feel like this is just someone unhappy about immigration policies, not necessarily at immigration itself or a specific race.  "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "It talks about flooding a labor market which is not the case here. There is room in this economy to find a job for all. wages stay the same, so there's some flawed reasoning and an evil assumption that these refugees are just their to take work. This flawed economic view needs to be reassessed and talked through so the poster can see the flaw.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "while it presents itself as an objective economic observation, the framing of immigrants as a 'flood' a dehumanizing metaphor is a common trope used to stir hostility. As an immigrant, I recognize this language; it reduces complex socioeconomic realities to a simple, exclusionary narrative that blames new arrivals for systemic issues like wage stagnation. It is provocative and harmful because it invites readers to view human beings as threats to their financial security, rather than as participants in the economy. by my own experience navigating the labor market makes me particularly sensitive to how such rhetoric is used to justify discrimination."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This message seems to be directed at multiple groups and how many people go into the same areas of focus and that shifts how the economy views these areas as its a constantly moving factor based on demand and supply and that the feelings associated with this arent valid to have"
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I'm not even sure what they mean by \"when you flood a labor market, wages go down.\" What do they mena by that? The second half of that post: \"Economics doesn't care about feelings,\" clearly is true as capitalism ALWAYS puts profits before people. That's great if you're a wealthy capitalist who doesn't give a damn about his or her fellow citizens (let's me clear, almost all wealthy capitalists are men), but for the rest of us, it's a slow grind to the deathly bottom. This is a venting post not aimed at anyone in particular."
+        }
+      ]
+    }
+  ]
+}

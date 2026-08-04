@@ -1,0 +1,247 @@
+{
+  "participant_id": "P018",
+  "created_at": "2026-08-01T04:00:48.882545",
+  "scenario_id": "C",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "my whole life",
+  "disclosure_text": "as a black sexuality and gender identity marginalized individual with immigrant status i'm deeply affected",
+  "micronarrative": "I am immediately wondering what this professor means by identity politics. I first encountered that phrase in my sociological research during my university academic work. It particularly came up in my criminology course which noted the way it interplays with society's need to find an other. I grew up in the south after emigrating from canada as a young child. I was a part of a west indian community in canada so my otherness wasn't as pronounced as when i moved to the south and challenged everyone's understanding of blackness. This shift shaped my early understanding of who constituted the other, contrasting the relative ease of my Canadian upbringing with the complex negotiations of identity I faced in the South. The scenario’s heated exchanges resonate with this history of defining and challenging boundaries of belonging.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there a moment, a feeling, or a person in it you find yourself drawn to?"
+    },
+    {
+      "role": "user",
+      "content": "i'm immediately wondering what this professor means by identity politics."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you first encounter that phrase, and who was using it in your life?"
+    },
+    {
+      "role": "user",
+      "content": "i first encountered that phrase in my sociological research during my university academic work"
+    },
+    {
+      "role": "assistant",
+      "content": "What was the specific cultural or geographic context of that research, and how did the local norms there shape the way \"identity politics\" was discussed?"
+    },
+    {
+      "role": "user",
+      "content": "it particularly came up in my criminology course which noted the way it interplays with society's need to find an other"
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you grow up, and how did the cultural norms of that place shape your early understanding of who constituted \"the other\"?"
+    },
+    {
+      "role": "user",
+      "content": "i grew up in the south after emigrating from canada as a young child"
+    },
+    {
+      "role": "assistant",
+      "content": "How did that transition from Canada to the South shift your understanding of who was considered \"the other\" in your daily life?"
+    },
+    {
+      "role": "user",
+      "content": "i was a part of a west indian community in canada so my otherness wasn't as pronounced as when i moved to the south and became challenged everyone's understanding of blackness"
+    },
+    {
+      "role": "assistant",
+      "content": "How did that specific challenge to local definitions of Blackness manifest in your daily interactions or schooling?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "This posits that believing women and due process are already mutually exclusive when that's inaccurate.  believing women grants the accused the best chance for due process where a jury of his peers in rape culture will probably help stop him from seeing any appropriate consequences. This is a form of patriarchy.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:11:28.190762",
+      "timestamp_end": "2026-08-01T04:15:55.246397",
+      "seconds_on_item": 267
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "Women being able to acknowledge and identify potential microaggressions without disbelief is far from treating them like they can't handle life, but actually empowering because it posits that you are willing to believe and trust women to understand and appropriately express themselves. It is very misogynistic to believe that women cannot accurately identify microaggressions in their life. If it seems like there are a lot, it's not because the women can't understand their environment.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:15:55.792430",
+      "timestamp_end": "2026-08-01T04:21:10.769800",
+      "seconds_on_item": 314
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "Well, apart from being scientifically and sociologically inaccurate. Perhaps in one's very specific community, gender is only understood  in such a narrow definition, but that is not a universal experience. The vast majority of that understanding is from forced colonization of white capitalistic heteropatriarchy. humanity could never be boxed in that way.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:21:11.273323",
+      "timestamp_end": "2026-08-01T04:25:26.011197",
+      "seconds_on_item": 254
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I'm laughing  because yes, exactly. It's all made up. The wage gap is decided by arbitrarily rich men.  Gender is determined randomly from day to day. High heels and teaching were only for men until they weren't because to be honest none of that matters. Humans made it up to put certain people on top and other followed along with it because it was easier than asking questions but none of it's real.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:25:26.490459",
+      "timestamp_end": "2026-08-01T04:29:46.338338",
+      "seconds_on_item": 259
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "Very inaccurate. Women's sports exists because misogyny and patriarchy exists and men felt insecure anytime a woman would beat them at sports so they insisted upon gender divides so if they lost it'd be at least to other men. I feel like it's more likely that a cis woman will beat a cis man at sports than a trans woman will beat cis woman. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:29:46.828674",
+      "timestamp_end": "2026-08-01T04:33:22.557695",
+      "seconds_on_item": 215
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I don't understand. What does it mean to treat men like broken women? Masculinity as a pathology is exactly what feminists are fighting against. Bioessentialism is not feminist. Masculinity is no more inherently dangerous than femininity. Patriarchy ranking masculinity as better than femininity is where the issue lies. Masculinity is not inherently better, more logical, etc.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:33:22.739897",
+      "timestamp_end": "2026-08-01T04:36:53.850136",
+      "seconds_on_item": 211
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Of course you can be mad when you don't get a job, but being mad at a diversity hire seems ridiculous considering how much effort goes into being a diversity hire. You have to be the very best from an incredibly small pool of applicants. That doesn't mean you can't be mad, you just can't generalize against a group that historically has extreme difficulty even getting to the same position where they can be hired or rejected based on something as random as diversity.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:36:54.293598",
+      "timestamp_end": "2026-08-01T04:39:53.053693",
+      "seconds_on_item": 178
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This is a deep misunderstanding of intersectionality founded on a basis of insecurity that encourages racism, homophobia, misogyny, and any other number of systemic prejudices. There is nothing wrong with acknowledging the way that identity has been used to abuse and mistreat people over the years. It's simply a framework.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:39:53.265515",
+      "timestamp_end": "2026-08-01T04:43:55.256265",
+      "seconds_on_item": 241
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is inaccurate. They say no one asks first generation immigrant women why they feel that way, but a better question would be whether or not they actually feel that way. Who has decided that this is the truth for immigrant women? As and immigrant woman, i do not agree.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:43:55.762035",
+      "timestamp_end": "2026-08-01T04:48:11.031525",
+      "seconds_on_item": 255
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This seems like it could be targeted at Muslim communities, i.e., Sharia Law. But to be honest it could just as easily be directed as Christian, Jewish, or non \"Abrahamic\" religions. Misogyny is a language understood worldwide. It is easy to subject people when they are in a vulnerable state for nine months.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T04:48:11.527802",
+      "timestamp_end": "2026-08-01T04:50:33.760744",
+      "seconds_on_item": 142
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-08-01T05:02:21.069116",
+  "prolific_pid": "P018",
+  "consented_at": "2026-08-01T04:00:48.882587",
+  "reflexivity_response": "i stand by my previous assessments and in a world where roe vs wade was over turned, where a man like trump is president, it's concerning that they can't identify dog whistles against marginalized groups. it always starts very understanding and with a  fair explanation against an unknown other. but a world where people are allowed to be themselves, where they are supported and sustained. people thrive best in a world where they don't have to worry about necessities then they can identify the divisions created by the powers that be.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "C01",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "This posits that believing women and due process are already mutually exclusive when that's inaccurate.  believing women grants the accused the best chance for due process where a jury of his peers in rape culture will probably help stop him from seeing any appropriate consequences. This is a form of patriarchy.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Thw article supports the protection of accusers as well as justice through the legal process; both of which are viewed as compatible rather than contradictory measures. the style of writing is clear and non-threatening, showing a desire to ease a tense situation. My interpretation of this article may very well be colored by my own preference for balance rather than any real-world experience"
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The comment implies a discussion about women accusing men of sexual misconduct. While the comment seems unbiased and rational, wanting a court trial's opinion on the situation before fully believing an accusation, it fails to take into account the justice system's proven history of being biased towards men. The comment has plausible deniability, but is ultimately misogynist."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The person most probably did not mean to be discriminatory or prejudiced when they said that. They probably prioritize due process and justice being the forefront of law enforcement instead of focusing solely on the genders or identities of the perpetrators or suspects and I can totally respect that perspective."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C02",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "Women being able to acknowledge and identify potential microaggressions without disbelief is far from treating them like they can't handle life, but actually empowering because it posits that you are willing to believe and trust women to understand and appropriately express themselves. It is very misogynistic to believe that women cannot accurately identify microaggressions in their life. If it seems like there are a lot, it's not because the women can't understand their environment.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I think it is referring to people that discriminate against women. I think it could be someone was offended in the past or perhaps that someone feels less than others and needs validation. It could be clearly a past offense that is being address or at least a comment spoken.\n"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It does not support the use of the notion of “microaggressions” because its misuse weakens women’s position. Even if it is making a generalization regarding women and can be considered disrespectful for some people, it does not dehumanize women and make anyone hate them. It is my understanding of this blog entry based on my balancing perspective and observing discussions in public forums"
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Nothing i dont bring my views into my judgments i make or religion .I just hear each side to whats going on that make a decision. You can make one till you hear all whats going on.After hearing all sides that you can say something.Best to let it all soak in."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C03",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "Well, apart from being scientifically and sociologically inaccurate. Perhaps in one's very specific community, gender is only understood  in such a narrow definition, but that is not a universal experience. The vast majority of that understanding is from forced colonization of white capitalistic heteropatriarchy. humanity could never be boxed in that way.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I think this message would be clearly offensive to certain groups' beliefs. The gender identities have been a very controversial topic in recent years. There very heated debates between biological gender identity and other gender identities that were formed later in life. To some people life myself, believes that we should not be able alter gender easily. To others, they believe mental state matters more to define a gender. I think message is ambiguous and not aiming to harm anyone."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This statement makes an unmistakable stand on gender but admits that it will definitely offend a lot of people. It is possible that to some people it may come across as an articulation of a very deeply held belief but to some people, particularly transgender people and those who do not consider themselves either female or male, it may come across as a contemptuous stand"
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This comment may piss a couple of people off. we live in a more open world now and comments like these cannot be made out loud even if those are your thoughts. there are more constructive ways to pass across your point without hurting other people. the LGBTQ+ community will definitely not appreciate this comment."
+        }
+      ]
+    }
+  ]
+}

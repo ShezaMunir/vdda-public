@@ -1,0 +1,239 @@
+{
+  "participant_id": "P066",
+  "created_at": "2026-05-12T02:33:07.127285",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "4 years",
+  "disclosure_text": "I am an immigrant who recently became a citizen to Canada. I immigrated in 2022 and completed my B.Ed this year and looking to contribute in Education sector of Ontario",
+  "micronarrative": "I immigrated to Canada in 2022, and I must say, the experience of navigating the immigration process was both challenging and rewarding. I worked very hard to get my degrees and gain the necessary work experience to score enough points in the Comprehensive Ranking System (CRS) to secure a permanent residence. The idea of someone bypassing these processes and entering illegally just to take a spot that could have gone to someone who followed the rules seems unfair. \n\nGrowing up in India, I witnessed the rise of islamophobia, which has been exacerbated by the government and some citizens. Many are looking to leave the country, but the procedure to do so must be followed. Settling illegally cannot be justified. \n\nAdapting to life in a new country has its own set of challenges. I had to slow down my speech and get used to the eurocentric pronunciation of vowels. My 'r's are still hard, and sometimes my 'a's are not as long as they should be. Interestingly, I've noticed that immigrants who arrived in their teenage years tend to maintain their native accent, while younger immigrants often adapt more quickly to the eurocentric accent. \n\nDespite the difficulties, I feel a strong sense of belonging in my new community. The journey has been tough, but it has also been an opportunity to grow and contribute to a new society.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "I am not in favor of illegal immigration or immigration without proper paperwork through being an immigrant myself who immigrated in 2022. With proper immigration processes followed the eurocentric countries gives visas and are looking for skilled labour"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a bit more about your experience with immigration processes and how that shapes your perspective on this scenario?"
+    },
+    {
+      "role": "user",
+      "content": "I worked very hard to get my degrees and work experience to gain enough points in my CRS score to get a permanent residence. Anyone illegally travelling and taking a spot and visa is unfair"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about where you grew up and how that influenced your perspective on immigration and the current scenario?"
+    },
+    {
+      "role": "user",
+      "content": "I grew up in India, I agree that India is a country where islamophobia is growing and is being supported by the govt, citizens of India are looking to flee the country. But there is a procedure to be followed. Settling illegally cannot be justified"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share an experience where you had to navigate different languages or dialects in your interactions with immigration officials or in your community? How did that affect your perspective on the current scenario?"
+    },
+    {
+      "role": "user",
+      "content": "i do have to speak slower and get used to the eurocentric short and long vowel sounds to make myself clearly understandable but I never had to change the dialect. My 'r's are still hard and 'a's are sometimes not pronounced as long 'a'"
+    },
+    {
+      "role": "assistant",
+      "content": "How do you think your experience with navigating different languages and dialects might influence how you interpret the tension between the two groups at the town hall meeting?"
+    },
+    {
+      "role": "user",
+      "content": "Immigrants that have arrived after their teenage tend to persist their native english accent where as younger immigrants adapt to the eurocentric accent"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you recall a specific moment when you felt the pressure to choose a side or keep your head down in a similar situation, perhaps related to your immigration experience or another context?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The country is for its citizens and a hospital asking that says a lot about someone not being a citizen which are new immigrants, visit, student, super and permanent visa holders. On te other hand if the context is given it can be a debate between who is this country serving liberals or conservatives",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-12T02:43:47.778057",
+      "timestamp_end": "2026-05-12T02:47:04.448955",
+      "seconds_on_item": 196
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "It is very clear that the context of grandparents coming legally is given hence the post is targeted on someone who did not come legally and is getting a visa legally now. Hence the targetted groups feels like the illegal immigrants. If anyone has proper paper work i dont think they would take this post offensively",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-12T02:47:05.003598",
+      "timestamp_end": "2026-05-12T02:50:05.076835",
+      "seconds_on_item": 180
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post is clearly about economics. But when labor jobs are seen the most labor jobs are occupied by immigrants because their skill set needs brushing of the country they immigrated to. After paying for several costs of coming to a new country immigrants cannot spend more on brushing their skills. hence they settle for labor jobs that require less skills even though they are way overqualified. When spoken about the Labor market one is directly speaking to the population dominating that field",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-12T02:50:05.262083",
+      "timestamp_end": "2026-05-12T02:53:23.892617",
+      "seconds_on_item": 198
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "It really depends on who is speaking here. Obviously eurocentric countries are dominated by white people and they consider themselves and their features to be native to this land though it is not the case. When they talk about a land being recognizable it can be about the landscape but it also indirectly refers to the new population because of whom there are changes being seen. may be it refers to the culture, food and people that immigrants are bringing from their country to diversify the white culture.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-12T02:53:24.117603",
+      "timestamp_end": "2026-05-12T02:56:26.621910",
+      "seconds_on_item": 182
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "A demographic change is being talked about but it is no being talked about in a good or bad sense. It looks like a very neutral statement where someone's decision to increase immigration in a country is being held responsible. Whether this decision is good or bad is not clearly written in this post",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T02:56:26.830157",
+      "timestamp_end": "2026-05-12T02:58:07.192823",
+      "seconds_on_item": 100
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This statement is clearly referring  to inviting immigrants to satisfy the needs of the country but restricting their loved ones to join them. So on one hand where Americans are signing up to invite immigrants to settle and serve them at the same time they do not want that they should have equal rights as the citizens",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-12T02:58:07.391955",
+      "timestamp_end": "2026-05-12T03:01:08.138318",
+      "seconds_on_item": 180
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I understand the importance of preserving culture, religion, language, or traditions from my own homeland. I value multiculturalism but also respect a country’s desire to maintain social cohesion and shared identity. Just like hat all white people from different cultures belong to communities trying to preserve their heritage without being influenced by any other culture",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T03:01:08.331115",
+      "timestamp_end": "2026-05-12T03:05:09.874799",
+      "seconds_on_item": 241
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "When they talk about importing poverty it can be a governments own decisions to import things from other country that can be easily produced in their own. hence instead of creating jobs in their own country they choose to employ workers of other countries this can be one of the meanings of importing poverty. Also when weapons are exchanged which are nothing but a result of capitalism that can also be termed as importing poverty",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T03:05:10.060009",
+      "timestamp_end": "2026-05-12T03:07:49.346496",
+      "seconds_on_item": 159
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Demographic change happens in many regions worldwide due to migration, urbanization, economics, and globalization, not only in Western countries. Also, multicultural societies like Canada officially promote the idea that national identity can evolve while still maintaining shared civic values. As an immigrant, hearing statements like this feels complicated and feels like we are being told to go back. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-12T03:07:49.544492",
+      "timestamp_end": "2026-05-12T03:10:14.739264",
+      "seconds_on_item": 145
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Immigrants are also part of the working class and often face the hardest economic conditions themselves same as the citizens of the country that they immigrated to, immigration can help economies grow, fill labor shortages, and support aging populations Economic inequality is influenced by many factors besides immigration, such as wages, corporate practices, housing policy, and government spending.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-12T03:10:14.929046",
+      "timestamp_end": "2026-05-12T03:12:49.026765",
+      "seconds_on_item": 154
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-12T03:15:09.903322",
+  "prolific_pid": "P066",
+  "consented_at": "2026-05-12T02:33:07.127354",
+  "reflexivity_response": "My background as an immigrant and someone who has experienced starting over in a new country strongly shaped how I interpreted these posts. I tend to separate criticism of immigration policy, economics, or government systems from direct hate toward immigrants themselves. Because I have personally seen the financial, emotional, and professional struggles immigrants face, I often look for the underlying concern being expressed rather than immediately assuming malicious intent. For example, I know many immigrants work in labor-intensive jobs despite being highly educated because of barriers like credential recognition and financial pressures. That experience made me read some comments more as discussions about economics, fairness, or policy than direct attacks on immigrants. At the same time, I also recognize that certain phrases can carry hidden meanings or make immigrants feel unwelcome, especially when ideas about “who the country is for” are mentioned. My values around empathy, fairness, and lived experience likely made me focus more on context and intent rather than only the emotional impact of the wording.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The country is for its citizens and a hospital asking that says a lot about someone not being a citizen which are new immigrants, visit, student, super and permanent visa holders. On te other hand if the context is given it can be a debate between who is this country serving liberals or conservatives",
+      "others_count": 2,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area"
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "my identity and beliefs, values played  a role . growing up in a diverse community may have made me more understanding towards people from different background. also being aware of issues of housing ,shortages .my values around fairness , respect and empathy evolved during my transition period living here and navigating life all alone with my family."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "It is very clear that the context of grandparents coming legally is given hence the post is targeted on someone who did not come legally and is getting a visa legally now. Hence the targetted groups feels like the illegal immigrants. If anyone has proper paper work i dont think they would take this post offensively",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The core of this language is very much I got mine, so you don't get any, or something akin to pulling the ladder up behind you. It very much ignores the advances in technology that have happened in the past 80 years since their grandparents were immigrants, and it ignores the significantly more globalized society of today."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Using historic context - their grandparents had to wait years, implying it's unfair others wouldn't have to, so I'm drawing a conclusion this is about immigration or citizenship applications. It could be about something like medical treatment but I don't think that's as likely to be held up as a comparison for a problem for today.  "
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The phrase skip the line shaped my judgement because it frames immigration as unfair rule \nbreaking rather than a complex situation. The emphasis on came here legally highlights fairness, patience, and respect for process. My views on equality, empathy, and awareness of different migration experiences influenced how I interpreted the post and its emotional tone."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The post is clearly about economics. But when labor jobs are seen the most labor jobs are occupied by immigrants because their skill set needs brushing of the country they immigrated to. After paying for several costs of coming to a new country immigrants cannot spend more on brushing their skills. hence they settle for labor jobs that require less skills even though they are way overqualified. When spoken about the Labor market one is directly speaking to the population dominating that field",
+      "others_count": 2,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "People have been saying things like this for a long time about lots of different groups that have immigrated over the years. In an economy like ours though, immigrants and people bringing more/different skills to the table is what makes us so great. I think there is enough for everyone at the table. Growing up in a farm town, there were jobs that a lot of people wouldn't or couldn't do and things would fall apart overnight without that labor."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This one actually feels a little personal - 'back in the day' I was the only woman hired on a crew of men and there was a lot of resentment that I/women were taking their jobs. I feel like this is more likely targeting immigrants or other groups they feel are flooding the labour market and find it a bit offensive - wages are dependent on a lot more things than the amount of labour available"
+        }
+      ]
+    }
+  ]
+}

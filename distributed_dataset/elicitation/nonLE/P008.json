@@ -1,0 +1,247 @@
+{
+  "participant_id": "P008",
+  "created_at": "2026-05-23T19:42:26.422377",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "a couple of years here and there as I have moved a few times. I have lived  at times in a couple of  areas that have had both legal and illegal immigrants living close by and many quikie marts around my area are owned and operated by recent immigrants",
+  "disclosure_text": "same. I have lived  at times in a couple of  areas that have had both legal and illegal immigrants living close by and many quikie marts around my area are owned and operated by recent immigrants. I have known a number of Americans that were overlooked for jobs because of visa programs and several that had to train their replacements. ",
+  "micronarrative": "The scenario’s framing feels lopsided to me. In my experience, locals who attend city council meetings rarely hold protests; those who do are often the ones shouting, waving signs, and disrupting sidewalks. I don’t see the “local” label as fixed—it shifts depending on who shows up and how. When people speak calmly in meetings, presenting facts without yelling, I listen. But loud protests feel performative, even if the message isn’t. I’ve noticed online how voices gain traction based on followers or platforms, not just merit.  The tension isn’t just about migrants or borders. It’s about law and order and the health and safety of the local citizens not the illegals that the gov't bussed in and used our money to house and support illegals who are not local citizens.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "it is biased in it's portrayal of the two sides"
+    },
+    {
+      "role": "assistant",
+      "content": "How did the values or conflicts in your own community shape your view of which groups get labeled as \"local\" versus \"outsiders\" in situations like this?"
+    },
+    {
+      "role": "user",
+      "content": "what I see is the opposite. Local citizens typically attend town and city council meetings and don't hold protests. the other side usually protests and they are angry loud and trying to incite violence and usually harassing people walking by"
+    },
+    {
+      "role": "assistant",
+      "content": "How does the way people speak — whether in meetings versus protests — shape how you perceive their legitimacy or intentions in conflicts like this? Have you noticed differences in how language is used in formal versus public spaces?"
+    },
+    {
+      "role": "user",
+      "content": "I just focus on the facts presented. as long as they are not screaming and hollering and are presenting their view. people have different speaking styles"
+    },
+    {
+      "role": "assistant",
+      "content": "How has your own experience with different work environments or economic roles shaped how you see who gets heard in public debates?"
+    },
+    {
+      "role": "user",
+      "content": "I have seen citizens from up and down the economic spectrum expressing their views especially on social media. I guess whatever their reach is is who gets heard."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have personal connections to people who find themselves"
+    },
+    {
+      "role": "user",
+      "content": "repeat the question?"
+    },
+    {
+      "role": "assistant",
+      "content": "…in positions where their ability to be heard depends on their social media reach or economic status? Have you seen this affect real people you know?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It is a basic question based on one specific issue created by mass immigration. It states the facts that the health care system is overwhelmed in many areas and says that we as a nation need to discuss and address the issues. I have seen this problem  in several areas I have lived in so it is personal to me.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T20:08:46.145265",
+      "timestamp_end": "2026-05-23T20:33:40.168754",
+      "seconds_on_item": 1494
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It is a general statement posed to the public as a whole. Anyone can answer from any perspective that they have.  My family dates back to the founders and fought every war so it is not specifically directed at me. It is a part of my family's belief system and values though that immigrants need to  abide the legal restrictions of our immigration system and not commit fraud or come here illegally.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T20:33:40.716969",
+      "timestamp_end": "2026-05-23T20:37:47.727573",
+      "seconds_on_item": 247
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "seems a general statement on immigration made to the general public.  it resonates with me and other American citizens because it is basic economics. It follows my belief about not bringing in foreign cheap labor, often illegal or fraudulent to replace taxpaying citizens of our own country. fair wages are a belief and a value",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T20:37:47.932818",
+      "timestamp_end": "2026-05-23T20:42:09.878094",
+      "seconds_on_item": 261
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "it is a general statement  delivered to the general public. In my belief system our communities evolved over time to be set up and managed for it's citizens. the people that founded and grew and defended the community though thick and thin.. as in fought and died for them.  looks mean overall culture and the way the area is taken care of.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T20:42:10.087067",
+      "timestamp_end": "2026-05-23T20:45:10.700083",
+      "seconds_on_item": 180
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "the statement is made about who created and is implementing the policies on this issue. but it is a general statement to the public expressing an opinion. In my experience this is a legitimate question for the public to discuss. For example, whether or not gov't agencies are funneling our tax dollars to outside groups, catholic charities, for example to fund mass migration. This would go against my beliefs and values.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T20:45:10.916906",
+      "timestamp_end": "2026-05-23T20:53:48.042222",
+      "seconds_on_item": 517
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It seems aimed at gov't policies surrounding immigration, both legal and illegal. It states what many have witnessed and I have as well in a couple of jobs. So I have seen it personally and it goes against my values of right and wrong and fraudulent abuse of the community citizens that have to pay more locally to support the influx.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T20:53:48.259817",
+      "timestamp_end": "2026-05-23T20:57:32.439191",
+      "seconds_on_item": 224
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "it is a general statement on what a nation actually is and who should manage it, citizens or foreign interests. Being a veteran from a family with a long line of veterans dating back to our founding and then as long as history of europe makes it salient for me.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T20:57:32.651045",
+      "timestamp_end": "2026-05-23T20:59:55.599224",
+      "seconds_on_item": 142
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "We, as in a society, country, community is directing this to everyone. It is salient to my identity and values because it is common sense. Personally, experiencing mine and others collapse of salaries and wages all while being taxed more to provide public services to an expanding population is contrary to the beliefs of most if not all American taxpayers.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T20:59:55.821429",
+      "timestamp_end": "2026-05-23T21:05:00.325421",
+      "seconds_on_item": 304
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "it seems to be targeted at those implementing the immigration policies of mass migration. also those groups that support it or media for example that produces pro mass immigration policies. Specifically those that call everybody \"racist\" when it isn't a race issue. I see the question as pointing out hypocrisy.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T21:05:00.541888",
+      "timestamp_end": "2026-05-23T21:08:07.097532",
+      "seconds_on_item": 186
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "it is a fairly straight forward statement about the harms of past immigration policies. It is salient for me because I have seen it personally. It has been a part of my life in several areas I have lived in.  graft, grift, fraud, corruption of politicians deeply crosses with my belief system.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:08:07.322147",
+      "timestamp_end": "2026-05-23T21:11:27.431131",
+      "seconds_on_item": 200
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T21:16:13.870816",
+  "prolific_pid": "P008",
+  "consented_at": "2026-05-23T19:42:26.422406",
+  "reflexivity_response": "In this context the others are considering speech as harmful. which is a whole other debate than just the immigration issue. but in the context of immigration and policies and impacts and citizens vs mass immigration it is just that the people benifitting from immigration do not want to hear any criticisms and just call any criticism racist or \"hate speech\" to shut down any and all debate and opposition. Free speech is the most fundamental value, belief, moral, and law that our country was founded on and citizens believe it is absolute and cannot be controlled by foreign or business interests.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "It is a basic question based on one specific issue created by mass immigration. It states the facts that the health care system is overwhelmed in many areas and says that we as a nation need to discuss and address the issues. I have seen this problem  in several areas I have lived in so it is personal to me.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I think the poster believes that hospitals serve specific groups of people in this country, such as citizens or other eligible individuals. And some others do not have the right to receive medical services. And they post online to gain recognition and support in order to take the next step."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The way it states who this country is actually for makes you wonder the degree of frustration this person is going through and what anger has brought him/her to say this. He/She is fed up accounting for others, when it should be more prioritized to helping fellow natives more in particular. "
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This post reflects the genuine frustration surrounding overcrowded hospitals. It raises a critical question about the social contract: who should the government prioritize when resources are tight. This is an issue the government really needs to face. Because hospitals are funded by taxpayers, officials must seriously think about accountability when resources are limited.\n"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "It is a general statement posed to the public as a whole. Anyone can answer from any perspective that they have.  My family dates back to the founders and fought every war so it is not specifically directed at me. It is a part of my family's belief system and values though that immigrants need to  abide the legal restrictions of our immigration system and not commit fraud or come here illegally.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "For many years, millions of immigrants have applied for legal admission to our country. The last administration allowed millions to come in illegally. They have bypassed the normal protocol and unfairly have been let in ahead of those properly waiting on line to become legal citizens. Very unfair to those who want to follow the law."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "There has been  a trend lately when people were using fake papers, experience to immigrate. A lot of other families struggle to immigrate , find jobs, get residence. People get frustrated that others are not honest, but get things done faster. It was much more difficult to immigrate earlier than now."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Using historic context - their grandparents had to wait years, implying it's unfair others wouldn't have to, so I'm drawing a conclusion this is about immigration or citizenship applications. It could be about something like medical treatment but I don't think that's as likely to be held up as a comparison for a problem for today.  "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "seems a general statement on immigration made to the general public.  it resonates with me and other American citizens because it is basic economics. It follows my belief about not bringing in foreign cheap labor, often illegal or fraudulent to replace taxpaying citizens of our own country. fair wages are a belief and a value",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+          "rationale": "It does sound dismissive and targeted toward immigrants who supposedly ‘flood’ the labor market. The statement comes across as cold and shifts the blame onto immigration rather than the broader economic system.\n\nThe phrasing ‘when you flood a labor market, wages go down’ sounds accusatory. Almost like, ‘What else did you expect?’ While it’s framed as a factual statement, especially with ‘economics doesn’t care about feelings,’ I do think there’s an underlying bias in the wording and tone."
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The last administration allowed millions of illegal immigrants to enter our country. Those that are willing to work, have flooded our labor markets with cheap labor. They end up accepting lower wages than those expected by American citizens. The result is a lot of unemployed Americans that are not paying taxes and instead are living off the government. Our economy has been hurt as a result."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "People have been saying things like this for a long time about lots of different groups that have immigrated over the years. In an economy like ours though, immigrants and people bringing more/different skills to the table is what makes us so great. I think there is enough for everyone at the table. Growing up in a farm town, there were jobs that a lot of people wouldn't or couldn't do and things would fall apart overnight without that labor."
+        }
+      ]
+    }
+  ]
+}

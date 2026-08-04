@@ -1,0 +1,247 @@
+{
+  "participant_id": "P072",
+  "created_at": "2026-07-31T13:04:53.680541",
+  "scenario_id": "B",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "I have only been involved in other countries on a humanitarian level.",
+  "disclosure_text": "Through our charity’s StormAid Foundation and World Peace One Charity, we constantly work with or along side of immigrants whom have been displaced due to natural events or disasters..",
+  "micronarrative": "To be totally blunt and honest, the thing that stands out to me first is just how fast social media as a whole can completely distort a local business's day-to-day reality over something so harmless. It's really disheartening to see a simple celebration weaponized like that, but I'll admit the neighborhood that is rallying together with a buy-out day, gives me a whole lot of hope. Living in a world where online outrage spreads like wildfire feels pretty uncomfortable to me, especially seeing people physically show up for one another is always a very nice reminder of actual community spirit, human kindness, and true compassion. Growing up juggling different ways of speaking or switching between groups definitely makes you hyper-aware of how context and tone change everything. You pick up on subtle cues pretty quickly, so when you see people online completely misreading or twisting someone's words, it's pretty frustrating to watch. That hyper-awareness makes it pretty clear how fast a wave of bad-faith twisted reviews can hit a small business right in the wallet.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something that resonates personally, or something that feels uncomfortable or foreign?"
+    },
+    {
+      "role": "user",
+      "content": "To be totally blunt and honest, the thing that stands out to me first is just how fast social media as a whole can completely distort a local business's day-to-day reality over something so harmless.. It's really disheartening to see a simple celebration weaponized like that, but I'll admit the neighborhood that is rallying together with a buy-out day, gives me a whole lot of hope.. Living in a world where online outrage spreads like wildfire feels pretty uncomfortable to me, especially seeing people physically show up for one another is always a very nice reminder of actual community spirit, human kindness, and true compassion.."
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned that online outrage feels uncomfortable to you; can you share a specific memory of a time when you witnessed or experienced that kind of digital distortion affecting someone you knew?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, exactly, it really feels like watching a wildfire start from a single spark just because someone wanted an audience.. It's tough because it makes you realize how fragile a reputation can be online when people are so quick to jump on a bandwagon without knowing the whole story, or any of the story many times.."
+    },
+    {
+      "role": "assistant",
+      "content": "When you say people jump on the bandwagon without knowing the story, do you find that the specific words or tone used in those initial posts change how you interpret the intent behind them?"
+    },
+    {
+      "role": "user",
+      "content": "That was totally, a sarcastic or overly dramatic tone can completely skew how people read the intent, turning a simple comment into something way more malicious than it was meant to be.. Once that tone is set, it's like everyone else just runs with it without looking any deeper.."
+    },
+    {
+      "role": "assistant",
+      "content": "How does your own linguistic background or experience with code-switching shape how you navigate those tonal shifts in digital spaces?"
+    },
+    {
+      "role": "user",
+      "content": "Well, growing up juggling different ways of speaking or switching between groups definitely makes you hyper-aware of how context and tone change everything.. You pick up on subtle cues pretty quickly, so when you see people online completely misreading or twisting someone's words, it's pretty frustrating to watch.."
+    },
+    {
+      "role": "assistant",
+      "content": "How does that hyper-awareness of tone influence how you assess the economic risk to the bakery in this scenario?"
+    },
+    {
+      "role": "user",
+      "content": "Well, that hyper-awareness makes it pretty clear how fast a wave of bad-faith twisted reviews can hit a small business right in the wallet, especially when people are voting with their wallets out of pure anger.. On the flip side, though, it also means you can spot when a community counter-movement has that genuine grassroots energy to actually bail them out and keep the doors open.."
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned spotting genuine grassroots energy; have you ever been part of a collective action where your own economic contribution felt like a direct counter to systemic pressure?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A religious community",
+      "rationale": "Honestly, dressing up plain old prejudice as a \"civic observation\" is such an obvious trick to keep plausible deniability while punching down.. Having to navigate different cultural spaces and code-switch my whole life makes those subtle dog-whistles stick out like a sore thumb.. Sweeping an entire group under the rug by claiming they're \"incompatible w/ democracy\" isn't a smart take, it's just a slick way to make exclusion sound sophisticated..",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:20:19.041287",
+      "timestamp_end": "2026-07-31T13:23:33.318975",
+      "seconds_on_item": 194
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A religious community",
+      "rationale": "Asking \"whose schools these are\" over basic dietary accommodations is such a cheap way to draw an us-versus-them line and make kids and families feel like outsiders.. Oh and growing up navigating different cultural spaces, you get really good at spotting how people weaponize public spaces to say, \"you don't actually belong here..",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:23:33.495790",
+      "timestamp_end": "2026-07-31T13:26:49.832446",
+      "seconds_on_item": 196
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "Starting a sentence with \"I have no problem with...\" is such a transparent shield to dodge getting called out while still complaining. Framing a basic accommodation like it's some huge imposition on \"everyone else\" just pits coworkers against each other.. Moving through different spaces and dealing with subtle code-switching makes it so easy to spot how this kind of talk paints ordinary routines as burdens just because they belong to a minority group..",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T13:26:50.010628",
+      "timestamp_end": "2026-07-31T13:28:48.144647",
+      "seconds_on_item": 118
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Dismissing racial hierarchy claims by calling them \"history\" instead of racism is a tired playbook for pushing supremacist ideas under the guise of an objective lesson.. Having to navigate different cultural spaces, I instantly catch how this kind of euro centric framing paints entire parts of the world as inherently backward to prop up a biased worldview..",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:28:48.324893",
+      "timestamp_end": "2026-07-31T13:30:16.928480",
+      "seconds_on_item": 88
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A religious community",
+      "rationale": "This post uses a classic whataboutisms, dragging in an unverified or rare hypothetical scenario just to deflect from valid civil rights conversations.. Growing up navigating different cultural spaces, I see right through this kind of bad-faith framing, it's designed to pit marginalized groups against each other and paint minorities as hypocrites under the radar..",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:30:17.114846",
+      "timestamp_end": "2026-07-31T13:32:37.040078",
+      "seconds_on_item": 139
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Hiding behind the concept of secularism to complain about double standards is a sneaky way to punch down while acting like an impartial defender of free speech.. Growing up navigating different cultural spaces, I notice how people use buzzwords like \"special status\" to turn defensive about being held accountable, framing basic respect for marginalized traditions as some kind of unfair favoritism..",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T13:32:37.250876",
+      "timestamp_end": "2026-07-31T13:34:31.034335",
+      "seconds_on_item": 113
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Sweeping generalizations about immigrants being backward on gender are a classic wedge tactic used to make minority communities look inherently regressive.. Navigating those different cultural spaces makes it obvious how this kind of bad-faith framing weaponizes progressive values just to demonize immigrants and shut down super real, and nuanced conversations..",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:34:31.223300",
+      "timestamp_end": "2026-07-31T13:37:08.287699",
+      "seconds_on_item": 157
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "By using phrases like \"importing more of it\" reduces entire groups of human beings to commodities or pollutants, which is a textbook xenophobic dog whistle.. Moving through diverse spaces, it's easy to spot how this rhetoric pits queer communities against immigrants by falsely painting all newcomers as intolerant monoliths just to push an anti-immigration agenda..",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:37:08.456784",
+      "timestamp_end": "2026-07-31T13:38:54.052445",
+      "seconds_on_item": 105
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A religious community",
+      "rationale": "Tying a horrific practice exclusively to one religion while defensively declaring \"it's not Islamophobia\" is a transparent way to shield bigotry under the guise of human rights.. Navigating diverse spaces, you learn to spot how people weaponize real issues to paint an entire faith group as inherently barbaric while dodging accountability for prejudice..",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:38:54.246605",
+      "timestamp_end": "2026-07-31T13:39:59.080137",
+      "seconds_on_item": 64
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "Throwing around phrases like \"protected group' is a classic bad-faith tactic designed to twist social justice concepts into a weapon against marginalized peoples..  Growing up navigating different cultural spaces, you learn to spot how people use manufactured hypocrisy claims to pit social movements against each other and undermine support for victims..",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:39:59.279537",
+      "timestamp_end": "2026-07-31T13:41:20.833211",
+      "seconds_on_item": 81
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T13:43:03.888893",
+  "prolific_pid": "P072",
+  "consented_at": "2026-07-31T13:04:53.680574",
+  "reflexivity_response": "Moving through different cultures and having to constantly code-switch yourself just teaches you to read between the lines.. While other folks might look at these posts and see innocent debates about policy or tradition, my background makes those subtle dog-whistles stick out immediately.. When someone wraps up prejudice in polite phrasing or starts with a defensive shield like \"I have no care in the world, but...\", my lived experience helps me spot the real goal: telling marginalized people they don't actually belong here..",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "Honestly, dressing up plain old prejudice as a \"civic observation\" is such an obvious trick to keep plausible deniability while punching down.. Having to navigate different cultural spaces and code-switch my whole life makes those subtle dog-whistles stick out like a sore thumb.. Sweeping an entire group under the rug by claiming they're \"incompatible w/ democracy\" isn't a smart take, it's just a slick way to make exclusion sound sophisticated..",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post talks about religion in a broad negative way which may make some people uncomfortable, however it does not directly insult a group , because i grew up around different cultures and religions i tend to read these kinds of comments carefully and think about how different people may interpret them differently"
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "the post is written as an opinion about religion and politics... it does not mention a specific religion or call for harm against anyone... the wording suggest the author is making general claim and tries to justify it by saying it is an observation rather than bigotry... that is why i viewed it as likely not harmful...."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I am confident in my beliefs and morals within myself, throughout my life have always been truthfull and passionate in deading with difficult situations, it is a feeling of knwoing that you are able to communicate and work with others not the same as yourslef and I take great pride in that, had that very diverse background growing up wihich I believe really helped me in dealing with every days life involing many variations of diffwerent people."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "Asking \"whose schools these are\" over basic dietary accommodations is such a cheap way to draw an us-versus-them line and make kids and families feel like outsiders.. Oh and growing up navigating different cultural spaces, you get really good at spotting how people weaponize public spaces to say, \"you don't actually belong here..",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "the post discusses accommodating different religious dietary rules in schools but uses wording that questions whose schools these are... this framing can suggest resentment toward religious diversity and may make certain faith groups feel unwelcome... it does not directly threaten anyone, but it uses language that could promote exclusion or suspicion toward minority religious communities..."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post talks about religious accomodations in schools and could make some religious groups feel excluded , at the same time some people may see it as a discussion about culture or school policies, my expirience living around different cultures makes me more aware of how these topics can affect people differently"
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This specific comment doesn't necessarily say anything harmful, but it is vague in the notion that it alludes to who it is talking about. As in, it is saying that anyone else's fate but the original poster is wrong or out of place in the school. I would say this is likely harmful to those people."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "Starting a sentence with \"I have no problem with...\" is such a transparent shield to dodge getting called out while still complaining. Framing a basic accommodation like it's some huge imposition on \"everyone else\" just pits coworkers against each other.. Moving through different spaces and dealing with subtle code-switching makes it so easy to spot how this kind of talk paints ordinary routines as burdens just because they belong to a minority group..",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "The post is not harmful since the author expressed his concern on the negative effects of pray behavior on the workplace schedules. The author did not question the behavior itself, like the phrase 'I have no problem with people praying five times a day', which shaped my judgement that it targeted in a specific group rather than a person."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I kind of agree with the statement, but I also know that it is harmful. Everyone should understand that workplace needs policies. Religion has to be followed for sure, but we need to comply with workplace policies as well. People need to understand and conform themselves as well for good workplace ethics."
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is obviously targetting members of the muslim community. The tone is very critical towards the number of daily prayers, and while it is likely not harmful and more critical -- there is no call to harming -- there is still some level of animosity due to the \"I do have a problem\" part of the post. "
+        }
+      ]
+    }
+  ]
+}

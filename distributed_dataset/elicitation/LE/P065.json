@@ -1,0 +1,181 @@
+{
+  "participant_id": "P065",
+  "created_at": "2026-05-07T21:50:38.619138",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "5 years",
+  "disclosure_text": "I am an immigrant who came to Canada as a student for further mu education, so immigration has been a major challenge i have  faced since i moved here trying to maintain residency and also from the minority group.",
+  "micronarrative": "In 2022 and 2023, Canada welcomed a record number of international students, and the influx brought with it a wave of concerns about housing, rising costs, and low-wage jobs. As a citizen, I felt the pressure firsthand. In my community, there were banners and local resources, but the reality was that the strain on housing and healthcare was palpable. Some people felt that immigrants were to blame, while others believed the federal government needed better planning.\n\nI noticed that my communication style had to change depending on the group I was speaking to. With locals, I spoke more slowly, avoided large words, and paid more attention to body language and tone. With more diverse groups, I had to become more direct and balanced. This experience definitely polished how I communicated with different groups. It taught me that effective communication is not just about speaking the same language but also understanding people's emotions and backgrounds.\n\nI had to become more adaptable with my words, recognizing that people view situations differently. Now, I approach conversations with more openness and flexibility, listening carefully without making assumptions. This has made me a more empathetic and effective communicator.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "This is on my personal experience  level and similar situations have happened here in Canada where the citizens are concerned about the number of temporary resident that was welcome into the country raising concerns  of limited housing, rising cost of living and low wages jobs."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific memory from your time in Canada where you felt a similar tension between community concerns and support for migrants?"
+    },
+    {
+      "role": "user",
+      "content": "In 2022 -2023 that record the most welcomed number of international students in Canada. with banners of local resources for local and we before before they. there was pressure on housing  healthcare . some people felt immigrants were to be blamed other felt the federal government needed better planning."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe a moment when you had to navigate different registers or languages in a situation like the one described in the scenario? How did that affect how you communicated with different groups?"
+    },
+    {
+      "role": "user",
+      "content": " I noticed the way i communicated had to chanage depending on the group i was speaking to .I spoke more slowly  avoided large words and paid more attention to body language and tone.\nMy communication style became more direct  and balanced."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give an example of a time when your communication style had to adapt in a similar way, perhaps when interacting with people who had different levels of English proficiency or different cultural backgrounds?"
+    },
+    {
+      "role": "user",
+      "content": "The experience definitely  polished how i communicated with different groups. it taught me that effective communication is not just about speaking the same language buy also understanding peoples emotion, background. i has to become more adaptable with my words."
+    },
+    {
+      "role": "assistant",
+      "content": "Reflecting on your experiences, how do you think your background and the ways you've navigated different communities shape the lens through which you would read and interpret scenarios like the one we discussed?"
+    },
+    {
+      "role": "user",
+      "content": "I have become more aware that people view different situation differently. so right now i approach   with more openess and flexibility and i listen carefully without making assumption"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing your insights. Your lived experience has undoubtedly shaped how you engage with and interpret such scenarios."
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "my identity and beliefs, values played  a role . growing up in a diverse community may have made me more understanding towards people from different background. also being aware of issues of housing ,shortages .my values around fairness , respect and empathy evolved during my transition period living here and navigating life all alone with my family.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T22:15:08.552860",
+      "timestamp_end": "2026-05-07T22:21:35.447165",
+      "seconds_on_item": 386
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The phrase skip the line shaped my judgement because it frames immigration as unfair rule \nbreaking rather than a complex situation. The emphasis on came here legally highlights fairness, patience, and respect for process. My views on equality, empathy, and awareness of different migration experiences influenced how I interpreted the post and its emotional tone.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T22:21:35.715166",
+      "timestamp_end": "2026-05-07T22:25:37.613533",
+      "seconds_on_item": 241
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This shaped my judgemnt because it present immigration as overwhelming and economically harmful shaped my judgement because it presents immigration as overwhelming and economically harmful. The phrase economics doesn’t care about feelings frames the issue as purely factual and dismisses emotional or humanitarian perspectives. My beliefs about fairness, economic opportunity, and empathy influenced how I interpreted the tone and underlying message of the post.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T22:25:37.818622",
+      "timestamp_end": "2026-05-07T22:28:03.938603",
+      "seconds_on_item": 146
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "there is nothing wrong in wansting your home it reflect my values about cultural change , identity and belonging with a community. The wording feels emotional and personal rather than openly hostile. My own values around community, inclusion, and respecting people’s attachment to familiar environments influenced how I interpreted the post and its underlying concern about change.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T22:28:04.147739",
+      "timestamp_end": "2026-05-07T22:30:20.925037",
+      "seconds_on_item": 136
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The wording made me feel like the speaker is uneasy about how quickly their community is changing and believes these changes are being intentionally driven by people in power. Phrases like is not natural gave the post a suspicious tone. My own experiences with different communities and my belief in understanding multiple perspectives shaped how I emotionally interpreted the message.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T22:30:21.138286",
+      "timestamp_end": "2026-05-07T22:31:41.196557",
+      "seconds_on_item": 80
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "the deal Americans signed up for shaped my judgement because it frames immigration as a broken agreement and suggests people are taking more than what was originally intended. The wording feels critical and concerned about fairness and system limits. My values around accuracy, fairness, and understanding how policies actually work influenced how I read the claim and its tone.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T22:31:41.406797",
+      "timestamp_end": "2026-05-07T22:32:46.389307",
+      "seconds_on_item": 64
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "this statement, it frames nations in terms of fixed cultural or ethnic identity, which can imply boundaries between groups rather than shared civic belonging. Adding “Even European ones” also signals a defensive or corrective tone. My values around pluralism, human rights, and civic nationalism influenced how I interpret the idea of national identity and its implications.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T22:32:46.612571",
+      "timestamp_end": "2026-05-07T22:34:08.406375",
+      "seconds_on_item": 81
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "it reduces people to an economic label and implies immigrants are inherently linked to negative outcomes. The wording also frames migration as a cause of persistent social problems without acknowledging broader structural factors. My values around fairness, evidence-based reasoning, and avoiding dehumanizing language influenced how I interpreted the claim. and its harmful",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T22:34:08.612874",
+      "timestamp_end": "2026-05-07T22:35:15.547601",
+      "seconds_on_item": 66
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "intentional erasure of a dominant group, which frames demographic change as loss rather than transformation. The word only adds a sense of unfair treatment compared to other regions. My perspective on demographic change, equality, and the importance of distinguishing policy choices from identity-based narratives influenced how I interpreted the statement and its underlying concern.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T22:35:15.750161",
+      "timestamp_end": "2026-05-07T22:36:18.931076",
+      "seconds_on_item": 63
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The wording made me focus on how immigration policy is often felt more directly by everyday workers than by the politicians who design it. The contrast between “working class and politicians highlights a gap between lived experience and decision-making. My sense of fairness and attention to whose voices are most affected shaped how I understood the statement.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T22:36:19.110803",
+      "timestamp_end": "2026-05-07T22:37:12.693498",
+      "seconds_on_item": 53
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-07T22:37:12.898457",
+  "prolific_pid": "P065",
+  "consented_at": "2026-05-07T21:50:38.619292"
+}

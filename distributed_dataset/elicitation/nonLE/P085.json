@@ -1,0 +1,247 @@
+{
+  "participant_id": "P085",
+  "created_at": "2026-05-22T18:27:21.197397",
+  "scenario_id": "A",
+  "connection_type": "I work or study in this area professionally or academically",
+  "duration": "my whole life",
+  "disclosure_text": "religion has been apart of most of my life and many relatives as well, identity is important towards shaping who i am",
+  "micronarrative": "The constant divide stands out to me the most as it's part of everyday life, whether it be politics or anything else. Many people have an opinion on everything, even if it doesn't revolve around them. There was a time when a church in our community was getting scrutiny for who they allowed to come in. It felt unnecessary as most people weren't directly involved but still wanted to have an opinion on the topic. Usually, people tend to follow the popular opinion of others and let it dictate their actions. My family is unproblematic and likes to stay out of issues, but even we can't escape the chatter and the divide that surrounds us.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "the constant divide stands out to me the most as its part of everyday life whether it be politics or anything else. many people have an opinion on everything even if it doesnt revolve around them"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you think of a specific time when you felt this divide in your community, perhaps something that wasn't directly affecting you but still felt very real?"
+    },
+    {
+      "role": "user",
+      "content": "There was a time when a church in our community was getting scrutiny for who they allowed to come in"
+    },
+    {
+      "role": "assistant",
+      "content": "How did the language or the way people spoke about the church during that time reflect the divide you felt? Did you notice any code-switching or different registers being used by different groups?"
+    },
+    {
+      "role": "user",
+      "content": "it felt unneccesary as most people werent involved but wanted to have an opinion on the topic"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give an example of how people in your community might code-switch or navigate different registers when discussing sensitive topics like this?"
+    },
+    {
+      "role": "user",
+      "content": "usually people tend to follow the popular opinion of others and let it dictate their actions"
+    },
+    {
+      "role": "assistant",
+      "content": "How does your socioeconomic background influence how you navigate these situations, especially when it comes to community involvement or staying out of the fray?"
+    },
+    {
+      "role": "user",
+      "content": "my family is unproblematic and likes to stay out of issues"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me about a specific instance where your family chose to stay out of an issue, and how that decision affected your interactions with others in the community?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "when an issue such as the government and how the people are taken care of comes up it usually has to do with the shifts in recent years which involves immigrants or new residents and how the system has been compromised. Ive seen this in many different areas as people dont know who to direct their anger towards\n\n",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T18:33:17.255732",
+      "timestamp_end": "2026-05-22T18:36:23.282561",
+      "seconds_on_item": 186
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The language is associated with hatred towards people that didnt have the same struggles and got an easy way out and that can sometimes apply to immigrants that are able to enter the country without the same protocals that they specifically faced themselves\nThis is a topic that i here more than others and is very present in todays society",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T18:36:23.471047",
+      "timestamp_end": "2026-05-22T18:38:55.502489",
+      "seconds_on_item": 152
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This message seems to be directed at multiple groups and how many people go into the same areas of focus and that shifts how the economy views these areas as its a constantly moving factor based on demand and supply and that the feelings associated with this arent valid to have",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T18:38:55.698978",
+      "timestamp_end": "2026-05-22T18:40:42.160616",
+      "seconds_on_item": 106
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I believe that people dont like to see change, especially in areas where its a smaller and typically tight community that all share relative views and to have to watch changes happen that you cant control. This is something ive seen ahppen in my town as theyve become more open to tourism",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T18:40:42.363135",
+      "timestamp_end": "2026-05-22T18:42:29.428409",
+      "seconds_on_item": 107
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This is a common opinion as most people arent ready for new experiences and cultures to take over and integrate with their own. Sometimes this can be jobs being given to people of other races or even just a more diverse population over a certain timeframe can cause this to happen",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T18:42:29.634918",
+      "timestamp_end": "2026-05-22T18:45:59.951035",
+      "seconds_on_item": 210
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "When looking at this its the issue currently going on with how immigration has been happening rapidly over the last few years and is only continuing to grow. I have mixed views on this as it shouldnt be prevented but the level of government policy should also match this increase for safety issues",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T18:46:00.155358",
+      "timestamp_end": "2026-05-22T18:48:36.146498",
+      "seconds_on_item": 155
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I think this post couldve been worded better but it seems more so that it was just meant to highlight how cultures shouldnt have to shift just to adjust for new people coming in and visiting and they can still have their own distinct traditions that dont need to be changed even if there seen more negatively now",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T18:48:36.345706",
+      "timestamp_end": "2026-05-22T18:50:27.351702",
+      "seconds_on_item": 111
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This message seems to be about how governments dont help their own people get out of already struggling situations and instead spend more money on funding people to come into the country which only creates a smaller job opportunity for everyone else that is struggling. Ive heard this complaint alot recently as people are struggling",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T18:50:27.539561",
+      "timestamp_end": "2026-05-22T18:56:55.245406",
+      "seconds_on_item": 387
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I believe this has to do with how western societies are expected to help other people before their own and even put a priority on helping others whether its funding or general aid in war for example rather then focusing on people within their own country. This is due to societal pressures and online social media",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T18:56:55.804482",
+      "timestamp_end": "2026-05-22T18:59:15.646181",
+      "seconds_on_item": 139
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This somewhat resonates as government oficials make the policies and decide where to allocate fundign but they dont recieve the same outcomes from what happens afterwards as they are typically in a hgiher tax bracket rather than the acerage middle class worker that pays the taxes that the policies are used for",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T18:59:15.911518",
+      "timestamp_end": "2026-05-22T19:00:50.322639",
+      "seconds_on_item": 94
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-22T19:03:54.216715",
+  "prolific_pid": "P085",
+  "consented_at": "2026-05-22T18:27:21.197443",
+  "reflexivity_response": "I believe many of these opinions are very similar to mine and just have different background perspectives that alter them slightly. I come from a very small town that is based on community and doesnt like change so most of these topics are talked about on a regular basis regardless on whether i agree or disagree with the overall views of each individual person. I think my background comign from a good hardworkign family that isnt exactly in a high class has helped shape many things about what i believe",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "when an issue such as the government and how the people are taken care of comes up it usually has to do with the shifts in recent years which involves immigrants or new residents and how the system has been compromised. Ive seen this in many different areas as people dont know who to direct their anger towards\n\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "my identity and beliefs, values played  a role . growing up in a diverse community may have made me more understanding towards people from different background. also being aware of issues of housing ,shortages .my values around fairness , respect and empathy evolved during my transition period living here and navigating life all alone with my family."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I've heard similar comments before. Not directed at me specifically, but toward people who have immigrated to Canada illegally or as refugees. When people make relatively negative statements that separate ‘real citizens’ from another group, there’s often an underlying racial or cultural connotation behind them.\n\nIn this case, saying that hospitals should prioritize ‘true citizens’ could be interpreted in different ways: either referring to legal citizenship status, or implying people who ‘look the part’ or whose families have lived there for generations” which is harmful."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The language is associated with hatred towards people that didnt have the same struggles and got an easy way out and that can sometimes apply to immigrants that are able to enter the country without the same protocals that they specifically faced themselves\nThis is a topic that i here more than others and is very present in todays society",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Skipping the line is used here as a metaphor for describing immigrants enjoying the same benefits as those who were born here, paid their dues and their taxes. Indigenes or locals often carry the idea that immigrants must pay a certain due or reach a particular threshold before they should be allowed certain rights or benefits, like access to healthcare or voting. "
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The core of this language is very much I got mine, so you don't get any, or something akin to pulling the ladder up behind you. It very much ignores the advances in technology that have happened in the past 80 years since their grandparents were immigrants, and it ignores the significantly more globalized society of today."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This post is targeted towards illegal immigrants and refugees who they claim “skipped the line”.  The post frames them as undeserving and impatience. The comparison between their grandparents makes them sound worse than they are.  They are framed as the ones taking advantage of the system in place that is used.\n\n\n\n"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "This message seems to be directed at multiple groups and how many people go into the same areas of focus and that shifts how the economy views these areas as its a constantly moving factor based on demand and supply and that the feelings associated with this arent valid to have",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "This one reads like someone interpreting the laws of demands and supply. It is true that with more supply of workers, wages are driven down and vice versa. I do not feel like the statement was prejudicial or directed at anyone, group or person. However, I have heard the same sentiment shared in the context of immigration. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The target is immigrants and refugees who comes to country to work. The post perceives this as negative and detrimental to the economy. It outlines the outcomes because of them. As a flood to the market is external and immigrants and refugees fits this criteria. It post states that economics should not have this group in the country.\n\n"
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I think this person is stating facts. When there is too many people in a labour pool the laws of supply and demand dictate that wages will depress. I don't think this person is saying anything harmful. I think they're likely to lean against mass immigration but that is a reasonable point of view to hold. Immigration numbers should be controlled as to not overwhelm aspects of our economy and society. I think this is strictly policy-related commentary. "
+        }
+      ]
+    }
+  ]
+}

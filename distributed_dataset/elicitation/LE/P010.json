@@ -1,0 +1,247 @@
+{
+  "participant_id": "P010",
+  "created_at": "2026-07-31T23:42:42.548957",
+  "scenario_id": "C",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "my whole life",
+  "disclosure_text": "As an immigrant, woman, and person of color, my experiences were shaped by being marginalized, discriminated, and being outcasted.\n",
+  "micronarrative": "The student reflecting on their own experiences of being discriminated stood out to me the most because I have moments where my experiences were drowned out and ignored as well. I had an experience with a racist lady at a hotel I used to work at. I then complained to our higher up but they just dismissed me and told me it probably was not a big deal. When I spoke to my supervisor, I had to sound a bit more professional in order to get my point across. I used a lot more formal language than what I was used to. I really felt like I had to fight really hard just to be taken seriously. This mirrors the scenario where one student’s reflection drowns out in a sea of opinions; I know that feeling of having to adjust my tone and word choice, using formal language, just to ensure my reality is acknowledged rather than dismissed as insignificant.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there a moment, a feeling, or a person in it you find yourself drawn to?"
+    },
+    {
+      "role": "user",
+      "content": "That one student reflecting on their own experiences of being discriminated stood out to me the most because I have moments where my expereinces were drowned out and ignored as well."
+    },
+    {
+      "role": "assistant",
+      "content": "When you say your experiences were drowned out, can you share a specific memory of a time that happened to you?"
+    },
+    {
+      "role": "user",
+      "content": "I had an  experience with a racist lady at a hotel I used to work at. I then complained to our higher up but they just dismissed me and told me it probably was not a big deal"
+    },
+    {
+      "role": "assistant",
+      "content": "When you spoke to your supervisor about that incident, did you feel you had to adjust your tone or word choice to be taken seriously?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, absolutely! I had to sound a bit more professional in order to get my point across."
+    },
+    {
+      "role": "assistant",
+      "content": "What specific words or phrases did you swap out to sound more \"professional\" in that moment?"
+    },
+    {
+      "role": "user",
+      "content": "I used a lot more formal language than what I was used to."
+    },
+    {
+      "role": "assistant",
+      "content": "How did that shift in language affect your sense of self or your connection to the people you were speaking with?"
+    },
+    {
+      "role": "user",
+      "content": "I really felt like I had to fight really hard just to be taken seriously"
+    },
+    {
+      "role": "assistant",
+      "content": "In that hotel environment, did you feel your professional identity was constantly at odds with your personal or cultural identity?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The person most probably did not mean to be discriminatory or prejudiced when they said that. They probably prioritize due process and justice being the forefront of law enforcement instead of focusing solely on the genders or identities of the perpetrators or suspects and I can totally respect that perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T23:47:29.334529",
+      "timestamp_end": "2026-07-31T23:51:14.193112",
+      "seconds_on_item": 224
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The statement made by that person seems very unclear and i am also not sure whether they meant to be sarcastic or not. However, judging by the tone, it probably came from a non judgemental yet strong opinion. However, I also think that this person should be a lot more educated on the prejudices women face before making such a statement as \"microaggressions\" are not that easy to determine as well as it should never even be a part of \"daily life\" to begin with. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T23:51:14.754903",
+      "timestamp_end": "2026-07-31T23:55:49.929540",
+      "seconds_on_item": 275
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The 2 genders debate has been ongoing for so long now that people who make this statement just sound ludicrous and sorely uneducated. Sex and Gender are two different things and are definitely not mutually  inclusive. One is how you were born (sex), the other is how you feel and how you present yourself to the world. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T23:55:50.415655",
+      "timestamp_end": "2026-07-31T23:58:36.598721",
+      "seconds_on_item": 166
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "It is so obvious that this person just wants to incite further arguments by pitting two distinctinvely different topics and making it seem like its one and the same in order to sound smart and have their \"gotcha\" moment when in fact they're the ones just sounding incredulous and daft. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T23:58:36.775827",
+      "timestamp_end": "2026-08-01T00:01:57.101628",
+      "seconds_on_item": 200
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I think this person is misguided with their statement, also, it completely ignores a lot of other communities that are also part of the \"woman\" category in sports such as POC women, disabled women, etc.  It also oversimplifies the importance of the Women's Sports teams and their contributions down to just their gender.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T00:01:57.287555",
+      "timestamp_end": "2026-08-01T00:04:59.547459",
+      "seconds_on_item": 182
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "This is such a confusing statement. Nobody is treating masculinity like it is pathology and no one is saying that Men are \"broken women\" because that's just a ridiculous claim to make. Yes, it IS progressive to learn these conditioned \"masculine\" traits because at the end, it was societal conditioning that happened with both men and women that is why we have all these societal problems today. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-08-01T00:04:59.737835",
+      "timestamp_end": "2026-08-01T00:08:39.603235",
+      "seconds_on_item": 219
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "First off, calling a person a \"diversity hire\" sorely discards and minimizes their hard work to get the job they have right now. Why would anyone be angry at someone else getting a job when that person is better equipped for that line of work than you are? sounds like you need to work harder on your resume instead of wallowing and seething at more succesful people than you.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T00:08:39.793371",
+      "timestamp_end": "2026-08-01T00:10:46.673397",
+      "seconds_on_item": 126
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This is a very misinformed and ignorant statement.  Intersectionality matters because no one person has the same lived experiences in this miserable earth and yes, more people are bigger victims of this life because of the terrible cards they are dealt with that they have little to no control over.  Empathy and open mindedness would make anyone see that life is unfair.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-08-01T00:10:46.848667",
+      "timestamp_end": "2026-08-01T00:13:59.700508",
+      "seconds_on_item": 192
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I am a first generation immigrant and I am not opposed to feminism. To think that women from other countries would oppose to feminism says more about their lack of awareness and sensitivity. The fact that this statement came from them makes them look like the ignorant one in this situation.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-08-01T00:13:59.888445",
+      "timestamp_end": "2026-08-01T00:17:53.978355",
+      "seconds_on_item": 234
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This a strange and very vague statement. Because what do you mean by that? If you meant to be sly and discriminatory then you should be more brave to say it loudly , or are you scared that you'll get flamed because you know deep down that you are actually wrong? ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-08-01T00:17:54.159656",
+      "timestamp_end": "2026-08-01T00:20:21.458214",
+      "seconds_on_item": 147
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-08-01T00:26:04.402979",
+  "prolific_pid": "P010",
+  "consented_at": "2026-07-31T23:42:42.548992",
+  "reflexivity_response": "My values of fairness and equality were shaped by my unfortunate experiences as a first generation Immigrant from The Philippines. Early on in my own  life I have learned that people have always been judgemental and discrimantory whether it be for how you look, where you come from, and the place you were born. I expereinced discrimination and judgement at such a young age that that was all I ever knew about myself. I think it is very unfortunate how society still has not moved past this and even got worse as time went by. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "C01",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The person most probably did not mean to be discriminatory or prejudiced when they said that. They probably prioritize due process and justice being the forefront of law enforcement instead of focusing solely on the genders or identities of the perpetrators or suspects and I can totally respect that perspective.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The comment implies a discussion about women accusing men of sexual misconduct. While the comment seems unbiased and rational, wanting a court trial's opinion on the situation before fully believing an accusation, it fails to take into account the justice system's proven history of being biased towards men. The comment has plausible deniability, but is ultimately misogynist."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "The post uses balanced language by saying both \"I believe women\" and \"I believe due process,\" suggesting the writer thinks the two ideas can exist together. It doesn't attack either side but encourages a more balanced perspective. My own opinion or experience of feeling unheard makes me appreciate messages that acknowledge more than one viewpoint instead of turning everything into an argument and listening."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Thw article supports the protection of accusers as well as justice through the legal process; both of which are viewed as compatible rather than contradictory measures. the style of writing is clear and non-threatening, showing a desire to ease a tense situation. My interpretation of this article may very well be colored by my own preference for balance rather than any real-world experience"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C02",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The statement made by that person seems very unclear and i am also not sure whether they meant to be sarcastic or not. However, judging by the tone, it probably came from a non judgemental yet strong opinion. However, I also think that this person should be a lot more educated on the prejudices women face before making such a statement as \"microaggressions\" are not that easy to determine as well as it should never even be a part of \"daily life\" to begin with. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The comment claims that feminists are overly sensitive to what they perceive as microaggressions, and that throwing the term around makes women seem weak. The comment is a bad faith interpretation of something feminists have explained countless times, and is likely intended to be dismissive of someone's serious claim or accusation."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "it is reality people are to used to being babied now days and that creates weak men who inturn create a weak socitety we need to get back to god and being a community of common decceny and accountability  the country was a way more safe enjoyable place when we had these things "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I feel like this post or comment is very provocative. microaggression can appear in various forms and shapes and saying everything is microaggression is wrong. women are capable of handling the intricacies of life and they need to be given the benefit of the doubt. I have had women show me microagression but i have never really taken it personally as most times, these women don't even know they are being microaggressive."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C03",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The 2 genders debate has been ongoing for so long now that people who make this statement just sound ludicrous and sorely uneducated. Sex and Gender are two different things and are definitely not mutually  inclusive. One is how you were born (sex), the other is how you feel and how you present yourself to the world. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Coming from an upbringing where these types of discourse are never mentioned, its surprising that people spent alot of their energies in this topic of gender. When you live in a 3rd world country, gender is the last thing you worry about and its a simple concept that doesnt need 2 seconds to think about"
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I think the mindset here is the new standards adopted by some individuals and groups and that they feel is not only harmful but ut of line. I feel they are stated their position which they see as common sense. Though not discriminatory, they feel the need to state the fact."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "i think you are allowed to be gay or straight your choice ,I dont thinks it right for someone to say that there is two genders when someone doesn't always identify with there self.in the end each person has there own opinion but sometimes best to keep some thought to your self."
+        }
+      ]
+    }
+  ]
+}

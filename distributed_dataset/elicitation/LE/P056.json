@@ -1,0 +1,239 @@
+{
+  "participant_id": "P056",
+  "created_at": "2026-05-23T23:52:36.609303",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "my whole life",
+  "disclosure_text": "As a Black woman, my daily lived experiences naturally shape how I perceive topics of identity, inclusion, and belonging.",
+  "micronarrative": "I grew up in a community where tension over issues like temporary housing for migrants felt familiar, though locally, we avoided open conflict. Our town preferred to keep divisive debates quiet, sweeping disagreements under the rug to preserve a polite surface. This habit of avoiding friction shaped how I learned to navigate conversations—carefully choosing my words, code-switching to prevent sparking arguments. Financial stability allowed my family to observe these tensions from a safe distance, unthreatened by their consequences. Because our well-being wasn’t directly at stake, we reinforced the habit of staying silent. As a Black woman, even though I understand systemic marginalization, my family's financial stability still allowed me to observe these specific local immigration tensions from a distance without feeling erased. The scenario’s polarized groups mirror national divides, but my own experience of community conflict has always been quieter, more about avoiding disruption than confronting it. The pressure to belong without engaging remains a skill I carry from childhood.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "I am struck by the sharp contrast between the two protesting groups, one focusing on strict enforcement and the other welcoming migrants. The scene highlights how deeply polarized local communities can become when complex national issues affect them directly. It feels familiar because these intense local debates happen frequently in the news today."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you grow up, and how did the communities around you typically handle divisive public debates like this? Did the town or city have a pattern of resolving tensions between competing local priorities?"
+    },
+    {
+      "role": "user",
+      "content": "I grew up in an area where people generally avoided open conflict and preferred to keep divisive political debates quiet. Instead of actively resolving tensions, the community tended to sweep issues under the rug to maintain a polite surface. This meant competing priorities were often left unaddressed rather than openly discussed."
+    },
+    {
+      "role": "assistant",
+      "content": "How did the language you grew up speaking shape how you navigated those unspoken tensions? Did you ever notice yourself shifting how you expressed opinions depending on who you were talking to?"
+    },
+    {
+      "role": "user",
+      "content": "Growing up, the emphasis on keeping the peace meant learning to be very careful with my wording. I frequently noticed myself shifting my tone and language depending on who I was talking to, ensuring I didn't inadvertently spark conflict. Code-switching became a necessary tool to navigate those unspoken community boundaries safely."
+    },
+    {
+      "role": "assistant",
+      "content": "How did your family's economic circumstances shape the way you learned to navigate those unspoken tensions? Did financial precarity or stability influence how you approached conflict avoidance in daily interactions?"
+    },
+    {
+      "role": "user",
+      "content": "Having financial stability allowed my family to maintain a comfortable, polite distance from local community tensions. Because our immediate well-being wasn't directly threatened by these debates, it was much easier to choose conflict avoidance in daily interactions. It reinforced the habit of keeping quiet because we didn't have a personal or financial stake in the friction."
+    },
+    {
+      "role": "assistant",
+      "content": "How does your racial or ethnic identity intersect with the way you learned to navigate these community tensions? Did your position in the social hierarchy shape whether you felt seen, heard, or erased in those unspoken boundaries?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post targets immigrants and refugees by suggesting they are an unsustainable burden on national infrastructure like hospitals. By questioning 'who this country is actually for,' it creates an exclusionary 'us versus them' dynamic. This rhetoric implies that newcomers do not belong and are actively harming the well-being of citizens.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-24T00:00:59.783980",
+      "timestamp_end": "2026-05-24T00:04:09.108768",
+      "seconds_on_item": 189
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post targets undocumented immigrants by questioning the fairness of entering a country outside the legal system. It frames the issue around fairness and waiting one's turn rather than using derogatory or hateful language. Therefore, it reads as standard political commentary on immigration policy rather than active hate speech or harmful rhetoric.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:04:09.642340",
+      "timestamp_end": "2026-05-24T00:05:30.091201",
+      "seconds_on_item": 80
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post targets immigrants and foreign workers by framing them as an economic strain that lowers local wages. While the wording is blunt and dismissive of feelings, it focuses entirely on an economic argument regarding labor market supply. It lacks hateful subtext, slurs, or dehumanizing language, operating as standard policy commentary.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-24T00:05:30.327887",
+      "timestamp_end": "2026-05-24T00:07:05.972516",
+      "seconds_on_item": 95
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The statement is ambiguous because wanting a hometown to remain 'recognizable' can be a standard sentiment about community preservation. However, in discussions about immigration, this phrase frequently serves as a dog whistle implying that newcomers alter the community in an undesirable way. The text lacks explicit hatred but carries exclusionary subtext.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:07:06.197290",
+      "timestamp_end": "2026-05-24T00:08:15.458905",
+      "seconds_on_item": 69
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post directly targets immigrants and minority groups by framing natural demographic shifts as an unnatural, deliberate conspiracy. Claiming that community demographic change is being orchestrated by an unseen entity closely aligns with harmful, xenophobic replacement tropes. This rhetoric severely undermines local social cohesion by actively stoking fear, anger, and suspicion toward new minority populations entering the neighborhood.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:08:15.669426",
+      "timestamp_end": "2026-05-24T00:09:41.834900",
+      "seconds_on_item": 86
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post focuses its criticism on the concept of family-based immigration, often referred to as chain migration. While the phrasing is heavily exaggerated and critical of current legal policies, it primarily expresses frustration with political rules rather than attacking individuals. It functions as a standard, albeit provocative, policy objection without utilizing dehumanizing slurs or explicit hatred.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:09:42.053105",
+      "timestamp_end": "2026-05-24T00:10:40.469155",
+      "seconds_on_item": 58
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post uses recognizable nationalist and white ethno-state rhetoric disguised as a statement on sovereignty. By specifying 'Even European ones' in the context of immigration, it implies that demographic diversity threatens the existence of European populations. This framing generates harmful 'us versus them' narratives that exclude non-white immigrants from belonging.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-24T00:10:40.688516",
+      "timestamp_end": "2026-05-24T00:11:36.123514",
+      "seconds_on_item": 55
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post targets immigrants and refugees by reducing human beings to the phrase 'importing poverty.' This language is inherently objectifying and denigrating, framing vulnerable newcomers solely as an economic burden on society. It suggests that immigrants are the primary cause of ongoing domestic poverty issues, promoting exclusion and harmful stereotypes.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:11:36.363601",
+      "timestamp_end": "2026-05-24T00:12:25.080696",
+      "seconds_on_item": 48
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This statement relies on a well-known xenophobic grievance narrative regarding Western demographics. By framing immigration as an attempt to 'dissolve' existing populations, it presents demographic shifts as a hostile threat to the majorities rather than a natural phenomenon. This rhetoric promotes fear and exclusion toward minority groups and incoming immigrants.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-24T00:12:25.326026",
+      "timestamp_end": "2026-05-24T00:14:07.434798",
+      "seconds_on_item": 102
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post highlights a very common political perspective regarding how domestic policy choices affect different socioeconomic classes. By focusing entirely on a critique of politicians versus the working class, it frames immigration strictly as an economic and policy discussion. It contains no dehumanizing remarks, slurs, or hostile language targeting individuals.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-24T00:14:07.640707",
+      "timestamp_end": "2026-05-24T00:15:08.879515",
+      "seconds_on_item": 61
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-24T00:16:07.305398",
+  "prolific_pid": "P056",
+  "consented_at": "2026-05-23T23:52:36.609341",
+  "reflexivity_response": "My background heavily shaped how I read these posts, particularly my tendency to separate blunt political policy language from active harm. Growing up in a community that avoided open conflict taught me to observe debates quietly and look at them analytically from a distance. As a Black woman, I am highly sensitive to structural issues and exclusionary dog whistles, which is why I flagged hidden nationalist rhetoric as harmful. However, my family's financial stability also gave me the space to evaluate standard economic or policy arguments calmly without feeling personally threatened by them. This balance allowed me to distinguish between standard political frustration and genuine, targeted hostility.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post targets immigrants and refugees by suggesting they are an unsustainable burden on national infrastructure like hospitals. By questioning 'who this country is actually for,' it creates an exclusionary 'us versus them' dynamic. This rhetoric implies that newcomers do not belong and are actively harming the well-being of citizens.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I come from a place where there is a lot of racism against immigrants, and this feels like a subtle and not overtly racist/discriminatory thing that I hear people say frequently. Specifically, the part that says \"who this country is actually for\" makes me believe they think the reason that the hospitals can't keep up is because of immigration to the particular country. "
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "There are millions of illegal immigrants who were allowed to enter our country. Many have now infiltrated our school systems, are receiving welfare,  housing and free  medical assistance. This post points out that many hospitals are clogged up with these illegal immigrants and our own citizens take a back seat."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "It is a basic question based on one specific issue created by mass immigration. It states the facts that the health care system is overwhelmed in many areas and says that we as a nation need to discuss and address the issues. I have seen this problem  in several areas I have lived in so it is personal to me."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The post targets undocumented immigrants by questioning the fairness of entering a country outside the legal system. It frames the issue around fairness and waiting one's turn rather than using derogatory or hateful language. Therefore, it reads as standard political commentary on immigration policy rather than active hate speech or harmful rhetoric.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I would say this person is trying their best to stay as ambiguous as possible, but is secretly or not so secretly trying to push a hateful agenda against immigrants.  My experience with people who use language like this usually get more extreme the more they open up on their thoughts."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The language is associated with hatred towards people that didnt have the same struggles and got an easy way out and that can sometimes apply to immigrants that are able to enter the country without the same protocals that they specifically faced themselves\nThis is a topic that i here more than others and is very present in todays society"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "My rationale is that the post is clearly directing it at individuals who get to bypass the official channels to get permanent residency or becoming a citizen. The post states their grandparents came legally and had to wait their turn, indicating it took some time before they were recognized with status."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "This post targets immigrants and foreign workers by framing them as an economic strain that lowers local wages. While the wording is blunt and dismissive of feelings, it focuses entirely on an economic argument regarding labor market supply. It lacks hateful subtext, slurs, or dehumanizing language, operating as standard policy commentary.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "It seems like it is targeting a special group of people from a certain country. Because if it was from a western or white country like Sweden or Switzerland, the poster wouldn't be saying the same thing. It is because it is people who are different than them they are posting it. However, it is also true that when the economy is flooded with people, the economy doesn't care about people and everyone goes down."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This one actually feels a little personal - 'back in the day' I was the only woman hired on a crew of men and there was a lot of resentment that I/women were taking their jobs. I feel like this is more likely targeting immigrants or other groups they feel are flooding the labour market and find it a bit offensive - wages are dependent on a lot more things than the amount of labour available"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        }
+      ]
+    }
+  ]
+}

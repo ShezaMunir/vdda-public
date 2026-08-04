@@ -1,0 +1,247 @@
+{
+  "participant_id": "P036",
+  "created_at": "2026-05-22T20:46:47.136052",
+  "scenario_id": "A",
+  "connection_type": "I work or study in this area professionally or academically",
+  "duration": "I'd say about two years",
+  "disclosure_text": "I am trying to start an apologetics channel and design business to help open the eyes of non believers and I also am interested in all these topics since I came to know the one true living God Jesus Christ ",
+  "micronarrative": "I believe as a Christian, I naturally want to help people, but I also think that saying no one is illegal is ignorant and dangerous. Rules exist for a reason, and if we start ignoring them based on feelings and virtue signaling, we will decay as a society at an alarming rate. I understand that some people truly need asylum, but to just let anyone and everyone in is foolishly ignorant. This perspective affects how I approach everything almost. I love Jesus so much, and I feel we should try to help fix their country, not just let them all bum rush into ours.\n",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I would say as a Christian I naturally want to help people but to say no one is illegal is ignorant and dangerous. I think that rules exist for a reason and if we just start ignoring them and going off of feelings and virtue signal (and paid protesters who know nothing about the topic), we will decay as a society at such a fast rate it isn't funny. I also understand some people truly need ASYLUM but to just let anyone and everyone in is stupidly ignorant."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when your faith influenced how you approached a similar situation in your community?"
+    },
+    {
+      "role": "user",
+      "content": "It affects how I approach literally everything almost. I love Jesus so much. We should try to help fix their country not just let them all bum rush into ours."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about how you navigate different languages or dialects in your community? Do you find yourself code-switching in certain situations?"
+    },
+    {
+      "role": "user",
+      "content": "Ask in a different way. I don't understand what you mean"
+    },
+    {
+      "role": "assistant",
+      "content": "When you talk to people in your community, do you ever switch between languages or dialects? Can you give an example of a time when you did this and why?"
+    },
+    {
+      "role": "user",
+      "content": "Dialects??? Like I start talking in an Indian voice because I am near Indians?? LOL what but to the first part no I only speak english "
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. How do you feel when you see the tension between the two groups at the town hall? Does it remind you of any experiences you've had in your community?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I screamed Jesus is King out my car window at a no kings protest lol"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific memory from your childhood or a past experience where you felt a similar tension between different groups in your community?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "It just seems like they are asking a genuine question about whether hospitals are meant for Americans or if they are meant for immigrants who come over the border illegally then illegally get access to our healthcare system as non- American when we are struggle ourselves. The rich people make it seem like we are doing better or but we aren't only they are. Everyday Americans are struggling more than ever. Middle class has been eliminated. It's poor v rich.  ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T20:55:59.028968",
+      "timestamp_end": "2026-05-22T20:58:49.891050",
+      "seconds_on_item": 170
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Valid argument from a 1st generation American who is just arguing a good point from their perspective.  I totally agree with them as well might I add. Skipping the line because you think you deserve it more than other people is just invalid and arrogant. Tons of people have it worse. People like this can never be satisfied and do not assimilate to our culture. I love that we are diverse, but do it right and legally. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T20:58:50.090590",
+      "timestamp_end": "2026-05-22T21:04:08.085120",
+      "seconds_on_item": 317
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I don't know much about how it affects it besides illegal will work for less than an American would and you can pay them under the table so I think it is bad all around, but I am not sure about the minimum wage part if we are being dead honest. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T21:04:08.284389",
+      "timestamp_end": "2026-05-22T21:05:29.199689",
+      "seconds_on_item": 80
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I agree that we should be unique and diverse, but I also agree that we should be able to keep some of our American Culture too without being called racist just for liking a simple, American way of living with likeminded people. Muslim literally want themselves segregated essentially and won't let you attend their events. They also would implement Sharia law if given the chance. Proof? The middle east and the Quran. Study it and how contradictory it is and how it tells them to believe in the Gospel which is time dated and so is the Old Testament to be accurate, and they claim it isn't and was changed lol (Surah 5:47 and Surah 5:68)",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:05:29.406226",
+      "timestamp_end": "2026-05-22T21:09:31.452283",
+      "seconds_on_item": 242
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This could be about gender or immigrant, I lean towards the latter but still it is wild how quick the demographics are changing, and our country is getting poorer and poorer and the middle class has ceased to exist. Not a coincidence. Biden and Obama ruined this country.  Trump isn't doing the best either and is kind of authoritative, but it is better than pure stupidity. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:09:31.984605",
+      "timestamp_end": "2026-05-22T21:11:41.429239",
+      "seconds_on_item": 129
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Agree. We love immigrants but mass immigration is wrong. Every country in the world enforces it borders and litigates/monitors its immigration way more seriously than us. Maybe even the UK does better but they are worse for freedom of speech and such, especially for Christians getting singled out but that is irrelevant, sorry.  We should let people in that truly need asylum and also people who will improve our society, but not criminals. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:11:41.637364",
+      "timestamp_end": "2026-05-22T21:14:34.065891",
+      "seconds_on_item": 172
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I agree that like I said in my last answer every country enforces its own borders. Only liberals want to just let anyone in with no care for what it does to their country in the name of love supposedly but it really is just ignorance and lack of critical thinking in my opinion, and I love all immigrant and people but I think laws and borders and cultures exist for a reason. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:14:34.270484",
+      "timestamp_end": "2026-05-22T21:16:31.684669",
+      "seconds_on_item": 117
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Agreed. We should let people who are actually going to contribute to the betterment of society. We shouldn't just let people in for no good reason like they say they want a better life but are criminals or have no desire to learn English and hate our culture.  Especially illegal immigration, very bad. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:16:31.883965",
+      "timestamp_end": "2026-05-22T21:18:21.121829",
+      "seconds_on_item": 109
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Agreed. Everyone else can move in, not assimilate, segregate themselves, and not want anything to do with our culture but yet want to live in our country for its benefits while trashing it and hating it at the same time.  It's ignorantly illogical and hateful towards that culture/our culture really. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T21:18:21.312874",
+      "timestamp_end": "2026-05-22T21:20:00.968950",
+      "seconds_on_item": 99
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Agreed. Most politicians keep their jobs or get a good one if they step out of it but the middle class becomes poor because immigrants take their jobs for lower pay and refuse to assimilate even in a minor way to our culture or respect our beliefs and then turn us on each other when it isn't about race. It's about logic, love and fairness. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T21:20:01.159571",
+      "timestamp_end": "2026-05-22T21:21:54.220367",
+      "seconds_on_item": 113
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-22T21:24:40.945496",
+  "prolific_pid": "P036",
+  "consented_at": "2026-05-22T20:46:47.136103",
+  "reflexivity_response": "I think that their personal knowledge at this moment reflect it. A lot of people aren't critical thinkers and just like to act like they are when they just agree with whatever the news or their political side says. Instead, they need to be able to disagree and not stand on everything they take at face value from their so-called leaders. I think most people draw off of experience and what they have heard without critically thinking. I think that it is okay to have different opinions though it is what makes America so great. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "It just seems like they are asking a genuine question about whether hospitals are meant for Americans or if they are meant for immigrants who come over the border illegally then illegally get access to our healthcare system as non- American when we are struggle ourselves. The rich people make it seem like we are doing better or but we aren't only they are. Everyday Americans are struggling more than ever. Middle class has been eliminated. It's poor v rich.  ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The problem is a perceived lack of resources, and the proposed answer is to eliminate outside competition, which makes me think this is aimed at immigrants. I think everyone deserves equal opportunities and I think the default logical response would be more along the lines of increasing service levels to meet demand."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I've heard similar comments before. Not directed at me specifically, but toward people who have immigrated to Canada illegally or as refugees. When people make relatively negative statements that separate ‘real citizens’ from another group, there’s often an underlying racial or cultural connotation behind them.\n\nIn this case, saying that hospitals should prioritize ‘true citizens’ could be interpreted in different ways: either referring to legal citizenship status, or implying people who ‘look the part’ or whose families have lived there for generations” which is harmful."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I feel like this post makes it seem like some people are more worthy of health care than others, it just doesn't specify exactly who, which leaves the door open for denying actually targeting a specific group. It's still divisive language though. Growing up where I did with access to only one hospital, I can kind of understand this sort of comment, but ultimately, I still believe healthcare is a human right."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "Valid argument from a 1st generation American who is just arguing a good point from their perspective.  I totally agree with them as well might I add. Skipping the line because you think you deserve it more than other people is just invalid and arrogant. Tons of people have it worse. People like this can never be satisfied and do not assimilate to our culture. I love that we are diverse, but do it right and legally. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This could be a valid statement, though the question lies in the intention behind the post. Yes, it is true that immigration law has changed, and some are entering countries in ways perhaps others in the past did not. But why did the original user post? To harm or marginalize a group, or to call attention to changing laws? I personally read this as harmful, though again, this is up for interpretation. "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is clearly about the person's opinion on immigration, likely mass immigration as some immigrants are using loopholes to stay in the country, whereas this person's grandparents did the paperwork(allegedly) to become a legal citizen. I come from an immigrant family who did come here legally, to see that framework threatened to taken advantage of seems like a net negative but I do not know enough about these \"loopholes\" you hear about in the media to form an opinion."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I would say this person is trying their best to stay as ambiguous as possible, but is secretly or not so secretly trying to push a hateful agenda against immigrants.  My experience with people who use language like this usually get more extreme the more they open up on their thoughts."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "I don't know much about how it affects it besides illegal will work for less than an American would and you can pay them under the table so I think it is bad all around, but I am not sure about the minimum wage part if we are being dead honest. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The post is clearly about economics. But when labor jobs are seen the most labor jobs are occupied by immigrants because their skill set needs brushing of the country they immigrated to. After paying for several costs of coming to a new country immigrants cannot spend more on brushing their skills. hence they settle for labor jobs that require less skills even though they are way overqualified. When spoken about the Labor market one is directly speaking to the population dominating that field"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The post does not tell which specific group is targeted. It feels that there is an economic problem and the blame is likely on those that migrate for economic opportunities. So, it is likely harmful those individuals. It would be a call have those migrants treated in an unfair way even when they are in the country legally or not. "
+        }
+      ]
+    }
+  ]
+}

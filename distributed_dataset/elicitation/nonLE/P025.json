@@ -1,0 +1,247 @@
+{
+  "participant_id": "P025",
+  "created_at": "2026-07-31T22:14:02.498535",
+  "scenario_id": "C",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "my whole life",
+  "disclosure_text": "As being the son to a immigrant, and second generation immigrant, I relate heavily to those topics since they directly impacted me my whole life and still to this day, it's not uncommon for me hear or see news or topics surrounding my situation. ",
+  "micronarrative": "I am drawn to the student whose reflection on marginalization gets lost in the sea of opinions. It feels like no matter how sensitive or important the topic, people are easily disregarded, and those dominating the conversation are always the loudest, not the ones that are more right. Growing up, I saw news pieces that villainized or lied about my experiences; because they were sensational and viral, they drove public attention no matter how wrong they were. I learned to blend in and listen more than speak, as it wasn’t worth arguing against firm beliefs on immigration or advantages since most of the people arguing had no true understanding of the root of the problem. This made me observative since instead of weakening my voice, hearing opposing viewpoints strengthened it. I became empathetic to those who are marginalized or quiet in public space, realizing early that media is not always right and forming my own opinions.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there a moment, a feeling, or a person in it you find yourself drawn to?"
+    },
+    {
+      "role": "user",
+      "content": "The one students reflecting their own experiences with marginalization getting lost in the sea of opinions, feel like no matter the topic or how sensitive the topic, it's very easy for people to get disregarded and those dominating the conversation will always be the loudest not the ones that are more right. "
+    },
+    {
+      "role": "assistant",
+      "content": "When you say those dominating the conversation are \"always\" the loudest, does that reflect your own experience growing up in a specific community or family dynamic where your voice was similarly overshadowed?"
+    },
+    {
+      "role": "user",
+      "content": "In way yes, since growing I always read and saw things that villainizes or completely lie about my own experiences  marginalization, but since those news pieces were more sensational and more viral it drove public attention no matter how wrong it is. "
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you grow up, and how did the local culture there shape the way you learned to navigate those conflicting narratives?"
+    },
+    {
+      "role": "user",
+      "content": "I just learned to blend in, due to my own experiences, I got more empathetic to those that are marginalized or those are \"quiet\" in the public space. Another important thing I realized from a young age, is that media is sensationalized and not always right and to form my own opinions about things. "
+    },
+    {
+      "role": "assistant",
+      "content": "What specific cultural norms or expectations in your community required you to \"blend in\" rather than speak your truth?"
+    },
+    {
+      "role": "user",
+      "content": "While I wouldn't be for it or talk against what I personally believe, I  just learned to listened more than to speak because sometimes it was just wasn't worth it to ague against someone with very firm beliefs about immigration or how marginalized get more advantages despite not understanding the very root of it. "
+    },
+    {
+      "role": "assistant",
+      "content": "How did that specific dynamic of staying silent to avoid conflict shape your relationship with your own voice or identity during those formative years?"
+    },
+    {
+      "role": "user",
+      "content": "In a way it made more observative, and since I only listened most of the time, I learned why they got to those opinions and just how powerful media and news actually is. Instead of weakening my own voice, I feel like in way strengthen it since I heard and acknowledged the opposing viewpoints a lot. "
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned hearing opposing viewpoints on immigration; how did your own linguistic background or code-switching habits help you navigate those conversations without being dismissed?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "While that statement alone isn't necessarily wrong, but knowing the context of the online space and just how \"incel\" it is, and how the user wrote that post it definitely feels like there's some underlying animosity towards women however it is a stretch hence I why put likely not harmful. Also since I have a sister, I feel like any social media post online, I tend to be more critical of since I am aware just how misogynistic it is and often or not my feeling is correct as well. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T22:31:21.605128",
+      "timestamp_end": "2026-07-31T22:37:04.822780",
+      "seconds_on_item": 343
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "Although not trying to be harmful or rude, it definitely feels like the user posting it is misguided somewhat but overall there's no harm reading, and anything negative that you can come up from reading that definitely needs some extreme stretching to do. Overall tho definitely doesn't seem harmful, also being aware of the social media, and how people love to exaggerate or talk with authority despite having none, this definitely just seems like harmless statement.  ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:37:05.010183",
+      "timestamp_end": "2026-07-31T22:42:33.677503",
+      "seconds_on_item": 328
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "Although user is framing as the \"truth\" and trying to be \"civil\" about it by saying \"sorry\", they definitely meant it in negative manner that is meant to belittle and incite negative comments. For me personally although gender and gender identity doesn't affect me, I can definitely understand how some people feel like don't belong in a certain group or any group and having their own specific group will make them feel accepted. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T22:42:33.848493",
+      "timestamp_end": "2026-07-31T22:50:00.677710",
+      "seconds_on_item": 446
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The user posting the statement has animosity that is visible through his statement and is clearly trying to target a group in a way that belittles them and make them the butt of the joke since the poster is trying to demean them in a \"teasing\" way that is entirely negative. Also the poster fails to understand that they are right because gender is  a social construct similar to how wage gap is, because they are both dictated by society standards of that time, and although things are better those prevailing thoughts and bias still exist because it is ingrained in society till it fully changes completely.  ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:50:00.868922",
+      "timestamp_end": "2026-07-31T22:56:40.696719",
+      "seconds_on_item": 399
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "While not harmful or provocative, given the context of the online space and how prevalent the issues of trans women playing in women's sports are, I definitely feel like there is some ambiguity in the statement. Also, not to mention I feel like women's sports in general is belittled a lot in social media simply because it's \"women\" playing sports. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:56:40.880616",
+      "timestamp_end": "2026-07-31T23:01:21.864832",
+      "seconds_on_item": 280
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "While the statement is targeting any particular group, it definitely feels like it has animosity towards society or more so \"progressives\". Going my own experience, I can see where the user is coming from but I also believe that they are wrong or more so they have a wrong idea about what toxic masculinity is, it doesn't mean you have to be feminine or be a woman at all, just means that they are toxic traits and attributes that men have inherently because of society, and it's the process of trying to acknowledge and get rid of them so men can have less baggage overall in a way. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T23:01:22.347479",
+      "timestamp_end": "2026-07-31T23:08:50.557329",
+      "seconds_on_item": 448
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This social post definitely is meant to incite harm and is overall framing as a negative post towards marginalized people. Going by my own experience, feel like a lot of people have a incorrect understanding how diversity hires, acceptance works, because diversity don't take jobs away from white people, they are just added jobs or roles that allow those marginalized to \"catch up\" in a way but they don't impact or affect the amount of opportunity in already preexisting jobs. The truth of the matter, it's fine to be angry if you get fired, but that man is targeting the wrong target since it isn't the diversity hire who fired him but the boss instead. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T23:08:50.746144",
+      "timestamp_end": "2026-07-31T23:14:02.805267",
+      "seconds_on_item": 312
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "While I can understand where they are coming from, the truth of the matter is that intersectionality does exist and there's no hiding it, if you are a minority but also a women, you are going to be treated a lot different than someone that is just a women for example. Also while user is trying to be \"nice\" about it, it still has negative connation to it because it belittles it. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T23:14:02.985649",
+      "timestamp_end": "2026-07-31T23:17:31.930785",
+      "seconds_on_item": 208
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The user of the post is clearly trying to incite despite trying to be the \"good guy\" who is helping, since he completely dehumanizes immigrant women and just uses them as a chess piece to support his own beliefs about feminism. The truth of feminism is that it doesn't mind if a women wants to be the typical home wife but instead feminism wants to make it a choice, but not the only choice for women. Also going by my own experience first-generation immigrant women are the complete opposite as a meek housewife because they often work really hard to provide to their families.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T23:17:32.114503",
+      "timestamp_end": "2026-07-31T23:21:07.912966",
+      "seconds_on_item": 215
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "Clearly to incite harm and is a overall negative post. Not to mention the fact how the user is teasing or being jokingly about it, just how's much he doesn't truly care about it but just wants to use the word because it allows him to feel superior in a way. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T23:21:08.089564",
+      "timestamp_end": "2026-07-31T23:22:51.315296",
+      "seconds_on_item": 103
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T23:25:27.274557",
+  "prolific_pid": "P025",
+  "consented_at": "2026-07-31T22:14:02.498571",
+  "reflexivity_response": "Going my own experience of being disadvantaged, I am able to relate to those more and can feel when people are trying to negative. Not to mention I feel like my own use of social media and being online for a long time, I can just tell when people are trying to be negative and rude. Also feel like a lot of those social media post like to hide behind a façade of being nice or \"right\" and since I have grown up seeing that a lot, I can easily tell right through it.  ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "C01",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "While that statement alone isn't necessarily wrong, but knowing the context of the online space and just how \"incel\" it is, and how the user wrote that post it definitely feels like there's some underlying animosity towards women however it is a stretch hence I why put likely not harmful. Also since I have a sister, I feel like any social media post online, I tend to be more critical of since I am aware just how misogynistic it is and often or not my feeling is correct as well. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "the fact that the writer was direct and said he believes women. this is something i agree with and something i too would say. he framed it without judgement or picking sides. no aspects of my identity, beliefs, values, or lived experience affect how i understood the post. i also believe in due process as i am a straightforward person."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This post is very ambiguous. It's hard to judge without context but the logic does still make sense. It doesn't sound like it's attacking anyone. I think the tone is calm and neutral. It's saying that there should be fair treatment regardless of gender. That how I would perceive it."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The comment implies a discussion about women accusing men of sexual misconduct. While the comment seems unbiased and rational, wanting a court trial's opinion on the situation before fully believing an accusation, it fails to take into account the justice system's proven history of being biased towards men. The comment has plausible deniability, but is ultimately misogynist."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C02",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "Although not trying to be harmful or rude, it definitely feels like the user posting it is misguided somewhat but overall there's no harm reading, and anything negative that you can come up from reading that definitely needs some extreme stretching to do. Overall tho definitely doesn't seem harmful, also being aware of the social media, and how people love to exaggerate or talk with authority despite having none, this definitely just seems like harmless statement.  ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The message seem directed at women that are overly sensitive to words or acts that may be intepreted as \"microagressions\". I don't think it targets the entire female gender. I don't find it offensive or harmful. I think it's a protest against extreme behaviours or attitudes. I welcome constructive criticism or discussions."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Nothing i dont bring my views into my judgments i make or religion .I just hear each side to whats going on that make a decision. You can make one till you hear all whats going on.After hearing all sides that you can say something.Best to let it all soak in."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I believe this post is nothing but an observation. Not every little comment is necessarily a micro aggression. I think, being a woman myself, focusing too much on what people say to us or how treat us and connecting it to our gender makes us mentally weaker and more fragile. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C03",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "Although user is framing as the \"truth\" and trying to be \"civil\" about it by saying \"sorry\", they definitely meant it in negative manner that is meant to belittle and incite negative comments. For me personally although gender and gender identity doesn't affect me, I can definitely understand how some people feel like don't belong in a certain group or any group and having their own specific group will make them feel accepted. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I think the mindset here is the new standards adopted by some individuals and groups and that they feel is not only harmful but ut of line. I feel they are stated their position which they see as common sense. Though not discriminatory, they feel the need to state the fact."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This comment may piss a couple of people off. we live in a more open world now and comments like these cannot be made out loud even if those are your thoughts. there are more constructive ways to pass across your point without hurting other people. the LGBTQ+ community will definitely not appreciate this comment."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I think this message would be clearly offensive to certain groups' beliefs. The gender identities have been a very controversial topic in recent years. There very heated debates between biological gender identity and other gender identities that were formed later in life. To some people life myself, believes that we should not be able alter gender easily. To others, they believe mental state matters more to define a gender. I think message is ambiguous and not aiming to harm anyone."
+        }
+      ]
+    }
+  ]
+}

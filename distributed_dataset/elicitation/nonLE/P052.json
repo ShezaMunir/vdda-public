@@ -1,0 +1,247 @@
+{
+  "participant_id": "P052",
+  "created_at": "2026-05-22T18:35:37.942974",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "4 years",
+  "disclosure_text": "I am also an immigrant so I can easily put myself in someone else's shoe. More than that I see people hating the presence of an outsider(may be they don't say it but surely feel and behaves that way). I strongly believe that people need to work hard to get dissolved in new environment with keeping their integrity intact. And this situation happens when they fail to do so.",
+  "micronarrative": "When I think about migrants being allowed to stay in a new country based on their qualifications or experience, I see it as a positive addition to society, not a political decision. Ethical advocacy is paramount; it shapes how individuals contribute and integrate. Every country has its unique identity, and it's crucial for newcomers to embrace the new culture while leaving behind outdated habits. It's not just about language or communication; it's about adopting a new perspective towards life. People helping each other and fostering harmony are key to creating a balanced and happy society.\n\nIt’s a two-way process, with acceptance and inclusion being essential from both sides. Canada is a shining example of this. At the micro level, I’ve seen how people from diverse backgrounds live together, share, and support each other. While the political landscape might differ, the genuine interactions between individuals bring smiles and foster understanding. Disliking is one thing, but hating is destructive. We should strive for mutual respect and coexistence.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "According to me when a migrant is allowed to stay in a new country based on his/her qualification/experience, there is no harm to the society. It should not be a political decision. Ethical education is super important than everything else.  "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when you felt your own ethical education played a role in how you viewed a similar situation?"
+    },
+    {
+      "role": "user",
+      "content": "Every country has their own identity. People need to soak in all new good things and leave old habits behind. "
+    },
+    {
+      "role": "assistant",
+      "content": "When you mentioned people needing to leave old habits behind, does that relate to any experiences you've had with language or communication styles in different settings?"
+    },
+    {
+      "role": "user",
+      "content": "Not language or communication style, It is their perspective towards the life. How people help each other and establish harmony to create a balanced happy society."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when you witnessed or experienced a situation where people from different backgrounds worked together to create harmony and balance in your community?"
+    },
+    {
+      "role": "user",
+      "content": "It's a two way process. Acceptance and inclusion are main factors from both the sides. Canada is the best example. "
+    },
+    {
+      "role": "assistant",
+      "content": "How does Canada's approach to immigration and inclusion shape your views on the scenario you just read?"
+    },
+    {
+      "role": "user",
+      "content": "I have observed things at micro level.. Political side can be different but actual people living together brings smile on each other's faces. Not liking is different and hating is different.   "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific memory from your own life where you saw people from different backgrounds coming together despite political differences, and how that affected you?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Beliefs can change with time and experience but what can not be changed is ethical values. Good morals will always help you find goodness in everything. And will help you find a happy way to get into harmony. Acceptance doesn't come from invasion, it has to be earned with time and goodness.  I have always followed this path for my journey.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T19:02:10.375559",
+      "timestamp_end": "2026-05-22T19:09:03.760373",
+      "seconds_on_item": 413
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "According to me when someone is saying this, that means they are either scared of immigrant's superior skill sets or it is in regards to a political decision that brings uneducated harmful people to the country. Every coin has two sides. It's readers' duty to check that the narrator is on which side of the coin.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T19:09:04.309932",
+      "timestamp_end": "2026-05-22T19:16:05.713767",
+      "seconds_on_item": 421
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It is what it is. And it is how it happens. It's government's responsibility to stabilize the economy. The society will perceive what they see and experience. Some truths can not be changed. It can just be controlled. The government must make and implement different policies that protects everyone's rights.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T19:16:06.237661",
+      "timestamp_end": "2026-05-22T19:20:29.407625",
+      "seconds_on_item": 263
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "If migrants seem to be invador and if they are  invasive, local people are surely going to think this way.  Every group, religion has their own identity. It's okay to live on own term but it becomes an issue when it over powers.  Moderation of everything is very important when we are talking about diversity because everyone can not accept it similarly.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T19:20:29.948865",
+      "timestamp_end": "2026-05-22T19:25:24.838995",
+      "seconds_on_item": 294
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "According to me this  post comments on demographic change and says that immigration shifts are being intentionally influenced. It is a vague statement and does not point on any ethnicity or religion. It can be political futuristic decision. But it is not harmful. No direct relation or harm to anyone.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T19:25:25.386355",
+      "timestamp_end": "2026-05-22T19:33:15.027554",
+      "seconds_on_item": 469
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post is surely opposing invitation to the outsiders, clear unacceptance and definitely lead to hate to the whole community. Rather than looking at the bright side, this is mere disrespect and hate. Here no one is talking about their rights or making new policies that protects the rights of locals.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T19:33:15.576812",
+      "timestamp_end": "2026-05-22T19:39:19.112011",
+      "seconds_on_item": 363
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This post says that every nations has right to preserve their unique culture and specific identities like European culture. It is an ideological statement that doe not harm any community, religion or racial group. Preserving own culture is right of everyone. No one can snatch or stop you following it. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T19:39:19.648121",
+      "timestamp_end": "2026-05-22T19:43:46.224903",
+      "seconds_on_item": 266
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This post shows general point of view of everyone to the invitation of poverty.  Not necessarily to be true for or apply to every country. Certainly all countries are taking  enough measures to deal with it. Above post needs more detailing. It seems very generic and brutal, and moreover unacceptable.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T19:43:46.753576",
+      "timestamp_end": "2026-05-22T19:47:46.060580",
+      "seconds_on_item": 239
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "All western countries are western because they are accepting diversity. According to the post tries to point out the welcoming nature of western countries. If you add one thing to another, surely properties are going to change as a result. Limitation and policies should be taken care to protect one's own integrity.  ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T19:47:46.251601",
+      "timestamp_end": "2026-05-22T19:51:21.625956",
+      "seconds_on_item": 215
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A specific individual",
+      "rationale": "According to me above post clearly says targeting audience is all immigrants. Politicians make specific policies for their own benefit but at the end someone has to suffer. But the one who rules never have to suffer because of their superiority and selfishness. Politicians keeps changing all rules and policies according to their needs. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T19:51:21.815210",
+      "timestamp_end": "2026-05-22T19:55:02.580082",
+      "seconds_on_item": 220
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-22T20:01:53.456256",
+  "prolific_pid": "P052",
+  "consented_at": "2026-05-22T18:35:37.942995",
+  "reflexivity_response": "It is all about person's own point of view on anything they might have experienced in the past or can just be a thought. Nothing is clear right or wrong, It's just perspective. Everything happens for a reason and it teaches you something. Learning and coping capability of individual is different. So yes, view can be different of each and every aspect of life. It clearly depends on which side of a coin you are standing. It is wrong when your view becomes a judgement and you act on it.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "Beliefs can change with time and experience but what can not be changed is ethical values. Good morals will always help you find goodness in everything. And will help you find a happy way to get into harmony. Acceptance doesn't come from invasion, it has to be earned with time and goodness.  I have always followed this path for my journey.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The post is targeting immigrants and refugees who are targeted . The post makes people believe that they should not get the service based on how scarce it is. The language makes us believe that they do not deserve it, as they are not “who the country is for”. This shapes how people look at them and view them.\n"
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I've heard similar comments before. Not directed at me specifically, but toward people who have immigrated to Canada illegally or as refugees. When people make relatively negative statements that separate ‘real citizens’ from another group, there’s often an underlying racial or cultural connotation behind them.\n\nIn this case, saying that hospitals should prioritize ‘true citizens’ could be interpreted in different ways: either referring to legal citizenship status, or implying people who ‘look the part’ or whose families have lived there for generations” which is harmful."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "They're talking about the overcrowding of hospitals. When they say \"can't keep up\" they're talking about volume. Since Canada has a very low birth rate, to me, they're clearly talking about immigrants. Then once you add in \"who is this country for\" it's even more clearly talking about immigrants. And it's also implying that this country should not be \"for immigrants\" even though 99% of this country is immigrants or descendants of immigrants."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "According to me when someone is saying this, that means they are either scared of immigrant's superior skill sets or it is in regards to a political decision that brings uneducated harmful people to the country. Every coin has two sides. It's readers' duty to check that the narrator is on which side of the coin.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "As someone who has been through an immigration process, I kind of understand this statement. There's a lot of hard work behind immigrating, and I see the unfairness behind some situations. Because of this, I don't fully view this post as harmful. It is provocative because each situation is different and by saying that you would be generalizing, and including people who had to immigrate to save themselves or their families.\n"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This asks a legitimate question and ultimately brings up the issue of outdated and vague immigration policies. I feel like a comment like this makes it less about race, which is important in this context. Most of the time I hear arguments like this though, it's about Mexicans here in California, who have more of a right to this specific land than I do, so it kind of depends. "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is clearly about the person's opinion on immigration, likely mass immigration as some immigrants are using loopholes to stay in the country, whereas this person's grandparents did the paperwork(allegedly) to become a legal citizen. I come from an immigrant family who did come here legally, to see that framework threatened to taken advantage of seems like a net negative but I do not know enough about these \"loopholes\" you hear about in the media to form an opinion."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "It is what it is. And it is how it happens. It's government's responsibility to stabilize the economy. The society will perceive what they see and experience. Some truths can not be changed. It can just be controlled. The government must make and implement different policies that protects everyone's rights.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+          "rationale": "It does sound dismissive and targeted toward immigrants who supposedly ‘flood’ the labor market. The statement comes across as cold and shifts the blame onto immigration rather than the broader economic system.\n\nThe phrasing ‘when you flood a labor market, wages go down’ sounds accusatory. Almost like, ‘What else did you expect?’ While it’s framed as a factual statement, especially with ‘economics doesn’t care about feelings,’ I do think there’s an underlying bias in the wording and tone."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Again, this post is a bit ambiguous. Economically, it could indeed be true - when demand decreases, wages naturally go down. The question is once again in intention. Why did the user feel the need to post this? Who exactly are they claiming to be flooding the larbour market? Like the last post, I interpreted it negatively, but this is up to interpretation. Someone working in economics might see it differently, as simply a fact rather than a harmful post. "
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I don't think this statement is that harmful, it's one of those ambiguous statements that welcomes people to form their own opinions on what they actually mean, usually in order to incite an argument. This might be about immigration, where a bunch of, lets say, engineers are being imported and flooding the market with engineers, driving down wages. But the market for certain jobs ebbs and flows with market demands, so this could just be a generalized statement to agree with that as well. Prolific allows 100k more people to join, the amount of surveys go down. If it's targeted in that manner, who is harmed?"
+        }
+      ]
+    }
+  ]
+}

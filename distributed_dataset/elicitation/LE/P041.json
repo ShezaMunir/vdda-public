@@ -1,0 +1,247 @@
+{
+  "participant_id": "P041",
+  "created_at": "2026-05-22T21:35:28.076899",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "28 years ",
+  "disclosure_text": "I immigrated to the US with my family 28 years old as a young teen. In those 28 years I have encounter many hardships such as racism, prejudice and many many other obstacles as a person of color.  ",
+  "micronarrative": "Growing up, I felt like an outsider, being an immigrant from another country.  People would give me those sideways glances, assuming I was here illegally, and I heard the phrase \"go back to your country\" more times than I can count. It was a constant reminder that despite my legal status, I was still seen as an outsider. At home, I spoke my native language, a small comfort in a world that often felt hostile. But everywhere else, I had to switch to English, a language that, while familiar, was not my first. The protests and the shouts of \"immigrants are taking jobs\" were a stark reality, even though I was already a US citizen. Those moments were painful, a constant battle to prove my belonging in a country that often doubted it.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "As an immigrant myself this resonates with me a lot. Although I am a legal immigrant and an US citizen now I can"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific memory or experience from your own life that feels similar to what you're describing?"
+    },
+    {
+      "role": "user",
+      "content": "just everyday growing up with people looking at me side eyes assuming im illegal and telling me to go back to my country "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about how you navigate language in different situations? Do you find yourself code-switching or using different dialects depending on who you're around?"
+    },
+    {
+      "role": "user",
+      "content": "at home i speak my native language but everywhere else i speak english"
+    },
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "people shouting protesting immigrants i have seen that alot "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific memory or experience from your own life that feels similar to what you're describing? For example, was there a particular incident where you witnessed or experienced similar protests or interactions?"
+    },
+    {
+      "role": "user",
+      "content": "like i said i had people protest like that one time and screamed at me that im illegal and i need to go back to my country, im stealing their jobs etc even though i was already a US citizen"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. It's really important to acknowledge the impact of such experiences. How do you think your experiences with language and identity influence how you navigate these kinds of situations today?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "when someone says we have to ask who this country is actually for they are obviously blaming their problems on the immigrants. What will come next? Color of that person's skin? The social status of that sick and how much money or who they know? Instead of blaming the actually problem which is hospitals are underfunded, poorly managed and this country is doing this best to discredit medical professionals  ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:42:09.504178",
+      "timestamp_end": "2026-05-22T21:45:35.318308",
+      "seconds_on_item": 205
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "When someone says my situation is this and that why can't someone else do the same? They are assuming everyone's situations is the same but a long time has passed that alone has changed the way immigrants gain legal status in the US. These people also assume the illegal immigrants aren't trying their best to gain legal status. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T21:45:35.497212",
+      "timestamp_end": "2026-05-22T21:47:29.594014",
+      "seconds_on_item": 114
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "When they say that its a basically a nicer way of what people used to say to me which you are here to steal my jobs. Except most industries in the US have a severe lack of labor force and are actively outsourcing to other countries in order to fill the cheap labor. Again just misdirected anger from political propaganda. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T21:47:29.791774",
+      "timestamp_end": "2026-05-22T21:49:48.669848",
+      "seconds_on_item": 138
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "with the way it is today and how divided politically in the US this could be targeted at anyone. it sounds like angry old people yelling at the clouds because they don't like changes, progress and anything that reminds them the \"old ways\". however I don't see this being targeted at anyone specific person or group. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T21:49:48.876183",
+      "timestamp_end": "2026-05-22T21:52:00.215842",
+      "seconds_on_item": 131
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "What do they mean by demographics? This sounds like more racism than just targeting immigrants. It sounds like those groups that want to keep a town white not allowing any people of color to move in. And what is natural? Are they saying someone is purposely putting the demographics that they don't like, whatever that maybe, in this country and they are not here naturally?",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:52:00.460306",
+      "timestamp_end": "2026-05-22T21:54:14.911892",
+      "seconds_on_item": 134
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "What is the deal America signed up for? Can this person speak for America? if they can who are they speaking for? The white people? Corporate America? or specific subset of people who is just against everything that is not white and conservative? Because last time I checked corporate America loves this. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T21:54:15.105014",
+      "timestamp_end": "2026-05-22T21:56:03.605104",
+      "seconds_on_item": 108
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "That is true except America has never been that distinct. This reads like another racist white people rant to me that they think America belongs to white people only except America has always been a melting pot of cultures and immigrants. All these languages that are basically anti-immigration which I have experienced being hurled at me before. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T21:56:03.803255",
+      "timestamp_end": "2026-05-22T21:58:26.296687",
+      "seconds_on_item": 142
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The use of word poverty hits me because this person assumes that all immigrants are poor, lazy, good for nothing here to steal their jobs and resources. Which again resonates with my own experience of people accusing me of stealing their jobs. Reality check there are plenty of poverty in America because the way the country is set up so another misdirected anger from propaganda. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T21:58:26.506362",
+      "timestamp_end": "2026-05-22T22:00:38.001940",
+      "seconds_on_item": 131
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The use of the word majority shows the underlying racist tone of this language. It basically is saying that western countries should stay majorly white and white people don't like it when their social status is being challenged. I personally have not seen anyone say this to me but I understand the racism it carries.  ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T22:00:38.203087",
+      "timestamp_end": "2026-05-22T22:02:51.175805",
+      "seconds_on_item": 132
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Again this is just another way of saying you are here to steal my jobs and resources. I have seen so many people say this one way or another to me that they don't realize immigrants are here to do jobs that \"they\" don't want to do. It's just another sad misinformation being spread around blaming immigrants for their problems. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T22:02:51.369185",
+      "timestamp_end": "2026-05-22T22:04:35.258188",
+      "seconds_on_item": 103
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-22T22:07:51.637465",
+  "prolific_pid": "P041",
+  "consented_at": "2026-05-22T21:35:28.076924",
+  "reflexivity_response": "Being an immigrant myself and growing up seeing these type of language hurled at me everyday basically disguising their racism make me extra sensitive to them. Like I said the politicians in this country is using misinformation to brainwash people into blaming immigrants for everything that is wrong in this country. The other participants who thinks these languages are not that big deal well maybe they are not immigrants who had first hand experiences or they simply are part of that crowd who are convinced immigrants are the problem.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "when someone says we have to ask who this country is actually for they are obviously blaming their problems on the immigrants. What will come next? Color of that person's skin? The social status of that sick and how much money or who they know? Instead of blaming the actually problem which is hospitals are underfunded, poorly managed and this country is doing this best to discredit medical professionals  ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Beliefs can change with time and experience but what can not be changed is ethical values. Good morals will always help you find goodness in everything. And will help you find a happy way to get into harmony. Acceptance doesn't come from invasion, it has to be earned with time and goodness.  I have always followed this path for my journey."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The post is targeting immigrants and refugees who are targeted . The post makes people believe that they should not get the service based on how scarce it is. The language makes us believe that they do not deserve it, as they are not “who the country is for”. This shapes how people look at them and view them.\n"
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "When somebody starts talking about who this country is really for, it in my opinion calls question into their motives. I think this person cares more about foreign people in his country, he/she is just using the hospital for an attack. I believe he already has the position they dislike immigrants and just using this to justify this more."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "When someone says my situation is this and that why can't someone else do the same? They are assuming everyone's situations is the same but a long time has passed that alone has changed the way immigrants gain legal status in the US. These people also assume the illegal immigrants aren't trying their best to gain legal status. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is clearly about the person's opinion on immigration, likely mass immigration as some immigrants are using loopholes to stay in the country, whereas this person's grandparents did the paperwork(allegedly) to become a legal citizen. I come from an immigrant family who did come here legally, to see that framework threatened to taken advantage of seems like a net negative but I do not know enough about these \"loopholes\" you hear about in the media to form an opinion."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It is very clear that the context of grandparents coming legally is given hence the post is targeted on someone who did not come legally and is getting a visa legally now. Hence the targetted groups feels like the illegal immigrants. If anyone has proper paper work i dont think they would take this post offensively"
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I labelled this as not harmful because there is nothing in the statement that comes off as harmful, it is a harmless statement. The speaker is just expressing their frustration, which any human being in that position would do.  The statement does not contain any slur, or direct attacks against the group as a whole."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "When they say that its a basically a nicer way of what people used to say to me which you are here to steal my jobs. Except most industries in the US have a severe lack of labor force and are actively outsourcing to other countries in order to fill the cheap labor. Again just misdirected anger from political propaganda. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The post is clearly about economics. But when labor jobs are seen the most labor jobs are occupied by immigrants because their skill set needs brushing of the country they immigrated to. After paying for several costs of coming to a new country immigrants cannot spend more on brushing their skills. hence they settle for labor jobs that require less skills even though they are way overqualified. When spoken about the Labor market one is directly speaking to the population dominating that field"
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I labelled this post as not harmful because it presents an argument based on basic economic concepts regarding labour supply an wage rates. While the phrasing is blunt and provocative, it addresses a standard policy debate about the economic impacts of immigration on the workforce. The language does not contain no hateful word or slurs."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "participant_id": "P020",
+  "created_at": "2026-05-07T21:58:32.202813",
+  "scenario_id": "A",
+  "connection_type": "I'm a caregiver, partner, or close community member of someone with this experience",
+  "duration": "7",
+  "disclosure_text": "My longtime girlfriend of seven years is Mexican and has parents from Mexico City who are not legal citizens",
+  "micronarrative": "I grew up in a small farm town where diversity wasn't exactly celebrated, but it was a part of our everyday lives. Immigrants from all over the world worked the fields and kept the community running. Even now, in the larger city of Sacramento, I still see the same signs and hear the same rhetoric. It feels like a familiar, almost expected, part of the landscape.\n\nRecently, when ICE was doing raids near where I live, the community was in an uproar. Protestors gathered outside a Home Depot, and it was a somber scene. It was depressing to see people's fears and frustrations so openly displayed, but it was also heartening to see so many others standing up against the harsh rhetoric towards the undocumented. \n\nIn Sacramento, I feel like I can fit in just about anywhere. The city's diversity is a blend of cultures and communities, and I try to treat everyone with respect, understanding, and kindness. Sometimes, I try to de-escalate tense situations or share my perspective, but the topic has become so divisive that meaningful conversations are rare. If I see someone actively harassing a minority, I won't hesitate to speak up or intervene.\n\nGrowing up in that small town, I saw firsthand the complex dynamics between different groups. It shaped my approach to interacting with people from all walks of life, and while it can be challenging, I try to be a voice for understanding and empathy.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I grew up in a small town with a lot of immigrants where stuff like this happening isn't uncommon. Even the larger city I live in now, I still will drive by bridges on the freeway with people holding signs like that. This definitely feels familiar"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me about a specific time when you saw something similar to this in your town? How did it make you feel?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, most recently when ICE was doing raids near where I live-- there were a lot of protestors and people outside of a Home Depot. It was kind of depressing, but I'm glad there are other people out there who are uncomfortable with the rhetoric towards the undocumented recently"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a bit about how you navigate speaking with different groups of people in your town—do you find yourself code-switching or using different registers depending on the audience?"
+    },
+    {
+      "role": "user",
+      "content": "Sometimes. I live in Sacramento, which is very diverse. I can fit in just about wherever, though and don't feel uncomfortable trying to talk to or fit in with anyone. I try to treat everyone about the same."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me an example of a time when you had to navigate a conversation with someone who held very different views on immigration? How did you approach the conversation?"
+    },
+    {
+      "role": "user",
+      "content": "I usually try and be respectful, doing my best to understand where they are coming from. Sometimes I will try and deescalate, or share my opinion, but it's become such a divisive topic that trying to have a quality conversation is fruitless. I will speak up or say something if a minority is actively being harassed.  "
+    },
+    {
+      "role": "assistant",
+      "content": "Reflecting on your experiences, how do you think your background and the way you navigate these conversations might influence how you interpret and respond to scenarios like the town hall meeting described?"
+    },
+    {
+      "role": "user",
+      "content": "I definitely grew up in a smaller farm town with a lot of the types of people who would be on both sides of the fence, so "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific memory from your childhood that relates to this? How did those experiences shape your perspective on these kinds of situations?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I feel like this post makes it seem like some people are more worthy of health care than others, it just doesn't specify exactly who, which leaves the door open for denying actually targeting a specific group. It's still divisive language though. Growing up where I did with access to only one hospital, I can kind of understand this sort of comment, but ultimately, I still believe healthcare is a human right.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-07T22:08:11.336943",
+      "timestamp_end": "2026-05-07T22:12:18.038795",
+      "seconds_on_item": 246
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This asks a legitimate question and ultimately brings up the issue of outdated and vague immigration policies. I feel like a comment like this makes it less about race, which is important in this context. Most of the time I hear arguments like this though, it's about Mexicans here in California, who have more of a right to this specific land than I do, so it kind of depends. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-07T22:12:18.563813",
+      "timestamp_end": "2026-05-07T22:17:56.597931",
+      "seconds_on_item": 338
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "People have been saying things like this for a long time about lots of different groups that have immigrated over the years. In an economy like ours though, immigrants and people bringing more/different skills to the table is what makes us so great. I think there is enough for everyone at the table. Growing up in a farm town, there were jobs that a lot of people wouldn't or couldn't do and things would fall apart overnight without that labor.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T22:17:57.134521",
+      "timestamp_end": "2026-05-07T22:21:54.700589",
+      "seconds_on_item": 237
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I've heard a lot of stuff like this. Despite not singling out a specific group, it still makes it sound like and implies that anyone other than the OP is making the place they live worser off or taking something away just based off race or religion. I remember hearing things like this as a kid from white people about Mexican restaurants replacing older buildings. This is harmful rhetoric.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T22:21:54.902137",
+      "timestamp_end": "2026-05-07T22:26:10.732718",
+      "seconds_on_item": 255
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This has more specifically to do with race and/or religion. It kind of reminds me of the last post about hometowns being \"unrecognizable.\" It makes it sound like a specific race or \"culture\" is intentionally being drowned out or erased by another, which is just code for being racist or bigoted. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T22:26:10.951059",
+      "timestamp_end": "2026-05-07T22:30:01.135619",
+      "seconds_on_item": 230
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think this is harmful because it makes it seem like immigrants can't be true Americans or that we can't all coexist, which I think isn't true. We are a country built on immigration, and I think there is enough of the American dream to go around, so this is harmful and dishonest.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T22:30:01.348538",
+      "timestamp_end": "2026-05-07T22:38:30.963455",
+      "seconds_on_item": 509
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "I can't really tell who this is directed at, but the second sentence makes it sound like white people are being persecuted, which I don't agree with. This post feels like it incorporates a logical fallacy. Like the last post, this one makes it also sound like we can't all coexist, which I disagree with. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T22:38:31.166669",
+      "timestamp_end": "2026-05-07T22:42:09.459033",
+      "seconds_on_item": 218
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "It makes it sound like poverty is because of a particular race or group, when it's more complicated than that. Here in the United States, there is an enormous wealth gap that is because of harmful economic policies that benefit the few on top and disproportionately impact people of color, but that system doesn't exist because of them.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T22:42:09.662355",
+      "timestamp_end": "2026-05-07T22:45:29.070550",
+      "seconds_on_item": 199
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This post makes it sound like immigration and there being lots of different types of people, cultures and religions is the result of politicization and \"political correctness.\" We can all exist and thrive together without demonizing minority groups-- we don't need to change from being a democracy. We all matter. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-07T22:45:29.276392",
+      "timestamp_end": "2026-05-07T22:49:36.897999",
+      "seconds_on_item": 247
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This still makes it sounds like immigration is a negative, which I don't think it is. I count myself as being at the bottom with everyone else who isn't a billionaire, though. I just think there are other actual net negatives that need to be addressed and we can't just scapegoat immigrants and minorities.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T22:49:37.412177",
+      "timestamp_end": "2026-05-07T22:53:14.721188",
+      "seconds_on_item": 217
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-07T22:53:14.929268",
+  "prolific_pid": "P020",
+  "consented_at": "2026-05-07T21:58:32.203130"
+}

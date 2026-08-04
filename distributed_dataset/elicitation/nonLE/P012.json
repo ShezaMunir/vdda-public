@@ -1,0 +1,247 @@
+{
+  "participant_id": "P012",
+  "created_at": "2026-07-31T13:07:51.949738",
+  "scenario_id": "B",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "my whole life",
+  "disclosure_text": "I am neither religious nor an immigrant.",
+  "micronarrative": "I view the backlash against the bakery as wrong, akin to blackmailing a business for its religion. As an agnostic and gay person, I strongly disagree with Chick-fil-A’s Christianity, yet I would never go out of my way to blackmail them; I simply boycott by not buying their products. I find it baffling that some Gen Z LGBTQ individuals eat there to fit in, ignoring the discrimination. Growing up in Phoenix, I attended church out of obligation because my parents were Catholic, but I always felt resistant to doing things for the sake of tradition. I pretended to be attentive as a kid, but deep down, I wanted nothing to do with it. I am not the type to try and fit in just to please people. Therefore, I see the bakery as brave for choosing authenticity over conformity. They have a right to express their religious views, and I support that stance against performative pressure.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something that resonates personally, or something that feels uncomfortable or foreign?"
+    },
+    {
+      "role": "user",
+      "content": "Blackmailing a business just because you strongly disagree with their religion is wrong. That's like me blackmailing Chick Fil A for its Christianity just because I'm Agnostic and gay. I strongly disagree with Chick Fil A, but I would never go out of my way to blackmail that restaurant, I would just boycott by not buying products from a business or restaurant that doesn't share my values or beliefs."
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned being gay and agnostic—how has that specific combination shaped your experience with religious institutions or communities growing up?"
+    },
+    {
+      "role": "user",
+      "content": "It baffles me to see Gen Z LGBTQs eating from Chick Fil A when either they don't know Chick Fil A is discriminatory to LGBTQ or they are but still choose to eat there just to fit in. Christianity opposes same-sex relationships and marriages."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you grow up, and how did the local culture there shape your understanding of those religious boundaries?"
+    },
+    {
+      "role": "user",
+      "content": "I grew up in Phoenix, Arizona for 25 years since I was 3. My parents would sometimes take my brother and I to church on Sundays since they grew up in Catholic households as kids, but I felt obligated to be religious, I neither support nor oppose religion, I am just neutral, or should I say, Agnostic. I am the type of person who is resistant to do something for the sake of \"tradition\"  or our of obligation. For instance, if I choose not to be married and an extended family member convinces me to get married, that makes me want to stay unmarried more than I already am"
+    },
+    {
+      "role": "assistant",
+      "content": "When you were in those church settings, did you find yourself changing how you spoke or acted to fit in with the congregation?"
+    },
+    {
+      "role": "user",
+      "content": "When I was a kid, I pretended to act like I was attentive while attending church, but deep down, I wanted nothing to do with Catholicism. I am not the type to try and fit in just to please people."
+    },
+    {
+      "role": "assistant",
+      "content": "How does that resistance to performative conformity influence how you interpret the bakery's decision to post the photo in the first place?"
+    },
+    {
+      "role": "user",
+      "content": "The bakery is very brave for choosing authenticity over conformity, despite what majority of people would believe. The bakery has a right to express their religious views."
+    },
+    {
+      "role": "assistant",
+      "content": "How does that stance on authenticity shape your view of the coalition's \"buy-out\" day—is it genuine solidarity or just another form of performative pressure?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A religious community",
+      "rationale": "The freedom behind expressing religious views shaped my judgement. Everybody should have a right to express your views, even if majority of people disagree with it. I believe authenticity is more important than conformity. Fitting in to please people is not freedom or democracy. Freedom of expression is something everybody deserves.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T13:24:36.941938",
+      "timestamp_end": "2026-07-31T13:28:51.088411",
+      "seconds_on_item": 254
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The acknowledgement of students having a variety of dietary preferences based on their religion is what shaped my judgement in this post. This post doesn't resonate with me as I don't have a religion-based diet. I do recognize the school's choice to add multiple diets to the school's cafeteria for equality in children's dietary preferences.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T13:28:51.260422",
+      "timestamp_end": "2026-07-31T13:35:17.441859",
+      "seconds_on_item": 386
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I have mixed opinions about this post. Everybody has free will to pray based on their religion, but I disagree with the second sentence about praying being disruptive to your routines and schedules. I don't believe that praying and of itself isn't disruptive to a person's schedule, a logical person would find time to pray when they aren't busy with work, school, or other obligations. ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T13:35:17.625822",
+      "timestamp_end": "2026-07-31T13:39:37.272713",
+      "seconds_on_item": 259
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "I am not familiar with the Enlightenment. I have no judgement of whether this post discriminates against individuals, religious groups, or communities. I find this post to be ambiguous since I have no knowledge in the Enlightenment.  I am sure a few people might take this specific post too seriously.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T13:39:37.462467",
+      "timestamp_end": "2026-07-31T13:43:00.440737",
+      "seconds_on_item": 202
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "As a gay man myself, I would be devastated if a business refused to serve me just because its against their religion. The person who made this post does make a good point about how a Halal butcher doesn't refuse service from a non-Muslim person. Assuming if its the baker themselves is Christian and the bakery isn't Christian-owned, that baker is just being discriminatory. Gay people deserve a right to be married too.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:43:00.617137",
+      "timestamp_end": "2026-07-31T13:50:06.746419",
+      "seconds_on_item": 426
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This post seemed like its throwing unnecessary digs towards the Democratic Party in terms of secularism. I am not religious but I do consider myself to be liberal. Although, I do agree with them that no religion should be treated more better than other ones. Equality is just as important for religion as much as gender, LGBTQ, and race.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T13:50:06.932931",
+      "timestamp_end": "2026-07-31T13:53:49.622798",
+      "seconds_on_item": 222
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "As a gay liberal myself, I can't confirm or deny that immigrants are conservative in terms of gender/LGBTQ equality. The person's lack of evidence to support their claim makes them seem ignorant and attacking the Democratic Party. Its important to acknowledge that every immigrant has their view on gender/LGBTQ equality and that the person who made this post shouldn't speak for immigrant's view on gender/LGBTQ equality when they have no evidence to validate their argument.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:53:49.810334",
+      "timestamp_end": "2026-07-31T13:58:02.484893",
+      "seconds_on_item": 252
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "As a gay male myself, I am not one hundred percent sure if LGBTQ rights were meant to fight religious conservatism, but I can see why they believe that. Many religions are against LGBTQ rights. If the LGBTQ community has tolerated hearing views the are against their own, Christians should too. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T13:58:02.678454",
+      "timestamp_end": "2026-07-31T14:01:27.367975",
+      "seconds_on_item": 204
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "This post seems to be discriminatory to the LGBTQ community, especially to transgender people. Every religion has a right to express their beliefs, but discrimination is not an excuse to be \"religious\". Gender reassignment surgery of any kind is a person's choice to pursue just as much as any religion.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T14:01:27.572382",
+      "timestamp_end": "2026-07-31T14:05:04.194914",
+      "seconds_on_item": 216
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "This post seems like it may targeted to people who go quiet when they do a crime and are protected from a party. I have never been accused of violating a woman in any way, shape, or form. The people who would find this post to be \"harmful\" are ones who have violated a woman in the past.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T14:05:04.424776",
+      "timestamp_end": "2026-07-31T14:09:52.309923",
+      "seconds_on_item": 287
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T14:17:53.431185",
+  "prolific_pid": "P012",
+  "consented_at": "2026-07-31T13:07:51.949792",
+  "reflexivity_response": "My choice to be authentic instead of choosing conformity has shaped my rationales and how they differ from others'. I am not afraid to be who I am despite what other people think of me. I annotated these posts by facts and my own personal beliefs. My specific beliefs and values such as religious freedom, LGBTQ rights, democracy, and liberalism were used based on how I annotated those social media posts. I can see how I differ from others in terms of the other rationales above. I am all for agreeing to disagree.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "The freedom behind expressing religious views shaped my judgement. Everybody should have a right to express your views, even if majority of people disagree with it. I believe authenticity is more important than conformity. Fitting in to please people is not freedom or democracy. Freedom of expression is something everybody deserves.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "The post should be taken as a potentially controversial opinion but without a direct attack. Therefore, I would label it as 'not harmful'. The phrase 'some belief systems just are not compatible with liberal democracy' shaped my judgement since this statement refers to certain relious beliefs or communities rather than a specific individual.  "
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It seems offensive, but it is not harmful because it is true in the sense that some religious values are opposed to liberal ideology. The wording used in this post can be modified in a more subtle way to make it more polite, but overall I don't think it's harmful; it's just critical ."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "While the original message is vague, it also throws shade at a certain group. It calls out how certain religious systems aren't compatible with liberal democracy, so anyone that is not liberal is being marginalized and grouped into one thing while maintaining a facade of vagueness. I wouldn't say the post is completely harmful, though as it isn't berating a specific group."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The acknowledgement of students having a variety of dietary preferences based on their religion is what shaped my judgement in this post. This post doesn't resonate with me as I don't have a religion-based diet. I do recognize the school's choice to add multiple diets to the school's cafeteria for equality in children's dietary preferences.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "Asking \"whose schools these are\" over basic dietary accommodations is such a cheap way to draw an us-versus-them line and make kids and families feel like outsiders.. Oh and growing up navigating different cultural spaces, you get really good at spotting how people weaponize public spaces to say, \"you don't actually belong here.."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This post is harmful as it poses accommodation for dietary needs as a negative, when it is a dietary restriction like any other. It seems directed to those who make the decisions and the people who are part of the religious groups that they feel force the schools to accommodate them. "
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I do not think that this post is harmful since it expressed a point regarding the controversial on religious and dietary rules in public schools. The phrase 'whose schools these are' shaped my judgment since it brought a concern that public schools are giving too much consideration to some religious groups on the issue of dietary accomodation."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "I have mixed opinions about this post. Everybody has free will to pray based on their religion, but I disagree with the second sentence about praying being disruptive to your routines and schedules. I don't believe that praying and of itself isn't disruptive to a person's schedule, a logical person would find time to pray when they aren't busy with work, school, or other obligations. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Yeah I would say this post is likely harmful. Again this is quite vague, but it is still marginalizing a group of people and categorizing the \"other religions\" into something they don't want to see or hear about.  I don't like it as it just seems to be placing the blame on the religious people."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Again, there is a specific reference to prayer.  I will infer that the poster has a problem with Muslims, who, if devout, are required to pray 5 times daily.  This need not conflict with workplace schedules; prayers do not take very long at all and can be done during breaks and lunch -- mandated by legislation -- if the individual(s) so choose.  I first witnessed this when working at a telecom which had a dedicated prayer room for Muslims.  One was a co-worker and his prayer schedule had no impact on work."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "freedon of religion is freedon of human right,every individual should have the freedom to poractice whatever religion they want to practice,in a situation where a political party is against freedom of religion then there is no freedom of human right, Most religion is practiced based on family ties and they keep on like that"
+        }
+      ]
+    }
+  ]
+}

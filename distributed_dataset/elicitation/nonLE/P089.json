@@ -1,0 +1,247 @@
+{
+  "participant_id": "P089",
+  "created_at": "2026-07-31T22:34:16.197474",
+  "scenario_id": "C",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "1",
+  "disclosure_text": "I have followed discussions about the topics that helped me a lot ",
+  "micronarrative": "I was drawn to the student whose experience got lost in the argument. That silence felt bad and frustrating. I remember trying to share my opinion in a group discussion at school, but people kept talking over me. I just stayed quiet because it felt like no one was listening. A few outspoken classmates dominated the conversation, making it hard for everyone else to speak. The more confident students usually spoke the most, while the quieter ones mostly listened. It wasn't intentional, but that's how the discussion often went. This dynamic shaped who felt entitled to speak and who was expected to listen, mirroring the way the student in the scenario was drowned out by a sea of opinions.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there a moment, a feeling, or a person in it you find yourself drawn to?"
+    },
+    {
+      "role": "user",
+      "content": "What stood out was the student whose experience got lost in an  argument "
+    },
+    {
+      "role": "assistant",
+      "content": "When you’ve had your own voice drowned out in a heated group discussion, what did that silence feel like in your body?"
+    },
+    {
+      "role": "user",
+      "content": "It felt bad and frustrating"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you recall a specific time when your voice was drowned out, and describe exactly what was happening in that moment?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I remember trying to share my opinion in a group discussion, but people kept talking over me. I just stayed quiet because it felt like no one was listening."
+    },
+    {
+      "role": "assistant",
+      "content": "Where were you when that happened, and whose voices were dominating the space?"
+    },
+    {
+      "role": "user",
+      "content": "I was in a group discussion at school. A few outspoken classmates dominated the conversation, so it was hard for everyone else to speak"
+    },
+    {
+      "role": "assistant",
+      "content": "How did the social dynamics of that school environment shape who felt entitled to speak and who was expected to listen?"
+    },
+    {
+      "role": "user",
+      "content": "The more confident students usually spoke the most, while the quieter ones mostly listened. It wasn't intentional, but that's how the discussion often went"
+    },
+    {
+      "role": "assistant",
+      "content": "How did your own background or personality traits influence whether you felt comfortable pushing back against those louder voices?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The post uses balanced language by saying both \"I believe women\" and \"I believe due process,\" suggesting the writer thinks the two ideas can exist together. It doesn't attack either side but encourages a more balanced perspective. My own opinion or experience of feeling unheard makes me appreciate messages that acknowledge more than one viewpoint instead of turning everything into an argument and listening.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:45:35.136560",
+      "timestamp_end": "2026-07-31T22:51:42.096379",
+      "seconds_on_item": 366
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A specific individual",
+      "rationale": "The post criticizes the idea of calling many situations microaggressions, arguing that it can make women seem less capable. It has a strong opinion but does not directly insult anyone. My own experience makes me value listening to different views, so I read .it as criticism rather than a personal attack",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T22:51:42.275270",
+      "timestamp_end": "2026-07-31T22:53:25.082406",
+      "seconds_on_item": 102
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A specific individual",
+      "rationale": "The post presents a strong opinion about gender and acknowledges that some people may find it  hurtful or harmful. The wording is direct and likely to spark disagreement. I read it as expressing a personal belief rather than trying to start a respectful discussion, so it felt more controversial than neutral.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T22:53:25.263811",
+      "timestamp_end": "2026-07-31T22:56:21.781506",
+      "seconds_on_item": 176
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A specific individual",
+      "rationale": "The post compares gender as a social construct with the wage gap to challenge a particular point of view. It uses a direct statement to argue that the two ideas cannot both be true. I saw it as someone expressing a strong opinion rather than trying to start a balanced discussion, and I can understand why people might disagree with it.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T22:56:21.956379",
+      "timestamp_end": "2026-07-31T22:58:17.433484",
+      "seconds_on_item": 115
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post argues that women's sports were created to provide fair competition for women that is supportive. The wording is short, direct, and leaves little room for other views. I read it as someone clearly stating their opinion about fairness in sports, and I can see why different people might respond differently.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T22:58:17.613659",
+      "timestamp_end": "2026-07-31T23:00:02.255714",
+      "seconds_on_item": 104
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Unclear",
+      "rationale": "The post argues that treating masculinity as something negative is unfair. It uses strong or giant wording to criticize that way of thinking and compares it to prejudice. I read it as someone defending men rather than attacking them, although I know people may have different opinions about the message but it is good to support men masculinity.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T23:00:02.437904",
+      "timestamp_end": "2026-07-31T23:03:03.794254",
+      "seconds_on_item": 181
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Unclear",
+      "rationale": "The post talks about a working-class man losing a job and feeling like he cannot express his frustration. It made me think the writer believes some people's feelings are ignored in these discussions. I read it as someone sharing a strong opinion about fairness, even though I know others may have a different view of the situation",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T23:03:03.975256",
+      "timestamp_end": "2026-07-31T23:05:53.084769",
+      "seconds_on_item": 169
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post criticizes the idea of intersectionality by saying it creates another unfair system instead of helping people. The phrase \"oppression with extra steps\" makes the message sound strong and sarcastic. I understood it as the writer sharing a firm opinion about the topic. It did not feel like they were trying to invite discussion or hear different views",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T23:05:53.528572",
+      "timestamp_end": "2026-07-31T23:08:17.896267",
+      "seconds_on_item": 144
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A specific individual",
+      "rationale": "The post makes a broad statement and then asks why people do not talk about it more. It made me think the writer wants others to consider a perspective that is often overlooked. I read it as encouraging discussion rather than attacking anyone, even if some people may disagree with the claim.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T23:08:18.145865",
+      "timestamp_end": "2026-07-31T23:09:25.273084",
+      "seconds_on_item": 67
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "The post suggests that people avoid using certain words when talking about communities where women have fewer freedoms. It uses a strong statement to express frustration about that. I read it as the writer sharing their opinion on a sensitive topic, knowing that different people will likely interpret it in different ways.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T23:09:25.445231",
+      "timestamp_end": "2026-07-31T23:11:06.349941",
+      "seconds_on_item": 100
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T23:13:20.473656",
+  "prolific_pid": "P089",
+  "consented_at": "2026-07-31T22:34:16.197525",
+  "reflexivity_response": "My experiences make me pay attention to how people express their opinions, not just what they are saying. I know how it feels when your voice is not heard, so I notice when a post sounds dismissive or leaves little room for other views. I also try to think about how different people might understand the same message. Because of that, I sometimes saw certain posts as more controversial than others did. I think my values of fairness, respect, and listening shaped the way I interpreted the posts.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "C01",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The post uses balanced language by saying both \"I believe women\" and \"I believe due process,\" suggesting the writer thinks the two ideas can exist together. It doesn't attack either side but encourages a more balanced perspective. My own opinion or experience of feeling unheard makes me appreciate messages that acknowledge more than one viewpoint instead of turning everything into an argument and listening.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Though it mentions women you cannot tell exactly what is is focusing on and especially who. The group mentality seems to be in effect but it is still unclear. I like that it is generic but yet it begs you to wonder what else there is as far as intention.\n"
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This post is very ambiguous. It's hard to judge without context but the logic does still make sense. It doesn't sound like it's attacking anyone. I think the tone is calm and neutral. It's saying that there should be fair treatment regardless of gender. That how I would perceive it."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "i dont see that as an attack and a target to anyone one person or group it sounds like they are siding with both rather than attacking one stide and i think that is the right approach we shouldnt discount what a woman tells us it should be investigated and the proper procedure be taken "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C02",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The post criticizes the idea of calling many situations microaggressions, arguing that it can make women seem less capable. It has a strong opinion but does not directly insult anyone. My own experience makes me value listening to different views, so I read .it as criticism rather than a personal attack",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "it is reality people are to used to being babied now days and that creates weak men who inturn create a weak socitety we need to get back to god and being a community of common decceny and accountability  the country was a way more safe enjoyable place when we had these things "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It does not support the use of the notion of “microaggressions” because its misuse weakens women’s position. Even if it is making a generalization regarding women and can be considered disrespectful for some people, it does not dehumanize women and make anyone hate them. It is my understanding of this blog entry based on my balancing perspective and observing discussions in public forums"
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I believe this post is nothing but an observation. Not every little comment is necessarily a micro aggression. I think, being a woman myself, focusing too much on what people say to us or how treat us and connecting it to our gender makes us mentally weaker and more fragile. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C03",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post presents a strong opinion about gender and acknowledges that some people may find it  hurtful or harmful. The wording is direct and likely to spark disagreement. I read it as expressing a personal belief rather than trying to start a respectful discussion, so it felt more controversial than neutral.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "this is just science and common sense there are naturally 2 genders and you are either male or female there are instances where somone wants to be another gender but for all of modern society we have always seen that as something other than what we do now!!! thats the bold truth "
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "i think you are allowed to be gay or straight your choice ,I dont thinks it right for someone to say that there is two genders when someone doesn't always identify with there self.in the end each person has there own opinion but sometimes best to keep some thought to your self."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This post is ambiguous because there are 2 sides of groups, one who believes in lgbtq and the other side who does not. Therefore, it is targetting a group of people and they might get offended because of that, and that is harmful. But who agrees this may be happy to see that people share same thoughts and perspectives as them,. "
+        }
+      ]
+    }
+  ]
+}

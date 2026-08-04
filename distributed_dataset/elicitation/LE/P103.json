@@ -1,0 +1,247 @@
+{
+  "participant_id": "P103",
+  "created_at": "2026-07-31T14:21:08.541060",
+  "scenario_id": "B",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "my whole life",
+  "disclosure_text": "I am a muslim south asian girl. I am a visible minority, and I have always stood out in crowds.",
+  "micronarrative": "This happens to me. Whenever I want to share my culture or religious holidays, non people of colour act like I'm forcing my beliefs on them when that is not the case at all. I see it everyday on social media, where comments are islamophobic or racist. It happens to me in the sense that I ask to get time off from school or work so I can celebrate, and I get dirty looks. I do change how I phrase the request; I say that it's a personal thing that I want to celebrate with my family. This shift feels like both a protective measure and a source of distance. I want them to take me seriously and not think my culture or religion is a joke. The bakery probably just wanted to share their culture with people and people took it the wrong way.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something that resonates personally, or something that feels uncomfortable or foreign?"
+    },
+    {
+      "role": "user",
+      "content": "This happens to me. Whenever I want to share my culture or religious holidays, non pocs act like I'm forcing my beliefs on them when that is not the case at all."
+    },
+    {
+      "role": "assistant",
+      "content": "When you say \"this happens to me,\" can you describe a specific time when sharing your culture led to that kind of backlash?"
+    },
+    {
+      "role": "user",
+      "content": "I see it everyday on social media. A muslim person posts about it being a special day, and the comments are islamophobic or racist. It happens to me in the sense that I ask to get time off from school or work so I can celebrate, and I get dirty looks."
+    },
+    {
+      "role": "assistant",
+      "content": "When you ask for that time off, do you find yourself changing how you phrase the request or the reasons you give to avoid those dirty looks?"
+    },
+    {
+      "role": "user",
+      "content": "I do. I say that it's a personal thing that I want to celebrate with my family."
+    },
+    {
+      "role": "assistant",
+      "content": "Does that shift in language feel like a protective measure, or does it create a sense of distance from the people you are asking?"
+    },
+    {
+      "role": "user",
+      "content": "Both. I want them to take me seriously and not think my culture or religion is a joke."
+    },
+    {
+      "role": "assistant",
+      "content": "How does that need to be taken seriously influence the way you interpret the bakery's decision to post publicly in the scenario?"
+    },
+    {
+      "role": "user",
+      "content": "The bakery probably just wanted to share their culture with people and people took it the wrong way."
+    },
+    {
+      "role": "assistant",
+      "content": "What specific cultural markers or symbols do you usually hide when you code-switch to protect yourself in those professional or academic settings?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "\"Some beliefs systems aren't compatible\". I hear this all the time in media. I can feel that it's directed towards the religion I follow. I see it everywhere. The \"extremist\" beliefs in my religion are bad, but that's not what a majority of muslims believe. But people think otherwise. But I am probably biased due to my own experiences.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:25:54.077784",
+      "timestamp_end": "2026-07-31T14:28:22.068201",
+      "seconds_on_item": 147
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The second sentence, \"at some point, you have to ask whose schools these are\" seems very harmful and backhanded to schools with multicultural students. It's worded in a way that makes it seem like OP thinks that the white people are better than people of colour. What is wrong with accommodating to everyone?",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:28:22.253716",
+      "timestamp_end": "2026-07-31T14:30:28.789359",
+      "seconds_on_item": 126
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "This is completely directed towards people who practice islam, like me, but it isn't harmful in my opinion. I think it is completely fair to not want my religious practices to disrupt other people. They seem to not mean it in a harmful way. Their statement is very justifiable, but I can see how some people might take offence to it.\n",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T14:30:28.963184",
+      "timestamp_end": "2026-07-31T14:32:58.664558",
+      "seconds_on_item": 149
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I am not completely aware of what the Enlightenment is, but the original poster is clearly saying that one specific group is better than another, or one marginalized group is less intelligent. This is very harmful and dehumanizing to said group. And I do think this statement falls under racism. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T14:32:58.849465",
+      "timestamp_end": "2026-07-31T14:35:01.661475",
+      "seconds_on_item": 122
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "I can't tell who this is directed to, the Christian or the Muslim. But I believe that everyone has the right or the choice to accept or refuse something that they're not comfortable with. They are two different religions, and the people are probably different in how religious they are. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T14:35:01.852978",
+      "timestamp_end": "2026-07-31T14:37:01.455662",
+      "seconds_on_item": 119
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "I am not completely aware of what Secularism is and so I don't have enough knowledge to speak about this topic. But I believe that Secularism is the fact that all religions get treated equally. And I think that is a good thing. I don't understand what the original poster means by the second sentence.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T14:37:01.659959",
+      "timestamp_end": "2026-07-31T14:39:06.446560",
+      "seconds_on_item": 124
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think it's a bit harmful to generalize/stereotype all immigrants to be the same. But I do sort of agree with the statement. I can tell that people will take offence to it, though. I cannot tell if the original poster means it in a derogatory or just a matter of fact way.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:39:06.632981",
+      "timestamp_end": "2026-07-31T14:40:29.666577",
+      "seconds_on_item": 83
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I don't completely understand the post but I think what they're saying is that gay people got their rights and now they need to stop trying to \"fit in\" or we need to stop adding them to media. I think that is a very harmful way of thinking and people will take offence to it.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T14:40:29.855779",
+      "timestamp_end": "2026-07-31T14:42:11.286814",
+      "seconds_on_item": 101
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "It's sort of Islamophobic in the way that female genital mutilation isn't even a thing in Islam. Maybe in small communities or groups, but they think and believe differently than majority of muslims. The poster clearly didn't do their research. It wouldn't have been harmful if they didn't include the second sentence.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:42:11.475419",
+      "timestamp_end": "2026-07-31T14:44:08.180280",
+      "seconds_on_item": 116
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I think the original poster is standing up/speaking out for women. I think they didn't mean it in a harmful way. They are condemning the activists who pick and choose who to speak out for. And I think they're right about it. They're saying that some activists only care about specific women.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T14:44:08.369339",
+      "timestamp_end": "2026-07-31T14:45:42.807707",
+      "seconds_on_item": 94
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T14:50:11.357744",
+  "prolific_pid": "P103",
+  "consented_at": "2026-07-31T14:21:08.541083",
+  "reflexivity_response": "I think it's interesting how people from different backgrounds, cultures and religions see statements in different ways. I think the other participants were very respectful, and their beliefs are very fair. I was a bit more critical of the posts than them, probably because I have actually dealt with a lot of the scenarios and experiences described in the posts. I think that I was a lot more laid back in the posts that I am specifically targetted, and I give people more grace and the benefit of the doubt. But, when other marginalized groups are targetted, I am a lot more critical and condemn the poster.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "\"Some beliefs systems aren't compatible\". I hear this all the time in media. I can feel that it's directed towards the religion I follow. I see it everywhere. The \"extremist\" beliefs in my religion are bad, but that's not what a majority of muslims believe. But people think otherwise. But I am probably biased due to my own experiences.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "the post is written as an opinion about religion and politics... it does not mention a specific religion or call for harm against anyone... the wording suggest the author is making general claim and tries to justify it by saying it is an observation rather than bigotry... that is why i viewed it as likely not harmful...."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post is clearly targetting religious communities with beliefs that may occasionnaly clash with traditional liberal democratic values. While there is no direct threat or call to harm the concerned community, there is still a clear allusion that the members of this religion are not welcome in the country. It could be perceived as more harmful depending on who is reading that post."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "everybody should be free to practice whatever relihion they want ,It should not be based on political parties,Liberal supports individual rights which is free religion participation,IN  a situation where people are not  allowered to practice their chosen or inherited religion then there is no freedom of religion practices ,In this case people dont have their rights in order,This is against the rule of law ,People should be allowered to change and practice religion without the government being involved ,This is about freedon to beleive or practise their chosen religion "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The second sentence, \"at some point, you have to ask whose schools these are\" seems very harmful and backhanded to schools with multicultural students. It's worded in a way that makes it seem like OP thinks that the white people are better than people of colour. What is wrong with accommodating to everyone?",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The poster is clearly targeting a specific religious group, which would be Muslim due to their dietary restriction in their religion. It would definitely be interpreted as harmful by that religious community and they would feel targeted. The poster is insinuating that it is not that group school and is being xenophobe."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "In my opinion this reads like a Christian individual angry that schools are giving halal options to muslim children. However, the person doesn't explicitly say muslims so there is a level of plausible deniability they could use if people were to call them out on it. \"At some point you have to ask whose schools these are\" feels very charged and hostile. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I think this might be seen as harmful because it's talking about schools and kids. Schools should be places where every child feels included, and statements like this can make it sound like some students don't really belong because of their religion. I think that if you have special dietary requirements for religious reasons, it's mostly your or your parents' responsibility to make sure those needs are met. But at the same time, schools should also be practical. If, for example, 20% or more of the students are Muslim and can't eat pork, it seems reasonable to offer another meal option. That doesn't force anything on anyone—it just gives those kids something they can eat while everyone else can still choose what they want. Religion is your choice and you must take responsibility  for your kids and what they eat without obligation school or goverment."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "This is completely directed towards people who practice islam, like me, but it isn't harmful in my opinion. I think it is completely fair to not want my religious practices to disrupt other people. They seem to not mean it in a harmful way. Their statement is very justifiable, but I can see how some people might take offence to it.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Yeah I would say this post is likely harmful. Again this is quite vague, but it is still marginalizing a group of people and categorizing the \"other religions\" into something they don't want to see or hear about.  I don't like it as it just seems to be placing the blame on the religious people."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "i labeled this Post as likely harmful because it specifically references praying five times a day, clearly targeting the  muslim  community . While it frames the complaint around the work place scheduling  efficiency , it places the blame for scheduling issues entirely onto religious practice . This creates an unsupportable and hostile framing that can  marginalize muslim employees."
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The specific reference to praying five times a day clearly targets Muslim employees. In my experience navigating professional environments, accommodating minor religious practices usually takes very little time and can be managed seamlessly with open communication. By framing this personal practice as an active disruption that negatively impacts \"everyone else,\" the post exaggerates the burden of basic accommodations. This can create a hostile workplace dynamic, making minority employees feel like a burden to their teams simply for practicing their faith."
+        }
+      ]
+    }
+  ]
+}

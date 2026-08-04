@@ -1,0 +1,239 @@
+{
+  "participant_id": "P043",
+  "created_at": "2026-05-23T19:23:04.885820",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "8",
+  "disclosure_text": "I immigrated to Canada 8 years ago",
+  "micronarrative": "I’ve seen how divided society is over immigration. I’m not against it, but I’ve met families who expect everything to be handed to them—no adjustment, no work.  At first, it’s hard to adjust to foreign language. You need patience to speak slower, to repeat. Some people give up. Others, like me, keep going. I’ve learned that adjusting takes time, but not everyone has the desire to put in the work. In my community, I’ve seen people take advantage of that mindset, leaning on others to fix their problems. It’s frustrating when folks refuse to adapt, expecting resources without reciprocity. Yet I’ve also seen immigrants thrive—slowly, with effort. The town hall scene mirrors this tension: one side demanding enforcement, the other offering tea. I stand somewhere in between, believing hard work pays off, but only if you’re willing to start with the first lesson, the first job, the first attempt to speak a new language.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "This is a great example of how society is divided nowadays. I am not against immigration, buy I've seen a lot of people take advantage of others. "
+    },
+    {
+      "role": "assistant",
+      "content": "What specific experiences in your own community or family history have shaped how you see people taking advantage of others in situations like this?"
+    },
+    {
+      "role": "user",
+      "content": "I have come across a lot of families who immigrate with expectation that everything will be done for them. people don't want to adjust to culture, don't want to work. They expect everything to be done for them."
+    },
+    {
+      "role": "assistant",
+      "content": "How has your own experience with language — whether learning, code-switching, or navigating different dialects — shaped how you see someone’s ability to \"adjust\" to a new culture?"
+    },
+    {
+      "role": "user",
+      "content": "I know that this is very hard from the beginning, but hard work pays off. I've seen people adjust well. Not right away, but with time and desire"
+    },
+    {
+      "role": "assistant",
+      "content": "How did your own experience learning or navigating languages — whether as a first language, second language, or shifting between dialects — shape your understanding of what \"adjusting\" to a new culture actually requires?"
+    },
+    {
+      "role": "user",
+      "content": "I've been learning foreign languages all my life. It is difficult to adjust initially. Some people aren't patient enough to speak slower and repeat themselves. But others are helpful"
+    },
+    {
+      "role": "assistant",
+      "content": "How has your own experience with learning languages — the patience required, the support you’ve received or given — shaped how you see the challenges people face when adjusting to a new place, especially if they’re perceived as not \"adjusting\" quickly enough?  \n\n****"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is a big problem in Canada nowadays. Government is not prepared to provide support to Canadians, plus they are bringing inane number of immigrants. Same goes for housing. people are frustrated that they pay taxes but money doesn't go back to them. Money goes outside of Canada or towards immigrants, not native Canadians who struggle\n\n",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T19:33:58.819581",
+      "timestamp_end": "2026-05-23T19:37:30.475143",
+      "seconds_on_item": 211
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "There has been  a trend lately when people were using fake papers, experience to immigrate. A lot of other families struggle to immigrate , find jobs, get residence. People get frustrated that others are not honest, but get things done faster. It was much more difficult to immigrate earlier than now.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T19:37:31.135749",
+      "timestamp_end": "2026-05-23T19:39:47.167483",
+      "seconds_on_item": 136
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This seems to  go against the government and immigrants. A lot of Canadians are complaining that their kids or themselves can't get a good job to support their families. Government is bringing a lor of unskilled individuals who take the jobs by supporting their own, certain communities. There are no jobs, service is bad. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T19:39:47.393785",
+      "timestamp_end": "2026-05-23T19:41:54.702506",
+      "seconds_on_item": 127
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "My understanding is that this post implies that the poster wants his town to remain as is, potentially same people, same colour, etc. Many places in Canada are flooded by immigrants, locals feel that they don't belong anymore. This is sad, I can understand how they feel. There should be diversity, but when new takes over old, it is not fair",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T19:41:54.922078",
+      "timestamp_end": "2026-05-23T19:44:08.955065",
+      "seconds_on_item": 134
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This is towards immigration and government. Slow and thoughtful immigration is good. But when certain group of immigrant quickly takes over the original group, this is not ok. Country should be ready for influx of people. This makes no sense, when people already struggle with shortage of healthcare, jobs, etc. Everything has a limit and should happen naturally",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T19:44:09.187036",
+      "timestamp_end": "2026-05-23T19:46:26.514137",
+      "seconds_on_item": 137
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "With immigration changing drastically, it makes sense that if country is in need of a certain skill, they can bring immigrants to compensate the shortage. On the other hand, families need to be together, it makes sense that the closet family can join their own, even if their skills are not valued as much. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T19:46:26.737284",
+      "timestamp_end": "2026-05-23T19:48:56.274514",
+      "seconds_on_item": 149
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I didn't quite understand what was the purpose if this statement. It is not quite clear. It looks like the writer targets Europeans, but I am not sure why. This post is clearly targeted towards a specific racial group. \n\nI really have nothing else to add to the statement above.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-23T19:48:56.513615",
+      "timestamp_end": "2026-05-23T19:51:07.143796",
+      "seconds_on_item": 130
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This statement sounds hateful and rude. If immigrants are hard workers willing to adjust and integrate with society, comply with the rules and policies, work hard and not being involved in illegal activity, I don't see how it matter if one is rich or poor. This poster is definitely a hater.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-23T19:51:07.368966",
+      "timestamp_end": "2026-05-23T19:53:26.879219",
+      "seconds_on_item": 139
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is another post that targets a certain racial group. I struggle to understand the hate. I don't  think this post id offensive, it isn't to me. But it is hard when people judge others by their belonging to a certain race, religion, ethical group, background, etc. Every individual is different. There may be some common patterns, but everyone deserves a chance and can't be labeled. ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-23T19:53:27.093852",
+      "timestamp_end": "2026-05-23T19:56:17.751683",
+      "seconds_on_item": 170
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This seems to be directed towards the government. They make decisions on their levels and don't consider the consequences of those decisions. People struggle and feel no support. People should be the priority, then everything else comes second. People are not puppets in politician hands, however, it feels like this at times. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T19:56:17.983411",
+      "timestamp_end": "2026-05-23T19:58:17.304541",
+      "seconds_on_item": 119
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T20:04:05.106359",
+  "prolific_pid": "P043",
+  "consented_at": "2026-05-23T19:23:04.886364",
+  "reflexivity_response": "Majority of the posts targeted immigrants, but I don't see majority of them harmful. They don't provoke hate or certain action. They do target certain group, they are hateful, but they are not harmful in my eyes. People who are targeted by those posts may feel that posts are harmful, but I personally don't. I think some individuals took the statements literally without seeing or analyzing the big picture. And what \"harm\" actually is. They simply confused \"harm\" with \"hate\".",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "This is a big problem in Canada nowadays. Government is not prepared to provide support to Canadians, plus they are bringing inane number of immigrants. Same goes for housing. people are frustrated that they pay taxes but money doesn't go back to them. Money goes outside of Canada or towards immigrants, not native Canadians who struggle\n\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The problem is a perceived lack of resources, and the proposed answer is to eliminate outside competition, which makes me think this is aimed at immigrants. I think everyone deserves equal opportunities and I think the default logical response would be more along the lines of increasing service levels to meet demand."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area"
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "If the need to ask for whom this country is for, it seems to be directly targetting those of a diffferent nationality.  Even those bron from a different country should be given the unalienable right to healthcare. Giving the implication of denial seems immoral and an out of the question way of thinking."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "There has been  a trend lately when people were using fake papers, experience to immigrate. A lot of other families struggle to immigrate , find jobs, get residence. People get frustrated that others are not honest, but get things done faster. It was much more difficult to immigrate earlier than now.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The core of this language is very much I got mine, so you don't get any, or something akin to pulling the ladder up behind you. It very much ignores the advances in technology that have happened in the past 80 years since their grandparents were immigrants, and it ignores the significantly more globalized society of today."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This post is targeted towards illegal immigrants and refugees who they claim “skipped the line”.  The post frames them as undeserving and impatience. The comparison between their grandparents makes them sound worse than they are.  They are framed as the ones taking advantage of the system in place that is used.\n\n\n\n"
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This persons judgement is ideally targeting immigrants and the frustration it has caused them to bear. Doing something legally and then being like stomped, when someone else entering illegally and breaking the rules and even being rewarded for it can certainly make someone like this person furious, its totally understandable. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "This seems to  go against the government and immigrants. A lot of Canadians are complaining that their kids or themselves can't get a good job to support their families. Government is bringing a lor of unskilled individuals who take the jobs by supporting their own, certain communities. There are no jobs, service is bad. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The target is immigrants and refugees who comes to country to work. The post perceives this as negative and detrimental to the economy. It outlines the outcomes because of them. As a flood to the market is external and immigrants and refugees fits this criteria. It post states that economics should not have this group in the country.\n\n"
+        },
+        {
+          "label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+          "rationale": "It does sound dismissive and targeted toward immigrants who supposedly ‘flood’ the labor market. The statement comes across as cold and shifts the blame onto immigration rather than the broader economic system.\n\nThe phrasing ‘when you flood a labor market, wages go down’ sounds accusatory. Almost like, ‘What else did you expect?’ While it’s framed as a factual statement, especially with ‘economics doesn’t care about feelings,’ I do think there’s an underlying bias in the wording and tone."
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The last administration allowed millions of illegal immigrants to enter our country. Those that are willing to work, have flooded our labor markets with cheap labor. They end up accepting lower wages than those expected by American citizens. The result is a lot of unemployed Americans that are not paying taxes and instead are living off the government. Our economy has been hurt as a result."
+        }
+      ]
+    }
+  ]
+}

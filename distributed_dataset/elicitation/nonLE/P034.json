@@ -1,0 +1,247 @@
+{
+  "participant_id": "P034",
+  "created_at": "2026-05-23T20:56:20.850263",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "my whole adult life I suppose",
+  "disclosure_text": "I am a US citizen of many generations going back to the original colonies. Illegal immigrants are a massive problem in this country and need to be eliminated. Period, for ALL the reasons, beginning with the word ILLEGAL, because they are. As for legal ones, its ok if people follow the law, but it needs to be hard, they need to speak English and they need to integrate to OUR way of life. They come from 3rd world countries that have had a lot longer than the USA to get their place together, but they cannot, because they are incapable, low IQ 3rd worlders. We do not WANT them here. ",
+  "micronarrative": "I see the town hall conflict as a microcosm of what’s happening in gig work. The “undocumented” label is just liberal code for “illegal”—people who exploit systems meant for citizens. Where I live, Walmart parking lots and airports are where it’s most visible: non-citizens using stolen accounts, bots, and fraud to hoard gigs, driving out honest Americans who follow rules. It’s not just local—this is about global migration patterns flooding our economy, leeching resources meant for us. When I read about the housing facility debate, it mirrors the gig economy war. Those demanding safety and prioritizing locals? They’re not wrong. The “No one is illegal” crowd ignores how these invaders ruin communities, take jobs, and send money overseas. My daily routine—seeing the same non-citizens gaming the system in delivery queues—proves it’s urgent: round them up, ship them out, and stop letting liberals enable this collapse.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "Undocumented is liberal delusional mental illness code for \"ILLEGAL\". Round them up, ship them out, IMMEDIATELY. Send the liberals that love these criminal invading trespassers with them, so we can return to a sane, civilized society without ANY of them here anymore. "
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "AI borked? "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific moment from your life when you felt the tension between community resources and external pressures — like when a local policy or event made you question who belongs or who gets prioritized?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, try doing gig work, it's overrun by account stealing, fraudulent foreign criminal invaders taking the gigs by using six accounts in one car with all of them sending the money out of our economy back to third word trash dump countries and taking work and income from US citizens. "
+    },
+    {
+      "role": "assistant",
+      "content": "How does where you live shape your view of who's using gig work versus who's being left out? Do you see this as a local issue or something tied to global migration patterns?"
+    },
+    {
+      "role": "user",
+      "content": "its the fault of criminal invading trespassing illegal invaders. They are not \"immigrants\" they are leeches on US citizens. "
+    },
+    {
+      "role": "assistant",
+      "content": "How does the community you're part of influence your understanding of who's using gig work and who's being excluded?"
+    },
+    {
+      "role": "user",
+      "content": "Drive to a wal-mart parking lot, find the spark delivery driver waiting area. Drive to an airport and find the uber/lyft waiting area. its all scumbag immigrants taking the lowest tip runs ruining that entire economy and pushing out the honest US people who wont use account sniping bots, multiaccount stolen fraudulent identities and so on. its well documented, and just one of hundreds of ways these criminal scumbags hurt the US and its people. and need to go. NOW. "
+    },
+    {
+      "role": "assistant",
+      "content": "How does the specific geography of your daily routines — like those parking lots or airports — shape your perception of who belongs in the gig economy and who’s exploiting it?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:04:13.585894",
+      "timestamp_end": "2026-05-23T21:06:53.834411",
+      "seconds_on_item": 160
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:06:54.059568",
+      "timestamp_end": "2026-05-23T21:07:12.584347",
+      "seconds_on_item": 18
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:07:12.798232",
+      "timestamp_end": "2026-05-23T21:07:29.195200",
+      "seconds_on_item": 16
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I mean, this is such a vague and ambiguous basic \"yeah, ok, and?\" kind of thing its unclear what the point was at all.  yes, it would be cool if home looked like home when you go home. Sure, ok buddy thanks for your input? What are you even talking about? ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-23T21:07:29.424628",
+      "timestamp_end": "2026-05-23T21:08:43.727805",
+      "seconds_on_item": 74
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:08:43.948410",
+      "timestamp_end": "2026-05-23T21:09:01.991821",
+      "seconds_on_item": 18
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It's accurate, after all. Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:09:02.230522",
+      "timestamp_end": "2026-05-23T21:09:27.714887",
+      "seconds_on_item": 25
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Sure, I don't give a flying F about \"other countries\", like not even a little bit. Leave OUR country alone. The rest of you can go rot together, and keep  your damn people inside your failed loser trash countries. We don't want them to come break ours like they have already failed to function at your lame trash countries that provide nothing to humanity at all anymore, since the US does EVERYTHING. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:09:27.931724",
+      "timestamp_end": "2026-05-23T21:11:27.007555",
+      "seconds_on_item": 119
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Math is math and facts are facts. Its a true assertion. Now do what importing low IQ third world garbage does for our country's average IQ curve. These people are around your children, hell, teaching them, or failing to, and thats a big part of the problem. It generates liberals and thats how societies die. At the hands of braindead liberals and low IQ third world garbage.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:11:27.221451",
+      "timestamp_end": "2026-05-23T21:13:12.989747",
+      "seconds_on_item": 105
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Expected? It's not so much \"expected\" as we are just superior and none of us are going TOWARD these garbage dump countries. We want them to stop sending their garbage people HERE. Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:13:13.188605",
+      "timestamp_end": "2026-05-23T21:14:10.791389",
+      "seconds_on_item": 57
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Once again, whoever writes these is still spitting fact after fact. Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:14:11.005205",
+      "timestamp_end": "2026-05-23T21:14:44.687965",
+      "seconds_on_item": 33
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T21:16:01.364329",
+  "prolific_pid": "P034",
+  "consented_at": "2026-05-23T20:56:20.850286",
+  "reflexivity_response": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general.  As I have said on most of these posts, because they were all basically the same question over and over again expecting different results, which is the definition of insanity, which means a liberal probably made the study this redundant. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The phrase \"who this country is actually for\" comes off as likely harmful and targetted to certain groups. I have heard this saying before and it usually comes with the intent of blaming immigrants or refugees for over burderning hospitals. The wording used implies the narrative of us vs them creating a subtle division in groups. I do recognize that the post does not call for violence, but many people could interpret as hostile towards immigrants or refugees."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "when someone says we have to ask who this country is actually for they are obviously blaming their problems on the immigrants. What will come next? Color of that person's skin? The social status of that sick and how much money or who they know? Instead of blaming the actually problem which is hospitals are underfunded, poorly managed and this country is doing this best to discredit medical professionals  "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "If the need to ask for whom this country is for, it seems to be directly targetting those of a diffferent nationality.  Even those bron from a different country should be given the unalienable right to healthcare. Giving the implication of denial seems immoral and an out of the question way of thinking."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It is very clear that the context of grandparents coming legally is given hence the post is targeted on someone who did not come legally and is getting a visa legally now. Hence the targetted groups feels like the illegal immigrants. If anyone has proper paper work i dont think they would take this post offensively"
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The language is associated with hatred towards people that didnt have the same struggles and got an easy way out and that can sometimes apply to immigrants that are able to enter the country without the same protocals that they specifically faced themselves\nThis is a topic that i here more than others and is very present in todays society"
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "While the post shows a genuine concern, the framing and referencing that their grandparents came legally and waited for years is unnecessary and feels targeting to a specific group of people. It is likely harmful and can cause discomfort to the targeted group. The second part of the post is a genuine concern that due processes need to be followed. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "it does not name or attack any specific group. It talks about ecomomy, the increased labor supply. Unlike the other post that made mention about grand parent, this is just basically about the economy status in the country that needs to be attended to with unique intervention and direct influence of the government"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "While I am not an economics major, I would like to believe giving more people a fair opportunity to take part in this system should be more helpful than letting some with the ability to work to not be able to participate in this system. The economy affects us all, however unequally."
+        }
+      ]
+    }
+  ]
+}

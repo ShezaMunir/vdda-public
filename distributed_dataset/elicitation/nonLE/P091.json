@@ -1,0 +1,247 @@
+{
+  "participant_id": "P091",
+  "created_at": "2026-07-30T21:14:30.310753",
+  "scenario_id": "A",
+  "connection_type": "I'm a caregiver, partner, or close community member of someone with this experience",
+  "duration": "I have been the father of a queer trans kid for 14 years (aware of it for 1) and a  daughter who is Indigneous and Black",
+  "disclosure_text": "I have worked with marginalized communities for the majority of my adult life. I identify as a queer person and as someone with a disability, but I also feel that I carry tremendous privilege regardless of these factors. I feel like I was already invested in these topics as a youth, which led me to pursue education in global stewardship, human rights and law. I went on to work with marginalized communities in a legal setting, and working with non profits working on houselessness, government child apprehension and workplace sexual violence. We adopted my daughter who is Inuk, and her family is from Nunavut and try to be aware of how racism and being part of a mixed race family impacts her. My kid came out as queer and later as trans to us just over a year ago and we are navigating how to keep em safe and happy in a world that often challenges eir right to those things.  ",
+  "micronarrative": "I connect with the group holding “No one is illegal” signs, finding their energy nurturing and protective, while I don’t understand the violent, hateful energy of the opposing side. I don’t have personal experience with immigration or xenophobia, but I believe I have a better understanding of global issues and human rights crises than those demanding strict border enforcement. This perspective shifted in 2008 when I attended monologues presented by a friend in Vancouver. The university culture there was key, as I saw the juxtaposition of extreme wealth and extreme poverty for the first time, resonating with an overarching narrative of unfairness. I was mostly friends with others from my program, but later I adapted my behavior for family or old friends who hadn’t learned the same things. I was young and headstrong; keeping the peace was the least of my concerns because I thought I was right and didn’t care about much else.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "I think it stands out to me that one group is being violent and hateful with their energy and the other seems to be nurturing and protective. I certainly connect with the group that says no one is illegal and I don't understand the perspective of the other group. "
+    },
+    {
+      "role": "assistant",
+      "content": "When you say you \"certainly connect\" with the group holding the \"No one is illegal\" signs, what specific part of your own background or identity makes that stance feel like home to you?"
+    },
+    {
+      "role": "user",
+      "content": "I have close friends that have participated in work with the no one is illegal campaign. I attended a series of monologues presented by a friend (whose wedding I'm attending in a few weeks) in 2008 which really helped shift my perspective on immigrant and refugee issues. I don't have personal experience with immigration or facing xenophobia personally but I think I have a better understanding of global issues and human rights crises than the folks demanding strict border enforcement. "
+    },
+    {
+      "role": "assistant",
+      "content": "Where were you living in 2008 when you attended those monologues, and how did the local culture there shape the way those stories were received?"
+    },
+    {
+      "role": "user",
+      "content": "I was living in Vancouver. I think the culture of my program at university was very key to this. I also feel that I was seeing the juxtaposition of extreme wealth and extreme poverty and suffering for the first time. I think the stories I heard resonated with an overarching narrative of unfairness."
+    },
+    {
+      "role": "assistant",
+      "content": "In that university environment, did you find yourself shifting your language or tone when moving between academic discussions and other social settings?"
+    },
+    {
+      "role": "user",
+      "content": "Not especially as I was mostly friends with other folks from my program. I would say later on I felt like I was adapting my behaviour depending on who I was dealing with in terms of family or old friends who hadn't learned the same things as me"
+    },
+    {
+      "role": "assistant",
+      "content": "When you adapted your behavior for those family or old friends, did you find yourself simplifying your language or avoiding certain topics to keep the peace?"
+    },
+    {
+      "role": "user",
+      "content": "Probably not as much as I should have, I was young and headstrong and keeping the peace was the least of my concerns. I thought I was right and didn't care about much else. "
+    },
+    {
+      "role": "assistant",
+      "content": "What specific memory from that time stands out where your headstrong stance caused a tangible friction with those family or friends?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I read this post as being directed at immigrants and that the poster is perceiving them as having an extreme impact on the health care system. I can't really imagine an alternate interpretation of the phrase \"who this country is for\" than one that is steeped in racism. I probably struggle to empathize with someone who uses language like that. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:31:23.123915",
+      "timestamp_end": "2026-07-30T21:34:48.411016",
+      "seconds_on_item": 205
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This person's perception is that they are entitled to be in their country because of their grandparent's action and their perspective that their grandparents did things the right way, it doesn't reflect on how systems or realities have changed in the generations since and become more difficult or complex, or empathize at all with the idea that there are people following other valid laws around asylum seeking. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:34:48.598261",
+      "timestamp_end": "2026-07-30T21:37:33.174196",
+      "seconds_on_item": 164
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think this post is aimed at immigrants, claiming that wages are being lowered because there are extra people seeking labour in the job market. There is an inherent bias in this post that paints the people who were here \"first\" as entitled to this work and the new folks as being extra or erroneous. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:37:33.381960",
+      "timestamp_end": "2026-07-30T21:39:15.554135",
+      "seconds_on_item": 102
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I would imagine that this is aimed at immigrants in particular with a xenophobic lens but also could be attributed to other marginalized groups like the LGBTQ+. I've heard friends and other folks talk about seeing more pride flags than Canada flags in downtown Ottawa for example. I do read this as more focused against immigrants and that the person writing this fears cultural and demographic changes are having a negative impact on their own community and culture. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:39:15.762492",
+      "timestamp_end": "2026-07-30T21:41:51.321517",
+      "seconds_on_item": 155
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Someone is choosing this\" stands out as particularly strong language to me. It sounds like it borders on paranoia or conspiracy theory. I think i have an especially negative reaction to things rooted in conspiracy or misinformation as I perceive it as especially damaging. This is a clear example of xenophobia to me. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:41:51.528477",
+      "timestamp_end": "2026-07-30T21:44:41.980840",
+      "seconds_on_item": 170
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Honestly I don't really understand the context of this one but it seems again to point at \"average americans'' as the victims of some sort of scheme or invisible globalist force that is opressing them. My perspective is opposite to this. I believe that the systems in our society overwhelmingly favour western white folks and that it is the rest of the world getting the short end of the stick. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:44:42.172723",
+      "timestamp_end": "2026-07-30T21:46:34.682777",
+      "seconds_on_item": 112
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I am pretty sure that this is intended to be read from a racial purity sort of perspective which would be harmful, but there's a part of me that reads it as sarcastic for some reason. I think that the statement itself is problematic and that no such right exists? Being from Canada I feel like I've always been raised to see the value in diversity and that the \"Canadian identity\" is inherently rooted in diversity. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:46:34.902409",
+      "timestamp_end": "2026-07-30T22:12:09.181810",
+      "seconds_on_item": 1534
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "These posts are increasingly irritating as they are not rooted in reality. This person doesn't think that poverty would exist without immigration? It's clearly fueled by a perspective that there are good people to have immigrate and bad ones which absolutely is not the case. Also how many of these people's grandparents who \"came here the right way\" were doing so in pursuit of safety and to escape poverty. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T22:12:09.389390",
+      "timestamp_end": "2026-07-30T22:14:27.737847",
+      "seconds_on_item": 138
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This person appears to be writing with the interpretation that white people are losing their countries and identities. My left wing beliefs and liberal values make me feel like this person is ignorant and bigoted. \"Western\" appears to be a clear stand in for \"white\" and it would strike me that whoever wrote this has no idea about actual global immigration patterns. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T22:14:27.956802",
+      "timestamp_end": "2026-07-30T22:16:46.188498",
+      "seconds_on_item": 138
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This post strikes me as ambiguous. In one reading I totally agree- politicians aren't the ones being impacted here. When you look at the last American election, Trump and Vance went after Haitians claiming that they were eating pets, but when the communities who had large haitian immigrant populations were interviewed, particularly the factories- they stated that they loved the Haitians. Immigrants have a massive positive impact on canadian workforces. \n\nThe other reading of this would be one that blames politicians for immigration patterns and is framing this as a negative for workers that doesn't impact the political elite. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T22:16:46.412430",
+      "timestamp_end": "2026-07-30T22:20:11.639099",
+      "seconds_on_item": 205
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-30T22:25:00.008842",
+  "prolific_pid": "P091",
+  "consented_at": "2026-07-30T21:14:30.310778",
+  "reflexivity_response": "I think my perspective is shaped by empathy rather than background generally. I am part of a privileged class of folks being a white, middle class, cisgender male. I think that I am certainly left wing and anti-fascist, I see the majority of these posts as having the potential to contain xenophobic and racist dog-whistles rooted in myth and misinformation and disinformation. I value human rights and equity, I want the world to be a better place for everyone, not just those who look like me or share other identity markers with me. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "I read this post as being directed at immigrants and that the poster is perceiving them as having an extreme impact on the health care system. I can't really imagine an alternate interpretation of the phrase \"who this country is for\" than one that is steeped in racism. I probably struggle to empathize with someone who uses language like that. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The statement, \"at some point , we have to describe who this country is actually for\" sounds pointed and judgemental towards a minority group. From personal experience, when someone points to the existing infrastructure in the locality being inadequate for the population, it is usually in the context of immigration. "
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I see this as more about a criticism of the way government is run, so in the multiple choice there was no option to select targeting the government. The government brought in way too many people all at once, somehow unable (?) to predict the problems this would have on the hospitals and housing supply."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "This person's perception is that they are entitled to be in their country because of their grandparent's action and their perspective that their grandparents did things the right way, it doesn't reflect on how systems or realities have changed in the generations since and become more difficult or complex, or empathize at all with the idea that there are people following other valid laws around asylum seeking. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The core of this language is very much I got mine, so you don't get any, or something akin to pulling the ladder up behind you. It very much ignores the advances in technology that have happened in the past 80 years since their grandparents were immigrants, and it ignores the significantly more globalized society of today."
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It is unclear by readin gthis one line post what the topic of concern is. However, by reading the commen, it appears that the person posted the commenet is venting their frustration about not being treated fairly. As a member of the community, where an immigrant or not, deserves the right to be treated equaly. Whether it is in the hospital line ot anywhere else. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The poster  believes that all immigrants need to spend a long time and go through a long process to legalize their status, like his grandfather. Not like now, taking shortcuts and doing it very quickly. But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "I think this post is aimed at immigrants, claiming that wages are being lowered because there are extra people seeking labour in the job market. There is an inherent bias in this post that paints the people who were here \"first\" as entitled to this work and the new folks as being extra or erroneous. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This context may be referring to multiple groups including producers. wholesalers, retailers,and consumers. So when a labour market is being flooded with goods, wages drop. because prices will definately drop  because of a drop in price and the demand will be low. Therefore, flooding of labour market should be discouraged."
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The last administration allowed millions of illegal immigrants to enter our country. Those that are willing to work, have flooded our labor markets with cheap labor. They end up accepting lower wages than those expected by American citizens. The result is a lot of unemployed Americans that are not paying taxes and instead are living off the government. Our economy has been hurt as a result."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The words on 'flood a labor' market sounds like a negative towards immigrants. I understand the feelings on thinking what they said about wages and job competition but not directly insulting the people who are immigrants. Even the line 'economics does not care about feelings' sounds like emotional statements ."
+        }
+      ]
+    }
+  ]
+}

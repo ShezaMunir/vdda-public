@@ -1,0 +1,181 @@
+{
+  "participant_id": "P077",
+  "created_at": "2026-05-07T23:25:53.859900",
+  "scenario_id": "A",
+  "connection_type": "I'm a caregiver, partner, or close community member of someone with this experience",
+  "duration": "Most of my professional life, 13 years or so",
+  "disclosure_text": "I work in rural community pharmacy in an area with a very large hispanic population and a very narrow spectrum of income levels canted mostly towards the bottom third of earners. I have to deal with comments on these topics just about all the time.",
+  "micronarrative": "The connection is with the first group, because that feels like something that could actually happen on a regular basis, especially in my area. The group offering tea is just absurd; who would distribute hot tea at any rally? Additionally, it's a grocery store, there's bound to be multiple entrances that aren't blocked by protestors outside of a town hall meeting. My local community would have people on the defense of undocumented immigrants being the loud side, with those against just being the general population. They'd be completely silent, just assuming everybody is with them. I don't think anything close to this scenario would actually happen, because local government for sure wouldn't step in to help undocumented immigrants in rural America.\n\nThe ones against the undocumented immigrants likely wouldn't even really show up, just tossing around casual racist epithets to one another. Those for them would likely be shouting simple messages, and the vast majority of the population wouldn't care one way or another. Dialects aren't really a thing in rural America; it's more just a lack of annunciation.\n\nI was at work helping a 90-year-old lady with her medications when she casually just mentioned she was having a lot of trouble with the \"n-words\" in the community, and how they wouldn't talk to her even if she engaged. I was taken very far aback, as I'm ambiguously brown, and this lady decided that I was the safe one to drop the n-bomb on? It made it very clear that even though we're in rural Colorado, there's some hardcore racism still running rampant, the likes of which you'd expect in the south. In and among all the normal racism against Hispanic cultures, this lady was comfortable talking to a pharmacist like that. Unbelievable.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "The connection is with the first group, because that feels like something that could actually happen on a regular basis, especially in my area. The group offering tea is just absurd, who would distribute hot tea at any rally? Additionally, it's a grocery store, there's bound to be multiple entrances that aren't blocked by protestors outside of a town hall meeting."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about your area and how events like this might play out there? How do you think the local community typically responds to issues like this?"
+    },
+    {
+      "role": "user",
+      "content": "My local community would have people on the defense of the  undocumented immigrants being the loud side, with those against just being the general population. They'd be completely silent just assuming everybody is with them. I don't think anything close to this scenario would actually happen, because local government for sure wouldn't step in to help undocumented immigrants in rural America"
+    },
+    {
+      "role": "assistant",
+      "content": "How do you think the language and communication styles might differ between the two groups in your area during such events? Do you notice any code-switching or specific dialects used by either side?"
+    },
+    {
+      "role": "user",
+      "content": "The ones against the undocumented immigrants likely wouldn't even really show up, just toss around casual racist epithets to one another. Those for them would likely be shouting simple messages and the vast majority of the population wouldn't care one way or another. Dialects aren't really a thing in rural America, it's more just a lack of annunciation."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me an example of a time when you witnessed or heard someone using casual racist language in your community? How did that make you feel, and how did you respond or react?"
+    },
+    {
+      "role": "user",
+      "content": "I was at work helping a 90 year old lady with her medications when she casually just mentioned she was having a lot of trouble with the \"n-words\" in the community, and how they wouldn't talk to her even if they engaged. I was taken very far aback, as I'm ambiguously brown, and this lady decided that I was the safe one to drop the n-bomb on?"
+    },
+    {
+      "role": "assistant",
+      "content": "How did that experience shape your understanding of the power dynamics at play in your community, especially in terms of race and how different groups interact?"
+    },
+    {
+      "role": "user",
+      "content": "It made it very clear that even though we're in rural colorado, there's some hardcore racism still running rampant, the likes of which you'd expect in the south. In and among all the normal racism against hispanic cultures. This lady was comfortable talking to a pharmacist like that. Unbelievable."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. It's clear how deeply impactful such experiences can be in shaping one's understanding of racial dynamics and power structures."
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:39:08.245043",
+      "timestamp_end": "2026-05-07T23:42:03.591141",
+      "seconds_on_item": 175
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The core of this language is very much I got mine, so you don't get any, or something akin to pulling the ladder up behind you. It very much ignores the advances in technology that have happened in the past 80 years since their grandparents were immigrants, and it ignores the significantly more globalized society of today.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:42:03.803306",
+      "timestamp_end": "2026-05-07T23:43:22.886275",
+      "seconds_on_item": 79
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:43:23.091619",
+      "timestamp_end": "2026-05-07T23:45:14.324596",
+      "seconds_on_item": 111
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is the don't muddy my waters argument. They remember the town being friendly, caring, and most importantly WHITE, but there's enough of an ambiguity as to what they're talking about for it to be applied to things like HOAs or something similar designed to keep the homogeneity of the local buildings, but in my experience this is used to discourage the mixing of the races or allowing new faces into town.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:45:14.537376",
+      "timestamp_end": "2026-05-07T23:47:05.844996",
+      "seconds_on_item": 111
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is another racist dog whistle statement that's akin to the great replacement. There's no possible way you could read this in any other way to determine that whoever posted this was clearly against racial change in the local community and the only reason for that kind of a statement is because the person making it is a bigot.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:47:06.041777",
+      "timestamp_end": "2026-05-07T23:48:18.606607",
+      "seconds_on_item": 72
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is definitely targeting immigration but is kind of a way to say that it doesn't make sense for us to approve a single immigrant, because then we'd have to approve them all. It kind of ignores the application process and just assumes it's an approval process. They applied, so they're going to get it. It shows a remarkable lack of having applied to do anything, because applications aren't grants.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T23:48:18.800901",
+      "timestamp_end": "2026-05-07T23:49:50.291510",
+      "seconds_on_item": 91
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is another racist conservative dog whistle argument likening a nations people to a shade. There's no way to read this other than this person is against a picturesque representation of a nation's people, and is one of the many I hear on a daily basis akin to go back to your own country.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:49:50.500564",
+      "timestamp_end": "2026-05-07T23:51:19.135770",
+      "seconds_on_item": 88
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Having someone apply to be a citizen of a country isn't the same as having a shipment of oranges sent to port. It ignores the intrinsic value of people and what they contribute and what they're willing to do and just automatically assumes because someone is poor that they were always destined to be that way.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:51:19.338041",
+      "timestamp_end": "2026-05-07T23:52:34.592987",
+      "seconds_on_item": 75
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This reads oddly, because it's long been assumed that western countries accept immigrants and everyone else doesn't. Everybody comes from somewhere, and while this isn't as inherently awful as other things that have been stated, it kind of follows the line a lot of conservatives claim, that if we take in refugees they need to go to blue areas to manage their needs. Kind of off kilter with the prompt, but it's the dissolution of majorities and racist mentality that speaks through here.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T23:52:34.789096",
+      "timestamp_end": "2026-05-07T23:54:26.438114",
+      "seconds_on_item": 111
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This one is kind of a weird read, because it makes it seem like the speaker is a lower class individual who now has to compete with immigrants in unskilled labor. It's kind of an ignorant take because of the fact that nobody really cares about this individuals opinion. In the fictional town hall cheering thing, this would be one of the opposition, but here it's the silent majority that has a disdain for immigrant labor, despite being rural america and the vast majority of the work in the area as unskilled labor.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T23:54:26.638936",
+      "timestamp_end": "2026-05-07T23:56:51.457321",
+      "seconds_on_item": 144
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-07T23:56:51.652764",
+  "prolific_pid": "P077",
+  "consented_at": "2026-05-07T23:25:53.859948"
+}

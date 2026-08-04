@@ -1,0 +1,239 @@
+{
+  "participant_id": "P011",
+  "created_at": "2026-05-23T19:24:18.282071",
+  "scenario_id": "A",
+  "connection_type": "I work or study in this area professionally or academically",
+  "duration": "7 years",
+  "disclosure_text": "This topic relates to my life because I'm interested in topics surrounding immigration, religion, identity, and belonging. In university, I studied criminology and justice and took several classes surrounding immigration and refugee law, as well as classes that examined identity and belonging, particularly for LGBTQ+, and people of colour. ",
+  "micronarrative": "What stands out to me is how there are people on both sides of every situation. I connect with this because I have friends and family on one side of this exact topic, whereas I’m on another. The people shouting aren’t bad people necessarily, even though I disagree with their stances. If I didn’t know people on that side, I might see them as aggressive or wrong, but I can believe their opinions are invalid while still understanding they’re people with their own views. When I talk to my family or friends about these issues, I offer a little input but otherwise stay quiet, shifting my language because they aren’t into these topics. With strangers or classmates who care about politics, I debate more, still respectfully. Sometimes, with people of different racial or ethnic identities, I hold back out of fear I might say the wrong thing. My race doesn’t change how I speak with my family, since we’re mostly the same.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "What stands out to me is how there are people on both sides of every situation. On one end, you have people who are against the temporary housing, and those that are for it. I connect with this on a personal level because I have some friends or family that are on one side of this exact topic, whereas I'm on another side. "
+    },
+    {
+      "role": "assistant",
+      "content": "How do your relationships with those friends or family shape how you see the people shouting or distributing tea in the scene? Do you hear their voices in those groups, or does it feel like a different kind of divide?"
+    },
+    {
+      "role": "user",
+      "content": "Having friends and family shapes how I see the people shouting/ distributing tea in a different light. The people who are shouting are not bad people necessarily, even though I disagree with their stances. I think if I didn't know people on that side I would see them more as agressive or out right wrong. Instead, I can believe that their opinions are invalid, but still understand that they are people with their own opinions. "
+    },
+    {
+      "role": "assistant",
+      "content": "How does the way you speak to your friends or family about these issues differ from how you might talk about them in other settings? Do you find yourself shifting your language, tone, or explanations depending on who you're with?"
+    },
+    {
+      "role": "user",
+      "content": "I feel like when I talk to my friends or family about these issues I offer a little bit of input, but otherwise I don't really say too much. I shift my language because I know they aren't really into these topics or super educated on them. If i was with strangers, classmates, or even closer people to me who care a lot about politics, immigration, etc., (on the same side or different side than me) I will get more into debating (still respectfully).  "
+    },
+    {
+      "role": "assistant",
+      "content": "Does your racial or ethnic identity influence how you decide whether to speak up or hold back in these conversations, especially when you're navigating between groups with different perspectives?"
+    },
+    {
+      "role": "user",
+      "content": "With my family and friends no, because we are mostly of the same race. Sometimes when I am with people of different racial or ethnic identities I sometimes hold back in these conversations out of fear that I might say the wrong thing or use the wrong term. "
+    },
+    {
+      "role": "assistant",
+      "content": "Have you ever experienced a situation where your own disability or neurodivergence affected how you communicated in these kinds of conversations, or how others responded to you?  \n\n****"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I come from a place where there is a lot of racism against immigrants, and this feels like a subtle and not overtly racist/discriminatory thing that I hear people say frequently. Specifically, the part that says \"who this country is actually for\" makes me believe they think the reason that the hospitals can't keep up is because of immigration to the particular country. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T19:36:53.482116",
+      "timestamp_end": "2026-05-23T19:39:50.232177",
+      "seconds_on_item": 176
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think this post is somewhat more critical about policies than something that would be read as harmful. The second sentence, \"why should anyone get to skip that line\" is that part that may be considered harmful, but I think it would require a stretch. I think my lived experience affected how I read this post because in university we would talk a lot about policies, so I feel like this is just someone unhappy about immigration policies, not necessarily at immigration itself or a specific race.  ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T19:39:50.463459",
+      "timestamp_end": "2026-05-23T19:43:04.901102",
+      "seconds_on_item": 194
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I think that this is not harmful, and is just a policy concern/ commentary/frustration. This post is about the economy, and not about a particular group. I think my lived experiences really affected how I read this post because it does not seem like a harmful post at all, mostly just a frustration over a policy or concept which is something I have defiantly experienced before. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T19:43:05.118278",
+      "timestamp_end": "2026-05-23T19:45:42.916365",
+      "seconds_on_item": 157
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think this is directed at immigration/ a specific racial group because the language makes me believe that they are mad with people that are \"different\" than them moving into their hometown. Again, my lived experiences and beliefs affected how I read this post because I live somewhere where this kind of thing is common (subtle framing that could harm people from a group). I did likely harmful thought because the person could deny this and blame it on just their hometown changing physically. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T19:45:43.130097",
+      "timestamp_end": "2026-05-23T19:48:13.550880",
+      "seconds_on_item": 150
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post is clearly harmful because of the specific language used. For example, \"demographic change\" and \"natural\" is offensive language, and it feels like the person isn't viewing the individuals they are talking about as real people. It almost reads like a conspiracy theory because of the \"someone is choosing this\" part. I am just going off of what I have seen other people say around me and online regarding immigration. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T19:48:13.766519",
+      "timestamp_end": "2026-05-23T19:50:34.148461",
+      "seconds_on_item": 140
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Like the last post, I think this one is also clearly harmful because it is directly targeting migration. I think the second sentence \"that's not the deal Americans signed up for\" is only putting Americans into consideration, and not other people. I think this is just a gut feeling based on my beliefs and values. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T19:50:34.356250",
+      "timestamp_end": "2026-05-23T19:53:00.169575",
+      "seconds_on_item": 145
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "I think this is likely not harmful because it doesn't have specific wording that is harmful or tagrets a group. This reminds my of my lived experience in the country I live in because the USA was threatening to annex Canada, and this to me reminds me of what people were saying at the time. Like that we have the right to exist as our own separate country. I think this could potentially be interpreted as harmful though by some people which is why I did likely not harmful and not not harmful.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T19:53:00.399801",
+      "timestamp_end": "2026-05-23T19:55:52.386002",
+      "seconds_on_item": 171
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post is clearly harmful because it infers that all immigrants are poor and in poverty. It generalizes and stereotypes a whole group of people, and dehumanizes them. I think my beliefs and values affected how I read this post because I think it is wrong to stereotype and target a group of people, so I read this as wrong. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T19:55:52.596103",
+      "timestamp_end": "2026-05-23T19:58:08.883435",
+      "seconds_on_item": 136
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think this post is also clearly harmful because it also targets a group of people (particularly immigrants).  This one also sounds like a conspiracy theory, that white people are now the minority. I think this specifically because of the \"dissolve their own majorities.\" This is less based on my identity and more just my beliefs and values, because I am against talking like this.  ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T19:58:09.116927",
+      "timestamp_end": "2026-05-23T20:01:06.358210",
+      "seconds_on_item": 177
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think that this post is more critical/provocative than harmful. There is no specific harmful wording, I think they are more so criticizing policies in their country. I think it can be stretched into harmful though, if people think they are targeting immigrants specifically. I think my lived experience affects how I read this post because I do hear a lot of criticism about immigration policies, so maybe I am more used to language like this. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T20:01:06.577500",
+      "timestamp_end": "2026-05-23T20:03:16.700432",
+      "seconds_on_item": 130
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T20:09:20.248909",
+  "prolific_pid": "P011",
+  "consented_at": "2026-05-23T19:24:18.282096",
+  "reflexivity_response": "I think that maybe because I live somewhere where harmful wording is common, I might have thought that some of the posts were less harmful than they actually were. But on the other hand, I do have a lot of beliefs and values that make me more in tune with harmful wording, so in some instances I may have thought that the posts were more harmful than they were actually intended. I think it is just whether or not the post was something common I hear around me (by strangers, friends, social media posts) that target groups. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "I come from a place where there is a lot of racism against immigrants, and this feels like a subtle and not overtly racist/discriminatory thing that I hear people say frequently. Specifically, the part that says \"who this country is actually for\" makes me believe they think the reason that the hospitals can't keep up is because of immigration to the particular country. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This statement is ambiguous and could be read as harmful or legitimate. If I were to find this statement harmful, I would say it singles out Congressional representation as abandoning rural hospitals in favor of giving tax relief to billionaires and corporations. Also, I believe government officials are buying up abandoned rural lands - lands where family farmers are being driven off because of going bankrupt in Trump's America. Also, corporations are buying up rural property where they can build data centers."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The specific reference is to who the country is actually for being the clear dog whistle that indicates immigrants. It also has a very high likelihood of people who aren't directly immigrants but might be immigrant adjacent or naturalized citizens just lumped together. This is the kind of language used to invoke outrage, people are allowed to go in for healthcare, especially if they work in dangerous fields or with a lack of safety equipment as is what's usually seen with immigrant workers in this area"
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The way it states who this country is actually for makes you wonder the degree of frustration this person is going through and what anger has brought him/her to say this. He/She is fed up accounting for others, when it should be more prioritized to helping fellow natives more in particular. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "I think this post is somewhat more critical about policies than something that would be read as harmful. The second sentence, \"why should anyone get to skip that line\" is that part that may be considered harmful, but I think it would require a stretch. I think my lived experience affected how I read this post because in university we would talk a lot about policies, so I feel like this is just someone unhappy about immigration policies, not necessarily at immigration itself or a specific race.  ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Valid argument from a 1st generation American who is just arguing a good point from their perspective.  I totally agree with them as well might I add. Skipping the line because you think you deserve it more than other people is just invalid and arrogant. Tons of people have it worse. People like this can never be satisfied and do not assimilate to our culture. I love that we are diverse, but do it right and legally. "
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is a question for the government to consider in order to build a better, more consistent, and transparent grandparents immigration program. The goal is to give a fair, equal opportunity to every applicant. I think this is a fair yet challenging question for the immigration system, and it isn't meant to target anyone.\n"
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This could be a valid statement, though the question lies in the intention behind the post. Yes, it is true that immigration law has changed, and some are entering countries in ways perhaps others in the past did not. But why did the original user post? To harm or marginalize a group, or to call attention to changing laws? I personally read this as harmful, though again, this is up for interpretation. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "I think that this is not harmful, and is just a policy concern/ commentary/frustration. This post is about the economy, and not about a particular group. I think my lived experiences really affected how I read this post because it does not seem like a harmful post at all, mostly just a frustration over a policy or concept which is something I have defiantly experienced before. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Again, this post is a bit ambiguous. Economically, it could indeed be true - when demand decreases, wages naturally go down. The question is once again in intention. Why did the user feel the need to post this? Who exactly are they claiming to be flooding the larbour market? Like the last post, I interpreted it negatively, but this is up to interpretation. Someone working in economics might see it differently, as simply a fact rather than a harmful post. "
+        },
+        {
+          "label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+          "rationale": "It does sound dismissive and targeted toward immigrants who supposedly ‘flood’ the labor market. The statement comes across as cold and shifts the blame onto immigration rather than the broader economic system.\n\nThe phrasing ‘when you flood a labor market, wages go down’ sounds accusatory. Almost like, ‘What else did you expect?’ While it’s framed as a factual statement, especially with ‘economics doesn’t care about feelings,’ I do think there’s an underlying bias in the wording and tone."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "This post is related to pure and simple economics of supply and demand. When supply is endless, demand will sure go down. On the opposite side, when supply is less, demand will go up. Sometime finding the equilibrium is possible, ither time not.  Supply at times has its own way of flooding the market. "
+        }
+      ]
+    }
+  ]
+}

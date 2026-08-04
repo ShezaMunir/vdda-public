@@ -1,0 +1,247 @@
+{
+  "participant_id": "P061",
+  "created_at": "2026-05-22T17:42:11.621598",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "whole life",
+  "disclosure_text": "I am a black/white mix individual. While I present as mostly white, the south african roots are part of my identity.",
+  "micronarrative": "I remember the trucker protests in Ottawa during the early days of the pandemic. It was a tense time, with a bunch of truckers parked outside the Parliament Buildings, exercising their right to protest. The media portrayed them as a bunch of angry, misguided individuals, but the reality was quite different. They were just a group of people who felt their livelihoods were being threatened and wanted to be heard.\n\nOn the other side, there were the RCMP officers, dressed in casual clothing, holding a Nazi flag. It was a bizarre and unsettling sight. The media, in their rush to condemn the truckers, completely ignored the actions of these officers. It made me question everything I thought I knew about journalism and the media's role in shaping public opinion.\n\nThe \"no one is illegal\" sign holders were a stark contrast. They were just holding signs and serving tea, trying to humanize the issue of undocumented immigration. Their approach was peaceful and respectful, yet the media often portrayed them as aggressive and demanding. It was frustrating to see such a stark difference in how different groups were represented.\n\nThat experience made me realize the importance of looking beyond the headlines and understanding the full context of events. It also made me less trusting of the media, as I saw firsthand how easily narratives can be skewed to fit a particular agenda.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "The writer definitely has more bias on the \"no one is illegal\" sign holders. I am neutral on the topic of undocumented immigration. This is not something I would connect with"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about why you feel the writer has a bias in the passage? Is there a part of your own experience with immigration or undocumented individuals that influences how you see this?"
+    },
+    {
+      "role": "user",
+      "content": "The border enforcement group has a voilent portrayal of \"shouting\" and \"having demands\" while the no one is illegal group is portrayed as just holding signs and serving tea"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when you witnessed or experienced a similar dynamic in your community, where different groups were portrayed differently in the media or in public discourse? How did that make you feel?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't think of one"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you think of a specific incident where you observed or were part of a situation where different groups were portrayed differently in the media or in public discourse? Even if it wasn't about immigration, how did that experience shape your perspective?"
+    },
+    {
+      "role": "user",
+      "content": "I guess this happened a lot at the trucker protests in ottawa during covid. There was just a bunch of truckers parked trying using their right to protest, but RCMP officers dressed up in casual clothing holding a nazi flag, then the media attacked the truckers as being nazis."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe a specific moment from those trucker protests that stood out to you? How did that experience influence your understanding of how different groups are perceived and portrayed in the media?"
+    },
+    {
+      "role": "user",
+      "content": "Made me never trust journalists. "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific incident from the trucker protests that made you lose trust in journalists? What was it about their coverage that stood out to you?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "Seems like a non sequitur. Hospitals cant keep up but they're asking who its for? Are they referring to sick people? I think they are trying to infer that only certain groups of people should be allowed in a hospital, but that doesn't make any sense, who are they referring to with the statement?",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-22T17:51:37.308659",
+      "timestamp_end": "2026-05-22T17:54:58.952966",
+      "seconds_on_item": 201
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is clearly about the person's opinion on immigration, likely mass immigration as some immigrants are using loopholes to stay in the country, whereas this person's grandparents did the paperwork(allegedly) to become a legal citizen. I come from an immigrant family who did come here legally, to see that framework threatened to taken advantage of seems like a net negative but I do not know enough about these \"loopholes\" you hear about in the media to form an opinion.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T17:54:59.488076",
+      "timestamp_end": "2026-05-22T17:58:20.867457",
+      "seconds_on_item": 201
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I don't think this statement is that harmful, it's one of those ambiguous statements that welcomes people to form their own opinions on what they actually mean, usually in order to incite an argument. This might be about immigration, where a bunch of, lets say, engineers are being imported and flooding the market with engineers, driving down wages. But the market for certain jobs ebbs and flows with market demands, so this could just be a generalized statement to agree with that as well. Prolific allows 100k more people to join, the amount of surveys go down. If it's targeted in that manner, who is harmed?",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T17:58:21.056875",
+      "timestamp_end": "2026-05-22T18:02:16.151062",
+      "seconds_on_item": 235
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Unclear",
+      "rationale": "This one reads as ambiguous but I chose not harmful because it can be from the perspective of so many things. My mind immediately jumps to homelessness because that's relevant to the area I live. But someone else can view this is as a statement against building condos, or a municipality not stepping in to save a historic building. Either way people have the right to complain about their home not looking like their home, no matter what caused the change.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T18:02:16.399541",
+      "timestamp_end": "2026-05-22T18:05:16.640152",
+      "seconds_on_item": 180
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I read this as targeting the \"deep state\" or a certain religious group controlling the world demographics like a puppeteer. I don't feel a personal connection to this, while I enjoy a good conspiracy theory I don't buy into the \"global elites\" trying to homogenize society. I am someone more focused on my family and wellbeing than anything else, so it may be fun to dip my toes into once in a while I don't buy this point of view.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-22T18:05:16.837237",
+      "timestamp_end": "2026-05-22T18:08:27.282599",
+      "seconds_on_item": 190
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This is something about immigration and how one individual may be able to \"import\" more immigrants using one visa. I am not familiar with that process or known how it works so it really doesn't  affect me personally. This also seems to focus on America, I barely know what's going on in Canada so this could just be some harmful rhetoric to get people to research this more.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-22T18:08:27.486909",
+      "timestamp_end": "2026-05-22T18:11:00.138282",
+      "seconds_on_item": 152
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I read this as a pretty harmful statement, that \"distinct people\" means a person of a certain race. This does not vibe well with me as a mixed individual. We're all a people of many different backgrounds coming together on one planet. There is no force that should be able to dictate what race gets to live where, that's an extremely anti-humanity belief system, and one I definitely resist.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T18:11:00.330120",
+      "timestamp_end": "2026-05-22T18:14:14.724927",
+      "seconds_on_item": 194
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I dislike statements like this that take the position of \"we.\" Who is \"we\" in this statement that clearly another stance on anti-immigration due to the use of the word \"import.\" These statements are just meant to be ragebait on social media because of the  use of \"we\", they are inciting responses from people with individual opinions. Ultimately no one would be hurt by it but the person who posts it probably got a lot of internet points. This overall does not bother me, just seems like an empty statement to drive engagement.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T18:14:14.916991",
+      "timestamp_end": "2026-05-22T18:17:59.012521",
+      "seconds_on_item": 224
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This seems like someone complaining about a demographics change in western countries. You can't blame people for wanting to live in a 1st world western country. Also who is \"expecting\" them to dissolve their own majorities. This goes back to that other statement about some mystical higher power controlling the western world. This one speaks to me as a child of immigrants because it pushes back on the idea that immigration is not necessary.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T18:17:59.228091",
+      "timestamp_end": "2026-05-22T18:22:40.638251",
+      "seconds_on_item": 281
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This statement does not seem particularly harmful. If there are more immigrants, you are saturating the job market - that's why immigration is controlled by an individuals qualifications. Whether or not the working class are affected in a positive or negative way depends on the economic climate. If a country keeps importing immigrants but unemployment is rising, then unemployment will continue to rise. This statement speaks to me as my immigrant parents came from SA highly qualified for their careers and earned their citizenship.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T18:22:40.834633",
+      "timestamp_end": "2026-05-22T18:26:08.873735",
+      "seconds_on_item": 208
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-22T18:32:30.713839",
+  "prolific_pid": "P061",
+  "consented_at": "2026-05-22T17:42:11.621635",
+  "reflexivity_response": "I stand with the statements I made. I read the others and noticed that some individuals, even with different backgrounds share the same options as me. I don't see myself as a product of my background, but more as an individual, so I can only speak on the experiences of my parents and what they went through to get me here as it is something I hopefully will never have to experience myself. So it seems the other answers are from people with personal lived experiences and mine are based on my past and teachings of my elders. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "Seems like a non sequitur. Hospitals cant keep up but they're asking who its for? Are they referring to sick people? I think they are trying to infer that only certain groups of people should be allowed in a hospital, but that doesn't make any sense, who are they referring to with the statement?",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "They're talking about the overcrowding of hospitals. When they say \"can't keep up\" they're talking about volume. Since Canada has a very low birth rate, to me, they're clearly talking about immigrants. Then once you add in \"who is this country for\" it's even more clearly talking about immigrants. And it's also implying that this country should not be \"for immigrants\" even though 99% of this country is immigrants or descendants of immigrants."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I've heard similar comments before. Not directed at me specifically, but toward people who have immigrated to Canada illegally or as refugees. When people make relatively negative statements that separate ‘real citizens’ from another group, there’s often an underlying racial or cultural connotation behind them.\n\nIn this case, saying that hospitals should prioritize ‘true citizens’ could be interpreted in different ways: either referring to legal citizenship status, or implying people who ‘look the part’ or whose families have lived there for generations” which is harmful."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I feel like this post makes it seem like some people are more worthy of health care than others, it just doesn't specify exactly who, which leaves the door open for denying actually targeting a specific group. It's still divisive language though. Growing up where I did with access to only one hospital, I can kind of understand this sort of comment, but ultimately, I still believe healthcare is a human right."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "This is clearly about the person's opinion on immigration, likely mass immigration as some immigrants are using loopholes to stay in the country, whereas this person's grandparents did the paperwork(allegedly) to become a legal citizen. I come from an immigrant family who did come here legally, to see that framework threatened to taken advantage of seems like a net negative but I do not know enough about these \"loopholes\" you hear about in the media to form an opinion.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This post is targeted towards illegal immigrants and refugees who they claim “skipped the line”.  The post frames them as undeserving and impatience. The comparison between their grandparents makes them sound worse than they are.  They are framed as the ones taking advantage of the system in place that is used.\n\n\n\n"
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I would say this person is trying their best to stay as ambiguous as possible, but is secretly or not so secretly trying to push a hateful agenda against immigrants.  My experience with people who use language like this usually get more extreme the more they open up on their thoughts."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The phrase skip the line shaped my judgement because it frames immigration as unfair rule \nbreaking rather than a complex situation. The emphasis on came here legally highlights fairness, patience, and respect for process. My views on equality, empathy, and awareness of different migration experiences influenced how I interpreted the post and its emotional tone."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "I don't think this statement is that harmful, it's one of those ambiguous statements that welcomes people to form their own opinions on what they actually mean, usually in order to incite an argument. This might be about immigration, where a bunch of, lets say, engineers are being imported and flooding the market with engineers, driving down wages. But the market for certain jobs ebbs and flows with market demands, so this could just be a generalized statement to agree with that as well. Prolific allows 100k more people to join, the amount of surveys go down. If it's targeted in that manner, who is harmed?",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This one actually feels a little personal - 'back in the day' I was the only woman hired on a crew of men and there was a lot of resentment that I/women were taking their jobs. I feel like this is more likely targeting immigrants or other groups they feel are flooding the labour market and find it a bit offensive - wages are dependent on a lot more things than the amount of labour available"
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Again, this post is a bit ambiguous. Economically, it could indeed be true - when demand decreases, wages naturally go down. The question is once again in intention. Why did the user feel the need to post this? Who exactly are they claiming to be flooding the larbour market? Like the last post, I interpreted it negatively, but this is up to interpretation. Someone working in economics might see it differently, as simply a fact rather than a harmful post. "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "participant_id": "P026",
+  "created_at": "2026-07-30T21:14:31.663198",
+  "scenario_id": "A",
+  "connection_type": "I'm a caregiver, partner, or close community member of someone with this experience",
+  "duration": "My whole life has been spent surrounded by immigrants, and thinking deeply on religion and its harms.",
+  "disclosure_text": "Being raised with both an open family who welcomed everyone, as well as encouraged us as children to think freely, allowed me to responsibly question my environment and form a solid foundation for my future.",
+  "micronarrative": "I see the misplaced anger of the protestors as rooted in a sense of shame in one’s own failings and an inability to be accountable, leading to scapegoating. This dynamic feels familiar, particularly in communities across the USA where this mentality is gaining traction. I observe people placing all their blame on migrants, claiming they are the reason for low-paying jobs or personal shortcomings. When that mentality is spoken aloud, it gives others freedom to use it as an excuse for their own inaction. If I find myself in those conversations, I am quick to speak up and stand up for what is right. My need for accountability is what is most at stake; when someone refuses to take responsibility for their own actions, I cannot proceed. This drive shapes my presence, compelling me to address the lack of ownership rather than remain silent.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "The misplaced anger from the protestors holding signs and making demands. It sounds quite familiar to everyday wherever, and is rooted in what i consider to be a sense of shame in ones own failings in life, and an inability to be accountable to that shame leading to scapegoating."
+    },
+    {
+      "role": "assistant",
+      "content": "When you say that dynamic feels familiar, does it remind you of specific moments in your own community or family history where frustration was directed outward rather than inward?"
+    },
+    {
+      "role": "user",
+      "content": "It reminds me of communities all over where i see this mentality taking hold. Most prominently in the USA recently, but it is gaining traction."
+    },
+    {
+      "role": "assistant",
+      "content": "In those US contexts you observe, how does the language used by these groups shift when they are addressing each other versus when they are speaking to the general public or media?"
+    },
+    {
+      "role": "user",
+      "content": "They place all of their blame and shortcomings on others. The migrants are why i have a lowsy job, or don't work hard enough, or spend to much. That mentality is then spoken aloud and it gives the next person freedom to say hey ya, that could be my excuse to. Not my fault im blank."
+    },
+    {
+      "role": "assistant",
+      "content": "When that blame is spoken aloud in those spaces, do you find yourself adjusting your own language or tone to navigate the tension, or do you tend to remain silent?"
+    },
+    {
+      "role": "user",
+      "content": "If i find myself in those conversations i am quick to speak up as io am here, and stand up for "
+    },
+    {
+      "role": "assistant",
+      "content": "When you speak up in those moments, what specific part of your identity or background do you feel is most at stake in that interaction?"
+    },
+    {
+      "role": "user",
+      "content": "My need for accountability. When someone refuses to take responsibility for their own actions i cannot proceed"
+    },
+    {
+      "role": "assistant",
+      "content": "How does that need for accountability shape your physical presence or body language when you are standing in that tense space?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It seems like a right wing talkng point that will invetitably lead back to immigration being the problem. It begins with what is a fairly ubiquitos question like why are hospitals seemingly failing. Instead of arriving at a lack of effective management, it's easier to blame colour or race or religion of others",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T21:23:02.653428",
+      "timestamp_end": "2026-07-30T21:25:19.253860",
+      "seconds_on_item": 136
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "this is again a gateway question that seems universally agreeable. noone should get to skip the line, we all agree right? but that then gets twisted into a disgusting perversion of ignorance where a person then justifies removing people for any reason claiming they arent a full citizen so therefore, illegal.\n",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T21:25:19.461523",
+      "timestamp_end": "2026-07-30T21:27:00.963572",
+      "seconds_on_item": 101
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Another question with an answer so obvious it grabs the attenbtion of those with uncritical minds and drags them into a world of excuses. We won't look at your employability, or unique skills, or what it is you are offering and looking for as a person. We can jump from here straight to remove immigrants, make more jopbs, me more money",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T21:27:01.164295",
+      "timestamp_end": "2026-07-30T21:29:20.252695",
+      "seconds_on_item": 139
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Less harmful immediately when i read it but still open to much ignorance. I first thought of my hometown which i could say that about, but in the context of replacing forests with walmarts and local book stores with starbucks, and i get the feeling more people would tie this to the population and its makeup.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T21:29:20.740168",
+      "timestamp_end": "2026-07-30T21:30:55.227345",
+      "seconds_on_item": 94
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Such convinced and firm language with no real claim is clearly a talking point. Who says it isnt natural? Why do you think that? What amount is natural? Who is someone? Why are they doing what theyre doing? There are way to many questions to ask about that statement, sadly mose people will not ask those questions.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-30T21:30:55.433294",
+      "timestamp_end": "2026-07-30T21:32:25.942553",
+      "seconds_on_item": 90
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This user clearly feels slighted as an american, but is again not saying why or what or who. Chain migration may in fact do that, but is that a bad thing? how is that affecting you? What deal did americans sign up for? Why do you feel entitled to speak on behalf of Americans? super sad language for sure",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T21:32:26.147530",
+      "timestamp_end": "2026-07-30T21:34:06.369496",
+      "seconds_on_item": 100
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Similar to all lives matter slogans, this is a statement that doesn't need saying because its so obviously true. Noone claims that european nations dont have the right to exist as a people. Not a single mainstream person. But this type of language is again very convincing to those guilty of mental laziness.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T21:34:06.589785",
+      "timestamp_end": "2026-07-30T21:35:47.396417",
+      "seconds_on_item": 100
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "a statement clearly racist on its face. There is no data that im aware of that shows a majority of the people coming into the country are then living below the poverty line? What is the poverty rate amongst native born people? does that number coirrelate to the ups and downs of immigration nnumbers?",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-30T21:35:47.614529",
+      "timestamp_end": "2026-07-30T21:37:49.988179",
+      "seconds_on_item": 122
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "oviously racist. Western countries are the only ones that have travelled the world imposing freedom and prosperity on nations around the world by way of sword. These types of people refuse to ask the question the other way and say why would that be if true? why dont we see this in africa?",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:37:50.187664",
+      "timestamp_end": "2026-07-30T21:39:42.106373",
+      "seconds_on_item": 111
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "This could be said in complete neutrality. It is often the case that politicians are completely out of touch with the issues they need to oversee. That said, there is plenty of room for that to be taken he route of claiming the \"democratic rulers\" are forcing immigration on people.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:39:42.321550",
+      "timestamp_end": "2026-07-30T21:41:20.646339",
+      "seconds_on_item": 98
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-30T21:45:00.735954",
+  "prolific_pid": "P026",
+  "consented_at": "2026-07-30T21:14:31.663226",
+  "reflexivity_response": "I assume my demand for accountability and integrity is the main difference. I was fairly careful in my selections of likely harmful etc. as I can see each comment from an outside view. That said, these comments are overwhelmingly used by the online far right, propgated down from Trump and his associated cronies. These are all comments or posts i have come into contact with before, and they are always a rabbit hole that leadds to racists. It is much more likely",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "It seems like a right wing talkng point that will invetitably lead back to immigration being the problem. It begins with what is a fairly ubiquitos question like why are hospitals seemingly failing. Instead of arriving at a lack of effective management, it's easier to blame colour or race or religion of others",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Post is targeted to general audience whoever is reading this post. In other words, to the community.  Post conveyes a social concern which is expressed targetting community members. Whenever someone in the community has a concern, that individual often expresses that concern. Social media these days is an ideal place to express this concern as it can reach a greater audience. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The way it states who this country is actually for makes you wonder the degree of frustration this person is going through and what anger has brought him/her to say this. He/She is fed up accounting for others, when it should be more prioritized to helping fellow natives more in particular. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This post posits the idea that hospitals are suffering under overpopulation from some group of citizens who are \"less than\" others in some way. While there is no group specifically named, the post frames this capacity issue as an us vs. them issue and that is likely harmful to various groups."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "this is again a gateway question that seems universally agreeable. noone should get to skip the line, we all agree right? but that then gets twisted into a disgusting perversion of ignorance where a person then justifies removing people for any reason claiming they arent a full citizen so therefore, illegal.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This could be a valid statement, though the question lies in the intention behind the post. Yes, it is true that immigration law has changed, and some are entering countries in ways perhaps others in the past did not. But why did the original user post? To harm or marginalize a group, or to call attention to changing laws? I personally read this as harmful, though again, this is up for interpretation. "
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It is unclear by readin gthis one line post what the topic of concern is. However, by reading the commen, it appears that the person posted the commenet is venting their frustration about not being treated fairly. As a member of the community, where an immigrant or not, deserves the right to be treated equaly. Whether it is in the hospital line ot anywhere else. "
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I don't think the person is saying anything wrong. They are saying that immigrants have always waited and followed the proper procedures and so it isn't fair that rules should change so that the process is expedited for some people. It just means that everyone should wait for the due process. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "Another question with an answer so obvious it grabs the attenbtion of those with uncritical minds and drags them into a world of excuses. We won't look at your employability, or unique skills, or what it is you are offering and looking for as a person. We can jump from here straight to remove immigrants, make more jopbs, me more money",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "This post is related to pure and simple economics of supply and demand. When supply is endless, demand will sure go down. On the opposite side, when supply is less, demand will go up. Sometime finding the equilibrium is possible, ither time not.  Supply at times has its own way of flooding the market. "
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I'm not even sure what they mean by \"when you flood a labor market, wages go down.\" What do they mena by that? The second half of that post: \"Economics doesn't care about feelings,\" clearly is true as capitalism ALWAYS puts profits before people. That's great if you're a wealthy capitalist who doesn't give a damn about his or her fellow citizens (let's me clear, almost all wealthy capitalists are men), but for the rest of us, it's a slow grind to the deathly bottom. This is a venting post not aimed at anyone in particular."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I see the post framing immigration in economic terms (supply and demand), arguing that increasing labour and population lowers wages. From a balanced interpretation, this could be seen as an economic argument rather than targetting immigrants. However, just because it links to economic hardship to immigration, some people might perceive it as negatively targetting immigration. It is not explicit from the post whether it is just an economic argument or negative views towards immigration."
+        }
+      ]
+    }
+  ]
+}

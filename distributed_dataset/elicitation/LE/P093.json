@@ -1,0 +1,247 @@
+{
+  "participant_id": "P093",
+  "created_at": "2026-05-22T17:39:16.388616",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "15 years",
+  "disclosure_text": "I immigrated from Nigeria to Canada when I was eighteen years old and have lived through various phases of trying to integrate and become established in my new country.",
+  "micronarrative": "What stands out to me is how deeply polarizing immigration is, and how blurry the line between right and wrong is when it comes to this issue. The people calling for stricter enforcement at the border are not wrong, and those claiming no one is \"illegal\" are also not wrong. I felt a similar conflict when I learned that Canadians hold the view that accepting immigrants into the country effectively shrinks the labour market and reduces how many jobs there are for Canadians. On the one hand, I came here to prosper economically, and to do that, I needed to find employment. It was not a choice but a necessity. And I felt I was only allowed to come because the government anticipated that I could become economically prosperous without harming others' prospects. But on the other hand, I felt bad that I was a contributor to these concerns that were being raised, and even empathized with the Canadians because once I understood the reality, I was able to see that their fears were valid.\n\nI definitely adjust my tone depending on who I am speaking to. I sound different—more Nigerian—when speaking to other Nigerians. When speaking to Canadians or in an official capacity at work, I sound more like them. I don't even do it intentionally; it just happens naturally. It happens every day at work, during meetings. Not about immigration, but about general topics. \n\nI try to stay away from discussing immigration with people of other backgrounds. However, I remember speaking to a coworker about the realities of life back home and how they compare to life here. I spoke about how the hardship people face in my home country forges them into physically and mentally capable individuals, and how that fortitude serves them well in any capacity or setting they find themselves. In that conversation, I relaxed into my natural self, used my natural tone, and did not try to sound any particular way. I was a bit more direct than usual and spoke with a passion I feel like the subject warranted and deserved.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "What stands out to me is how deeply polarizing immigration is, and how blurry the line between right and wrong is when it comes to this issue. The people calling for stricter enforcement at the border are not wrong, and those claiming no one is \"illegal\" are also not wrong. "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when you felt similarly conflicted about an issue related to immigration?"
+    },
+    {
+      "role": "user",
+      "content": "I felt a similar conflict when I learnt that Canadians hold the view that accepting immigrants into the country effectively shrinks the labour market and reduces how many jobs there are for Canadians. On the one hand, I came here to prosper economically, and to do that, I needed to find employment. It was not a choice but a necessity. And I felt I was only allowed to come because the government anticipated that I could become economically prosperous without harming others prospects. But on the other hand, I felt bad that I was a contributor to these concerns that were being raised, and even empathized with the Canadians because once I understood the reality, I was able to see that their fears were valid. "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about how you navigate language or code-switching in conversations about immigration? Do you find that you adjust your language or tone depending on who you're speaking to?"
+    },
+    {
+      "role": "user",
+      "content": "I definitely adjust my tone depending on who I am speaking to. I sound different - more Nigerian- when speaking to other Nigerians. When speaking to Canadians or in an official capacity at work, I sound more like them. I don't even do it intentionally, it just happens naturally. "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific example of a conversation where you noticed this adjustment in your language or tone, especially when discussing immigration?"
+    },
+    {
+      "role": "user",
+      "content": "It happens everyday at work, during meetings. Not about immigration, but about general topics. "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe a time when you had to navigate a conversation about immigration with someone from a different background, and how you adjusted your language or approach?"
+    },
+    {
+      "role": "user",
+      "content": "I try to stay away from discussing immigration with people of other backgrounds. However, I remember speaking to a coworker about the realities of life back home and how they compare to life here. I spoke about how the hardship people face in my home country forge them into physically and mentally capable individuals, and how that fortitude serves them well in any capacity or setting they find themselves. In that conversation, I relaxed into my natural self, used my natural tone and did not try to sound any particular way. I was a bit more direct than usually and spoke with a passion I feel like the subject warranted and deserved. "
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. It's clear how your lived experience shapes your interactions and the way you communicate."
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The statement, \"at some point , we have to describe who this country is actually for\" sounds pointed and judgemental towards a minority group. From personal experience, when someone points to the existing infrastructure in the locality being inadequate for the population, it is usually in the context of immigration. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T17:53:26.758317",
+      "timestamp_end": "2026-05-22T17:58:38.469960",
+      "seconds_on_item": 311
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Skipping the line is used here as a metaphor for describing immigrants enjoying the same benefits as those who were born here, paid their dues and their taxes. Indigenes or locals often carry the idea that immigrants must pay a certain due or reach a particular threshold before they should be allowed certain rights or benefits, like access to healthcare or voting. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T17:58:38.650838",
+      "timestamp_end": "2026-05-22T18:01:09.118821",
+      "seconds_on_item": 150
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This one reads like someone interpreting the laws of demands and supply. It is true that with more supply of workers, wages are driven down and vice versa. I do not feel like the statement was prejudicial or directed at anyone, group or person. However, I have heard the same sentiment shared in the context of immigration. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T18:01:09.326065",
+      "timestamp_end": "2026-05-22T18:03:22.566398",
+      "seconds_on_item": 133
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "This one's not clear. Wishing for a place to stay recognizable could relate to not wanting to tear down heritage buildings to build new-style homes or not wanting to build new bike lanes to keep to appease bicyclists. It could also signify an apprehension about the demographic of the homeland changing, which then ties to immigration. I'm undecided on this one.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T18:03:22.760215",
+      "timestamp_end": "2026-05-22T18:05:45.365622",
+      "seconds_on_item": 142
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This reads to me as a valid concern raised by a concerned citizen. To critically analyze the statement, I'd need to know the rate of demographic change in question. Is this person worried because two foreign people moved in next door, or are they concerned because the local high school's classes have become fully mono-ethnic because of an influx of immigrants from a certain country? ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T18:05:45.569144",
+      "timestamp_end": "2026-05-22T18:08:08.575199",
+      "seconds_on_item": 143
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This person seems to be decrying a policy to allows multiple streams of immigration or frequently unchecked immigration. I am unsure what the term \"chain immigration\" means, but i feel that it is okay to question policy that does not seem to make sense. There is nothing wrong with that. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T18:08:08.775243",
+      "timestamp_end": "2026-05-22T18:10:16.858293",
+      "seconds_on_item": 128
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This one targets multiple overlapping groups. For a thorough analysis of the statement, I would need to know what the writer means by distinct. If they mean that the deserve to exist as a sovereign entity, then there is nothing wrong with the statement. I'm reviewing this through the lens of the president of the USA stating that Canada would become the 51st state. In that moment, I defended Canada in ways that could have been interpreted the same way I'm interpreting this statement. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T18:10:17.081750",
+      "timestamp_end": "2026-05-22T18:13:26.085225",
+      "seconds_on_item": 189
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "As an immigrant, I have heard the phrase, \"import the third world, become the third world\" more times than I care to count. This statement carries the same undertone as the one indicated in this scenario. It is prejudicial, hate-filled and clearly inciteful and provocative against the group it is directed at. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T18:13:26.290003",
+      "timestamp_end": "2026-05-22T18:16:18.105074",
+      "seconds_on_item": 171
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "It is unclear to me what they mean. What's meant by \"majority\" here? Are we talking political majorities? Ethnic , tribal or religious majorities? This statement could fit in a wide variety of contexts that it is difficult to tell if it was intended to be prejudicial. I'm not quite sure. ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-22T18:16:18.301907",
+      "timestamp_end": "2026-05-22T18:18:01.561494",
+      "seconds_on_item": 103
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "Even an immigrant could have made that statement, as unfavourable immigration policies have the potential to harm not just citizens of the immigrant country, but the immigrants themselves. I feel like that's a fair statement to make and I consider it neutral and non-prejudicial. Immigration policies in Canada, for example, need to be reviewed. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T18:18:01.753525",
+      "timestamp_end": "2026-05-22T18:20:31.951385",
+      "seconds_on_item": 150
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-22T18:25:36.576031",
+  "prolific_pid": "P093",
+  "consented_at": "2026-05-22T17:39:16.388737",
+  "reflexivity_response": "I would say that my education and exposure shaped how interpreted these statements more than my immigrant status. I see myself as a person of intellect before I see myself as an immigrant, so whenever I am faced with challenges or conflicts, I tend to reason through them logically rather than emotionally. Immigration as a topic is emotional, highly subjective and subject to various opinions and views and this is why I shy away from explanations that use it as an anchor or the central reasoning point. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The statement, \"at some point , we have to describe who this country is actually for\" sounds pointed and judgemental towards a minority group. From personal experience, when someone points to the existing infrastructure in the locality being inadequate for the population, it is usually in the context of immigration. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "my identity and beliefs, values played  a role . growing up in a diverse community may have made me more understanding towards people from different background. also being aware of issues of housing ,shortages .my values around fairness , respect and empathy evolved during my transition period living here and navigating life all alone with my family."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The country is for its citizens and a hospital asking that says a lot about someone not being a citizen which are new immigrants, visit, student, super and permanent visa holders. On te other hand if the context is given it can be a debate between who is this country serving liberals or conservatives"
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "When somebody starts talking about who this country is really for, it in my opinion calls question into their motives. I think this person cares more about foreign people in his country, he/she is just using the hospital for an attack. I believe he already has the position they dislike immigrants and just using this to justify this more."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "Skipping the line is used here as a metaphor for describing immigrants enjoying the same benefits as those who were born here, paid their dues and their taxes. Indigenes or locals often carry the idea that immigrants must pay a certain due or reach a particular threshold before they should be allowed certain rights or benefits, like access to healthcare or voting. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This post is targeted towards illegal immigrants and refugees who they claim “skipped the line”.  The post frames them as undeserving and impatience. The comparison between their grandparents makes them sound worse than they are.  They are framed as the ones taking advantage of the system in place that is used.\n\n\n\n"
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "This post is targeting immigrants who \"skip the line\". This could mean illegal immigrants or immigrants who are expedited through the system such as refugees. I don't think this is harmful. There is way too much abuse of the refugee system and illegal immigration is unacceptable. I think this person is merely raising concern with our policies that allow the abuse or the lax enforcement of illegal immigration."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "As someone who has been through an immigration process, I kind of understand this statement. There's a lot of hard work behind immigrating, and I see the unfairness behind some situations. Because of this, I don't fully view this post as harmful. It is provocative because each situation is different and by saying that you would be generalizing, and including people who had to immigrate to save themselves or their families.\n"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "This one reads like someone interpreting the laws of demands and supply. It is true that with more supply of workers, wages are driven down and vice versa. I do not feel like the statement was prejudicial or directed at anyone, group or person. However, I have heard the same sentiment shared in the context of immigration. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This one actually feels a little personal - 'back in the day' I was the only woman hired on a crew of men and there was a lot of resentment that I/women were taking their jobs. I feel like this is more likely targeting immigrants or other groups they feel are flooding the labour market and find it a bit offensive - wages are dependent on a lot more things than the amount of labour available"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This shaped my judgemnt because it present immigration as overwhelming and economically harmful shaped my judgement because it presents immigration as overwhelming and economically harmful. The phrase economics doesn’t care about feelings frames the issue as purely factual and dismisses emotional or humanitarian perspectives. My beliefs about fairness, economic opportunity, and empathy influenced how I interpreted the tone and underlying message of the post."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        }
+      ]
+    }
+  ]
+}

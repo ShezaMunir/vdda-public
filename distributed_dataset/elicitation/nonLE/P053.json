@@ -1,0 +1,239 @@
+{
+  "participant_id": "P053",
+  "created_at": "2026-05-23T21:52:47.785947",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "I do not have a direct connection but I do understand the topics",
+  "disclosure_text": "I live in a diaspora of a variety of religious and immigrant people",
+  "micronarrative": "I notice how people in the scenario avoid engaging, walking to the grocery store with their heads down. In my community, I’ve seen similar neutrality during conflicts—people disengaging when the issue doesn’t directly touch them. The linguistic environment matters: English dominates, but those who speak other languages at home might stay silent if they’re not fluent. Economic struggles shape this too. Those in hardship may avoid debates to hide their vulnerability, while others with stability can afford to speak up. This scenario’s tension feels familiar in its divisions, but I don’t personally connect to communities affected by migration policies. The silence of the grocery shoppers surprises me—given the heat, I’d expect more voices, even if they’re divided.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "What stands out to me is that there a people walking by to get to the grocery store and not engaging, keeping their head down.  With such tension in the air, I am surprised that more are not engaging.  "
+    },
+    {
+      "role": "assistant",
+      "content": "In your experience, have you seen people in your community choose to stay neutral during heated public debates — or does that feel unfamiliar based on how your community typically engages with conflict?"
+    },
+    {
+      "role": "user",
+      "content": "yes, i have seen people in my community stay neutral during heated debates.  There are some people that don't want to get involved, especially if the topic does not directly affect them"
+    },
+    {
+      "role": "assistant",
+      "content": "How does the linguistic environment of your community influence how people engage in public debates?"
+    },
+    {
+      "role": "user",
+      "content": "the primary language in the community is englsh, howver there are those that speak a different language at home.  I would suppose that those who are not fluent in englsh would not participate in these types of heated debates"
+    },
+    {
+      "role": "assistant",
+      "content": "How does economic precarity in your community shape who can afford to engage in public debates — or who might feel compelled to stay silent to avoid drawing attention to their own vulnerabilities?"
+    },
+    {
+      "role": "user",
+      "content": "I suppose that those who are enduring economic hardship would not be as willing to engage in public debates as those who economic status is average or above.  This may be because they may want to keep silent so as not to advertise their economic hardship"
+    },
+    {
+      "role": "assistant",
+      "content": "How does your own racial or ethnic identity, or your personal connection to communities affected by migration policies, shape how you interpret the tension in this scenario?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The sentence about who this country is actually for seems to marginalize those who are not natural citizens, particulary immigrants, refugees, and racialised groups.  I personally belive that the healthcare should be made available to evey human being, regardless of citizenship status.  Howver, there is some part of me that does understand that hospital crowding can be a concern for those that actually pay for the services\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T22:00:20.552294",
+      "timestamp_end": "2026-05-23T22:04:51.090057",
+      "seconds_on_item": 270
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post implies that even though the grandparents were at one point immigrants, they had to wait years to get the same services that citizens of the county received.  The post implies that this seems the fairest and most correct thing to do for everyone.  So to allow preferential treatment to those who had not arrived in the country legally and to get services immeadiatly seems unfair",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T22:04:51.318028",
+      "timestamp_end": "2026-05-23T22:07:30.429328",
+      "seconds_on_item": 159
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I suppose this post affected multiple groups, specifically those perhaps who have experienced lowering of wages.  I would suppose that this could be read as somewhat harmful to those people who are looking for work and see the lower wages being offerred.  The concept that economics doesn't care about feelings seems to imply that noone should be emotioanlly imacted when the labour market is flooded.  ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-23T22:07:30.645469",
+      "timestamp_end": "2026-05-23T22:10:54.110038",
+      "seconds_on_item": 203
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I suppose that this post really just emphasis a sense of pride in a hometown.  I value the recognition a home town could bring to a person.  This seems to be more of a cultural comment than anything, I don't this this post is in anyway harmful. I don't see this post as targetting anyone at all, except perhaps for the people living in the hometown.  ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T22:10:54.332491",
+      "timestamp_end": "2026-05-23T22:13:58.126167",
+      "seconds_on_item": 183
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post does not like seem to be harmful as its a general statement regarding demographics.  It does not seem to be directed a any one individual or group.  In fact, the message of the post would seem to affect multiple groups.  The only harmful piece mught be the sentence 'someone is choosing this'. this sentence seems to have an ominous tone",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T22:13:58.358848",
+      "timestamp_end": "2026-05-23T22:17:00.170788",
+      "seconds_on_item": 181
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The sentence that it no the deal American signed up for implies that opportunities are lost to the citizens of the county due to chain migration.  The post of targetted to immigrants and refugees and may like be harmful if one of the groups read this post.  This sentence does go against my beliefs as I feel that immigration is an important.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T22:17:00.387113",
+      "timestamp_end": "2026-05-23T22:19:39.657724",
+      "seconds_on_item": 159
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Unclear",
+      "rationale": "The concept that evey nation has the right to exist as a distincy people does not seem to be openly harmful, simply a cultural commentary.  I was not entirely sure why the Europeans were stated so selectively so I choose unclear as to whom the post was directly at.  The context includes eveyone so that is why I do not think the post is harmful",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T22:19:39.872267",
+      "timestamp_end": "2026-05-23T22:22:43.576358",
+      "seconds_on_item": 183
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post seems harmful to me as it seems to blame poverty of a county on a particular group.  In this case the particular group are those that are immigrating or refugees that seem to be impoverished and this seems to be harmful to a countries economics.  There seems to be some frustration underlying in this post.  ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T22:22:43.820890",
+      "timestamp_end": "2026-05-23T22:24:56.730243",
+      "seconds_on_item": 132
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "There seems to be some frustration in the tone of this post that led me to pick that while is was probably not harmful, the post is somewheat critical and provocative.  This would seems to be directed at multiple over lapping groups not just at a specific group or individual.  ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T22:24:56.936065",
+      "timestamp_end": "2026-05-23T22:27:29.279614",
+      "seconds_on_item": 152
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "There seems to be some element of frustration in this post as its the politicians who make up the policy but it the working class that sufferes from it harmful side affects.  This post seems to be directed at immigrants, refugees, and racialised groups as these are the groups which immigration poicies also affect",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T22:27:29.527578",
+      "timestamp_end": "2026-05-23T22:29:34.859535",
+      "seconds_on_item": 125
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T22:35:58.328193",
+  "prolific_pid": "P053",
+  "consented_at": "2026-05-23T21:52:47.785967",
+  "reflexivity_response": "I don't think many of the posts presented affected me as greatly as the would someone that is directly affected by the post.  Some of the comments above specifically mention personal experiences than what I mentioned in my annotations.  I do agree with some aspects of what people said like \"immigrants and people bringing more/different skills to the table is what makes us great\" and about the positive aspects of living in a diverse culture of beliefs and values.  I did read the posts in most cases as more harmful than many of the other responds, perhaps becuaswe I don't often hear or read these kind of thoughts in eveyday life perhaps as much as others",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The sentence about who this country is actually for seems to marginalize those who are not natural citizens, particulary immigrants, refugees, and racialised groups.  I personally belive that the healthcare should be made available to evey human being, regardless of citizenship status.  Howver, there is some part of me that does understand that hospital crowding can be a concern for those that actually pay for the services\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "my identity and beliefs, values played  a role . growing up in a diverse community may have made me more understanding towards people from different background. also being aware of issues of housing ,shortages .my values around fairness , respect and empathy evolved during my transition period living here and navigating life all alone with my family."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I've heard similar comments before. Not directed at me specifically, but toward people who have immigrated to Canada illegally or as refugees. When people make relatively negative statements that separate ‘real citizens’ from another group, there’s often an underlying racial or cultural connotation behind them.\n\nIn this case, saying that hospitals should prioritize ‘true citizens’ could be interpreted in different ways: either referring to legal citizenship status, or implying people who ‘look the part’ or whose families have lived there for generations” which is harmful."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The statement, \"at some point , we have to describe who this country is actually for\" sounds pointed and judgemental towards a minority group. From personal experience, when someone points to the existing infrastructure in the locality being inadequate for the population, it is usually in the context of immigration. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The post implies that even though the grandparents were at one point immigrants, they had to wait years to get the same services that citizens of the county received.  The post implies that this seems the fairest and most correct thing to do for everyone.  So to allow preferential treatment to those who had not arrived in the country legally and to get services immeadiatly seems unfair",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I don't think the person is saying anything wrong. They are saying that immigrants have always waited and followed the proper procedures and so it isn't fair that rules should change so that the process is expedited for some people. It just means that everyone should wait for the due process. "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I think this post is somewhat more critical about policies than something that would be read as harmful. The second sentence, \"why should anyone get to skip that line\" is that part that may be considered harmful, but I think it would require a stretch. I think my lived experience affected how I read this post because in university we would talk a lot about policies, so I feel like this is just someone unhappy about immigration policies, not necessarily at immigration itself or a specific race.  "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "It is very clear that the context of grandparents coming legally is given hence the post is targeted on someone who did not come legally and is getting a visa legally now. Hence the targetted groups feels like the illegal immigrants. If anyone has proper paper work i dont think they would take this post offensively"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "I suppose this post affected multiple groups, specifically those perhaps who have experienced lowering of wages.  I would suppose that this could be read as somewhat harmful to those people who are looking for work and see the lower wages being offerred.  The concept that economics doesn't care about feelings seems to imply that noone should be emotioanlly imacted when the labour market is flooded.  ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "This post is related to pure and simple economics of supply and demand. When supply is endless, demand will sure go down. On the opposite side, when supply is less, demand will go up. Sometime finding the equilibrium is possible, ither time not.  Supply at times has its own way of flooding the market. "
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I think that this is not harmful, and is just a policy concern/ commentary/frustration. This post is about the economy, and not about a particular group. I think my lived experiences really affected how I read this post because it does not seem like a harmful post at all, mostly just a frustration over a policy or concept which is something I have defiantly experienced before. "
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "People have been saying things like this for a long time about lots of different groups that have immigrated over the years. In an economy like ours though, immigrants and people bringing more/different skills to the table is what makes us so great. I think there is enough for everyone at the table. Growing up in a farm town, there were jobs that a lot of people wouldn't or couldn't do and things would fall apart overnight without that labor."
+        }
+      ]
+    }
+  ]
+}

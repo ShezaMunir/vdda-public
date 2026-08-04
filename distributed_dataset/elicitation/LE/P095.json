@@ -1,0 +1,223 @@
+{
+  "participant_id": "P095",
+  "created_at": "2026-05-16T02:53:19.381247",
+  "scenario_id": "C",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "for about 7 years, since I immigrated",
+  "disclosure_text": "As an immigrant from the middle east, I sometimes feel out of place in my home, Canada. Not because I'm not familiar with the culture but because I'm not sure how I'm viewed by \"Canadians\".",
+  "micronarrative": "What I find quite interesting is that the real experience is being lost in chaos, and this is what I have experienced with my flesh and bone. No one wants to hear from the ones who have lived in experience and rather stick to a familiar narrative. Being from Iran and having lived there for 30+ years, and having experienced the brutalities in every aspect of my life means so little to a considerable population here in the west. They think they know the truth but they don't; they're just louder and have more platform.\n\nWhen I speak to colleagues about how dangerous the government is, they don't believe me and instead ask how sure I am of these so-called dangers. They think we Iranians are making up stories because the oppression is too much for their understanding. My colleague and I were talking about how Iran has always chanted death to America, and my colleague asked me with a high-pitched voice: \"Do they mean it though?\" It made my blood boil. I just smiled and changed the subject.\n\nI just wanted to stop talking with her about this because I was tired of trying to prove the truth. I said something along the lines of \"how politicians are playing with the masses\" and moved on. The frustration and the feeling of being dismissed are so overwhelming, but I know that my voice matters, and I will continue to share my experiences whenever I can.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there a moment, a feeling, or a person in it you find yourself drawn to?"
+    },
+    {
+      "role": "user",
+      "content": "What I find quite interesting is that the real experience is being lost in chaos and this is what I have experienced with my flesh and bone. No one wants to hear from the ones who have lived in experience and rather stick to a familiar narrative."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific experience from your own life where you felt your personal experience was overshadowed by a more generalized narrative?"
+    },
+    {
+      "role": "user",
+      "content": "Being from Iran and and having lived there for 30+ years and having experienced the brutalities in every aspect of my life means so little to a considerable population here in the west. They think they know the truth but they don't; they're just louder and have more platform."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give an example of a time when you felt your personal experience with living in Iran was not acknowledged or understood by others around you?"
+    },
+    {
+      "role": "user",
+      "content": "When I speak to colleagues about how dangerous the government is, they don't believe me and instead ask how sure I am of these so called dangers. They think we Iranians are making up stories because the oppression is too much for their understanding."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific incident where you felt this skepticism from your colleagues, and how it made you feel?"
+    },
+    {
+      "role": "user",
+      "content": "My colleague and I were talking about how Iran has always chanted death to America and my colleague asked me with a high-pitched voice: \"do they mean it though?\". It made my blood boil. I just smiled and changed the subject."
+    },
+    {
+      "role": "assistant",
+      "content": "How did you navigate that conversation after your colleague's comment? Did you find any way to share your perspective or did you find it too challenging?"
+    },
+    {
+      "role": "user",
+      "content": "I just wanted to stop talking with her about this because I was tired of trying to prove the truth. I said something along the lines of \"how politicians are playing with the masses\" and moved on."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you recall a time when you felt particularly frustrated or powerless in trying to share your lived experience with others? What was that experience like?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "My initial thought was that this post is related to the Me Too movement and more specifically to those taking advantage of this movement for their personal gain by targeting people who were actually innocent. I do like that it is highlighting due process making sure justice is served regardless off the issue.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-16T03:08:31.334471",
+      "timestamp_end": "2026-05-16T03:13:59.438944",
+      "seconds_on_item": 328
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I believe this post is nothing but an observation. Not every little comment is necessarily a micro aggression. I think, being a woman myself, focusing too much on what people say to us or how treat us and connecting it to our gender makes us mentally weaker and more fragile. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-16T03:13:59.989904",
+      "timestamp_end": "2026-05-16T03:20:39.992288",
+      "seconds_on_item": 400
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "A very controversial comment which can provoke some groups. It offers a binary view on gender and highlights that truth should be judged because it causes discomfort. I think this comment also reflects a disagreement about gender is defined and who gets to define it and leaves out those who claim not to fit in either group.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-16T03:20:40.514026",
+      "timestamp_end": "2026-05-16T03:28:16.148349",
+      "seconds_on_item": 455
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The writer of this comment is accusing someone of being inconsistent and is trying to catch someone in their act. The comment however is a bit confusing to me. Not every inequality is explained in the same way. Wage gap has multiple causes not just social and this is oversimplifying the issue.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-16T03:28:16.645945",
+      "timestamp_end": "2026-05-16T03:35:21.459752",
+      "seconds_on_item": 424
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I am quite certain that this post is targeted at trans women in sports and how their presence can throw off the fairness of the game as they are biologically male and therefore are stronger and can perform better that females. The comment is stating a clear fact but it will still provoke certain groups.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-16T03:35:21.665889",
+      "timestamp_end": "2026-05-16T03:38:35.963929",
+      "seconds_on_item": 194
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "This comment is simply saying that women are not the \"standard\" human and men are not defective in any way. It's pushing back against the idea that masculinity is wrong or unhealthy. It also suggests that calling masculinity toxic or problematic is not a progressive way of thinking but it is a form of prejudice or bias.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-16T03:38:36.158903",
+      "timestamp_end": "2026-05-16T03:43:49.653138",
+      "seconds_on_item": 313
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I can sense frustration and disappointment in this comment. It is clear that white men specifically are being targeted in this modern age under the label of promoting diversity. It suggest that employers are not hiring based on merit but based on the popular narrative of \"diverse work environment\" which has left some groups like white men out. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-16T03:43:49.833058",
+      "timestamp_end": "2026-05-16T03:47:29.315149",
+      "seconds_on_item": 219
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I believe this comment is highlighting how society has been picking and choosing who deserves more pity. It creates a ranking of who is more oppressed which makes everything more complicated and unfair. I think the writer maybe talking about a ranking system of victimhood in which people decide who is more important and/or more oppressed than others.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-16T03:47:29.489673",
+      "timestamp_end": "2026-05-16T03:52:50.654907",
+      "seconds_on_item": 321
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This comment is making a generalized claim about immigrant women which may or may not be true. I find the second part to be a bit vague. Maybe it's suggesting that these women's voices are overlooked or are not taken seriously for some reason. Overall, I think feminism is affected by so many factors and being an immigrant is probably not high on the list.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-16T03:52:50.846127",
+      "timestamp_end": "2026-05-16T03:58:31.387951",
+      "seconds_on_item": 340
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I believe this comment is talking about restrictions on women and how patriarchy is in the core of it. The comment is hinting at the fact that using the correct label for this concept can have consequences. The sentence is somewhat vague and can be dragged to different discussions but it is clearly targeting communities in which women are in some way limited.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-16T03:58:31.577724",
+      "timestamp_end": "2026-05-16T04:05:13.807011",
+      "seconds_on_item": 402
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-16T04:10:28.864881",
+  "prolific_pid": "P095",
+  "consented_at": "2026-05-16T02:53:19.381288",
+  "reflexivity_response": "I believe that being a woman, being an immigrant, being from a middle eastern country where I have experienced oppression not just as a woman but as someone with different values, I can understand injustice when I see it. No matter if it is being cast upon men, women, LGBTQ community, etc. I firmly believe in being fair and speaking the truth and tried to abide by that in these annotations. Looking back at my responses, I think I have tried to consider if the writer was trying to be provocative or speak their truth. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "C01",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "My initial thought was that this post is related to the Me Too movement and more specifically to those taking advantage of this movement for their personal gain by targeting people who were actually innocent. I do like that it is highlighting due process making sure justice is served regardless off the issue.",
+      "others_count": 1,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "the fact that the writer was direct and said he believes women. this is something i agree with and something i too would say. he framed it without judgement or picking sides. no aspects of my identity, beliefs, values, or lived experience affect how i understood the post. i also believe in due process as i am a straightforward person."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C02",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "I believe this post is nothing but an observation. Not every little comment is necessarily a micro aggression. I think, being a woman myself, focusing too much on what people say to us or how treat us and connecting it to our gender makes us mentally weaker and more fragile. ",
+      "others_count": 1,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I feel like this post or comment is very provocative. microaggression can appear in various forms and shapes and saying everything is microaggression is wrong. women are capable of handling the intricacies of life and they need to be given the benefit of the doubt. I have had women show me microagression but i have never really taken it personally as most times, these women don't even know they are being microaggressive."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C03",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "A very controversial comment which can provoke some groups. It offers a binary view on gender and highlights that truth should be judged because it causes discomfort. I think this comment also reflects a disagreement about gender is defined and who gets to define it and leaves out those who claim not to fit in either group.",
+      "others_count": 1,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This comment may piss a couple of people off. we live in a more open world now and comments like these cannot be made out loud even if those are your thoughts. there are more constructive ways to pass across your point without hurting other people. the LGBTQ+ community will definitely not appreciate this comment."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "participant_id": "P058",
+  "created_at": "2026-05-15T18:34:02.329437",
+  "scenario_id": "B",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "4 years",
+  "disclosure_text": "since moving to canada in 2022, i've become more aware of topics like immigration , identity and belonging in everyday life",
+  "micronarrative": "Growing up in Casablanca, Morocco, surrounded by a melting pot of cultures, I learned to embrace diversity from a young age. The bakery incident in my current community reminded me of how quickly people can turn hostile when they feel their values are threatened. It was a stark reminder of the fragility of social harmony. But what struck me even more was how the community rallied around the bakery afterward. People from all walks of life came together to show support, proving that despite the initial hostility, there is a deep well of kindness and understanding that can be tapped into.\n\nIn my personal experience, I've seen how online discourse can quickly devolve into negativity, especially when cultural topics are involved. Yet, I've also witnessed the power of community support in healing those wounds. Moving to Canada, I had to adapt to a new language and culture, which taught me the value of patience and understanding. I've learned to speak differently depending on who I'm talking to, adapting to various cultural contexts. This experience has made me more open-minded and resilient, qualities that are essential in navigating the complexities of a diverse world.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something that resonates personally, or something that feels uncomfortable or foreign?"
+    },
+    {
+      "role": "user",
+      "content": "What stood out to me first was how fast people became hostile toward the bakery, i also noticed how the comunity came together to support them afterward"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when you or your community faced a similar situation, where there was a quick backlash followed by a supportive response?"
+    },
+    {
+      "role": "user",
+      "content": "yes i've seen people react negatively online before especially about cultural topics, and i've also seen communities come together to support each other afterward"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about where you grew up and the cultural context there? How do those experiences shape how you see these kinds of reactions and responses?"
+    },
+    {
+      "role": "user",
+      "content": "I grew up in casablanca morocco where there are many different people and cultures, and i think that helped me become more open minded and understanding toward others "
+    },
+    {
+      "role": "assistant",
+      "content": "How do you navigate language and cultural differences in your daily life? Do you find yourself code-switching or using different registers depending on your audience?"
+    },
+    {
+      "role": "user",
+      "content": "yes sometimes i speak differently depending on who i'm talking to, i've learned to adapt to different cultures and environments"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific experience where you had to navigate a tricky situation involving language or cultural differences? How did that experience shape your approach to these kinds of scenarios?"
+    },
+    {
+      "role": "user",
+      "content": "yes when i moved to canada i had to adapt to a different language and culture it helped me become more patient and understanding with others "
+    },
+    {
+      "role": "assistant",
+      "content": "How do you think your socioeconomic background might influence how you view the bakery's situation and the community's response? Do you have any personal experiences with economic precarity that relate to this scenario?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "The post talks about religion in a broad negative way which may make some people uncomfortable, however it does not directly insult a group , because i grew up around different cultures and religions i tend to read these kinds of comments carefully and think about how different people may interpret them differently",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T18:56:34.644143",
+      "timestamp_end": "2026-05-15T19:09:41.560085",
+      "seconds_on_item": 786
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "The post talks about religious accomodations in schools and could make some religious groups feel excluded , at the same time some people may see it as a discussion about culture or school policies, my expirience living around different cultures makes me more aware of how these topics can affect people differently",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:09:42.197776",
+      "timestamp_end": "2026-05-15T19:17:03.115947",
+      "seconds_on_item": 440
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "the post talks about religion at work and how it can affect schedules, some people may see it as a workplace concern while others may feel targeted by it and because i grew up around different cultures and religions i understand why people can react differently to this kind of post ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:17:03.322073",
+      "timestamp_end": "2026-05-15T19:22:48.956478",
+      "seconds_on_item": 345
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post compares different parts of the world in a way that may sound dismissive toward some cultures or groups some people may read it as a historical opinion while others may see it as implying cultural superiority, my experience living in different cultures makes me more aware of how these comments can affect people",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:22:49.144981",
+      "timestamp_end": "2026-05-15T19:26:59.104206",
+      "seconds_on_item": 249
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post compares religious beliefs and LGBTQ+ issues in a controversial way, some people may see it as a discussion about equal treatment while others may feel it unfairly targets certain communities My experience with different cultures and beliefs makes me understand why people may react differently to this post",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:26:59.310877",
+      "timestamp_end": "2026-05-15T19:29:48.305035",
+      "seconds_on_item": 168
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "The post argues that all religions should be treated the same in a secular society, some readers may see it as a political opinion while others may feel certain religious groups are being criticized indirectly, my background around different cultures makes me pay attention to how sensitive these discussions can become",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:29:48.494678",
+      "timestamp_end": "2026-05-15T19:33:05.517492",
+      "seconds_on_item": 197
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post talks about immigrants in a general way which can sound unfair to some people, others may see it as a discussion about culture and politics and because I moved to another country myself I pay attention to how people talk about immigrant communities and social values in society today",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:33:05.724901",
+      "timestamp_end": "2026-05-15T19:36:50.250386",
+      "seconds_on_item": 224
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post connects immigration religion and LGBTQ+ rights in a way that may feel offensive to some people., others may see it as a political opinion about social values and diversity, and because I have experience with different cultures and communities I understand why reactions to this kind of post can vary",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:36:50.439769",
+      "timestamp_end": "2026-05-15T19:39:04.448481",
+      "seconds_on_item": 134
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A religious community",
+      "rationale": "The post talks about an illegal practice and about religion at the same time, some people may see it as discussing human rights while others may feel it unfairly associates a religious community with harmful practices and because I grew up around different cultures and religions I understand why people may react differently to this topic",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:39:04.649491",
+      "timestamp_end": "2026-05-15T19:40:39.594351",
+      "seconds_on_item": 94
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post criticizes activists and mentions protected groups in a broad way, some readers may see it as a political opinion about fairness while others may feel it creates suspicion toward certain communities because I have experience with different cultures and social discussions I understand why people may interpret this post differently",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-15T19:40:39.799227",
+      "timestamp_end": "2026-05-15T19:42:19.091960",
+      "seconds_on_item": 99
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-15T19:45:20.709215",
+  "prolific_pid": "P058",
+  "consented_at": "2026-05-15T18:34:02.329462",
+  "reflexivity_response": "Growing up in Morocco and later moving to Canada probably influenced the way I read these posts. I have experience living around different cultures, religions, and opinions, so I tend to pay attention to wording that could make certain groups feel excluded or judged. At the same time, I also understand that some people may see these posts as political or cultural opinions instead of harmful comments. Because of my background, I usually read these kinds of discussions more carefully and try to think about how different communities may react to them",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post talks about religious accomodations in schools and could make some religious groups feel excluded , at the same time some people may see it as a discussion about culture or school policies, my expirience living around different cultures makes me more aware of how these topics can affect people differently",
+      "others_count": 1,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I read this post primarily as a frustration with institutional policy and cultural assimilation rather than a direct, malicious attack on individuals. While the phrasing \"whose schools these are\" is provocative and territorial, it touches on a common civic debate regarding the role of secular public institutions versus religious accommodations. My perspective leans toward viewing this as a standard political grievance about public resources, rather than a statement intended to dehumanize or incite harm against a group."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B04",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post compares different parts of the world in a way that may sound dismissive toward some cultures or groups some people may read it as a historical opinion while others may see it as implying cultural superiority, my experience living in different cultures makes me more aware of how these comments can affect people",
+      "others_count": 1,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I interpret this post as a provocative comment on intellectual history and cultural development rather than a direct, malicious attack on an individual or group. The author centers their point on a specific historical era—the Enlightenment—and asserts a view on where those specific philosophical frameworks originated. While the tone is defensive and dismissive of broader global histories, it remains within the realm of political philosophy and historical debate rather than crossing the line into explicit hate speech or dehumanization."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B07",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "The post talks about immigrants in a general way which can sound unfair to some people, others may see it as a discussion about culture and politics and because I moved to another country myself I pay attention to how people talk about immigrant communities and social values in society today",
+      "others_count": 1,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I read this post as a provocative piece of cultural and political commentary rather than an attack intended to dehumanize or harm people. The author is pointing out a genuine, well-documented ideological friction that often exists between traditional, faith-based cultural values held by certain immigrant groups and modern progressive gender politics. Because the primary target of the grievance is \"the left\" for ignoring this political contradiction, and the language lacks demeaning slurs or incitement to hatred, it remains a valid, mainstream critique of political coalitions."
+        }
+      ]
+    }
+  ]
+}

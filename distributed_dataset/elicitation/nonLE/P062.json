@@ -1,0 +1,235 @@
+{
+  "participant_id": "P062",
+  "created_at": "2026-05-19T21:07:07.264455",
+  "scenario_id": "B",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "I would say most of my adult life.  As a youngster I had little exposure to anyone outside of my cultural frame of reference but later had occasion to meet and be friendly with people from various backgrounds.",
+  "disclosure_text": "My first career was as a chef, and I hired many new Canadians, more than a few were refugees.  Later I switched to high tech, rising to management fairly quickly.  Again, I worked with a very diverse group of people.",
+  "micronarrative": "I was disgusted by the reaction of the prominent local figure; the whole white replacement theory shtick turns my stomach. That he incited others to spew this kind of vitriol is rancid icing on a stale cake. The response of the neighbourhood coalition gives me hope that this kind of lunacy is not shared by all and can be countered through reasonable and peaceful means. It's very thinly veiled racism not founded in any kind of scientific fact or sociological study. Other cultures are no threat whatsoever and can open our eyes to new experiences and viewpoints. I am reminded of the toxic nationalism in Germany in the 1930s and 40s.\n\nI frequently engage with other readers in the comment section of a national newspaper. While moderated, this kind of thing sneaks through from time to time. I make a point of calling people out on it. These exchanges are always in English, so speaking of dialects or linguistic registers is not really on point for my example.\n\nWhile managing a team of IT professionals tasked with a high-profile project, two of my employees requested a flexible schedule so that they could attend Friday prayers. I saw no reason not to accommodate and did so. One of my other employees started grumbling about preferential treatment; it was clear that he had no patience for cultural norms outside of his frame of reference. I arranged a private meeting in my office and explained that I had a duty as a manager to make reasonable accommodations but it went beyond that— as members of a free society, we all need to show respect for fundamental freedoms like religious expression. I then asked if there was anything he needed accommodation on and let him know my door was always open if such a situation should arise.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something that resonates personally, or something that feels uncomfortable or foreign?"
+    },
+    {
+      "role": "user",
+      "content": "I was disgusted by the reaction of the prominent local figure; the whole white replacement theory shtick turns my stomach.  That he incited others to spew this kind of vitriol is rancid icing on a stale cake.  The response of the neighbourhood coalition gives me hope that this kind of lunacy is not shared by all and can be countered through reasonable and peaceful means."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about why that \"white replacement theory\" language feels so off-putting to you?"
+    },
+    {
+      "role": "user",
+      "content": "It's very thinly veiled racism not founded in any kind of scientific fact or sociological study.  Other cultures are no threat whatsoever and can open our eyes to new experiences and viewpoints.  I am reminded of the toxic nationalism in Germany in the 1930s and 40s."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when you've experienced or witnessed code-switching in a similar context, either in your personal life or in the community around you?"
+    },
+    {
+      "role": "user",
+      "content": "I frequently engage with other readers in the comment section of a national newspaper.  While moderated, this kind of thing sneaks through from time to time.  I make a point of calling people out on it."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe a specific instance where you had to navigate between different linguistic registers or dialects in a comment section or similar online forum?"
+    },
+    {
+      "role": "user",
+      "content": "These exchanges are always in English, so speaking of dialects or linguistic registers is not really on point for my example."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when you had to navigate between different cultural norms or value systems in a community setting, perhaps something related to the bakery scenario?"
+    },
+    {
+      "role": "user",
+      "content": "I can.  While managing a team of IT professionals tasked with a high profile project, two of my employees requested a flexible schedule so that they could attend Friday prayers.  I saw no reason not to accommodate and did so.  One of my other employees started grumbling about preferential treatment; it was clear that he had no patience for cultural norms outside of his frame of reference.  I arranged a private meeting in my office and explained that I had a duty as a manager to make reasonable accommodations but it went beyond that -- as members of a free society, we all need to show respect for fundamental freedoms like religious expression.  I then asked if there was anything he needed accommodation on and let him know my door was always open if such a situation should arise."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. It's clear how your experiences with cultural norms and value systems have shaped your perspective."
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "The poster specifically instances religious freedom and then goes on to say that it can conflict with liberal democracy.   This is classic xenophobia.  While some religious sects call for canon or sharia law, they are a small minority of the larger group and such things are unconstitutional in Canada anyhow.  Clearly the poster fears those different from themselves and is using an inaccurate example to justify that fear.  My own liberal education in addition to experience with many cultures shapes my response.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-19T21:18:53.132845",
+      "timestamp_end": "2026-05-19T21:22:28.167276",
+      "seconds_on_item": 215
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "Again, the poster specifically references faith.  My own value system makes me think this is a harmful and uninformed post.  If someone wants to keep kosher,  halal, vegan, or even avoid food allergies I do not see how this harms others or threatens the ability of a school to provide a good education.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-19T21:22:28.794879",
+      "timestamp_end": "2026-05-19T21:24:35.171207",
+      "seconds_on_item": 126
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "Again, there is a specific reference to prayer.  I will infer that the poster has a problem with Muslims, who, if devout, are required to pray 5 times daily.  This need not conflict with workplace schedules; prayers do not take very long at all and can be done during breaks and lunch -- mandated by legislation -- if the individual(s) so choose.  I first witnessed this when working at a telecom which had a dedicated prayer room for Muslims.  One was a co-worker and his prayer schedule had no impact on work.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-19T21:24:35.652562",
+      "timestamp_end": "2026-05-19T21:27:23.296527",
+      "seconds_on_item": 167
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post shows a complete ignorance of history.  It may interest the writer to know that mathematics and astronomy were developed in the Arab world, while the Chinese were much more technologically advanced than Europe for most of history.  It is all too common for people to be eurocentric in their interpretation of world history since most of what we are taught is through a eurocentric lens.   It is important to dig deeper for the truth -- including the long period of the dark ages and the shameful history of the Crusades, among others.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-19T21:27:23.504034",
+      "timestamp_end": "2026-05-19T21:30:24.343364",
+      "seconds_on_item": 180
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "It's clearly a deflection from the homophobic behaviour of some bakeries (I have seen that story in one form or another more than once).  The poster compounds it by pointing the finger at a halal butcher that serves the Muslim community.  Note to Mr Xenophobia -- I have shopped at both kosher and halal butchers and been served excellent products with courtesy even though I am neither Jewish nor Muslim.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-19T21:30:24.556993",
+      "timestamp_end": "2026-05-19T21:32:40.044231",
+      "seconds_on_item": 135
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This post is more religious in nature but also targets \"progressives\" -- whatever those are.  I can see no evidence that any religion gets special status -- except perhaps Christianity; the only one that has holidays recognized by statute.  Clearly they are trying to engender distrust of both non-Judaeo-Christian peoples while hinting at a mysterious cabal of wily intellectuals bent on destroying Western tradition.  Shameful and silly.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-19T21:32:40.242686",
+      "timestamp_end": "2026-05-19T21:35:28.227351",
+      "seconds_on_item": 167
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The poster talks about perceived gender intolerance among immigrant groups, perhaps referring to clearly defined gender roles among some communities.  They compound their ignorance and intolerance by pointing to \"the left\", whatever that is.  Once again I can see thinly veiled hate being propagated by messages that make a pretense of being rational.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-19T21:35:28.438400",
+      "timestamp_end": "2026-05-19T21:37:52.476695",
+      "seconds_on_item": 144
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "It's pretty clear that the poster has preconceived notions about the attitude toward homosexuality among certain groups, likely Islam.  I would go further and say they are engaging in revisionist history -- gay rights were won not by challenging religious orthodoxy but by insisting on legislation to protect a marginalized group.  The reality is that most Muslims are not as homophobic as the poster would like us to believe -- and even if some are,  it is  no real threat to the rights of the LGBTQ community. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-19T21:37:52.701363",
+      "timestamp_end": "2026-05-19T21:41:12.065182",
+      "seconds_on_item": 199
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "There is plenty of misinformation about faith based female genital mutilation, or cliterectomy.  It is very rare in Islam although some fanatics still practice it.  The poster is partly right in saying it ought to be called out, but specifying Islamophobia is dangerous in that it might propagate the misguided belief that this is common.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-19T21:41:12.328628",
+      "timestamp_end": "2026-05-19T21:43:51.920444",
+      "seconds_on_item": 159
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This is blatant misinformation.  No activist I have ever heard of approves of gender based violence no matter who practices it.  Another attempt to discredit both \"progressives\" and marginalized immigrant groups, a post like this would never appear on a properly moderated form given it is clearly intended to promote hate.  ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-19T21:43:52.127651",
+      "timestamp_end": "2026-05-19T21:46:37.188415",
+      "seconds_on_item": 165
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-19T21:50:01.173935",
+  "prolific_pid": "P062",
+  "consented_at": "2026-05-19T21:07:07.264487",
+  "reflexivity_response": "I was lucky enough to be the recipient of a liberal education, which I believe made me able to look at issues from different viewpoints.  This was followed by experience working and befriending people from many different backgrounds -- I can count Muslims, Jews, Hindus, transgender people, homosexuals, and many more among the friends I have had.  While I believe that people are hard wired to be xenophobic -- during pre-history, tribes or clans different from one's own were usually a threat -- education and exposure to different groups will generally trump the fear or distrust that is engendered by those different from oneself.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "The poster specifically instances religious freedom and then goes on to say that it can conflict with liberal democracy.   This is classic xenophobia.  While some religious sects call for canon or sharia law, they are a small minority of the larger group and such things are unconstitutional in Canada anyhow.  Clearly the poster fears those different from themselves and is using an inaccurate example to justify that fear.  My own liberal education in addition to experience with many cultures shapes my response.",
+      "others_count": 2,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post talks about religion in a broad negative way which may make some people uncomfortable, however it does not directly insult a group , because i grew up around different cultures and religions i tend to read these kinds of comments carefully and think about how different people may interpret them differently"
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post frames its argument around political theory and the structural compatibility of ideas within a \"liberal democracy,\" rather than attacking individuals or using explicit slurs. While the topic is provocative, I read it as cultural commentary and a critique of religious frameworks rather than an attempt to dehumanize people. My value of open communication makes me view this as an abstract philosophical debate about governance and freedom of speech, rather than a direct threat to a specific community's safety or belonging"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "Again, the poster specifically references faith.  My own value system makes me think this is a harmful and uninformed post.  If someone wants to keep kosher,  halal, vegan, or even avoid food allergies I do not see how this harms others or threatens the ability of a school to provide a good education.",
+      "others_count": 2,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post talks about religious accomodations in schools and could make some religious groups feel excluded , at the same time some people may see it as a discussion about culture or school policies, my expirience living around different cultures makes me more aware of how these topics can affect people differently"
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I read this post primarily as a frustration with institutional policy and cultural assimilation rather than a direct, malicious attack on individuals. While the phrasing \"whose schools these are\" is provocative and territorial, it touches on a common civic debate regarding the role of secular public institutions versus religious accommodations. My perspective leans toward viewing this as a standard political grievance about public resources, rather than a statement intended to dehumanize or incite harm against a group."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "Again, there is a specific reference to prayer.  I will infer that the poster has a problem with Muslims, who, if devout, are required to pray 5 times daily.  This need not conflict with workplace schedules; prayers do not take very long at all and can be done during breaks and lunch -- mandated by legislation -- if the individual(s) so choose.  I first witnessed this when working at a telecom which had a dedicated prayer room for Muslims.  One was a co-worker and his prayer schedule had no impact on work.",
+      "others_count": 2,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "the post talks about religion at work and how it can affect schedules, some people may see it as a workplace concern while others may feel targeted by it and because i grew up around different cultures and religions i understand why people can react differently to this kind of post "
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The specific reference to praying five times a day clearly targets Muslim employees. In my experience navigating professional environments, accommodating minor religious practices usually takes very little time and can be managed seamlessly with open communication. By framing this personal practice as an active disruption that negatively impacts \"everyone else,\" the post exaggerates the burden of basic accommodations. This can create a hostile workplace dynamic, making minority employees feel like a burden to their teams simply for practicing their faith."
+        }
+      ]
+    }
+  ]
+}

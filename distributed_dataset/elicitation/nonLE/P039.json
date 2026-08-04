@@ -1,0 +1,247 @@
+{
+  "participant_id": "P039",
+  "created_at": "2026-07-30T21:14:29.291199",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "0",
+  "disclosure_text": "I am an observer to topics like immigration and religion but have no strong connections to either.",
+  "micronarrative": "I connect with the side handing out tea and fighting for immigrant rights. I have lived in the US my whole life. I don't have immigrant parents, but at some point in all our genealogy our families came here from other countries and I will never be angry at an \"outsider\" for wanting to come in. I grew up in a blue collar town and went to a public high school. There were poor kids and not too many rich kids. Seeing diversity in that way made me realize all people deserve to be here. Its good to speak to all levels. You realize how much people are alike! It helps me work as part of a team. There are many different personalities and lifestyles at play, and you have to treat everyone fairly.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "I connect with the side that is handing out tea and trying to fight for immigrant rights. "
+    },
+    {
+      "role": "assistant",
+      "content": "What specific part of your own history or identity makes that perspective feel like home to you?"
+    },
+    {
+      "role": "user",
+      "content": "I have lived in the US my whole life. I don't have immigrant parents, but at some point in all our genealogy our families came here from other countries and I will never be angry at an \"outsider\" for wanting to come here."
+    },
+    {
+      "role": "assistant",
+      "content": "In what specific ways did the culture or community where you grew up shape that sense of shared history?"
+    },
+    {
+      "role": "user",
+      "content": "I grew up in a blue collar town and went to a public high school. There were poor kids and there were not too many rich kids. Seeing diversity in that way made me realize all people deserve to be here."
+    },
+    {
+      "role": "assistant",
+      "content": "How did the way people spoke in that environment influence how you navigate conversations with different groups today?"
+    },
+    {
+      "role": "user",
+      "content": "Its good to speak to all levels. You realize how much people are alike!"
+    },
+    {
+      "role": "assistant",
+      "content": "How does that awareness of shared humanity influence your approach to work or economic struggles in your own life?"
+    },
+    {
+      "role": "user",
+      "content": "It helps me work as part of a team. There are many different personalities and lifestyles at play, and you have to treat everyone fairly."
+    },
+    {
+      "role": "assistant",
+      "content": "How does your racial identity shape the way you are perceived when you engage in these kinds of community conflicts?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This just seems like a rant about the healthcare system in our country. Doesn't seem directed at any group. I suppose the \"who this country is for\" could be regular people or they could mean immigrants. I don't hear many complaining about immigrants abusing the healthcare system though so I doubt it could be that.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T21:20:39.725335",
+      "timestamp_end": "2026-07-30T21:23:15.758823",
+      "seconds_on_item": 156
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This definitely is related how immigrants get accepted into our country. There is a process and this person must not know it. Everyone trying to legally come into the country has to \"wait their turn\", have adequate documentation and go through the legal system. Its written as though its easy to just come here and live without following the rules.\n",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:23:15.962839",
+      "timestamp_end": "2026-07-30T21:26:27.150960",
+      "seconds_on_item": 191
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "It sounds like a rant and not something based on fact. If a business \"floods the labor market\" they probably have enough work to explain the mass amounts of hiring. Wages do not go down in this situation. If a business is doing well and they hire workers they could be good paying jobs. Or possibly they could be seasonal jobs, which we don't know from this situation.\n ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:26:27.385704",
+      "timestamp_end": "2026-07-30T21:28:49.965166",
+      "seconds_on_item": 142
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I live in a medium sized town that is trying to stay small. They ban Walmart, they have rules against business signs being over a certain height and they try to keep a small town mentality. I get that people like the hominess of a small town but eventually housing becomes an issue and everyone is leaving the town to shop. Im sure there are plenty of places around the US that are going through this.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-30T21:28:50.453411",
+      "timestamp_end": "2026-07-30T21:30:42.202222",
+      "seconds_on_item": 111
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This one is pretty unclear. Could it mean immigrants invading and that's what they mean by demographic change?  By saying \"someone is choosing this\" its definitely a conspiracy theory vibe like someone or some group is controlling things. I don't know what other group they could be talking about here.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T21:30:42.392632",
+      "timestamp_end": "2026-07-30T21:32:46.666772",
+      "seconds_on_item": 124
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "They are complaining about immigrants using chain migration to have children and bring their families into the US. Its not something I have seen personally but I have heard about it. I think as long as rules are followed regarding Visas and citizenship then they should be allowed to continue living here.\n",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-30T21:32:46.881580",
+      "timestamp_end": "2026-07-30T21:34:14.852329",
+      "seconds_on_item": 87
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This one must be taking about immigrants and trying to keep countries full of their \"own\" people. European countries are a melting pot and America is far more of a melting pot. I would never agree with this logic because our country and every country gets more diverse by the day. Ill never understand anyone who says this.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-30T21:34:15.078941",
+      "timestamp_end": "2026-07-30T21:36:02.573135",
+      "seconds_on_item": 107
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Another person talking about immigrants who doesn't know anything. People leave their home countries for a better life, it does not mean they are in poverty or will be that way when they get here. Poverty will never go away in this country but it has nothing to do with immigrants.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:36:02.824121",
+      "timestamp_end": "2026-07-30T21:37:57.782667",
+      "seconds_on_item": 114
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Im unclear at what the meaning of this post is. Dissolve their own majorities? Hmm it sounds like they're saying only North American countries are responsible for something. What, however I don't know. Sounds negative either way.  Maybe dissolve majorities like democrat and republican majorities? I don't know how they disolve that, so still confused.      ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-30T21:37:58.009391",
+      "timestamp_end": "2026-07-30T21:42:34.072776",
+      "seconds_on_item": 276
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Another rant against immigrants. People are always fearing that immigrants will steal all the jobs, which would be mostly the working class. The truth is that immigrants take the work most Americans don't want to do. If you are educated you should not be worried about an immigrant taking your job.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-30T21:42:34.322341",
+      "timestamp_end": "2026-07-30T21:44:29.737565",
+      "seconds_on_item": 115
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-30T21:49:51.627753",
+  "prolific_pid": "P039",
+  "consented_at": "2026-07-30T21:14:29.291223",
+  "reflexivity_response": "The rationales above mostly agreed with my statements. I liked reading others comments because its hard to put it all into words when these issues are complex and not one size fits all. My views come from watching the news and seeing others experiences, a long with seeing people in my own life have distasteful views of immigration and poverty and always have someone to blame. Alot of people are not happy with their own lives and need to put it on someone else why they cant succeed.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "This just seems like a rant about the healthcare system in our country. Doesn't seem directed at any group. I suppose the \"who this country is for\" could be regular people or they could mean immigrants. I don't hear many complaining about immigrants abusing the healthcare system though so I doubt it could be that.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I've heard similar comments before. Not directed at me specifically, but toward people who have immigrated to Canada illegally or as refugees. When people make relatively negative statements that separate ‘real citizens’ from another group, there’s often an underlying racial or cultural connotation behind them.\n\nIn this case, saying that hospitals should prioritize ‘true citizens’ could be interpreted in different ways: either referring to legal citizenship status, or implying people who ‘look the part’ or whose families have lived there for generations” which is harmful."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I thought the post was really weird to say the least. \"Who is this country really for\" was very strange wording in this post. I'm thinking this was very much towards the immigrants that have entered the country. This is the only thing that I got from the post above"
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The message does not seem directed at any particular person. That being said, the \"who this country is for\" part could be interpreted as singling out groups of people, but it seems far more general of a statement. It is a factual statement that our hospitals cannot keep up with the influx of patients that are flooding them, and this is not tied to any specific groups."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "This definitely is related how immigrants get accepted into our country. There is a process and this person must not know it. Everyone trying to legally come into the country has to \"wait their turn\", have adequate documentation and go through the legal system. Its written as though its easy to just come here and live without following the rules.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "i read this post from the view of a political frustration regarding immigration policy and fairness of the immigration system. the scenario of the grandparent was just to highlight policy concern rather than targeting a particular group, or demographic. my opinion stands on the emphasis  on objective policy discussion which makes my judgement as not harmful"
+        },
+        {
+          "label": "Clearly harmful -- targets a group in a way that dehumanises or incites",
+          "rationale": "While I don't deny that the subject's grandparents have gone through the legal process, it seems like they are ignoring the fact of what their grandparent had to go through to gain entry into this country. I believe their grandparent would like to shave down the restrictions for future immigrants and peoples who would like to enter this country."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This persons judgement is ideally targeting immigrants and the frustration it has caused them to bear. Doing something legally and then being like stomped, when someone else entering illegally and breaking the rules and even being rewarded for it can certainly make someone like this person furious, its totally understandable. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "It sounds like a rant and not something based on fact. If a business \"floods the labor market\" they probably have enough work to explain the mass amounts of hiring. Wages do not go down in this situation. If a business is doing well and they hire workers they could be good paying jobs. Or possibly they could be seasonal jobs, which we don't know from this situation.\n ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post frames immigration in purely economic terms, using the phrase “flood a labor market” to describe the arrival of workers. That wording is loaded — “flood” suggests an overwhelming, negative force, which can be harmful when applied to people. The claim that “economics doesn’t care about feelings” dismisses human concerns and reduces immigrants to economic disruptors. However, the post does not explicitly dehumanize or incite violence; it could also be interpreted as a blunt economic argument about supply and demand in labor markets. The ambiguity lies in whether the intent is to stigmatize immigrants or to highlight a policy concern about wage dynamics."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Economics, like math, doesn't discriminate or care about people's feelings or opinions. In China for example, there are so many people available and competing for jobs that even slave labor is still difficult to overcome. So what if 1000 people protest, there are thousands more ready to take their place. "
+        }
+      ]
+    }
+  ]
+}

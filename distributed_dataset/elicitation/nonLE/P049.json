@@ -1,0 +1,247 @@
+{
+  "participant_id": "P049",
+  "created_at": "2026-07-31T13:07:45.437541",
+  "scenario_id": "B",
+  "connection_type": "I'm a caregiver, partner, or close community member of someone with this experience",
+  "duration": "32",
+  "disclosure_text": "I support a close family member/partner who navigated the immigration process and related identity challenges",
+  "micronarrative": "I am most struck by how quickly an innocent holiday post became an internet uproar. Simultaneously, it's quite motivating to see the community come together for the buy out to help the local company survive.  a little misunderstanding can spin out of hand in hours before anyone even has time to get the whole story. People now seem to be much more prone to leap to judgment than to just discuss things. It really is a new digital phenomena that is still evolving. People in their hometown typically preferred quietly resolving conflicts. It entailed asking someone aside for a private coffee conversation. Discussions were kept private, one on one rather than public confrontations. It makes me wish people would simply sit down and work things out secretly first, away from the internet clamor.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something that resonates personally, or something that feels uncomfortable or foreign?"
+    },
+    {
+      "role": "user",
+      "content": "What stands out to me most is how fast a innocent holiday post turned into an online outrage. At the same time, it's really heartwarming to see the neighborhood rally together for the buy out to support the local business."
+    },
+    {
+      "role": "assistant",
+      "content": "When you say the speed of the outrage stands out, does that mirror how quickly things escalate in your own community or social circles?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, definitely. Online, a small misunderstanding  can spiral out of control within hours before anyone even has time to get the full story. It feels like people are often way quicker to jump to conclusions now than to just talk it out."
+    },
+    {
+      "role": "assistant",
+      "content": "In the places where you grew up or live now, is that kind of rapid, public confrontation a common way people handle disagreements, or is it more of a new digital phenomenon?"
+    },
+    {
+      "role": "user",
+      "content": "It’s definitely more of a new digital phenomenon. Back home, people usually preferred handling disagreements quietly."
+    },
+    {
+      "role": "assistant",
+      "content": "What did that preference for quiet resolution look like in practice when you were growing up?"
+    },
+    {
+      "role": "user",
+      "content": "It meant pulling someone aside for a private chat over coffee . Disagreements were handled through quiet, 1 on 1 conversations rather than public confrontation."
+    },
+    {
+      "role": "assistant",
+      "content": "How does that upbringing shape your instinct when you see a public conflict like the one in the scenario unfolding online?"
+    },
+    {
+      "role": "user",
+      "content": "It makes me want to step back from the online noise and wish people would just sit down and talk things out privately first."
+    },
+    {
+      "role": "assistant",
+      "content": "Does that desire for private resolution ever clash with the need for public accountability, especially when the conflict involves power dynamics like the prominent figure targeting the bakery?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "The post presents its message as intellectual or political criticism on the compatibility of some belief systems with democratic ideals. It does not dehumanize any particular group directly, instigate violence, or employ overt slurs. Having grown up in a society where honest communication is preferred, I see this as political argument instead of personal animosity, therefore fitting the Not harmful category.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:41:24.664723",
+      "timestamp_end": "2026-07-31T13:50:15.566427",
+      "seconds_on_item": 530
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "The post questions school dietary accommodations, framing it around civic identity and resource distribution. While the phrase \"whose schools these are\" feels somewhat exclusionary, it expresses political frustration rather than hatred. Coming from a background value of quiet dialogue, I see this as cultural commentary that invites debate rather than outright harm.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T13:50:15.747794",
+      "timestamp_end": "2026-07-31T13:53:38.570954",
+      "seconds_on_item": 202
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "The author frames their concern around workplace productivity and scheduling fairness instead of attacking personal faith. Mentioning praying five times a day clearly points to Muslim practices, but the tone stays focused on operational impact. My own background leads me to view this as a discussion about workplace policy rather than targeted hostility.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:53:38.776002",
+      "timestamp_end": "2026-07-31T14:01:52.593895",
+      "seconds_on_item": 493
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post presents an argument about historical events and cultural history rather than targeted hate speech. While the phrasing explicitly pre-empts claims of racism, it focuses on philosophical history rather than attacking a specific protected group. My background leads me to view this as a debate on historical commentary over explicit discrimination.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:01:52.780489",
+      "timestamp_end": "2026-07-31T14:08:52.085028",
+      "seconds_on_item": 419
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "The author points out a perceived double standard in media coverage regarding religious businesses and customer service. While it references sensitive identity topics like faith and sexual orientation, the tone focuses on media bias rather than attacking a specific group. My own background leads me to view this as media critique rather than hate.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:08:52.272625",
+      "timestamp_end": "2026-07-31T14:11:59.281112",
+      "seconds_on_item": 187
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "The post discusses secularism as a principle of equal treatment under the law, expressing political frustration regarding double standards in public critique. It targets political movements rather than a protected group, and uses no derogatory language. My personal background leads me to view this as standard political commentary on secular values rather than harmful speech.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:11:59.449041",
+      "timestamp_end": "2026-07-31T14:16:26.427618",
+      "seconds_on_item": 266
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post points out political contradictions regarding immigrant views on gender and progressive politics. While it generalizes immigrant communities, the tone remains analytical and focuses on political hypocrisy rather than inciting hostility or dehumanizing anyone. My own background leads me to view this as standard cultural commentary and political critique rather than harmful speech.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T14:16:26.623807",
+      "timestamp_end": "2026-07-31T14:19:16.338326",
+      "seconds_on_item": 169
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The post highlights a political tension between LGBTQ+ rights and religious conservatism within immigration policy. While phrases like \"importing more of it\" are provocative, the statement focuses on ideological conflict rather than inciting violence or using slurs. My background leads me to read this as intense cultural commentary on competing values rather than hate.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:19:16.517789",
+      "timestamp_end": "2026-07-31T14:21:40.197124",
+      "seconds_on_item": 143
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A religious community",
+      "rationale": "The post addresses a specific legal issue and human rights concern regarding female genital mutilation. By explicitly separating the critique of the practice from Islamophobia, the author frames the discussion around law and ethics rather than hatred. My personal background leads me to view this as policy and human rights commentary.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:21:40.387479",
+      "timestamp_end": "2026-07-31T14:23:42.746221",
+      "seconds_on_item": 122
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The post calls out perceived ideological inconsistency among political activists handling allegations of misconduct. Rather than using hate speech or targeting a protected class, the framing focuses on criticizing activist behavior and double standards. My personal background leads me to view this as standard political commentary and debate regarding public accountability.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T14:23:42.930698",
+      "timestamp_end": "2026-07-31T14:26:32.987552",
+      "seconds_on_item": 170
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T14:31:48.451308",
+  "prolific_pid": "P049",
+  "consented_at": "2026-07-31T13:07:45.437576",
+  "reflexivity_response": "My reading of these posts was shaped by an upbringing emphasizing quiet conflict resolution and evaluating intent over emotional impact. While others saw harm or exclusionary undertones in discussions about school rules or belief systems, I separated policy debate from personal animosity. Because I value objective communication, I view statements on workplace schedules and ideological differences as political commentary rather than targeted hostility, interpreting provocative statements as expressions of public frustration instead of harmful, personal attacks on all  protected groups.",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The post presents its message as intellectual or political criticism on the compatibility of some belief systems with democratic ideals. It does not dehumanize any particular group directly, instigate violence, or employ overt slurs. Having grown up in a society where honest communication is preferred, I see this as political argument instead of personal animosity, therefore fitting the Not harmful category.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I am confident in my beliefs and morals within myself, throughout my life have always been truthfull and passionate in deading with difficult situations, it is a feeling of knwoing that you are able to communicate and work with others not the same as yourslef and I take great pride in that, had that very diverse background growing up wihich I believe really helped me in dealing with every days life involing many variations of diffwerent people."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The statement that some beliefs are just aren't compatible.it feels harmful and very negative.I have not personally been targeted like that but it is really upsetting.\nreligious freedom is a right of everyone and nobody should  ever have to live in fear of being targeted because of their beliefs.there should be freedom of living and practicing your life and beliefs without the fear of being harmed ."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "While the original message is vague, it also throws shade at a certain group. It calls out how certain religious systems aren't compatible with liberal democracy, so anyone that is not liberal is being marginalized and grouped into one thing while maintaining a facade of vagueness. I wouldn't say the post is completely harmful, though as it isn't berating a specific group."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "The post questions school dietary accommodations, framing it around civic identity and resource distribution. While the phrase \"whose schools these are\" feels somewhat exclusionary, it expresses political frustration rather than hatred. Coming from a background value of quiet dialogue, I see this as cultural commentary that invites debate rather than outright harm.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I understand the frustration behind this post, especially when people feel the majority’s needs are being overlooked. However, schools serve diverse communities, and accommodating religious dietary practices can promote inclusion without harming others. The phrase “whose schools these are” encourages division, so I think the post is inappropriate and harmful. "
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The post is denouncing special dietary accomodations made to students of religious communities such as islam or judaism. The overall tone conveys a sense of feeling like losing one's community, being replaced by others. There is no threat or harm, but there is closeness to allowing accommodations for specific groups. These accommodations are framed as bad."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Accommodating every faith's dietary rules clearly shows the post is directed at multiple overlapping people with likely common background but different faith. The statement clearly point out that everyone with all sort of faiths are welcome and not particular to a certain people's faiths and the school welcomes different groups with different faith"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The author frames their concern around workplace productivity and scheduling fairness instead of attacking personal faith. Mentioning praying five times a day clearly points to Muslim practices, but the tone stays focused on operational impact. My own background leads me to view this as a discussion about workplace policy rather than targeted hostility.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "Clearly directed at muslims. As a muslim myself, I can relate to that; it's critical but true. No matter my religious beliefs, it is unfair to disturb everyone else for my personal religious rite. It's critical but not offensive.  Choice of words could be a bit more polite, but overall it's not harmful or offensive."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Again, there is a specific reference to prayer.  I will infer that the poster has a problem with Muslims, who, if devout, are required to pray 5 times daily.  This need not conflict with workplace schedules; prayers do not take very long at all and can be done during breaks and lunch -- mandated by legislation -- if the individual(s) so choose.  I first witnessed this when working at a telecom which had a dedicated prayer room for Muslims.  One was a co-worker and his prayer schedule had no impact on work."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "It could be harmful for Muslim people who pray five times a day. Once again, if you made the decision to be Muslim and pray five times a day, it is your choice, but you must also be respectful of your environment. Be considerate and do it in a private place. If you need to pray during working hours, make sure it does not interrupt anybody, and the time you spend praying should not be paid for by the employer. Even if it may seem harmful to religious people, I think it is a reasonable statement."
+        }
+      ]
+    }
+  ]
+}

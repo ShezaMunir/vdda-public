@@ -1,0 +1,181 @@
+{
+  "participant_id": "P040",
+  "created_at": "2026-05-07T22:57:15.152316",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "My whole life",
+  "disclosure_text": "My upbring was complicated and I never felt wanted or like I belonged or fit in. We were raised with religion as well, so I'm always interested to see people's relationships with different belief systems",
+  "micronarrative": "It seems like one group is demonstrative and angry, while another is practicing kindness. This feels like I would be quite personally upset to see the divide and the unwelcoming signs. In our small city, there is a very vocal minority that doesn't think anyone different to them deserves to have the same rights, and I find that incredibly upsetting. It bothers me that part of our community might feel unwelcome.\n\nThere was a protest at a local elementary school, protesting First Nations and LGBTQ rights. They were upset and didn't think children were being taught the 'truth'. I found it highly concerning that there was a group confident and large enough to protest in the first place, and doubly concerning that they chose to involve children.\n\nMy parents were both quite closed-minded and racist, and I always felt like I lived two lives—one where I kept quiet about it at home and one where I could be myself and make my own choices. As an adult, I really value (kindly) expressing my opinion and don't let things that feel wrong sit.\n\nIt still adds an extra layer of frustration and sadness/helplessness. But it also adds a maybe larger than normal amount of wanting to make things better and more fair for everyone.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "It seems like one group is demonstrative and angry, while one is practicing kindness. This feels like I would be quite personally upset to see the divide and the unwelcoming signs"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about a time when you felt personally upset by a divide between people or groups?"
+    },
+    {
+      "role": "user",
+      "content": "It feels like a common subject these days. In our small city, there is a very vocal minority that doesn't think anyone different to them deserves to have the same rights and I find that incredibly upsetting. It bothers me that part of our community might feel unwelcome"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific instance where you experienced or witnessed code-switching in your community, especially in relation to these kinds of discussions?"
+    },
+    {
+      "role": "user",
+      "content": "There was a protest at a local elementary school, protesting First Nations and LGBTQ rights. They were upset and didn't think children were being taught the 'truth'. I found it highly concerning there was a group confident and large enough to protest in the first place. and doubly concerning that they chose to involve children"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe a time when you felt the need to code-switch in a conversation about these issues? How did you navigate the different registers or languages you use in different settings?"
+    },
+    {
+      "role": "user",
+      "content": "My parents were both quite closed minded/racist and I always felt like I lived two lives - one where I kept quiet about it at home and one where I could be myself and make my own choices. As an adult I really value (kindly) expressing my opinion and don't let things that feel wrong sit"
+    },
+    {
+      "role": "assistant",
+      "content": "Reflecting on that experience, how do you think your background and the need to navigate different social contexts has influenced your perspective on community dynamics and the scenario we discussed?"
+    },
+    {
+      "role": "user",
+      "content": "I think it still adds an extra layer of frustration and sadness/helplessness. But it also adds a maybe larger than normal amount of wanting to make things better and more fair for everyone"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing so deeply. Your lived experience has provided rich insights into how these dynamics play out in real life."
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "The problem is a perceived lack of resources, and the proposed answer is to eliminate outside competition, which makes me think this is aimed at immigrants. I think everyone deserves equal opportunities and I think the default logical response would be more along the lines of increasing service levels to meet demand.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T23:12:04.738006",
+      "timestamp_end": "2026-05-07T23:16:11.395497",
+      "seconds_on_item": 246
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Using historic context - their grandparents had to wait years, implying it's unfair others wouldn't have to, so I'm drawing a conclusion this is about immigration or citizenship applications. It could be about something like medical treatment but I don't think that's as likely to be held up as a comparison for a problem for today.  ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-07T23:16:11.913892",
+      "timestamp_end": "2026-05-07T23:22:28.165275",
+      "seconds_on_item": 376
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This one actually feels a little personal - 'back in the day' I was the only woman hired on a crew of men and there was a lot of resentment that I/women were taking their jobs. I feel like this is more likely targeting immigrants or other groups they feel are flooding the labour market and find it a bit offensive - wages are dependent on a lot more things than the amount of labour available",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T23:22:28.376497",
+      "timestamp_end": "2026-05-07T23:26:18.083327",
+      "seconds_on_item": 229
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This one directly relates to my current hometown experience this is exactly the type of thing posted to incite discussion about minorities, immigrants, homeless etc. Change is good, diversity is good, progress is good. It's never going to be linear or perfect, it's unfair to blame undesired change on any one group of people.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:26:18.307369",
+      "timestamp_end": "2026-05-07T23:30:10.108759",
+      "seconds_on_item": 231
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "Feels similar to the type of thing posted on our local social media for 'discussion' that is usually trying to get people worked up about gender diversity or immigration. I really dislike this and do feel personally bothered when I see this sort of thing. It could be a comment about a rapidly aging population or similar, but seems unlikely with the 'someone is choosing this' add on.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-07T23:30:10.321640",
+      "timestamp_end": "2026-05-07T23:34:33.450436",
+      "seconds_on_item": 263
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Attempts to dehumanize - that one deserving person is now going to be 50 (implied random, undesirable) people. Tries to incite thinking that any immigration is bad, like even one visa would turn into exponentially more. There would be an opportunity here to celebrate families staying together, or similar, but since that's not mentioned I think we can assume this is only intended to be harmful",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T23:34:33.944918",
+      "timestamp_end": "2026-05-07T23:38:53.373953",
+      "seconds_on_item": 259
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "'even european ones' is interesting. This feels like an attempt to identify anything/anyone outside the norm and use that as them not being part of the nation's identity. Unless the identity IS an inclusive, diverse country that's a melting pot of cultures, but I don't think that's what the comment was going for",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T23:38:53.893376",
+      "timestamp_end": "2026-05-07T23:43:09.305954",
+      "seconds_on_item": 255
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "'Importing poverty' is terribly worded, and places the blame on the people, rather than exploring, if this is a viable concern, why our support system is failing these people.  I don't feel like wealth is an indicator of person's value or potential for the future, regardless and this comment feels like it's coming from a very unkind/small minded perspective.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-07T23:43:09.519161",
+      "timestamp_end": "2026-05-07T23:48:16.290675",
+      "seconds_on_item": 306
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "If we assume less majority is a good thing, this could maybe be taken as an insult to non western countries - they aren't willing to expand minority groups. But since, most countries seem more progressive and less concerned with minority/majority than the US, I'm guessing it's a complaint that too many minorities are coming there.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T23:48:16.503637",
+      "timestamp_end": "2026-05-07T23:53:03.919411",
+      "seconds_on_item": 287
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Again, if we assume good things are intended, Yay! working class people get to spend more time with immigrants! But again, doubting that was the intent, and they're complaining about perceived competition for jobs/wages etc, implying politicians are above all that. I find this to be a frustrating world view, people thinking they need to guard their resources from 'outsiders'",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-07T23:53:04.127950",
+      "timestamp_end": "2026-05-07T23:56:09.762056",
+      "seconds_on_item": 185
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-07T23:56:09.971924",
+  "prolific_pid": "P040",
+  "consented_at": "2026-05-07T22:57:15.152352"
+}

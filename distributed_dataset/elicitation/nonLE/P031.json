@@ -1,0 +1,247 @@
+{
+  "participant_id": "P031",
+  "created_at": "2026-07-31T22:31:36.233846",
+  "scenario_id": "C",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "i am observer ",
+  "disclosure_text": "i am observer ",
+  "micronarrative": "I grew up in Indiana, where I was led to believe that if you work hard you’ll have a chance at the dream. It was a lie. I’ve worked my whole life and I still haven’t struck it rich or living like the top 1 percent. Reading the scenario, I feel like the government is doing more things to divide the youth and other people in the country so we don’t pay attention to the real issues like the money that is sent to politicians from big tech and pharma and foreign nations. I don’t change how I speak to fit into spaces; I just developed a sense to thrive for myself and my own and opt out of societal norms. For example, I chose to do solar rather than standard electric now. I save a ton of money by utilizing free energy. This allows me to opt out of the systems that feel designed to distract us from who truly controls the narrative.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there a moment, a feeling, or a person in it you find yourself drawn to?"
+    },
+    {
+      "role": "user",
+      "content": "makes me feel like the government is doing more things to devide the youth and other people in the  country so we dont pay attention to the real issues like the money that is sent to poloticans from big tech and pharma and forigen nations"
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned the government dividing people to distract from money flows—where did you grow up, and how did that environment shape your view of who controls the narrative?"
+    },
+    {
+      "role": "user",
+      "content": "i grew up in indiana i was lead to believe that if you work hard youll have a chance at the dream it was a lie ive workjed my whole life and i still havent struck it rich or living like the top 1 percent "
+    },
+    {
+      "role": "assistant",
+      "content": "When you navigated that gap between the \"hard work\" promise and your reality, did you find yourself changing how you spoke or presented yourself to fit into different spaces?"
+    },
+    {
+      "role": "user",
+      "content": "no not really i just developed a sense to thrive for myself and my own and opt out of sociatal norms"
+    },
+    {
+      "role": "assistant",
+      "content": "When you opt out of those norms, do you find yourself using specific language or slang to signal that separation to others?"
+    },
+    {
+      "role": "user",
+      "content": "no"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe a specific time when you chose to ignore a social expectation?"
+    },
+    {
+      "role": "user",
+      "content": "yes like i choose to do solar rather than standard electirc now i save a ton of money buy utilizing free energy "
+    },
+    {
+      "role": "assistant",
+      "content": "How did that decision to go off-grid financially impact your sense of security or power in your daily life?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "i dont see that as an attack and a target to anyone one person or group it sounds like they are siding with both rather than attacking one stide and i think that is the right approach we shouldnt discount what a woman tells us it should be investigated and the proper procedure be taken ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:37:11.328021",
+      "timestamp_end": "2026-07-31T22:39:32.743677",
+      "seconds_on_item": 141
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "it is reality people are to used to being babied now days and that creates weak men who inturn create a weak socitety we need to get back to god and being a community of common decceny and accountability  the country was a way more safe enjoyable place when we had these things ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:39:32.924839",
+      "timestamp_end": "2026-07-31T22:41:07.643958",
+      "seconds_on_item": 94
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "this is just science and common sense there are naturally 2 genders and you are either male or female there are instances where somone wants to be another gender but for all of modern society we have always seen that as something other than what we do now!!! thats the bold truth ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T22:41:07.829862",
+      "timestamp_end": "2026-07-31T22:42:32.228823",
+      "seconds_on_item": 84
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "its targeted twords women in my opionon and i think there shouldnt be a wage gap but i also favor the women staying home and rasing children rather than partaking in the work place we are below replacement levels and that will always be a issue for modern socitey that will eventually have to be adressed ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:42:32.407466",
+      "timestamp_end": "2026-07-31T22:43:55.548733",
+      "seconds_on_item": 83
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This again is just the truth and backed by science women have their own sports and areas in socity for reasons and when men enter into those women lose oppurtunities that they otherwise would have such as losing goals and contest to naturally stronger genders who happneded to change just to win easy ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:43:55.734212",
+      "timestamp_end": "2026-07-31T22:45:19.106161",
+      "seconds_on_item": 83
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "im not to fimiliar with this but what i will say is when you baby and treat men like women or act like they can be animals or change their genders you do something to them that messes them up espcially at a young age we ahve seen many times now where they grow older and they regret these decisions they made when they were younger or even worse the decision somes parents made for them ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T22:45:19.295822",
+      "timestamp_end": "2026-07-31T22:47:05.942727",
+      "seconds_on_item": 106
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "we live in the us where we have freedom of speech and people are entitiled to say things like that if they believe it and its their job to sway others to believe it and if its something rational the public will agree but if not there will be push back that is the way things work in society ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T22:47:06.117405",
+      "timestamp_end": "2026-07-31T22:48:24.900110",
+      "seconds_on_item": 78
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "i dont know enough about this topic to give a very bold take on it but if its talking about transgendrs or other things like that as a heracy that is what the bible states and its not naturally healthy for society in my opinion but everyone is entiteld to disagree with me ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T22:48:25.073967",
+      "timestamp_end": "2026-07-31T22:49:48.380372",
+      "seconds_on_item": 83
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "im not sure if this claim is true but i say alot of modern day women are opposed to fiminism because it sells you a dream that you can be succsefull if you just drop your man and do things yourself as a women and work hard and not hyave kids this creates a downfall in society because the birth rate becomes unreplaceable ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T22:49:48.561469",
+      "timestamp_end": "2026-07-31T22:51:47.324502",
+      "seconds_on_item": 118
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "this obviously is crossing a line we do not disrespect women and contain them to a house or an area like savage dogs women are to be protected because they are the nurturers of nature itself they are the queens of this land and will take care of the men in return ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T22:51:47.515096",
+      "timestamp_end": "2026-07-31T22:52:59.037827",
+      "seconds_on_item": 71
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T22:55:40.752564",
+  "prolific_pid": "P031",
+  "consented_at": "2026-07-31T22:31:36.233879",
+  "reflexivity_response": "because i am a fundemental american who believes in the consituion and free speech there was nothing truly threating except the last respoonse if you are not dangering someone with your speech you are free to use your speech that is how i have always viewed it i didnt like when the democracts censored speech and i wont stay quiet while the republicans try to do it either its not in my blood i will always do whats right for my country by the law of the land ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "C01",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "i dont see that as an attack and a target to anyone one person or group it sounds like they are siding with both rather than attacking one stide and i think that is the right approach we shouldnt discount what a woman tells us it should be investigated and the proper procedure be taken ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This post is very ambiguous. It's hard to judge without context but the logic does still make sense. It doesn't sound like it's attacking anyone. I think the tone is calm and neutral. It's saying that there should be fair treatment regardless of gender. That how I would perceive it."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Though it mentions women you cannot tell exactly what is is focusing on and especially who. The group mentality seems to be in effect but it is still unclear. I like that it is generic but yet it begs you to wonder what else there is as far as intention.\n"
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "the fact that the writer was direct and said he believes women. this is something i agree with and something i too would say. he framed it without judgement or picking sides. no aspects of my identity, beliefs, values, or lived experience affect how i understood the post. i also believe in due process as i am a straightforward person."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C02",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "it is reality people are to used to being babied now days and that creates weak men who inturn create a weak socitety we need to get back to god and being a community of common decceny and accountability  the country was a way more safe enjoyable place when we had these things ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I think it is referring to people that discriminate against women. I think it could be someone was offended in the past or perhaps that someone feels less than others and needs validation. It could be clearly a past offense that is being address or at least a comment spoken.\n"
+        },
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I think the statement that was provided here is not wrong and it seems like they are trying to provide a statement on what they believe. It is not trying to demean anyone or harm anyone, it is trying to provide a statement for women to think about how to approach problems. Instead of labelling everything as microaggression, they should do something differently. "
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "I feel like this post or comment is very provocative. microaggression can appear in various forms and shapes and saying everything is microaggression is wrong. women are capable of handling the intricacies of life and they need to be given the benefit of the doubt. I have had women show me microagression but i have never really taken it personally as most times, these women don't even know they are being microaggressive."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "C03",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "this is just science and common sense there are naturally 2 genders and you are either male or female there are instances where somone wants to be another gender but for all of modern society we have always seen that as something other than what we do now!!! thats the bold truth ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I think this message would be clearly offensive to certain groups' beliefs. The gender identities have been a very controversial topic in recent years. There very heated debates between biological gender identity and other gender identities that were formed later in life. To some people life myself, believes that we should not be able alter gender easily. To others, they believe mental state matters more to define a gender. I think message is ambiguous and not aiming to harm anyone."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This post is ambiguous because there are 2 sides of groups, one who believes in lgbtq and the other side who does not. Therefore, it is targetting a group of people and they might get offended because of that, and that is harmful. But who agrees this may be happy to see that people share same thoughts and perspectives as them,. "
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I think the mindset here is the new standards adopted by some individuals and groups and that they feel is not only harmful but ut of line. I feel they are stated their position which they see as common sense. Though not discriminatory, they feel the need to state the fact."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "participant_id": "P014",
+  "created_at": "2026-05-23T20:40:51.158306",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "My whole life",
+  "disclosure_text": "I am 2nd generation Mexican American, my mom was born in Mexico and immigrated to the USA when she was a teenager in the late 1960's.  She came to the USA with a green card with her mom/my grandma.  Her mother got a job as a maid with a family in southern California where she stayed for many years. I feel I have direct connection to the experience of immigrants in seeing how my mom and my grandma were treated.  I also have experience from my own life seeing how Hispanic Americans are treated.",
+  "micronarrative": "The town hall’s divide mirrors my family’s history. My mom and grandma arrived from Mexico in the late 60’s on green cards but were still treated as second-class citizens—a reality that fuels my anger. Growing up, I was one of few minorities in school, where classmates would mock Mexicans but then say, “You’re not like *those* people,” as if my identity could be compartmentalized. My dad prioritized English over Spanish, teaching me to read with English books and Sesame Street, ensuring I’d “fit in.” I never struggled with English—no accent, fluent vocabulary—but Spanish remained tied to my grandma’s kitchen, a quiet bridge to heritage. Now, seeing crowds shout about “local safety” while others serve tea, I hear echoes of the same dehumanizing rhetoric my family faced. The scenario’s tension isn’t abstract: it’s the same choice I’ve navigated my whole life—code-switching to belong, while carrying a history that resists erasure.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "The first thing that immediately stands out to me is this misguided notion that undocumented immigrants are a danger to the public when in fact the majority are families with children who are coming to this country for a better life.   This is something that feels intensely personal to me because my mom and my grandma came to this country as immigrants from Mexico in the late 60's and even though they came on a green card, they were still treated like they were second class citizens and it angers me to think about that. "
+    },
+    {
+      "role": "assistant",
+      "content": "How have you personally experienced others perceiving you or your family because of your Mexican heritage?"
+    },
+    {
+      "role": "user",
+      "content": "I grew up in a pretty middle class background.  I was lucky, my dad worked for the county as a health inspector so I was able to have nice things and go to nice schools but I was often one of the few minorities at my school growing up so I always was aware of being different.  I would commonly here people making fun of  mexicans and they would always say things like \"you're not  like those other ones that I'm talking about..you're cool\", stuff like that but I would still be upset.  "
+    },
+    {
+      "role": "assistant",
+      "content": "How did you navigate speaking Spanish at home versus English at school — did you ever feel like you had to code-switch to fit in, or was there a moment when language became a barrier or a bridge for you?"
+    },
+    {
+      "role": "user",
+      "content": "This is a great question because my dad make a concerted effort in my house to make sure that he emphasized my learning English as being more important than Spanish.  I spoke Spanish also mostly to my grandma and "
+    },
+    {
+      "role": "assistant",
+      "content": "Were there moments when learning or using English felt especially challenging, or when your way of communicating was misunderstood by others?"
+    },
+    {
+      "role": "user",
+      "content": "No, I have always been fluent in English, never had an accent..if anything my Spanish was what I really had to work on.  My dad taught me to read  using books in English, I watched sesame street, Mr Rogers etc.  I never had trouble with English and always have had a very good vocab and no accent."
+    },
+    {
+      "role": "assistant",
+      "content": "How does your family’s history as immigrants shape the way you see the tensions in the town hall scenario — the divide between those demanding border enforcement and those offering solidarity?  \n\n****"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This type of language about \"who our country is for\" sounds very similar to the type of rhetoric you would see from extreme right wing forums and people who have nationalistic, anti -immigrant viewpoints, both in the USA and Europe.  I feel that the author manufactures a made up crisis, \"hospitals can't keep up\" and uses that as a justification for the real focus of their comment which is the \"who the country is actually for\" part.  My lived experience is that the health care in my county here in Southern California, a county with a huge number of  low income immigrants has been of a very high quality for my entire life.  There is no connection that I see between hospitals taking care of poor people, people on government assistance, immigrants and not being able to handle the rest of us.\n",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T20:51:35.976957",
+      "timestamp_end": "2026-05-23T20:58:23.156634",
+      "seconds_on_item": 407
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "I feel that this comment is a fair expression of a person's belief.  It does not feel angry and it does not feel like the person is targeting any immigrant community, rather it feels like a person having a discussion with a non immigrant online about the topic of immigration.  I do not see this comment as being in bad faith because my mother,  who came to this country on a green card with my grandma in the late 60s, got her citizenship in 1986 and I was there with her and could see how proud and happy it made her.  In a perfect world every body would wait their turn but sometimes the situation in the home country is so dire, so dangerous and the poverty so extreme that people have to risk everything to provide a better life for their kid.  I am not offended by this post however.  ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T20:58:23.381317",
+      "timestamp_end": "2026-05-23T21:02:13.735202",
+      "seconds_on_item": 230
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "My degree is in Economics.  This is basic economics theory and is completely factual.  The way the comment is written, there is nothing in my lived experience or beliefs that would react negatively to this comment because it just seems analytical and not emotional or angry or hateful.  The comment seems more intellectual and more like someone discussing a specific economic question or policy as opposed to an attack on immigrants or any other marginalized group. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T21:02:13.950785",
+      "timestamp_end": "2026-05-23T21:06:10.813376",
+      "seconds_on_item": 236
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I feel that this comment is one that on the surface appears benign but is most likely made by a person who wants America to stay the way it was in the 1950s.  I feel that the comment targets not only immigrants, but African Americans , poor people  and any other marginalized groups.  This type of outlook is very common in right wing movements, the idea that the more diverse we are, the more people we accept, the less 'recognizable\" the country is.  This is exactly the type of covert racism that I am always on the alert for online and very rarely seems to be made in good faith by the author.  ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T21:06:11.033017",
+      "timestamp_end": "2026-05-23T21:08:58.495966",
+      "seconds_on_item": 167
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Unclear",
+      "rationale": "This comment  seems to come from someone who is uninformed and believes wild conspiracy theories where secretive groups and powerful entities control everything in our lives.  I feel that it is too unhinged sounding to take seriously and as a result it doesn't resonate with me in any real negative way.  I have a deep lack of respect for people who are prone to believe this type of thing.  I actually have a saying that I use, I say that a person is \"susceptible to low quality information\" and the person who wrote this comment sounds like that type  who I would have little respect for.  ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-23T21:08:58.708520",
+      "timestamp_end": "2026-05-23T21:13:08.778232",
+      "seconds_on_item": 250
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Absolute a hateful comment demonizing immigrants .  I would automatically assume that , based on the tone, this person is not talking about white immigrants from Europe, they are only referring to Hispanics, Asians, or people coming from 3rd world country.  As a child I read that America was a welcoming place to immigrants, and millions came to this country, without asking permission, from Ireland, Germany, Italy etc.  I feel that this comment is very racist and is making a phony issue out of something that never was a problem when white people were the ones immigrating in huge numbers.  ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:13:08.980487",
+      "timestamp_end": "2026-05-23T21:16:37.611496",
+      "seconds_on_item": 208
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Unclear",
+      "rationale": "I wouldn't  take offense at this.  I have vivid memories of being in high school and watching the fall of communism, the Berlin wall falling and  non violent revolutions in many of the former Soviet republics.  I can see this comment referencing groups of people or countries that want self determination.  ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T21:16:37.816943",
+      "timestamp_end": "2026-05-23T21:20:05.541289",
+      "seconds_on_item": 207
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Very hateful, very ignorant comment that angers me not only on a personal identity/Hispanic American level, but also on an intellectual level.    Poverty would exist in this country whether immigrants are here or not because poverty and upper/lower class divide is inherent in any system whether it's capitalism or socialism. Poverty has nothing to do  how many immigrants we  accept and the attempt to connect the two is done in bad faith and so obvious and transparent of an attempt to single out dark skin, minority immigrants.  ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:20:05.794949",
+      "timestamp_end": "2026-05-23T21:22:52.134142",
+      "seconds_on_item": 166
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This is not overtly racist, it could be something that is said in some type of analysis or discussion about social systems in the west but I detect something in the tone of the author that I feel gives away the intent.  I spent a lot of time in college, reading economics articles and books and if an author is trying to intellectually analyze something, they usually don't sound as \"emotional\" or annoyed as this author does. The tone makes me suspect that they are targeting any group that is not the majority Caucasian group whether it be immigrants, African Americans , Asians, non Christians etc but like  I said before, the language is not really that inflammatory on its own so I cant say it is \"clearly harmful\".  ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-23T21:22:52.352257",
+      "timestamp_end": "2026-05-23T21:26:21.585713",
+      "seconds_on_item": 209
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This comment reads to me as being non inflammatory.  It does not offend me at all.  It seems like someone making a well thought out point.  I feel that this comment could just as likely come from someone with conservative views as it could from someone with liberal views.  I don't feel like this comment targets any group at all. ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-23T21:26:21.798998",
+      "timestamp_end": "2026-05-23T21:27:53.482166",
+      "seconds_on_item": 91
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T21:32:13.670215",
+  "prolific_pid": "P014",
+  "consented_at": "2026-05-23T20:40:51.158341",
+  "reflexivity_response": "I feel that my background studying Economics for 4 years in college definitely could account for my different reading of  the comment about \"flooding the labor market\" lowering wages.  I think my background being the son of an immigrant mother  definitely made me more sensitive to what I felt was the racism in the \"hospitals not being able to keep up\" comment.  I feel that the fact that I was with my mother when she got her citizenship in the mid 80s makes and seeing how hard she worked for that and how proud she was absolutely impacted my reading of the \"why should anyone get to skip that line?\" comment.  ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "This type of language about \"who our country is for\" sounds very similar to the type of rhetoric you would see from extreme right wing forums and people who have nationalistic, anti -immigrant viewpoints, both in the USA and Europe.  I feel that the author manufactures a made up crisis, \"hospitals can't keep up\" and uses that as a justification for the real focus of their comment which is the \"who the country is actually for\" part.  My lived experience is that the health care in my county here in Southern California, a county with a huge number of  low income immigrants has been of a very high quality for my entire life.  There is no connection that I see between hospitals taking care of poor people, people on government assistance, immigrants and not being able to handle the rest of us.\n",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Seeing the phrase 'who this country is actually for' feel like more than just a complaint about hospitals. To me, it seems like the post is targeting immigrants who do not belong to the country. It seems they are not accepting immigrants to their country and treating equally compared to citizens here."
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The way it states who this country is actually for makes you wonder the degree of frustration this person is going through and what anger has brought him/her to say this. He/She is fed up accounting for others, when it should be more prioritized to helping fellow natives more in particular. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post uses emotionally charged language: “Our hospitals can’t keep up” and “who this country is actually for.” This framing suggests that certain groups (likely immigrants or marginalized communities) are straining public resources and questions their belonging. While it doesn’t explicitly name a group, the implication is exclusionary, which can be harmful. At the same time, someone could interpret it as a general policy frustration about healthcare capacity. The ambiguity lies in whether the statement is a critique of systemic issues or a veiled attack on immigrants. The lack of specificity makes it deniable, but the phrasing strongly hints at targeting outsiders."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "I feel that this comment is a fair expression of a person's belief.  It does not feel angry and it does not feel like the person is targeting any immigrant community, rather it feels like a person having a discussion with a non immigrant online about the topic of immigration.  I do not see this comment as being in bad faith because my mother,  who came to this country on a green card with my grandma in the late 60s, got her citizenship in 1986 and I was there with her and could see how proud and happy it made her.  In a perfect world every body would wait their turn but sometimes the situation in the home country is so dire, so dangerous and the poverty so extreme that people have to risk everything to provide a better life for their kid.  I am not offended by this post however.  ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "This person was speaking about their grandparents entering the country legally. They are asking why an immigrant should come in either legally or illegally after their parents went the respectable route and came in the country of the united states of america legally. I can understand both sides of the situation"
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "If immigrants came in legally, then i do not agree with the bodies in charge to with   hold anything that is due to them. I believe their case should be looked into and not totally ignored for that long period of time. Besides, they are elderly people, so  why the delay? Their case should b attended too as soon as possible"
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The post raises a concern of fairness comparing legal immigration processes with people who skip the line. Some readers may or may not read it as criticism towards the immigration policies rather than hate towards immigrants or refugees. However, some people could see it as targetting new immigrants or refugees negatively.  The word is not direct and could leave room for either interpretations. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "My degree is in Economics.  This is basic economics theory and is completely factual.  The way the comment is written, there is nothing in my lived experience or beliefs that would react negatively to this comment because it just seems analytical and not emotional or angry or hateful.  The comment seems more intellectual and more like someone discussing a specific economic question or policy as opposed to an attack on immigrants or any other marginalized group. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This seems to  go against the government and immigrants. A lot of Canadians are complaining that their kids or themselves can't get a good job to support their families. Government is bringing a lor of unskilled individuals who take the jobs by supporting their own, certain communities. There are no jobs, service is bad. "
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "Again, this post is a bit ambiguous. Economically, it could indeed be true - when demand decreases, wages naturally go down. The question is once again in intention. Why did the user feel the need to post this? Who exactly are they claiming to be flooding the larbour market? Like the last post, I interpreted it negatively, but this is up to interpretation. Someone working in economics might see it differently, as simply a fact rather than a harmful post. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal.But in fact, not all immigration processes are very long, and it is not necessary for a process to be long in order to be legal."
+        }
+      ]
+    }
+  ]
+}

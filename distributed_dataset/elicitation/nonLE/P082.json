@@ -1,0 +1,243 @@
+{
+  "participant_id": "P082",
+  "created_at": "2026-05-12T02:33:16.953881",
+  "scenario_id": "A",
+  "connection_type": "I'm an interested observer — no direct personal connection",
+  "duration": "10 years",
+  "disclosure_text": "I live in Florida, so I have meet lots of friends who are immigrants or decedents of them so I feel somewhat strongly when I hear lots of negative things about them.",
+  "micronarrative": "I've always been pretty supportive of immigrants, but I feel a bit disconnected from both the pro-immigrant and anti-immigrant groups. On one hand, I believe in having strong borders and enforcing the law, but on the other, I think the path to citizenship should be streamlined and easy for those who have been here for a while. I find myself feeling out of place in both camps, even though I disagree more with the anti-immigrant stance. So, I tend to keep my head down and avoid getting too involved.\n\nI also think it’s a good policy to not let people into the country as citizens if they have committed felonies in their home country. There could be rare exceptions, but it would be a much harder process. I try to balance my personal beliefs with compassion. I can’t really think of a situation where supporting strong borders and being compassionate towards immigrants would come into conflict. If someone does something wrong, they should be punished, whether it’s through a fine or just being put at the bottom of a list.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "I am pretty pro immigrant but feel very disconnected from groups who say things like no \"one is illegal\" I think a good at strong border is good, but I also think the path to citizenship should be pretty streamlined and easy. I end up feeling disconnected to both groups, even though I disagree with the anti more than pro immigrant side, so I keep my head down."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about why you feel disconnected from the \"no one is illegal\" group? Is there a specific experience or belief that influences this feeling?"
+    },
+    {
+      "role": "user",
+      "content": "I think it is a good policy to not let people into the country as citizens, who commit felonies in their original country. I think there can be rare cases where we let them in but it would be way more of a hard process to go through."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a time when you had to navigate different language or communication styles in a similar situation? How did that affect your interactions?"
+    },
+    {
+      "role": "user",
+      "content": "can you re ask the question in a different way please"
+    },
+    {
+      "role": "assistant",
+      "content": "Sure, how about this: Can you recall a situation where you had to balance strict border policies with the idea of fair treatment for immigrants? How did you handle that?"
+    },
+    {
+      "role": "user",
+      "content": "Not really I haven't. I feel like those can go hand in hand, I don't see them as being opposed to each other. I think it's very easy to support a strong border, yet getting a very streamline easy for any illegal immigrant who has been hear for lets say a year."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you think of a time when you had to make a personal decision that involved balancing strict policies with compassionate actions? How did that experience shape your views?"
+    },
+    {
+      "role": "user",
+      "content": "I always try to balance my personal decisions with being compassionate, I can't really think of a situation where they came at odds. If someone commits a crime or do a wrong it should be punished of some sorts, be it a fine or just being put on a bottom of a list."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a memory where you had to make a decision that involved balancing strict rules with compassionate actions, even if it was just a small everyday decision? How did that feel?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "When somebody starts talking about who this country is really for, it in my opinion calls question into their motives. I think this person cares more about foreign people in his country, he/she is just using the hospital for an attack. I believe he already has the position they dislike immigrants and just using this to justify this more.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T02:46:07.007053",
+      "timestamp_end": "2026-05-12T02:48:54.505534",
+      "seconds_on_item": 167
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I would say this person is trying their best to stay as ambiguous as possible, but is secretly or not so secretly trying to push a hateful agenda against immigrants.  My experience with people who use language like this usually get more extreme the more they open up on their thoughts.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-12T02:48:54.699099",
+      "timestamp_end": "2026-05-12T02:51:32.779379",
+      "seconds_on_item": 158
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "These are always targeted at immigrants, if the person really cared he would be fully focusing his energy at the people hiring them and not the immigrants. If there was no strong pull of work I doubt their would be any big immigration pulls, but there is  a relationship between cheap labor and wanting to hire it. I feel like comments like this add nothing to the conversation and is just used as an attack.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T02:51:32.976530",
+      "timestamp_end": "2026-05-12T02:54:35.493186",
+      "seconds_on_item": 182
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "What does that even mean? If you own a house, there should only be limited new buildings and people who move in for all of eternity? This is usually a way to push an agenda you don't want different color people in your hometown but you are to scared to say it. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T02:54:35.687564",
+      "timestamp_end": "2026-05-12T02:56:36.176016",
+      "seconds_on_item": 120
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Who is choosing this? This a clear attack claiming their is some global elite group, usually it involves conspiracies of wanting a white geocide. I think this a harmful statement trying to push people to be more extreme by saying some group or people want to kill you, so you should fight back. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T02:56:36.363452",
+      "timestamp_end": "2026-05-12T02:58:59.202956",
+      "seconds_on_item": 142
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I think there are some valid arguments you could make about this, but from what I see most people try to use the people in the middle to give their more extreme views more validity. I don't think chain immigration happens that much, but it usually become I don't want illegals to I don't want even legal immigrants quickly.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T02:58:59.425158",
+      "timestamp_end": "2026-05-12T03:01:06.649072",
+      "seconds_on_item": 127
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "When is the cut off for a people being distinct? Europe for example has had many wars and changes of people amongst countries so when do you pick what year a German can be officially German or etc. I feel like when we look at in that context people will accept it is very vague, but now they can give off a very good deadline on who is who. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T03:01:06.875213",
+      "timestamp_end": "2026-05-12T03:04:12.932848",
+      "seconds_on_item": 186
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I don't think the average is in deep poverty in their own country, if they were they would probably never have a chance to actually do it, because it actually does cost money to move to a new area and start a whole new life. I think it is a fantasy to think homeless men are somehow managing to someone moved what can be 1000s of miles with no money or anything.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-12T03:04:13.126445",
+      "timestamp_end": "2026-05-12T03:06:57.460348",
+      "seconds_on_item": 164
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "It is odd that we like to call western countries the best, but then we like to complain that it is so good everyone wants to come here and enjoy the prosperity.  These people want to be the best countries and only have what they think is positive, but can't fathom any negatives would come from it.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-12T03:06:57.647393",
+      "timestamp_end": "2026-05-12T03:09:26.359367",
+      "seconds_on_item": 148
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "I am guessing a lot on this one, I think this is a purely anti establishment attack that goes back to some secret cabal controlling the world. I think it's a way to try to radicalize people by convincing them there is so danger or harm directed at them. I think it's a way to push people harder to their side.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-12T03:09:26.549206",
+      "timestamp_end": "2026-05-12T03:12:39.422138",
+      "seconds_on_item": 192
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-12T03:16:10.486530",
+  "prolific_pid": "P082",
+  "consented_at": "2026-05-12T02:33:16.953921",
+  "reflexivity_response": "I think I have spent a lot of time online, on things like twitter or other online political spaces. I think people tend to be more radical online, yet there is a big group of people who act like they are in the center but hold stronger thoughts. My brain sees a lot of these statements as someone who is trying not to say their true thoughts, but are trying to pull people who are in the middle and get them farther on them side by seeming more reasonable. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "my_rationale": "When somebody starts talking about who this country is really for, it in my opinion calls question into their motives. I think this person cares more about foreign people in his country, he/she is just using the hospital for an attack. I believe he already has the position they dislike immigrants and just using this to justify this more.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I feel like this post makes it seem like some people are more worthy of health care than others, it just doesn't specify exactly who, which leaves the door open for denying actually targeting a specific group. It's still divisive language though. Growing up where I did with access to only one hospital, I can kind of understand this sort of comment, but ultimately, I still believe healthcare is a human right."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The problem is a perceived lack of resources, and the proposed answer is to eliminate outside competition, which makes me think this is aimed at immigrants. I think everyone deserves equal opportunities and I think the default logical response would be more along the lines of increasing service levels to meet demand."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "my identity and beliefs, values played  a role . growing up in a diverse community may have made me more understanding towards people from different background. also being aware of issues of housing ,shortages .my values around fairness , respect and empathy evolved during my transition period living here and navigating life all alone with my family."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "I would say this person is trying their best to stay as ambiguous as possible, but is secretly or not so secretly trying to push a hateful agenda against immigrants.  My experience with people who use language like this usually get more extreme the more they open up on their thoughts.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "The core of this language is very much I got mine, so you don't get any, or something akin to pulling the ladder up behind you. It very much ignores the advances in technology that have happened in the past 80 years since their grandparents were immigrants, and it ignores the significantly more globalized society of today."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This asks a legitimate question and ultimately brings up the issue of outdated and vague immigration policies. I feel like a comment like this makes it less about race, which is important in this context. Most of the time I hear arguments like this though, it's about Mexicans here in California, who have more of a right to this specific land than I do, so it kind of depends. "
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The phrase skip the line shaped my judgement because it frames immigration as unfair rule \nbreaking rather than a complex situation. The emphasis on came here legally highlights fairness, patience, and respect for process. My views on equality, empathy, and awareness of different migration experiences influenced how I interpreted the post and its emotional tone."
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "These are always targeted at immigrants, if the person really cared he would be fully focusing his energy at the people hiring them and not the immigrants. If there was no strong pull of work I doubt their would be any big immigration pulls, but there is  a relationship between cheap labor and wanting to hire it. I feel like comments like this add nothing to the conversation and is just used as an attack.",
+      "others_count": 2,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is much less obviously intended to hurt a specific group, and could be used in the broader category to target anyone that's trying to argue against efficient wage growth. In my field, about 10 years ago, it's the language they were using to talk about pharmacists. Of course you don't get a pay raise, we can replace you at any time with 15 others just like you."
+        },
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This shaped my judgemnt because it present immigration as overwhelming and economically harmful shaped my judgement because it presents immigration as overwhelming and economically harmful. The phrase economics doesn’t care about feelings frames the issue as purely factual and dismisses emotional or humanitarian perspectives. My beliefs about fairness, economic opportunity, and empathy influenced how I interpreted the tone and underlying message of the post."
+        }
+      ]
+    }
+  ]
+}

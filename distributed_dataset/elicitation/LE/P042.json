@@ -1,0 +1,183 @@
+{
+  "participant_id": "P042",
+  "created_at": "2026-05-16T03:14:00.454929",
+  "scenario_id": "C",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "14 years",
+  "disclosure_text": "I grew up in Lagos, Nigeria and only moved to Canada when I was 17. I am 31 now and i had to go through the process of being on a study visa/permit, to a post graduate work permit, to a permanent resident and finally to a canadian citizen.",
+  "micronarrative": "There was a time at my workplace where I was told as an international student, I was only allowed to work 20 hours per week. This was odd because as an international student, we needed the money the most to pay our fees. It made me feel helpless and distraught. I had to fight for the 20 hours to make sure I made as much money as possible.\n\nI had a conversation with my manager where I expressed my displeasure to him. He made me understand that there was nothing he could do and that the decision had come from above him from Immigration Canada. I didn't feel great at all. I took it in good faith because, in all honesty, I saw it coming. I tried to corner him, but he wouldn't budge. The tension was palpable, and it felt like the discrimination against international students was being ignored, even in my own workplace.\n\nThe professor's interest in these issues is intriguing. Not because of the opinion itself, but because of the catalytic role they play. A single public statement exposes tensions that were already there beneath the surface. It's a reminder that these issues are not just about individual experiences but part of a broader narrative of systemic discrimination and the need for change.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there a moment, a feeling, or a person in it you find yourself drawn to?"
+    },
+    {
+      "role": "user",
+      "content": " Some students feel discrimination against them has historically been ignored. The professor is interesting too, not necessarily because of the opinion itself, but because of the catalytic role they play. A single public statement exposes tensions that were already there beneath the surface."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me about a time when a public statement or event exposed tensions within your community or workplace that were already simmering?"
+    },
+    {
+      "role": "user",
+      "content": "there was a time at my workplace where i was told as an international student, i was only allowed to work 20 hours per week. this was odd because as an international student, we needed the money the most to pay our fees."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share more about how that experience made you feel, and how you navigated that situation linguistically or through code-switching?"
+    },
+    {
+      "role": "user",
+      "content": "it made me feel helpless and distraught. i had to fight for the 20 hours to make sure i made as much money as possible."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe a specific conversation or interaction where you had to navigate this situation linguistically or through code-switching?"
+    },
+    {
+      "role": "user",
+      "content": "i had a conversation with my manager where i expressed my displeasure to him. he made me understand that there was nothing he could do and that the decision had come from above him from the immigration canada."
+    },
+    {
+      "role": "assistant",
+      "content": "How did you feel during that conversation, and how did you prepare for it? Did you use any particular strategies or words to convey your feelings and needs?"
+    },
+    {
+      "role": "user",
+      "content": "i did not feel great at all. i took it in good faith because in all honesty, i saw it coming. i tried to corner him but he wouldn't bulge."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you recall any specific phrases or ways of speaking you used during that conversation to try to advocate for yourself? How did you feel after the conversation ended?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "C01",
+      "domain": "GEN",
+      "tweet_text": "I believe women. I also believe due process. These shouldn't be mutually exclusive.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "the fact that the writer was direct and said he believes women. this is something i agree with and something i too would say. he framed it without judgement or picking sides. no aspects of my identity, beliefs, values, or lived experience affect how i understood the post. i also believe in due process as i am a straightforward person.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-16T03:25:17.273295",
+      "timestamp_end": "2026-05-16T03:29:19.108288",
+      "seconds_on_item": 241
+    },
+    {
+      "datapoint_id": "C02",
+      "domain": "GEN",
+      "tweet_text": "Calling everything a 'microaggression' doesn't empower women. It treats them like they can't handle everyday life.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I feel like this post or comment is very provocative. microaggression can appear in various forms and shapes and saying everything is microaggression is wrong. women are capable of handling the intricacies of life and they need to be given the benefit of the doubt. I have had women show me microagression but i have never really taken it personally as most times, these women don't even know they are being microaggressive.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-16T03:29:19.295672",
+      "timestamp_end": "2026-05-16T03:34:02.095826",
+      "seconds_on_item": 282
+    },
+    {
+      "datapoint_id": "C03",
+      "domain": "GEN",
+      "tweet_text": "There are two genders. I'm sorry if that's hurtful, but being hurtful isn't the same as being wrong.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "This comment may piss a couple of people off. we live in a more open world now and comments like these cannot be made out loud even if those are your thoughts. there are more constructive ways to pass across your point without hurting other people. the LGBTQ+ community will definitely not appreciate this comment.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-16T03:34:02.633404",
+      "timestamp_end": "2026-05-16T03:36:24.631036",
+      "seconds_on_item": 141
+    },
+    {
+      "datapoint_id": "C04",
+      "domain": "GEN",
+      "tweet_text": "If gender is a social construct, then so is the wage gap. You can't have it both ways.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "gender is not a social construct in my opinion. when god made humans, he made man and then he made woman. likewise for animals, there was male and then there was female. the wage gap between men and women though i believe is a social construct because it was something created by humans. i don't believe there should be a gender wage gap in the work environment.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-16T03:36:24.852543",
+      "timestamp_end": "2026-05-16T03:38:41.193027",
+      "seconds_on_item": 136
+    },
+    {
+      "datapoint_id": "C05",
+      "domain": "GEN",
+      "tweet_text": "Women's sports existed to give women a fair playing field. That's it. That's the whole point.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "I agree with this because research has shown that when men compete in women's sport, they seem to show an unfair advantage. but when women compete in men's sports, they do not appear to have any advantage. knowing that, i believe there should be a clear distinction between women and men sports.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-16T03:38:41.415050",
+      "timestamp_end": "2026-05-16T03:41:29.411617",
+      "seconds_on_item": 167
+    },
+    {
+      "datapoint_id": "C06",
+      "domain": "GEN",
+      "tweet_text": "Men aren't broken women. Treating masculinity as a pathology isn't progressivism, it's prejudice with better vocabulary.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "it is obvious that men are not broken women. i doubt anyone in their right minds will ever say this. masculinity should never be treated as a pathology because that is not progressivism at all, that is actually regression. i believe that men are whole in their own sense. there is no need to mince words.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-16T03:41:29.594706",
+      "timestamp_end": "2026-05-16T03:44:36.643073",
+      "seconds_on_item": 187
+    },
+    {
+      "datapoint_id": "C07",
+      "domain": "INT",
+      "tweet_text": "When a working-class white man loses a job to a diversity hire, he's not allowed to be angry. That anger has to go somewhere.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "this issue cuts across gender and race. saying this in public would be dimmed harmful because it is wrong for a working-class person whether white or black or hispanic or asian to lose their job because of a diversity hire. him being angry if he does is warranted and should not be shoved under the rug.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-16T03:44:36.813033",
+      "timestamp_end": "2026-05-16T03:46:45.042245",
+      "seconds_on_item": 128
+    },
+    {
+      "datapoint_id": "C08",
+      "domain": "INT",
+      "tweet_text": "Intersectionality is just a hierarchy that puts some victims above others. It's oppression with extra steps.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "The phrase “oppression with extra steps” is rhetorical shorthand. It suggests that instead of reducing social divisions, intersectional thinking may multiply them by continually subdividing people into categories. Whether someone sees the framework as clarifying or fragmenting often depends on: how it is applied institutionally, whether it leaves room for shared identity and common ground, and whether it’s used analytically versus morally.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-16T03:46:45.232923",
+      "timestamp_end": "2026-05-16T03:48:41.317554",
+      "seconds_on_item": 116
+    },
+    {
+      "datapoint_id": "C09",
+      "domain": "INT",
+      "tweet_text": "First-generation immigrant women are often the most opposed to feminism. Nobody ever asks them why.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "this is typically true from my own life experiences. this may be because they are used to patriarchy because this was what they have grown up knowing. their kids and grandkids do not have to worry about this especially when the immigration is from a third world country to a first world country. they have less to worry about.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-16T03:48:41.517899",
+      "timestamp_end": "2026-05-16T03:50:59.537746",
+      "seconds_on_item": 138
+    },
+    {
+      "datapoint_id": "C10",
+      "domain": "INT",
+      "tweet_text": "We have a word for communities where women can't leave the house without permission. We're just not allowed to use it anymore.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "this is an interesting concept because i have always found it weird why there are certain communities like this. people have used religion to commit lots of atrocities and this is one of them i have never really agreed with. i am glad that there are lots of communities in the world where this practice has started being abolished.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-16T03:50:59.717426",
+      "timestamp_end": "2026-05-16T03:53:04.543551",
+      "seconds_on_item": 124
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-16T03:55:21.989016",
+  "prolific_pid": "P042",
+  "consented_at": "2026-05-16T03:14:00.454962",
+  "reflexivity_response": "Some people feel intersectional discourse creates an informal ranking system where certain identities are treated as more morally authoritative or more deserving of sympathy. Others feel it can encourage people to see themselves primarily through categories of disadvantage. Critics sometimes argue that institutions applying intersectional ideas may unintentionally reduce individuals to demographic traits rather than treating them as individuals. I have an immigrant background and going through the process of legal immigration and not illegal has shaped my values. I believe legal immigration is the way to go.",
+  "reflexivity_cards_shown": []
+}

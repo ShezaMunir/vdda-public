@@ -1,0 +1,247 @@
+{
+  "participant_id": "P073",
+  "created_at": "2026-07-31T13:00:12.458626",
+  "scenario_id": "B",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "my whole life",
+  "disclosure_text": "I am an immigrant that came from Vietnam. I have lived in the US for 31 years. ",
+  "micronarrative": "What stands out to me first is the reaction of the local figure. What resonates with me personally is the coalition of neighborhood residents doing a \"buy-out.\" That's a very cool act. I would have joined to buy the pastries as well if this happened in my local community. Last weekend, there was a peaceful protest about immigration in my community while I was driving by. I thought it was very interesting. The specific language or slogans were appropriate; it's just a reminder that our country was built based on immigrations. It is very similar compared to the everyday speech I hear in my neighborhood. The economic realities of local businesses like the bakery and shared linguistic familiarity are very much the same: we should be free to express our opinions in a peaceful way. My own experience of being perceived by others influenced a great deal how I interpret the hostility directed at the bakery, and that is as long as we do is legal, it shouldn't bother others.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something that resonates personally, or something that feels uncomfortable or foreign?"
+    },
+    {
+      "role": "user",
+      "content": "what stands out to me first is the reaction of the local figure What resonates me personally is the coalition of neighborhood residents did a \"buy-out\". That's a very cool act. I would have joined to buy the pastries as well if this happened in my local community"
+    },
+    {
+      "role": "assistant",
+      "content": "When you say you would have joined that buy-out, what specific memories of your own community or neighborhood make that act of solidarity feel like a natural response for you?"
+    },
+    {
+      "role": "user",
+      "content": "the memories of my own community was last weekend, there was a peaceful protest with the subject of immigration in my community while I was driving by. I thought it was very interesting"
+    },
+    {
+      "role": "assistant",
+      "content": "When you observed that protest, did you notice the specific language or slogans used by the participants, and how did that compare to the everyday speech you hear in your neighborhood?"
+    },
+    {
+      "role": "user",
+      "content": "the specific language or slogans were appropriate, it's just a reminder that our country was built based on immigrations. It is very similar compare to the everyday speech I hear in my neighborhood "
+    },
+    {
+      "role": "assistant",
+      "content": "How does that shared linguistic familiarity in your neighborhood translate into the economic realities of the local businesses, like the bakery in the scenario?"
+    },
+    {
+      "role": "user",
+      "content": "the economic realities of the local businesses like the bakery in the scenario and the shared linguistic familiarity is very much the same, we should be free to express our opinions in a peaceful way "
+    },
+    {
+      "role": "assistant",
+      "content": "How does your own experience of being perceived or categorized by others in public spaces influence how you interpret the hostility directed at the bakery?"
+    },
+    {
+      "role": "user",
+      "content": "My own experience of being perceived by others influenced a great deal how I interpret the hostility directly at the bakery and that is as long as we do is legal, it shouldn't bother others"
+    },
+    {
+      "role": "assistant",
+      "content": "How does your physical or cognitive experience of navigating public spaces, like a crowded bakery line, shape your understanding of who might be excluded from that act of solidarity?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "B01",
+      "domain": "REL",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "The person from the post just expressed their observation about religious freedom. I personally feel that they have the right to do it. However, they stated \"some belief systems just aren't compatible with liberal democracy\" is very interesting because someone's belief systems should not matched with liberal democracy based on where they came from.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:13:05.558892",
+      "timestamp_end": "2026-07-31T13:18:18.914809",
+      "seconds_on_item": 313
+    },
+    {
+      "datapoint_id": "B02",
+      "domain": "REL",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "the personal who wrote the post is being very sarcastic about how faith being blended in the schools. The word \"dietary\" was very interesting choice. It made me think of food vs. faith. Their statement \"at some point you have to ask whose schools those are\" is a little harsh because the schools are diverse and full of students from different background.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:18:19.098450",
+      "timestamp_end": "2026-07-31T13:22:18.163675",
+      "seconds_on_item": 239
+    },
+    {
+      "datapoint_id": "B03",
+      "domain": "REL",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "The person who wrote the post just expressed their opinion about people have different religions. I feel that their opinion is valid. I agree that if your praying is excessive and affecting workplace schedules for everyone else then a solution must be done so that it doesn't affect the workplace in general. ",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-07-31T13:22:18.351246",
+      "timestamp_end": "2026-07-31T13:26:00.391841",
+      "seconds_on_item": 222
+    },
+    {
+      "datapoint_id": "B04",
+      "domain": "REL",
+      "tweet_text": "There's a reason the Enlightenment happened in one part of the world and not others. That's not racism, it's history.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "A religious community",
+      "rationale": "the persona who wrote the post has a valid point. I am from a religion that strongly believe in Enlightenment and I feel that not everyone will believe it and that's okay. We can't spread the religious belief to others just because we live in a different environment than where we were before. ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T13:26:00.573561",
+      "timestamp_end": "2026-07-31T13:28:55.553124",
+      "seconds_on_item": 174
+    },
+    {
+      "datapoint_id": "B05",
+      "domain": "REL",
+      "tweet_text": "If a Christian baker refusing a gay wedding is front-page news, why isn't a halal butcher refusing to serve a non-Muslim customer?",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A religious community",
+      "rationale": "the person who wrote the post is very interesting. They seemed to compare different religions with personal gender at the first statement. In the second statement, they compared a personal belief to a non-religious person. I feel that the comparison is not valid at all. It's very interest how they came up with this post.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T13:28:55.733491",
+      "timestamp_end": "2026-07-31T13:32:41.776145",
+      "seconds_on_item": 226
+    },
+    {
+      "datapoint_id": "B06",
+      "domain": "REL",
+      "tweet_text": "Secularism means no religion gets special status. That includes the ones progressives have decided are beyond criticism.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "the person who wrote the post was expressing their personal belief. It's interesting that in the second statement they mentioned about \"progressives\" that has nothing to do with religion. This is an interesting post that I need to do more research on to have a valid expression so that I won't be bias. ",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-07-31T13:32:41.955504",
+      "timestamp_end": "2026-07-31T13:36:14.583111",
+      "seconds_on_item": 212
+    },
+    {
+      "datapoint_id": "B07",
+      "domain": "INT",
+      "tweet_text": "Immigrant communities often hold the most conservative views on gender. The left just doesn't want to say that out loud.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "the person who wrote the post stated that immigrant communities hold the most conservative views on gender which I thought is very interesting. They are not being fair to state \"the left\" because it makes readers feel like the democrats allow this behavior which I don't think is the case at all ",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-07-31T13:36:14.773335",
+      "timestamp_end": "2026-07-31T13:39:43.579184",
+      "seconds_on_item": 208
+    },
+    {
+      "datapoint_id": "B08",
+      "domain": "INT",
+      "tweet_text": "Gay rights were won by fighting religious conservatism. Now we're importing more of it and calling it diversity.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A gender or LGBTQ+ community",
+      "rationale": "The person who wrote the post targeted the LGBTQ community in a very interesting way. The second statement  using the word \"importing\" is very funny. They have very interesting label between gay rights and \"diversity\" because diversity means more than just \"gay rights\". I feel by posting this statement, it might not be cleared to the readers. ",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-07-31T13:39:43.763063",
+      "timestamp_end": "2026-07-31T13:43:41.505894",
+      "seconds_on_item": 237
+    },
+    {
+      "datapoint_id": "B09",
+      "domain": "INT",
+      "tweet_text": "Female genital mutilation is illegal here. Calling attention to where it's practiced is not Islamophobia.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "A religious community",
+      "rationale": "The person who wrote the post is very extreme to make this statement.  This statement targets a religious group unnecessary. It's interesting how they compare \"female genital\" to Islam religion. I need to research more about this topic since this is my first time reading this and the statement doesn't make any sense to me. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T13:43:41.690029",
+      "timestamp_end": "2026-07-31T13:47:33.820201",
+      "seconds_on_item": 232
+    },
+    {
+      "datapoint_id": "B10",
+      "domain": "INT",
+      "tweet_text": "The same activists who say believe all women go very quiet when the accused is from a protected group.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "the person who wrote this statement is very gender discriminated and made a statement that would harm most readers especially female readers. \"The accused is from a protected group\" shouldn't have anything to do with the women being quiet at all. It's very interesting post and again I need to do more research on this subject. ",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-07-31T13:47:34.000640",
+      "timestamp_end": "2026-07-31T13:51:02.470479",
+      "seconds_on_item": 208
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-07-31T13:55:11.345154",
+  "prolific_pid": "P073",
+  "consented_at": "2026-07-31T13:00:12.458649",
+  "reflexivity_response": "Looking at the posts an rationales above, where m reading differed from others, I can say that my background, experiences, or values are not the same with the posts at all. I am Buddhist and I personally believe that we should live with compassion, love and respect people the way we want to be loved and respected. It's a blessing that my experiences have been positive. I am glad I have not ran into these posts personally because it is not something I want to be involved with. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "B01",
+      "tweet_text": "I support religious freedom, but some belief systems just aren't compatible with liberal democracy. That's not bigotry, it's observation.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The person from the post just expressed their observation about religious freedom. I personally feel that they have the right to do it. However, they stated \"some belief systems just aren't compatible with liberal democracy\" is very interesting because someone's belief systems should not matched with liberal democracy based on where they came from.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The poster specifically instances religious freedom and then goes on to say that it can conflict with liberal democracy.   This is classic xenophobia.  While some religious sects call for canon or sharia law, they are a small minority of the larger group and such things are unconstitutional in Canada anyhow.  Clearly the poster fears those different from themselves and is using an inaccurate example to justify that fear.  My own liberal education in addition to experience with many cultures shapes my response."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "The post state it's observation about some belief systems which is what the writer observes base on his/her findings. It's not targeted to anyone because no specific belief was  mentioned and since no belief was mentioned, I don't think it's provocative or harmful to anybody and it's likely more than one belief that the post is referring to"
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "It does seem like there is a possibility that it could be harming depending on what ideology they consider to be a threat to democracy. They stated it was just an observation but again they are not giving any specific examples to be able to form an opinion on what they are speaking about. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B02",
+      "tweet_text": "We accommodate every faith's dietary rules in schools now. At some point you have to ask whose schools these are.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "the personal who wrote the post is being very sarcastic about how faith being blended in the schools. The word \"dietary\" was very interesting choice. It made me think of food vs. faith. Their statement \"at some point you have to ask whose schools those are\" is a little harsh because the schools are diverse and full of students from different background.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "The post is denouncing special dietary accomodations made to students of religious communities such as islam or judaism. The overall tone conveys a sense of feeling like losing one's community, being replaced by others. There is no threat or harm, but there is closeness to allowing accommodations for specific groups. These accommodations are framed as bad."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "This post is harmful as it poses accommodation for dietary needs as a negative, when it is a dietary restriction like any other. It seems directed to those who make the decisions and the people who are part of the religious groups that they feel force the schools to accommodate them. "
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Accommodating every faith's dietary rules clearly shows the post is directed at multiple overlapping people with likely common background but different faith. The statement clearly point out that everyone with all sort of faiths are welcome and not particular to a certain people's faiths and the school welcomes different groups with different faith"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "B03",
+      "tweet_text": "I have no problem with people praying five times a day. I do have a problem when it starts affecting workplace schedules for everyone else.",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "The person who wrote the post just expressed their opinion about people have different religions. I feel that their opinion is valid. I agree that if your praying is excessive and affecting workplace schedules for everyone else then a solution must be done so that it doesn't affect the workplace in general. ",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "the post expresses a personal opinion about balancing religious practices and workplace schedules... it also acknowledges that people have the right to pray but raises a concern about how accommodations may affect others... the wording does not attack a specific religion or goup... but it focuses more on workplace rules and fairness rather than targeting individuals..."
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "Yeah I would say this post is likely harmful. Again this is quite vague, but it is still marginalizing a group of people and categorizing the \"other religions\" into something they don't want to see or hear about.  I don't like it as it just seems to be placing the blame on the religious people."
+        },
+        {
+          "label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+          "rationale": "It was definitely targeting a specific religious group although they initially seemed to be accepting of their prayer times.  It is directly targeting Muslim people who have scheduled prayer times. There may only be two prayer times that would affect a work schedule but typically jobs provide two breaks and a lunch break.\n"
+        }
+      ]
+    }
+  ]
+}

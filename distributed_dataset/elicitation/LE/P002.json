@@ -1,0 +1,247 @@
+{
+  "participant_id": "P002",
+  "created_at": "2026-05-22T21:45:44.973821",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "My whole life",
+  "disclosure_text": "As a person of colour, it's always been evident to me that I'm different from others in my community. Sometimes it's hard to feel a sense of belonging though it's getting better somewhat.",
+  "micronarrative": "The city buzzes with a palpable tension, a heated engagement that seems to permeate every corner. I understand the desire to help undocumented migrants, but I also see the need to support our own community. The homeless population in my city is vast, and it's hard to navigate the complex emotions and needs of both groups. I feel torn, understanding the struggles of undocumented migrants while also feeling a deep empathy for those who are already part of our community.\n\nI decided to volunteer at a homeless shelter and a refugee center, hoping to make a difference. Communication can be a challenge, especially when languages differ. Simple terms often help, and using hand gestures can bridge the gap. Google Translate has become my trusty ally, helping me navigate the different languages and ensuring that I can understand and be understood. Each time I use it, I feel a sense of connection and a small victory in bridging these divides.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "The first thing that stands out to me is that there's a heated engagement happening, that's affecting everyone in the city. In a way, I understand the wanting to help undocumented migrants in my city as well but at the same time, there are so many local, homeless individuals that also need our help. I feel similarly in wanting to help both sides."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about a time when you felt torn between helping different groups in your community? How did you navigate that situation?"
+    },
+    {
+      "role": "user",
+      "content": "I feel torn between understanding the issues with undocumented migrants and I feel for them but I also feel the need to help our own first. It's hard to navigate this situation as sometimes, the unhoused don't seem to want the help either."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific instance where you tried to help both undocumented migrants and the unhoused in your community? How did you approach the situation, and what challenges did you face?"
+    },
+    {
+      "role": "user",
+      "content": "I chose to volunteer at a homeless shelter and at a refugee centre to help as much as possible. "
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about how you navigate different languages or dialects when you volunteer at the homeless shelter and the refugee centre? Do you find that you switch between languages or use certain phrases more often in one setting compared to the other?"
+    },
+    {
+      "role": "user",
+      "content": "Speaking in simple terms helped and using hand gestures also helps. Using Google translate to help in navigating the different languages is super helpful."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you share a specific experience where using Google Translate or simple terms helped you bridge a communication gap during your volunteer work? How did that interaction make you feel, and what did you learn from it?"
+    },
+    {
+      "role": "user",
+      "content": "I've used Google translate on many occasions to help communicate during my volunteer work. It made me feel good knowing I'm able to understand others and they understanding me."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me about a time when you used Google Translate during your volunteer work and how it affected the interaction? Did you notice any particular challenges or successes in that moment?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "I'm not really a religious person but am highly spiritual - I feel that we are all connected in some way. I often feel for others and am always wanting to help others where I can, as much as I can.  What shaped my judgment was seeing how everyone needs help and it shouldn't be choosing a side over another but rather, finding opportunities to help others out whenever possible.\n\nIf everyone can drop aside all religions and think of the good for all, we would be living in a much more peaceful society. I highly value speaking good words, thinking good thoughts and doing good deeds and it's what I continue to embody in my daily life.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T21:52:52.590424",
+      "timestamp_end": "2026-05-22T21:57:09.878833",
+      "seconds_on_item": 257
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "My rationale is that the post is clearly directing it at individuals who get to bypass the official channels to get permanent residency or becoming a citizen. The post states their grandparents came legally and had to wait their turn, indicating it took some time before they were recognized with status.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:57:10.090722",
+      "timestamp_end": "2026-05-22T21:59:14.972987",
+      "seconds_on_item": 124
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "It seems to me that this post is targeting individuals who have come to the country and taking our jobs. To me, it's a bit harmful because it seems targeted to certain ethnic groups even if they are here honestly. As mentioned previously, I highly value doing good and thinking of the greater good and it's harmful as this post could affect others' judgement when it comes to their perspective on immigrants, even if done so legally.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-22T21:59:15.180468",
+      "timestamp_end": "2026-05-22T22:02:21.848531",
+      "seconds_on_item": 186
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "To me, it seems the post is targeting individuals new to the country and over time, changing the demographics of a city. It's saying that their hometown is no longer recognizable and no longer what it once was. I agree that I would want the city to be the same way as when I was growing up and I think it's important though for new immigrants to learn our culture and way of living.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T22:02:22.054258",
+      "timestamp_end": "2026-05-22T22:04:29.674849",
+      "seconds_on_item": 127
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "A specific individual",
+      "rationale": "To me, this post seems to be targeting new immigrants, refugees or undocumented migrants because it's talking about demographic change at a rapid pace and it seems likely the government official running the country. The post also seems to point fingers at someone just letting everyone into the country unchecked.",
+      "positionality_salience": 2,
+      "timestamp_start": "2026-05-22T22:04:29.877313",
+      "timestamp_end": "2026-05-22T22:06:26.800524",
+      "seconds_on_item": 116
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "Although the post may seem like it's talking about a political leader, I feel like it's also talking about the immigrants, refugees and undocumented migrants coming into the country en masse. They use the sentence chain migration turns one visa into fifty, which to me indicates that they're referring to large amounts of people pushing their way into the country.",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-22T22:06:26.987971",
+      "timestamp_end": "2026-05-22T22:08:31.922257",
+      "seconds_on_item": 124
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "In a way, I feel like this post can be read as supremacy for a group over others but also read as every country having their own distinct culture and traditions. But when they added, even European ones I think it leads more to wanting to have diversity within the country but have a same shared culture of the country.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-22T22:08:32.135531",
+      "timestamp_end": "2026-05-22T22:10:15.888470",
+      "seconds_on_item": 103
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "This post seems really harmful to me, in that, they are clearly referring to new immigrants - whether they be legal, refugees, or undocumented migrants. It feels like there's a sense of superiority in the post and how anyone coming into the country is from an impoverished country, when that can't be the case for all individuals.",
+      "positionality_salience": 1,
+      "timestamp_start": "2026-05-22T22:10:16.076971",
+      "timestamp_end": "2026-05-22T22:11:52.803215",
+      "seconds_on_item": 96
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "This seems provocative for sure, as it seems to me it's referring to migrants from all backgrounds. This seems to me, they are particularly targeting racialized groups since they mention \"dissolving their own majorities\", when I think they don't seem to see things from all perspectives of how everyone in North America is a colonizer with the exception of the Indigenous peoples.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T22:11:53.006007",
+      "timestamp_end": "2026-05-22T22:14:32.621133",
+      "seconds_on_item": 159
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "participant_target": "No one — I don't read this as targeting anyone",
+      "rationale": "This post to me seems to be a concern with politicians and the policies they have formed over time. I think that the working class are always the ones to be affected first by any kind of policy before the politicians feel the effects. There's often that saying of \"not in my backyard\" - if it doesn't affect me, it doesn't matter what happens and I think that it can be true in some instances.",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-22T22:14:32.812064",
+      "timestamp_end": "2026-05-22T22:16:33.331454",
+      "seconds_on_item": 120
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-22T22:19:33.667366",
+  "prolific_pid": "P002",
+  "consented_at": "2026-05-22T21:45:44.973865",
+  "reflexivity_response": "I think as a person of colour that has worked with new immigrants and refugees has shaped my rationales and how I read them differently. Having first hand experience of what many people in my community goes through and comparing to my own, which is often vastly different from them makes me think from various perspectives. I often try to think from a broader perspective and not just my own and try not to be biased when annotating the posts. ",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+      "my_rationale": "I'm not really a religious person but am highly spiritual - I feel that we are all connected in some way. I often feel for others and am always wanting to help others where I can, as much as I can.  What shaped my judgment was seeing how everyone needs help and it shouldn't be choosing a side over another but rather, finding opportunities to help others out whenever possible.\n\nIf everyone can drop aside all religions and think of the good for all, we would be living in a much more peaceful society. I highly value speaking good words, thinking good thoughts and doing good deeds and it's what I continue to embody in my daily life.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I  selected this because the post connects overcrowded hospitals with a question about who the country belongs to. This framing is harmful because it subtly blames outsiders for systemic public problems that are out of their control. The  language feels wrong and  It uses clever language to imply that immigrants are the issue. This kind of sentence can make people look at a specific group of people with blame and hostility."
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The country is for its citizens and a hospital asking that says a lot about someone not being a citizen which are new immigrants, visit, student, super and permanent visa holders. On te other hand if the context is given it can be a debate between who is this country serving liberals or conservatives"
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "The line \"who this country is actually for\" could be interpreted as bigoted. It doesn't necessarily call out a specific group, but it does imply that this country is \"for\" one group, and perhaps not another. But it is ultimately ambiguous, with no specific group or population being called out. \n"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "my_rationale": "My rationale is that the post is clearly directing it at individuals who get to bypass the official channels to get permanent residency or becoming a citizen. The post states their grandparents came legally and had to wait their turn, indicating it took some time before they were recognized with status.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Valid argument from a 1st generation American who is just arguing a good point from their perspective.  I totally agree with them as well might I add. Skipping the line because you think you deserve it more than other people is just invalid and arrogant. Tons of people have it worse. People like this can never be satisfied and do not assimilate to our culture. I love that we are diverse, but do it right and legally. "
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "While the post shows a genuine concern, the framing and referencing that their grandparents came legally and waited for years is unnecessary and feels targeting to a specific group of people. It is likely harmful and can cause discomfort to the targeted group. The second part of the post is a genuine concern that due processes need to be followed. "
+        },
+        {
+          "label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "The language is associated with hatred towards people that didnt have the same struggles and got an easy way out and that can sometimes apply to immigrants that are able to enter the country without the same protocals that they specifically faced themselves\nThis is a topic that i here more than others and is very present in todays society"
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "my_rationale": "It seems to me that this post is targeting individuals who have come to the country and taking our jobs. To me, it's a bit harmful because it seems targeted to certain ethnic groups even if they are here honestly. As mentioned previously, I highly value doing good and thinking of the greater good and it's harmful as this post could affect others' judgement when it comes to their perspective on immigrants, even if done so legally.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I labelled this post as not harmful because it presents an argument based on basic economic concepts regarding labour supply an wage rates. While the phrasing is blunt and provocative, it addresses a standard policy debate about the economic impacts of immigration on the workforce. The language does not contain no hateful word or slurs."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I think this person is stating facts. When there is too many people in a labour pool the laws of supply and demand dictate that wages will depress. I don't think this person is saying anything harmful. I think they're likely to lean against mass immigration but that is a reasonable point of view to hold. Immigration numbers should be controlled as to not overwhelm aspects of our economy and society. I think this is strictly policy-related commentary. "
+        },
+        {
+          "label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "I don't know much about how it affects it besides illegal will work for less than an American would and you can pay them under the table so I think it is bad all around, but I am not sure about the minimum wage part if we are being dead honest. "
+        }
+      ]
+    }
+  ]
+}

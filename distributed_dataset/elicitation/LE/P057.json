@@ -1,0 +1,247 @@
+{
+  "participant_id": "P057",
+  "created_at": "2026-05-23T21:33:42.004215",
+  "scenario_id": "A",
+  "connection_type": "I have direct personal experience (as an immigrant, refugee, religious minority, or member of a marginalised group)",
+  "duration": "about 3 years",
+  "disclosure_text": "For the past three years, I have navigated life as an immigrant in Canada. This experience has given me a personal and direct perspective on the challenges of integration, the importance of social belonging, and how issues of identity and safety shape our daily interactions within a new society.",
+  "micronarrative": "I recognize the tension in that scenario acutely—how polarization forces silence even as it demands allegiance. As an immigrant in a multilingual community, I navigate daily the weight of choosing words carefully, adjusting my tone to avoid friction. My professional life has sharpened this instinct: I’ve learned to weigh risks before speaking, to prioritize constructive quiet over disruptive noise. Yet my background also lets me see both sides of that divide—the fear of resource loss, the ache for belonging. I’ve seen friends mute themselves in debates to protect peace, and I’ve done it too. It’s exhausting to code-switch, to hold dual perspectives without full acceptance from either. The grocery store crowd’s silent calculus—safety versus solidarity—mirrors my own internal negotiations. I don’t align fully with any side, but I understand why people clutch their safety nets tightly when survival and compassion feel at odds.",
+  "chat_log": [
+    {
+      "role": "assistant",
+      "content": "Reading through that passage — what stands out to you first? Is there something you connect with on a personal level, or something that feels distant?"
+    },
+    {
+      "role": "user",
+      "content": "What stands out to me most is the palpable tension that forces everyday people into a passive position. As someone who lives in a diverse community, I connect with the feeling of 'keeping my head down'—not necessarily out of indifference, but because such polarized environments often feel unsafe for open dialogue, making it difficult for residents to just go about their daily lives without feeling pressured to take a side."
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned connecting with the residents' need to keep their heads down. Have you ever known someone who felt similarly pressured to stay silent in a public conflict? Or experienced that pressure yourself?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have experienced this kind of pressure firsthand. In my professional and social circles, I have seen how people often choose to remain silent during polarized debates to avoid conflict or social isolation. It’s a common strategy to protect one’s peace, but it definitely creates an environment where meaningful communication and understanding become very difficult."
+    },
+    {
+      "role": "assistant",
+      "content": "In your professional and social circles, do you find yourself shifting how you speak depending on who you’re with—like adjusting your tone, slang, or even which language you use? How does that shape when or how you feel safe to speak up in tense situations?"
+    },
+    {
+      "role": "user",
+      "content": "actually yes, \ni often adjust my tone and language depending on the setting. As someone living in a multilingual and multicultural environment, I find that language choice and communication style significantly impact how I express myself. Being mindful of these nuances often helps me navigate tense situations more effectively, though it sometimes means choosing silence to avoid being misunderstood or triggering unnecessary conflicts"
+    },
+    {
+      "role": "assistant",
+      "content": "How has your work environment shaped your approach to navigating conflicts or tensions—does your role or economic position influence how you decide when to speak up, stay silent, or adjust your communication style?"
+    },
+    {
+      "role": "user",
+      "content": "yes\nmy professional role definitely influences me. I often weigh the risks before speaking up, choosing to listen or strategize my words carefully to remain constructive rather than confrontational in tense situations"
+    },
+    {
+      "role": "assistant",
+      "content": "How does your racial or ethnic identity shape how you interpret the tensions between the groups in the scenario—does it influence which perspectives feel familiar, which feel alien, or how you navigate the pressure to align with one side?"
+    },
+    {
+      "role": "user",
+      "content": "my background as an immigrant makes me keenly aware of both sides of this tension. I can empathize with the desire for community safety, while also deeply understanding the human struggle of those seeking a place to belong. This dual perspective often makes me feel like an observer who understands the complexity of both sides, rather than someone who naturally aligns with either."
+    },
+    {
+      "role": "assistant",
+      "content": "How has your economic position or work-related responsibilities shaped your understanding of the stakes for people in the scenario—does it make certain outcomes feel more urgent or relatable than others?"
+    }
+  ],
+  "annotations": [
+    {
+      "datapoint_id": "A01",
+      "domain": "IMM",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "i label this post as 'ambiguous.' while it addresses a legitimate policy concern regarding the capacity of public infrastructure like hospitals, the framing specifically the question 'who this country is actually for' can be interpreted in two ways. From one perspective, it is an expression of frustration over failing public services. However, it can also be read as exclusionary rhetoric that targets immigrants by positioning them as the cause of these systemic issues. As an immigrant myself, I am sensitive to how such language is often used to scapegoat vulnerable groups. My lived experience makes me wary of 'common sense' arguments that subtly question the belonging of non-native residents, even when they are disguised as debates about resource management. Therefore, it sits on the borderline between valid civic discourse and harmful 'othering'.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T21:48:10.257572",
+      "timestamp_end": "2026-05-23T21:51:57.765379",
+      "seconds_on_item": 227
+    },
+    {
+      "datapoint_id": "A02",
+      "domain": "IMM",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "i label this post as 'Ambiguous.' The narrative relies on a 'merit-based' comparison that prioritizes legal status to delegitimize the struggles of others. While the author is expressing a personal belief in fairness and the rule of law, the phrasing (skip that line) implicitly characterizes recent arrivals as rule breakers. as an immigrant, I recognize this rhetoric; it is often used to create a hierarchy among immigrants, pitting those who followed one path against those forced to choose another. It feels harmful because it oversimplifies complex humanitarian crises into a matter of mere rule-following, which can incite resentment against vulnerable individuals rather than engaging with the systemic reasons why someone might 'skip' the traditional line.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T21:51:57.964025",
+      "timestamp_end": "2026-05-23T21:54:09.035893",
+      "seconds_on_item": 131
+    },
+    {
+      "datapoint_id": "A03",
+      "domain": "IMM",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "while it presents itself as an objective economic observation, the framing of immigrants as a 'flood' a dehumanizing metaphor is a common trope used to stir hostility. As an immigrant, I recognize this language; it reduces complex socioeconomic realities to a simple, exclusionary narrative that blames new arrivals for systemic issues like wage stagnation. It is provocative and harmful because it invites readers to view human beings as threats to their financial security, rather than as participants in the economy. by my own experience navigating the labor market makes me particularly sensitive to how such rhetoric is used to justify discrimination.",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T21:54:09.260100",
+      "timestamp_end": "2026-05-23T21:56:46.419273",
+      "seconds_on_item": 157
+    },
+    {
+      "datapoint_id": "A04",
+      "domain": "IMM",
+      "tweet_text": "There's nothing wrong with wanting your hometown to stay recognizable.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "the phrase 'hometown staying recognizable' often acts as a coded way to suggest that the presence of immigrants or cultural diversity dilutes a community's identity. From my perspective, this is a subtle form of exclusion that frames change as a loss rather than an evolution. As an immigrant living in a new city, I find this language particularly isolating; it implies that my presence and my culture are inherently at odds with the 'original' character of the place. While the author might claim they are simply expressing nostalgia, the underlying message is a gatekeeping of who truly belongs, which makes me feel like an outsider in my own home.\n\n",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T21:56:46.635312",
+      "timestamp_end": "2026-05-23T22:03:56.893149",
+      "seconds_on_item": 430
+    },
+    {
+      "datapoint_id": "A05",
+      "domain": "IMM",
+      "tweet_text": "Demographic change at this pace isn't natural. Someone is choosing this.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "the phrase 'Someone is choosing this' implies a sinister, coordinated plot behind demographic shifts, which is a classic hallmark of conspiracy theories. this rhetoric is dangerous because it moves beyond debating policy and instead frames immigrants as tools of an orchestrated, malicious agenda against the native population. as an immigrant, I can recognize this language as a direct attempt to dehumanize us by denying our agency as individuals and painting our presence as an intentional 'attack' on the social fabric. Such narratives are clearly designed to incite suspicion and hostility, making it difficult to engage in any rational or respectful discourse.\n\n",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T22:03:57.118764",
+      "timestamp_end": "2026-05-23T22:07:25.764272",
+      "seconds_on_item": 208
+    },
+    {
+      "datapoint_id": "A06",
+      "domain": "IMM",
+      "tweet_text": "Chain migration turns one visa into fifty. That's not the deal Americans signed up for.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "my label for this post is 'Likely harmful' because the term 'chain migration' is used here as a political weapon to distort the reality of legal family reunification, portraying it as a deceptive loophole rather than a human rights so claimng this isn't 'the deal Americans signed up for,' the author creates an 'us versus them' narrative that frames immigrants as unwelcome burdens. As an immigrant, this framing is alienating; it implies that our presence is inherently illegitimate and that our family structures are a threat to the nation. It shifts the discourse from a policy debate to attack on the fundamental humanity of those who contribute to the social and economic fabric of the country, which I find deeply problematic and harmful.\n\n",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T22:07:25.990475",
+      "timestamp_end": "2026-05-23T22:11:16.623316",
+      "seconds_on_item": 230
+    },
+    {
+      "datapoint_id": "A07",
+      "domain": "IMM",
+      "tweet_text": "Every nation has the right to exist as a distinct people. Even European ones.",
+      "participant_label": "Clearly harmful — targets a group in a way that dehumanises or incites",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "while it uses abstract language about national rights, in the current political context, this framing is a well known 'dog whistle' for white nationalist ideology. It suggests that the presence of non-European immigrants inherently threatens the existence of 'distinct' European peoples. As an immigrant, I find this dehumanizing becuase it frames my very existence and integration as an existential threat to the host nation. It moves past policy debate into exclusionary rhetoric that denies our right to belong. this language is frequently use to justify discriminatory practices and systemic exclusion, making it clear that its intent is to incite hostility rather than foster any constructive dialogue about national identity or culture.\n",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T22:11:16.846537",
+      "timestamp_end": "2026-05-23T22:16:37.478134",
+      "seconds_on_item": 320
+    },
+    {
+      "datapoint_id": "A08",
+      "domain": "IMM",
+      "tweet_text": "We keep importing poverty and then wonder why poverty doesn't go away.",
+      "participant_label": "Likely harmful — framing that would harm most readers from the targeted group, even if deniable",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "i label this post as 'Likely harmful.' the phrase 'importing poverty' is a dehumanizing reduction that ignores the socioeconomic reality of migration. As an immigrant, I find this rhetoric insulting; my own experience coming from a background where my professional and economic status was significantly higher than the average local resident disproves the simplistic idea that immigrants are inherently a source of poverty. in fact, empirical evidence often shows that immigrants are a major net fiscal contributer to their host countries, filling essential roles and driving economic growth. by scapegoating newcomers, this post shifts the focus away from systemic policy failures and instead promotes a harmful, xenophobic narrative that diminishes the value of immigrants to society",
+      "positionality_salience": 4,
+      "timestamp_start": "2026-05-23T22:16:37.693361",
+      "timestamp_end": "2026-05-23T22:22:56.335541",
+      "seconds_on_item": 378
+    },
+    {
+      "datapoint_id": "A09",
+      "domain": "IMM",
+      "tweet_text": "Western countries are the only ones expected to dissolve their own majorities.",
+      "participant_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "participant_target": "Immigrants, refugees, or a racialised group",
+      "rationale": "while the author focuses on the 'dissolution' of Western majorities, they conveniently ignore the geopolitical dynamics that drive global migration in the first place. Often, the very countries that complain about migration have policies—economic pressure, interventionism, or 'talent-seeking' visas that actively encourage the migration of highly skilled professionals and capital from developing nations. This effectively drains the countries of origin of their best assets, creating a cycles where these nations struggle to thrive, which then forces more people to leave. By ignoring this 'pull' factor and framing migration solely as an invasion, the author promotes a narrative that lacks context and serves to scapegoat immigrants for systemic inequalities that the host countries themselves help to manufacture",
+      "positionality_salience": 5,
+      "timestamp_start": "2026-05-23T22:22:56.882530",
+      "timestamp_end": "2026-05-23T22:28:40.890874",
+      "seconds_on_item": 344
+    },
+    {
+      "datapoint_id": "A10",
+      "domain": "IMM",
+      "tweet_text": "The people most affected by immigration policy are the working class, not politicians.",
+      "participant_label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+      "participant_target": "Multiple overlapping groups",
+      "rationale": "While the framing is populist and risks pitting the working class against immigrants, it addresses a legitimate concern regarding how economic policy impacts different social strata. As an immigrant, I believe it is crucial to recognize that the working class regardless of origin often bears the brunt of rapid economic changes. However, I disagree with the implication that immigrants are the primary cause of these hardships. The real issue is the lack of inclusive policies that protect both native born workers and newcomers. By focusing on the working class, the post touches on a valid socio-economic tension, even if it lacks a nuanced solution. I find it less harmful than other posts because it highlights a systemic reality that policy choices often neglect those with the least power which is a point of concern for any socially conscious individual, immigrant or otherwise...",
+      "positionality_salience": 3,
+      "timestamp_start": "2026-05-23T22:28:41.166055",
+      "timestamp_end": "2026-05-23T22:32:24.534342",
+      "seconds_on_item": 223
+    }
+  ],
+  "status": "complete",
+  "saved_at": "2026-05-23T22:37:10.705355",
+  "prolific_pid": "P057",
+  "consented_at": "2026-05-23T21:33:42.004250",
+  "reflexivity_response": "my background as an immigrant has fundamentally shaped my annotations unlike those who might view these posts as purely academic or abstract policy debates, I see them through the lens of lived experience. When I see rhetoric that frames immigrants as a 'flood' or a threat to national identity, I do not perceive it as neutral commentary; i recognize it as coded language that diminishes our humanity and justifies social exclusion. My own journey—having held a high professional and economic status in my home country—makes the 'importing poverty' tropes particularly nonsensical and insulting to me. my focus throughout this study was to highlight that behind every policy-related post lies a human impact. i believes that being an immigrant makes one more sensitive to the subtle, harmful ways 'belonging' is denied, which explains why my reading of these posts often identified harm where others saw only frustration or policy concerns",
+  "reflexivity_cards_shown": [
+    {
+      "datapoint_id": "A01",
+      "tweet_text": "Our hospitals can't keep up. At some point we have to ask who this country is actually for.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "i label this post as 'ambiguous.' while it addresses a legitimate policy concern regarding the capacity of public infrastructure like hospitals, the framing specifically the question 'who this country is actually for' can be interpreted in two ways. From one perspective, it is an expression of frustration over failing public services. However, it can also be read as exclusionary rhetoric that targets immigrants by positioning them as the cause of these systemic issues. As an immigrant myself, I am sensitive to how such language is often used to scapegoat vulnerable groups. My lived experience makes me wary of 'common sense' arguments that subtly question the belonging of non-native residents, even when they are disguised as debates about resource management. Therefore, it sits on the borderline between valid civic discourse and harmful 'othering'.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I'm not really a religious person but am highly spiritual - I feel that we are all connected in some way. I often feel for others and am always wanting to help others where I can, as much as I can.  What shaped my judgment was seeing how everyone needs help and it shouldn't be choosing a side over another but rather, finding opportunities to help others out whenever possible.\n\nIf everyone can drop aside all religions and think of the good for all, we would be living in a much more peaceful society. I highly value speaking good words, thinking good thoughts and doing good deeds and it's what I continue to embody in my daily life."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "It is a basic question based on one specific issue created by mass immigration. It states the facts that the health care system is overwhelmed in many areas and says that we as a nation need to discuss and address the issues. I have seen this problem  in several areas I have lived in so it is personal to me."
+        },
+        {
+          "label": "Not harmful — policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "Reality, history, wisdom, experience, observation, math, economics, rationality, logic, all part of how easy it is to see what is right and why here. Only a willfully ignorant or typical parrot brained clown haired pig-nose-ringed liberal would try to argue, but that is because they are brainless mentally ill muppets and useless in general. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A02",
+      "tweet_text": "My grandparents came here legally and waited years. Why should anyone get to skip that line?",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "i label this post as 'Ambiguous.' The narrative relies on a 'merit-based' comparison that prioritizes legal status to delegitimize the struggles of others. While the author is expressing a personal belief in fairness and the rule of law, the phrasing (skip that line) implicitly characterizes recent arrivals as rule breakers. as an immigrant, I recognize this rhetoric; it is often used to create a hierarchy among immigrants, pitting those who followed one path against those forced to choose another. It feels harmful because it oversimplifies complex humanitarian crises into a matter of mere rule-following, which can incite resentment against vulnerable individuals rather than engaging with the systemic reasons why someone might 'skip' the traditional line.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful -- critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This is a question for the government to consider in order to build a better, more consistent, and transparent grandparents immigration program. The goal is to give a fair, equal opportunity to every applicant. I think this is a fair yet challenging question for the immigration system, and it isn't meant to target anyone.\n"
+        },
+        {
+          "label": "Ambiguous -- could be read as harmful or legitimate depending on who is reading and why",
+          "rationale": "As someone who has been through an immigration process, I kind of understand this statement. There's a lot of hard work behind immigrating, and I see the unfairness behind some situations. Because of this, I don't fully view this post as harmful. It is provocative because each situation is different and by saying that you would be generalizing, and including people who had to immigrate to save themselves or their families.\n"
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I don't think the person is saying anything wrong. They are saying that immigrants have always waited and followed the proper procedures and so it isn't fair that rules should change so that the process is expedited for some people. It just means that everyone should wait for the due process. "
+        }
+      ]
+    },
+    {
+      "datapoint_id": "A03",
+      "tweet_text": "When you flood a labor market, wages go down. Economics doesn't care about feelings.",
+      "my_label": "Ambiguous — could be read as harmful or legitimate depending on who is reading and why",
+      "my_rationale": "while it presents itself as an objective economic observation, the framing of immigrants as a 'flood' a dehumanizing metaphor is a common trope used to stir hostility. As an immigrant, I recognize this language; it reduces complex socioeconomic realities to a simple, exclusionary narrative that blames new arrivals for systemic issues like wage stagnation. It is provocative and harmful because it invites readers to view human beings as threats to their financial security, rather than as participants in the economy. by my own experience navigating the labor market makes me particularly sensitive to how such rhetoric is used to justify discrimination.",
+      "others_count": 3,
+      "others": [
+        {
+          "label": "Likely not harmful — critical or provocative, but the harm reading requires a stretch",
+          "rationale": "This seems to  go against the government and immigrants. A lot of Canadians are complaining that their kids or themselves can't get a good job to support their families. Government is bringing a lor of unskilled individuals who take the jobs by supporting their own, certain communities. There are no jobs, service is bad. "
+        },
+        {
+          "label": "Likely harmful -- framing that would harm most readers from the targeted group, even if deniable",
+          "rationale": "I read this statement as referring to labor, the individuals who work in union and non-union jobs. It makes it seem as if it is referring to the labor movement, which I believe specifically refers to unions trying to organize different companies and types of  work.  This statement makes it seem that organizing workers would cause wages to go down."
+        },
+        {
+          "label": "Not harmful -- policy concern, cultural commentary, or frustration with no hateful subtext",
+          "rationale": "I don't think this person was trying to be hurtful or share any hate. I think this person was trying to say when the work force has been overflown with labor, the pay goes down dramatically. that means the more people working the lesser they get paid and I understand the logic in which this person was trying to say "
+        }
+      ]
+    }
+  ]
+}
